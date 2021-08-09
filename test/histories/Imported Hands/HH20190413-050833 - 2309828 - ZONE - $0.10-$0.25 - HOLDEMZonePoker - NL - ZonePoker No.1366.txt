@@ -1,0 +1,90 @@
+Bovada Hand #3759929342  Zone Poker ID#1366 HOLDEMZonePoker No Limit - 2019-04-13 05:08:36
+Seat 1: UTG+1 ($88.07 in chips)
+Seat 2: UTG+2 ($11.61 in chips)
+Seat 3: Dealer ($11.54 in chips)
+Seat 4: Small Blind ($24.45 in chips)
+Seat 5: Big Blind [ME] ($25 in chips)
+Seat 6: UTG ($20.03 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [6s Ks] 
+UTG+2 : Card dealt to a spot [8d 6c] 
+Dealer : Card dealt to a spot [9d 2h] 
+Small Blind : Card dealt to a spot [Qc 8c] 
+Big Blind  [ME] : Card dealt to a spot [4c 4s] 
+UTG : Card dealt to a spot [Qs 7d] 
+UTG+1 : Leave(Auto)
+Dealer : Leave(Auto)
+UTG : Folds
+UTG : Leave(Auto)
+UTG+1 : Folds
+UTG+2 : Folds
+UTG+2 : Leave(Auto)
+Dealer : Folds
+Small Blind : Folds
+Small Blind : Leave(Auto)
+Big Blind  [ME] : Does not show [4c 4s] (High Card)
+Big Blind  [ME] : Hand result $0.35 
+Big Blind  [ME] : Leave(Auto)
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+*** SUMMARY ***
+
+
+Bovada Hand #3759929392  Zone Poker ID#1366 HOLDEMZonePoker No Limit - 2019-04-13 05:08:52
+Seat 1: Small Blind ($11.96 in chips)
+Seat 2: Big Blind ($37.48 in chips)
+Seat 3: UTG ($29.28 in chips)
+Seat 4: UTG+1 [ME] ($25.10 in chips)
+Seat 5: UTG+2 ($58.23 in chips)
+Seat 6: Dealer ($26.85 in chips)
+Dealer : Set dealer [6] 
+Small Blind : Small Blind $0.10 
+Big Blind : Big blind $0.25 
+*** HOLE CARDS ***
+Small Blind : Card dealt to a spot [7c Qh] 
+Big Blind : Card dealt to a spot [9h Kh] 
+UTG : Card dealt to a spot [5d Ts] 
+UTG+1  [ME] : Card dealt to a spot [Jd Kc] 
+UTG+2 : Card dealt to a spot [8c Ah] 
+Dealer : Card dealt to a spot [2d As] 
+Small Blind : Leave(Auto)
+UTG : Folds
+UTG : Leave(Auto)
+UTG+2 : Leave(Auto)
+Dealer : Leave(Auto)
+UTG+1  [ME] : Raises $0.65 to $0.65
+UTG+2 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind : Calls $0.40 
+*** FLOP *** [8s Ac Js]
+Big Blind : Checks
+UTG+1  [ME] : Checks
+*** TURN *** [8s Ac Js] [Ad]
+Big Blind : Checks
+UTG+1  [ME] : Checks
+*** RIVER *** [8s Ac Js Ad] [6h]
+Big Blind : Checks
+UTG+1  [ME] : Bets $0.75 
+Big Blind : Folds
+Big Blind : Leave(Auto)
+UTG+1  [ME] : Return uncalled portion of bet $0.75 
+UTG+1  [ME] : Does not show [Jd Kc] (Two pair)
+UTG+1  [ME] : Hand result $1.33 
+UTG+1  [ME] : Seat sit out
+UTG+1  [ME] : Leave(Auto)
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+*** SUMMARY ***
+

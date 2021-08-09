@@ -1,0 +1,48 @@
+Bovada Hand #3755461679  Zone Poker ID#1366 HOLDEMZonePoker No Limit - 2019-04-03 04:31:36
+Seat 1: UTG+1 ($43.08 in chips)
+Seat 2: UTG+2 ($7.16 in chips)
+Seat 3: Dealer ($74.13 in chips)
+Seat 4: Small Blind ($24.67 in chips)
+Seat 5: Big Blind [ME] ($25 in chips)
+Seat 6: UTG ($16.71 in chips)
+Dealer : Set dealer [3] 
+Small Blind : Small Blind $0.10 
+Big Blind  [ME] : Big blind $0.25 
+*** HOLE CARDS ***
+UTG+1 : Card dealt to a spot [Tc 4d] 
+UTG+2 : Card dealt to a spot [Ts Qd] 
+Dealer : Card dealt to a spot [6s Kc] 
+Small Blind : Card dealt to a spot [8h Jh] 
+Big Blind  [ME] : Card dealt to a spot [4c 5s] 
+UTG : Card dealt to a spot [Th Qc] 
+Dealer : Leave(Auto)
+UTG+1 : Leave(Auto)
+UTG : Folds
+UTG : Leave(Auto)
+UTG+1 : Folds
+UTG+2 : Raises $0.75 to $0.75
+Dealer : Folds
+Small Blind : Folds
+Small Blind : Leave(Auto)
+Big Blind  [ME] : Folds
+UTG+2 : Return uncalled portion of bet $0.50 
+UTG+2 : Does not show [Ts Qd] (High Card)
+UTG+2 : Hand result $0.60 
+Big Blind  [ME] : Seat stand
+Big Blind  [ME] : Table leave user
+UTG+2 : Leave(Auto)
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+*** SUMMARY ***
+Total Pot($0.60)
+Seat+1: UTG+1 lost with High Card [Tc 4d]  
+Seat+2: UTG+2 $0.60 [Does not show]  
+Seat+3: Dealer lost with High Card [6s Kc]  
+Seat+4: Small Blind Folded before the RIVER
+Seat+5: Big Blind Folded before the RIVER
+Seat+6: UTG Folded before the RIVER
+

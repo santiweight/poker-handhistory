@@ -1,0 +1,6 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: poker-handhistory:lib
+    - path: "./test"
+      component: poker-handhistory:test:all-tests

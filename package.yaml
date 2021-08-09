@@ -1,0 +1,78 @@
+name:                poker-handhistory
+version:             0.1.0.0
+github:              "githubuser/poker-handhistory"
+license:             BSD3
+author:              "Author name here"
+maintainer:          "example@example.com"
+copyright:           "2021 Author name here"
+
+extra-source-files:
+- README.md
+- ChangeLog.md
+
+# Metadata used when publishing your package
+# synopsis:            Short description of your package
+# category:            Web
+
+# To avoid duplicated efforts in documentation and dealing with the
+# complications of embedding Haddock markup inside cabal files, it is
+# common to point users to the README.md file.
+description:         Please see the README on GitHub at <https://github.com/githubuser/poker-handhistory#readme>
+
+library:
+  source-dirs: src
+
+dependencies:
+  - base >= 4.7 && < 5
+  - containers
+  - directory
+  - extra
+  - filepath
+  - megaparsec
+  - poker-base
+  - text
+  - time
+
+tests:
+  all-tests:
+    main:                Driver.hs
+    source-dirs:         test
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    - -Wall
+    dependencies:
+    - poker-handhistory
+    - regex-base
+    - regex-posix
+    - tasty
+    - tasty-hspec
+    - tasty-hunit
+    - hspec
+
+default-extensions:
+- ConstraintKinds
+- DataKinds
+- DeriveDataTypeable
+- DeriveFunctor
+- DeriveGeneric
+- DeriveTraversable
+- EmptyCase
+- FlexibleContexts
+- GADTs
+- LambdaCase
+- LiberalTypeSynonyms
+- PartialTypeSignatures
+- PatternSynonyms
+- PackageImports
+- PolyKinds
+- RankNTypes
+- ScopedTypeVariables
+- StandaloneDeriving
+- TypeApplications
+- TypeOperators
+- TypeFamilies
+- UnicodeSyntax
+- ViewPatterns
+- TemplateHaskell

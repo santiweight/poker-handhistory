@@ -1,6 +1,6 @@
 cradle:
-  stack:
+  cabal:
     - path: "./src"
-      component: poker-handhistory:lib
+      component: lib:poker-handhistory
     - path: "./test"
-      component: poker-handhistory:test:all-tests
+      component: test:all-tests

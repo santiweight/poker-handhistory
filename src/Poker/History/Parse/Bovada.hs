@@ -5,41 +5,28 @@ module Poker.History.Parse.Bovada where
 
 -- import Control.Concurrent.Async
 import           Control.Monad
-import           Data.Bifunctor
-import           Data.Data                      ( Proxy )
-import           Data.Function
+import           Data.Foldable                  ( Foldable(toList) )
 import           Data.Functor
-import           Data.Functor.Identity
-import           Data.List                      ( isSuffixOf )
 import           Data.Map                       ( Map )
 import qualified Data.Map                      as M
-import           Data.Maybe                     ( catMaybes
-                                                , fromJust
+import qualified Data.Map.Strict               as Map
+import           Data.Maybe                     ( fromJust
                                                 , fromMaybe
                                                 )
 import           Data.Text                      ( Text )
-import qualified Data.Text                     as T
 -- import Data.Scientific
 import           Data.Time.Calendar             ( fromGregorian )
 import           Data.Time.LocalTime            ( LocalTime(..)
                                                 , TimeOfDay(..)
                                                 )
-import           Data.Void
-import           Debug.Trace
-import           GHC.TypeLits                   ( Symbol )
-import           Poker.Base              hiding ( empty )
+import           Poker.Base
 import           Poker.History.Parse.Base
 import           Poker.History.Types
-import           Poker.ParsePretty
 -- import System.Directory (doesDirectoryExist, listDirectory)
 -- import System.FilePath.Posix ((</>))
 import           Text.Megaparsec
 import           Text.Megaparsec.Char
-import qualified Text.Megaparsec.Char.Lexer    as L
-import           Text.Megaparsec.Char.Lexer     ( decimal
-                                                , symbol
-                                                )
-import qualified Data.Map.Strict as Map
+import           Text.Megaparsec.Char.Lexer     ( decimal )
 
 -- currecny matches a currency symbol
 -- TODO make currency a Parser Currency
@@ -83,7 +70,7 @@ amountP = lexeme
 pPosition :: Parser (Position, IsHero)
 pPosition = do
   p      <- lexeme positionString
-  isHero <- option Villain $ spaceWrap (string "[ME]") $> Hero
+  isHero <- option Villain $ lexeme (string "[ME]") $> Hero
   return (p, isHero)
  where
   positionString =
@@ -117,12 +104,12 @@ handHeaderP = do
     lexeme
         (choice [Bovada <$ string "Bovada", PokerStars <$ string "PokerStars"])
       <?> "Network"
-  string "Hand #"
+  string_ "Hand #"
   handID_ <- integer <?> "Hand Number"
   zoneMay <- lexeme . optional $ Zone <$ string "Zone Poker"
   _       <- lexeme . optional $ string "ID#" *> integer
   _       <- lexeme . optional $ string "TBL#" *> integer
-  lexeme $ string "HOLDEM" *> optional (string "ZonePoker") <* string
+  lexeme_ $ string "HOLDEM" *> optional (string "ZonePoker") <* string
     " No Limit -"
   (year_, month_, day_) <-
     lexeme
@@ -181,22 +168,23 @@ pActionValue =
 
 -- pDealer matches dealer announcements and exhibits how awful Bovada's format is
 pDealer :: Parser ()
-pDealer = lexeme_ $ do
-  string "Dealer " >> optional (string " [ME] ")
-  pSetDealer >> inBrackets integer
-  where pSetDealer = string ": Set dealer " <|> string ": Set deale  r "
+pDealer = try . lexeme_ $ do
+  pSetDealerPosition <|> lexeme (string_ "Set dealer")
+ where
+  pSetDealerPosition = do
+    void $ string "Dealer " >> optional (string " [ME] ")
+    void $ pSetDealerTxt >> inBrackets integer
+  pSetDealerTxt = string ": Set dealer " <|> string ": Set deale  r "
 
 -- ignore small blind declaration
 pSmallBlind :: Parser (Maybe (TableAction SomeBetSize))
-pSmallBlind =
-  label "Small blind post"
-    $ optional
-    $ (   do
-        string "Small Blind " >> optional (string " [ME] ")
-        string ": Small Blind " >> mkSBPost <$> amountP
-      <|> do
-            pDealer_ >> string "Small Blind " >> mkSBPost <$> amountP
-      )
+pSmallBlind = label "Small blind post" $ optional
+  (   do
+    void $ lexeme (string "Small Blind" <|> string "Dealer") >> optional (string "[ME] ")
+    string ": Small Blind " >> mkSBPost <$> amountP
+  <|> do
+        pDealer_ >> string "Small Blind " >> mkSBPost <$> amountP
+  )
  where
   pDealer_ = string "Dealer " >> optional (string " [ME] ") >> string ": "
   mkSBPost = TableAction SB . Post
@@ -204,8 +192,8 @@ pSmallBlind =
 -- parse big blind size
 pBigBlind :: Parser (TableAction SomeBetSize, SomeBetSize)
 pBigBlind = label "Big blind post" $ do
-  string "Big Blind " >> optional (string " [ME] ")
-  string ": Big blind "
+  void $ string "Big Blind " >> optional (string " [ME] ")
+  string_ ": Big blind "
   bb <- amountP
   return (mkBBPost bb, bb)
   where mkBBPost = TableAction BB . Post
@@ -213,16 +201,16 @@ pBigBlind = label "Big blind post" $ do
 pFlop :: Parser (Action t)
 pFlop = do
   pFlopHeading
-  cs@[c1, c2, c3] <- lexeme $ inBrackets (countCard 3)
+  [c1, c2, c3] <- lexeme $ inBrackets (countCard 3)
   pure . MkDealerAction $ FlopDeal (c1, c2, c3)
-  where pFlopHeading = string "*** FLOP *** "
+  where pFlopHeading = string_ "*** FLOP *** "
 
 pTurnHeading :: Parser ()
 pTurnHeading = lexeme $ string_ "*** TURN *** "
 
 turnStreetP :: Parser (Action t)
 turnStreetP = do
-  lexeme pTurnHeading >> lexeme (inBrackets manyCardsP)
+  lexeme pTurnHeading >> lexeme_ (inBrackets manyCardsP)
   MkDealerAction . TurnDeal <$> lexeme (inBrackets pCard)
 
 pRiverHeading :: Parser ()
@@ -231,29 +219,28 @@ pRiverHeading = string_ "*** RIVER *** " <?> "River deal"
 riverStreetP :: Parser (Action t) --Action
 riverStreetP = do
   pRiverHeading
-  inBrackets manyCardsP
+  void $ inBrackets manyCardsP
   dealtcard <- spaceWrap (inBrackets pCard)
-  eol
+  void eol
   return . MkDealerAction $ RiverDeal dealtcard
 
 pHoldingsMap :: Parser (DealerAction, Map Position Hand)
 pHoldingsMap = label "Card deal" $ do
-  deal       <- holeCardsHeadingP
+  holeCardsHeadingP
   holdingMap <- M.fromList <$> many (try $ lexeme pDeal)
   return (PlayerDeal, holdingMap)
  where
   pDeal = do
     (p, _) <- pPosition
-    string ": Card dealt to a spot "
+    string_ ": Card dealt to a spot "
     h <- inBrackets $ liftM2 unsafeMkHand (lexeme pCard) pCard
     pure (p, h)
-  holeCardsHeadingP = string "*** HOLE CARDS ***" >> eol
-  firstTwo (a, b, _) = (a, b)
+  holeCardsHeadingP = lexeme_ $ string "*** HOLE CARDS ***"
 
 pHolding :: Parser (Position, Hand, IsHero)
 pHolding = lexeme $ do
   (pos', isHero') <- pPosition
-  spaceWrap colon *> string "Card dealt to a spot "
+  spaceWrap colon *> string_ "Card dealt to a spot "
   [c1, c2] <- inBrackets manyCardsP
   return (pos', fromJust $ mkHand c1 c2, isHero')
 
@@ -273,7 +260,7 @@ potP = string "Total Pot" *> inParens amountP
 -- pSeatSumm takes
 pSeatSumm :: Parser (TableAction t) -- TableAction
 pSeatSumm = do
-  string "Seat+" >> integer >> string ": "
+  string "Seat+" >> integer >> string_ ": "
   pPosition >> many printChar $> UnknownAction
 
 -- pBoard takes the input 'Board [Cards]' and gives the contained cards
@@ -298,33 +285,23 @@ pTableAction =
             [ pDeposit
             , pSitDown
             , pSitOut
-            , pPostDead
-            , pPost
             , pMuck
             , pResult
             , pLeave
             , pRejoin
             , pEnter
             , pReturnUncalled
-            , pTableDeposit
+            , Deposit <$> pTableDeposit
             ]
           return $ TableAction pos tableActionVal
     <|> try pSimpleUnknown
-    <|> try pComplexUnknown
+    <|> try (UnknownAction <$ pTableDeposit)
  where
-  pSimpleUnknown = choice $ fmap
-    ((<$) UnknownAction . string)
-    [ "Enter(Auto)"
-    , "Seat re-join"
-    , "Seat sit out"
-    , "Seat sit down"
-    , "Table leave user"
-    , "Table enter user"
-    , "Seat stand"
-    , "Leave(Auto)"
-    ]
-  pComplexUnknown =
-    choice . fmap (UnknownAction <$) $ [string "Table deposit " >> amountP]
+  pSimpleUnknown =
+    (UnknownAction <$ pTableLeaveOrEnter)
+      <|> (UnknownAction <$ pSeatUpdate)
+      <|> choice
+            (fmap ((<$) UnknownAction . string) ["Enter(Auto)", "Leave(Auto)"])
   pReturnUncalled =
     Return <$> (string "Return uncalled portion of bet " >> amountP)
   pResult =
@@ -344,13 +321,23 @@ pTableAction =
     (<$) Leave . choice . fmap string $ ["Leave(Auto)", "Table leave user"]
   pEnter =
     (<$) Enter . choice . fmap string $ ["Enter(Auto)", "Table enter user"]
-  pTableDeposit = Deposit <$> (string "Table deposit " >> amountP)
-  pRejoin       = Rejoin <$ string "Seat re-join"
-  pDeposit      = Deposit <$> (string "Table deposit " *> amountP)
-  pSitDown      = SitDown <$ string "Seat sit down"
-  pSitOut       = SitOut <$ string "Seat sit out"
-  pPostDead     = PostDead <$> (string "Posts dead chip " >> amountP)
-  pPost = Post <$> ((string "Posts chip " <|> string "Posts ") *> amountP)
+  pRejoin  = Rejoin <$ string "Seat re-join"
+  pDeposit = Deposit <$> (string "Table deposit " *> amountP)
+  pSitDown = SitDown <$ string "Seat sit down"
+  pSitOut  = SitOut <$ string "Seat sit out"
+
+pTableLeaveOrEnter :: Parser ()
+pTableLeaveOrEnter =
+  lexeme_ . choice . fmap string $ ["Table leave user", "Table enter user"]
+
+pPost :: Parser (TableAction SomeBetSize)
+pPost = do
+  (p, _)      <- lexeme pPosition <* lexeme colon
+  tableActVal <- choice
+    [ PostDead <$> (string "Posts dead chip " >> amountP)
+    , Post <$> ((string "Posts chip " <|> string "Posts ") *> amountP)
+    ]
+  pure $ TableAction p tableActVal
 
 -- pAction parses a simple player action
 pAction :: Parser (Action SomeBetSize)
@@ -365,8 +352,11 @@ pAction =
     <|> MkTableAction
     <$> try pTableAction
 
+pStacks :: Parser [(Int, Position, SomeBetSize, IsHero)]
 pStacks = some pStack
 
+getPlayers
+  :: [(Int, Position, t, d)] -> Map Position Hand -> Map Seat (Player t)
 getPlayers stacks holdings =
   let players = M.fromList $ do
         (seat_, pos_, stack_, _) <- stacks
@@ -384,12 +374,14 @@ street :: Parser (Action SomeBetSize) -> Parser [Action SomeBetSize]
 street streetHeader = lexeme $ liftM2 (:) streetHeader (many $ try pAction)
 
 
+getSeatMap :: Map k (Player t) -> Map Position Seat
 getSeatMap players =
   let func player seatMap' = case _playerPosition player of
         Nothing  -> seatMap'
         Just pos -> M.insert pos (_seat player) seatMap'
-  in M.foldr func Map.empty players
+  in  M.foldr func Map.empty players
 
+streets :: Parser [Action SomeBetSize]
 streets = do
   preflopAs  <- some pAction <?> "Preflop"
   postFlopAs <- option [] $ do
@@ -401,39 +393,64 @@ streets = do
     pure $ flopAs <> turnAndRiverAs
   pure $ preflopAs <> postFlopAs
 
+pSeatUpdate :: Parser ()
+pSeatUpdate =
+    lexeme_
+    . choice
+    . fmap string
+    $ ["Seat re-join", "Seat sit out", "Seat sit down", "Seat stand"]
+
+pTableDeposit :: Parser SomeBetSize
+pTableDeposit = string "Table deposit " >> amountP
+
+pTableOrSeatLines :: Parser ()
+pTableOrSeatLines = do
+  void . many $ choice
+    [ try . void $ maybePositioned pTableDeposit
+    , try $ maybePositioned pSeatUpdate
+    , try $ maybePositioned pTableLeaveOrEnter
+    ]
+
+maybePositioned :: Parser b -> Parser b
+maybePositioned = (optional (pPosition >> colon) >>)
+
 -- handP is the primary hand parser that matches a hand
 pHand :: Parser (History SomeBetSize) -- Hand
 pHand = do
   handHeader <- handHeaderP
   stacks     <- pStacks
-  pDealer
-  sbActMay                <- pSmallBlind
-  (bbAct      , bb      ) <- pBigBlind
+  void $ optional pDealer
+  pTableOrSeatLines
+  sbActMay <- pSmallBlind
+  pTableOrSeatLines
+  (bbAct, bb) <- pBigBlind
+  pTableOrSeatLines
+  postAs                   <- many . try $ pPost
   -- TODO parse posts
   (preFlopDeal, holdings) <- pHoldingsMap
-  postFlopAs <- streets
+  postFlopAs              <- streets
   pSummary
   -- TODO parse summary
-  many (try $ notFollowedBy (lookAhead (eol >> eol)) >> anySingle)
+  _ <- many (try $ notFollowedBy (lookAhead (eol >> eol)) >> anySingle)
   let restAs = postFlopAs
-  let allActions = case sbActMay of
-        Nothing -> MkTableAction bbAct : MkDealerAction preFlopDeal : restAs
-        Just sbAct ->
-          MkTableAction sbAct
-            : MkTableAction bbAct
-            : MkDealerAction preFlopDeal
-            : restAs
-  let players  = getPlayers stacks holdings
+  let allAs = concat
+        [ toList $ MkTableAction <$> sbActMay
+        , [MkTableAction bbAct]
+        , MkTableAction <$> postAs
+        , [MkDealerAction preFlopDeal]
+        , restAs
+        ]
+  let players = getPlayers stacks holdings
   pure $! History { _handTime      = _headerTime handHeader
-                 , _handID        = _headerHandID handHeader
-                 , _handTy        = _headerHandTy handHeader
-                 , _handNetwork   = Bovada
-                 , _handStakes    = Stake bb
-                 , _handActions   = allActions
-                 , _handPlayerMap = players
-                 , _handSeatMap   = getSeatMap players
-                 , _handText      = ""
-                 }
+                  , _handID        = _headerHandID handHeader
+                  , _handTy        = _headerHandTy handHeader
+                  , _handNetwork   = Bovada
+                  , _handStakes    = Stake bb
+                  , _handActions   = allAs
+                  , _handPlayerMap = players
+                  , _handSeatMap   = getSeatMap players
+                  , _handText      = ""
+                  }
 
 -- handsP is the the highest level parser
 pHands :: Parser [History SomeBetSize]

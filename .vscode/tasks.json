@@ -34,8 +34,7 @@
       },
       "type": "shell",
       "label": "haskell test",
-      //"command": "cabal test"
-      "command": "stack test"
+      "command": "cabal test"
     },
     {
       // F6

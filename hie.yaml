@@ -3,4 +3,4 @@ cradle:
     - path: "./src"
       component: lib:poker-handhistory
     - path: "./test"
-      component: test:all-tests
+      component: all-tests

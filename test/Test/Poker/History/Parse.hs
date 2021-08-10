@@ -1,21 +1,13 @@
 {-# LANGUAGE ViewPatterns #-}
+{-# OPTIONS_GHC -Wno-unticked-promoted-constructors #-}
 
 module Test.Poker.History.Parse where
 
-import           Control.Monad                  ( (<=<)
-                                                , join
-                                                , void
-                                                )
-import           Data.Either                    ( fromRight )
-import           Data.Either.Extra              ( eitherToMaybe )
 import           Data.Functor                   ( (<&>) )
-import           Data.Maybe                     ( fromMaybe )
 import           Data.Text                      ( Text )
 import qualified Data.Text                     as T
 import qualified Data.Text.IO                  as T
 import           Data.Void                      ( Void )
-import           Poker.Base
-import           Poker.History.Parse.Base
 import           Poker.History.Parse.Bovada
 import           Poker.History.Types
 import           System.Directory               ( getCurrentDirectory
@@ -30,7 +22,6 @@ import           Text.Megaparsec                ( ParseErrorBundle
                                                 , parse
                                                 )
 import           Text.Regex.Posix
--- import Test.Tasty.HUnit (assertBool)
 
 testHandsPaths :: IO [FilePath]
 testHandsPaths = do
@@ -42,20 +33,17 @@ importedHandsPathsIO = do
   testDir <- (</> "test/histories/Imported Hands") <$> getCurrentDirectory
   listDirectory testDir <&> fmap (testDir </>)
 
--- testHands :: IO [History SomeBetSize]
--- testHands = concat <$> (testHandsPaths >>= mapM _testFilePath)
-
-_testFilePath :: FilePath -> IO [History SomeBetSize]
+_testFilePath :: FilePath -> IO [History Bovada SomeBetSize]
 _testFilePath fp = either (error . errorBundlePretty) id <$> parseFile fp
 
 parseFile
-  :: FilePath -> IO (Either (ParseErrorBundle Text Void) [History SomeBetSize])
+  :: FilePath -> IO (Either (ParseErrorBundle Text Void) [History Bovada SomeBetSize])
 parseFile f = do
   file <- T.readFile f
   return . parseString $ file
 
 parseString
-  :: Text -> Either (ParseErrorBundle Text Void) [History SomeBetSize]
+  :: Text -> Either (ParseErrorBundle Text Void) [History Bovada SomeBetSize]
 parseString = parse pHands []
 
 -- unit_allHands = mapM_ testParseHands =<< testHandsPaths
@@ -82,13 +70,3 @@ testParseHands fp = do
   let res              = parseString $ T.pack handFileContents
   let hs               = either (error . errorBundlePretty) id res
   assertEqual "expect all hands parsed" (length hs) (numHandsExpected + 1)
-  -- numHandsFound <- (length $!) <$> testHands
-  -- assertHandsParsed numHandsExpected numHandsFound
- where
-  assertHandsParsed ((+1)-> exp) found =
-    let message =
-          "could not parse every hand: Expected "
-            ++ show exp
-            ++ " but found "
-            ++ show found
-    in  assertBool message (exp == found)

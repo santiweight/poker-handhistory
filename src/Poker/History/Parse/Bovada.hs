@@ -1,9 +1,8 @@
--- {-# OPTIONS_GHC -fno-warn-unused-do-bind #-}
 {-# LANGUAGE OverloadedStrings #-}
+{-# OPTIONS_GHC -Wno-unticked-promoted-constructors #-}
 
 module Poker.History.Parse.Bovada where
 
--- import Control.Concurrent.Async
 import           Control.Monad
 import           Data.Foldable                  ( Foldable(toList) )
 import           Data.Functor
@@ -14,7 +13,6 @@ import           Data.Maybe                     ( fromJust
                                                 , fromMaybe
                                                 )
 import           Data.Text                      ( Text )
--- import Data.Scientific
 import           Data.Time.Calendar             ( fromGregorian )
 import           Data.Time.LocalTime            ( LocalTime(..)
                                                 , TimeOfDay(..)
@@ -22,8 +20,7 @@ import           Data.Time.LocalTime            ( LocalTime(..)
 import           Poker.Base
 import           Poker.History.Parse.Base
 import           Poker.History.Types
--- import System.Directory (doesDirectoryExist, listDirectory)
--- import System.FilePath.Posix ((</>))
+import           Prelude                 hiding ( id )
 import           Text.Megaparsec
 import           Text.Megaparsec.Char
 import           Text.Megaparsec.Char.Lexer     ( decimal )
@@ -69,9 +66,9 @@ amountP = lexeme
 -- parses a Position type
 pPosition :: Parser (Position, IsHero)
 pPosition = do
-  p      <- lexeme positionString
-  isHero <- option Villain $ lexeme (string "[ME]") $> Hero
-  return (p, isHero)
+  p    <- lexeme positionString
+  hero <- option Villain $ lexeme (string "[ME]") $> Hero
+  return (p, hero)
  where
   positionString =
     choice
@@ -84,23 +81,15 @@ pPosition = do
         ]
       <?> "expected Position"
 
-data HandHeader = HandHeader
-  { _headerHandID  :: Int
-  , _headerNetwork :: Network
-  , _headerHandTy  :: GameType
-  , _headerTime    :: LocalTime
-  }
-  deriving Show
-
 -- TODO make this return a more complex datatype HandHeader
 -- TODO accept multiple hand header types
 -- TODO match specific network based on header
 -- TODO find out if it's yyyy/mm/dd or yyyy/dd/mm
 -- TODO figure out time format
 -- TODO match different game types eg PLO
-handHeaderP :: Parser HandHeader
+handHeaderP :: Parser (Header Bovada)
 handHeaderP = do
-  handNetwork_ <-
+  _handNetwork <-
     lexeme
         (choice [Bovada <$ string "Bovada", PokerStars <$ string "PokerStars"])
       <?> "Network"
@@ -111,26 +100,18 @@ handHeaderP = do
   _       <- lexeme . optional $ string "TBL#" *> integer
   lexeme_ $ string "HOLDEM" *> optional (string "ZonePoker") <* string
     " No Limit -"
-  (year_, month_, day_) <-
-    lexeme
-    $   (,,)
-    <$> (integer <* char '-')
-    <*> (integer <* char '-')
-    <*> integer
-  (hour_, minute_, second_) <-
-    lexeme
-    $   (,,)
-    <$> (integer <* char ':')
-    <*> (integer <* char ':')
-    <*> integer
+  (year_, month_, day_) <- lexeme
+    $ liftM3 (,,) (integer <* char '-') (integer <* char '-') integer
+  (hour_, minute_, second_) <- lexeme
+    $ liftM3 (,,) (integer <* char ':') (integer <* char ':') integer
   let day       = fromGregorian (fromIntegral year_) month_ day_
   let timeOfDay = TimeOfDay hour_ minute_ (fromIntegral second_)
   let localTime = LocalTime day timeOfDay
-  return HandHeader { _headerHandID  = handID_
-                    , _headerHandTy  = fromMaybe Cash zoneMay
-                    , _headerNetwork = handNetwork_
-                    , _headerTime    = localTime
-                    }
+  return Header { gameId       = handID_
+                , gameTy   = fromMaybe Cash zoneMay
+                , sNetwork = SBovada -- TODO
+                , time     = localTime
+                }
 
 pActionValue :: Parser (BetAction SomeBetSize)
 pActionValue =
@@ -172,27 +153,22 @@ pDealer = try . lexeme_ $ do
   pSetDealerPosition <|> lexeme (string_ "Set dealer")
  where
   pSetDealerPosition = do
-    void $ string "Dealer " >> optional (string " [ME] ")
+    string "Dealer " >> optional_ (string " [ME] ")
     void $ pSetDealerTxt >> inBrackets integer
   pSetDealerTxt = string ": Set dealer " <|> string ": Set deale  r "
 
--- ignore small blind declaration
 pSmallBlind :: Parser (Maybe (TableAction SomeBetSize))
-pSmallBlind = label "Small blind post" $ optional
-  (   do
-    void $ lexeme (string "Small Blind" <|> string "Dealer") >> optional (string "[ME] ")
-    string ": Small Blind " >> mkSBPost <$> amountP
-  <|> do
-        pDealer_ >> string "Small Blind " >> mkSBPost <$> amountP
-  )
- where
-  pDealer_ = string "Dealer " >> optional (string " [ME] ") >> string ": "
-  mkSBPost = TableAction SB . Post
+pSmallBlind = label "Small blind post" . optional $ do
+  p <- lexeme pSmallBlindPosition <* optional_ (string "[ME] ")
+  string ": Small Blind " >> mkPost p <$> amountP
 
--- parse big blind size
+ where
+  pSmallBlindPosition = SB <$ string "Small Blind" <|> BU <$ string "Dealer"
+  mkPost p = TableAction p . Post
+
 pBigBlind :: Parser (TableAction SomeBetSize, SomeBetSize)
 pBigBlind = label "Big blind post" $ do
-  void $ string "Big Blind " >> optional (string " [ME] ")
+  string "Big Blind " >> optional_ (string " [ME] ")
   string_ ": Big blind "
   bb <- amountP
   return (mkBBPost bb, bb)
@@ -202,7 +178,7 @@ pFlop :: Parser (Action t)
 pFlop = do
   pFlopHeading
   [c1, c2, c3] <- lexeme $ inBrackets (countCard 3)
-  pure . MkDealerAction $ FlopDeal (c1, c2, c3)
+  pure . MkDealerAction $ FlopDeal c1 c2 c3
   where pFlopHeading = string_ "*** FLOP *** "
 
 pTurnHeading :: Parser ()
@@ -266,14 +242,6 @@ pSeatSumm = do
 -- pBoard takes the input 'Board [Cards]' and gives the contained cards
 pBoard :: Parser [Card]
 pBoard = string "Board " >> inBrackets manyCardsP
-
--- pManyActions :: Parser [Action SomeBetSize] --[Action]
--- pManyActions = concat . catMaybes <$> sequence
---   [ Just <$> many pAction
---   , optional (liftM2 (:) pFlop (many pAction))
---   , optional (liftM2 (:) turnStreetP (many pAction))
---   , optional (liftM2 (:) riverStreetP (many pAction))
---   ]
 
 pTableAction :: Parser (TableAction SomeBetSize)-- TableAction
 pTableAction =
@@ -395,7 +363,7 @@ streets = do
 
 pSeatUpdate :: Parser ()
 pSeatUpdate =
-    lexeme_
+  lexeme_
     . choice
     . fmap string
     $ ["Seat re-join", "Seat sit out", "Seat sit down", "Seat stand"]
@@ -415,36 +383,31 @@ maybePositioned :: Parser b -> Parser b
 maybePositioned = (optional (pPosition >> colon) >>)
 
 -- handP is the primary hand parser that matches a hand
-pHand :: Parser (History SomeBetSize) -- Hand
+pHand :: Parser (History Bovada SomeBetSize) -- Hand
 pHand = do
   handHeader <- handHeaderP
   stacks     <- pStacks
-  void $ optional pDealer
+  optional_ pDealer
   pTableOrSeatLines
   sbActMay <- pSmallBlind
   pTableOrSeatLines
   (bbAct, bb) <- pBigBlind
   pTableOrSeatLines
-  postAs                   <- many . try $ pPost
-  -- TODO parse posts
+  postAs                  <- many . try $ pPost
   (preFlopDeal, holdings) <- pHoldingsMap
   postFlopAs              <- streets
   pSummary
   -- TODO parse summary
   _ <- many (try $ notFollowedBy (lookAhead (eol >> eol)) >> anySingle)
-  let restAs = postFlopAs
   let allAs = concat
         [ toList $ MkTableAction <$> sbActMay
         , [MkTableAction bbAct]
         , MkTableAction <$> postAs
         , [MkDealerAction preFlopDeal]
-        , restAs
+        , postFlopAs
         ]
   let players = getPlayers stacks holdings
-  pure $! History { _handTime      = _headerTime handHeader
-                  , _handID        = _headerHandID handHeader
-                  , _handTy        = _headerHandTy handHeader
-                  , _handNetwork   = Bovada
+  pure $! History { header         = handHeader
                   , _handStakes    = Stake bb
                   , _handActions   = allAs
                   , _handPlayerMap = players
@@ -453,7 +416,7 @@ pHand = do
                   }
 
 -- handsP is the the highest level parser
-pHands :: Parser [History SomeBetSize]
+pHands :: Parser [History Bovada SomeBetSize]
 pHands = between sc eof $ do
   res <- many (lexeme pHand)
   _   <- many eol

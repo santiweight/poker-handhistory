@@ -54,3 +54,6 @@ colon = L.symbol sc ":" <?> "colon"
 
 try_ :: Parser a -> Parser ()
 try_ = void . try
+
+optional_ :: Parser a -> Parser ()
+optional_ = void . optional

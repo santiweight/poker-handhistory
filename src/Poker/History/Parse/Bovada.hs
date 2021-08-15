@@ -149,7 +149,6 @@ pSmallBlind :: Parser (Maybe (TableAction SomeBetSize))
 pSmallBlind = label "Small blind post" . optional $ do
   p <- pSmallBlindPosition <* optional_ (string "[ME] ")
   string ": Small Blind " >> mkPost p <$> amountP
-
  where
   pSmallBlindPosition = SB <$ symbol "Small Blind" <|> BU <$ symbol "Dealer"
   mkPost p = TableAction p . Post
@@ -222,27 +221,24 @@ pBoard :: Parser [Card]
 pBoard = string "Board " >> brackets (manyCardsP sc)
 
 pTableAction :: Parser (TableAction SomeBetSize)-- TableAction
-pTableAction =
-  lexeme
-    $   try
-    $   do
-          (pos, _)       <- pPosition <* colon
-          tableActionVal <- choice
-            [ pDeposit
-            , pSitDown
-            , pSitOut
-            , pMuck
-            , pResult
-            , pLeave
-            , pRejoin
-            , pEnter
-            , pReturnUncalled
-            , Deposit <$> pTableDeposit
-            ]
-          pure $ TableAction pos tableActionVal
-    <|> try pSimpleUnknown
-    <|> try (UnknownAction <$ pTableDeposit)
+pTableAction = (lexeme . choice . fmap try)
+  [pKnownTableAction, pSimpleUnknown, UnknownAction <$ pTableDeposit]
  where
+  pKnownTableAction = do
+    (pos, _)       <- pPosition <* colon
+    tableActionVal <- choice
+      [ pDeposit
+      , pSitDown
+      , pSitOut
+      , pMuck
+      , pResult
+      , pLeave
+      , pRejoin
+      , pEnter
+      , pReturnUncalled
+      , Deposit <$> pTableDeposit
+      ]
+    pure $ TableAction pos tableActionVal
   pSimpleUnknown =
     (UnknownAction <$ pTableLeaveOrEnter)
       <|> (UnknownAction <$ pSeatUpdate)
@@ -256,7 +252,6 @@ pTableAction =
           *> amountP
           )
   pMuck = do
-    -- TODO make this not shit
     showdownStr <-
       choice . fmap string $ ["Mucks ", "Does not show ", "Showdown "]
     cards <- lexeme (brackets (manyCardsP sc))
@@ -351,15 +346,14 @@ pTableDeposit :: Parser SomeBetSize
 pTableDeposit = string "Table deposit " >> amountP
 
 pTableOrSeatLines :: Parser ()
-pTableOrSeatLines = do
-  void . many $ choice
-    [ try . void $ maybePositioned pTableDeposit
-    , try $ maybePositioned pSeatUpdate
-    , try $ maybePositioned pTableLeaveOrEnter
-    ]
+pTableOrSeatLines = (void . many . choice . fmap try)
+  [ maybePositioned_ pTableDeposit
+  , maybePositioned_ pSeatUpdate
+  , maybePositioned_ pTableLeaveOrEnter
+  ]
 
-maybePositioned :: Parser b -> Parser b
-maybePositioned = (optional (pPosition >> colon) >>)
+maybePositioned_ :: Parser b -> Parser ()
+maybePositioned_ = void . (optional (pPosition >> colon) >>)
 
 -- handP is the primary hand parser that matches a hand
 pHand :: Parser (History Bovada SomeBetSize) -- Hand

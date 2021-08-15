@@ -30,7 +30,7 @@ testHandsPaths = do
 
 importedHandsPathsIO :: IO [FilePath]
 importedHandsPathsIO = do
-  testDir <- (</> "test/histories/Imported Hands") <$> getCurrentDirectory
+  testDir <- (</> "test/example-handhistories/Bovada") <$> getCurrentDirectory
   listDirectory testDir <&> fmap (testDir </>)
 
 _testFilePath :: FilePath -> IO [History Bovada SomeBetSize]

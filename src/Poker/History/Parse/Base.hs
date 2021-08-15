@@ -12,7 +12,7 @@ import Control.Monad (void)
 
 -- | Parsing Monad
 -- TODO change the error component
-type Parser a = Parsec Void Text a
+type Parser a = ParsecT Void Text Identity a
 
 -- default space consumer
 sc :: Parser ()
@@ -22,14 +22,11 @@ sc = L.space space1 empty empty
 lexeme :: Parser a -> Parser a
 lexeme = L.lexeme sc
 
-lexeme_ :: ParsecT Void Text Identity a -> Parser ()
+lexeme_ :: Parser a -> Parser ()
 lexeme_ = void . lexeme
 
-string_ :: Text -> ParsecT Void Text Identity ()
+string_ :: Text -> Parser ()
 string_ = void . string
-
-inParens :: Parser a -> Parser a
-inParens = between (char '(') (char ')')
 
 -- integer matcher
 integer :: Parser Int
@@ -39,21 +36,26 @@ integer = lexeme L.decimal <?> "integer"
 rational :: Parser Rational
 rational = toRational <$> L.scientific <?> "rational"
 
--- wrap with spaceconsumer
--- TODO this is ugly and symptomatic of bad stuff later
-spaceWrap :: Parser a -> Parser a
-spaceWrap parser = space *> parser <* many (char ' ')
-
--- surround an expression in brackets
-inBrackets :: Parser a -> Parser a
-inBrackets = between (char '[') (char ']')
-
--- match a colon
-colon :: Parser Text
-colon = L.symbol sc ":" <?> "colon"
-
 try_ :: Parser a -> Parser ()
 try_ = void . try
 
 optional_ :: Parser a -> Parser ()
 optional_ = void . optional
+
+symbol :: Text -> Parser Text
+symbol = L.symbol sc
+
+symbol_ :: Text -> Parser ()
+symbol_ = void . symbol
+
+parens, braces, angles, brackets :: Parser a -> Parser a
+parens    = between (symbol "(") (symbol ")")
+braces    = between (symbol "{") (symbol "}")
+angles    = between (symbol "<") (symbol ">")
+brackets  = between (symbol "[") (symbol "]")
+
+semicolon, comma, colon, dot :: Parser Text
+semicolon = symbol ";"
+comma     = symbol ","
+colon     = symbol ":"
+dot       = symbol "."

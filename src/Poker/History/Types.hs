@@ -15,11 +15,8 @@ data GameType = Zone | Cash
   deriving (Show, Eq, Ord, Read, Enum, Generic)
 
 data Player t = Player
-  { _name           :: !(Maybe String)
-  , _playerPosition :: !(Maybe Position)
-  , _playerHolding  :: !(Maybe Hand)
-  , _stack          :: !t
-  , _seat           :: !Seat
+  { _playerHolding  :: !(Maybe Hand)
+  , _stack          :: !t -- TODO use newtype
   }
   deriving (Show, Eq, Ord, Generic, Functor)
 

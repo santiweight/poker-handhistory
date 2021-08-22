@@ -50,16 +50,20 @@ data History net b = History
   deriving (Show, Eq, Ord, Generic, Functor)
 
 data Curr (c :: Symbol) where
-  USD ::Curr "USD"
-  EUR ::Curr "EUR"
-  GBP ::Curr "GBP"
+  USD :: Curr "USD"
+  EUR :: Curr "EUR"
+  GBP :: Curr "GBP"
 
+data SomeHistory where
+  SomeHistory :: Curr c -> History Bovada (Amount c) -> SomeHistory
 deriving instance Show (Curr c)
 
 data SomeCurr where
   SomeCurr ::{unSomeCurr :: Curr c} -> SomeCurr
 
 data SomeBetSize where
-  SomeBetSize ::Curr c -> Rational -> SomeBetSize
+  SomeBetSize :: Curr c -> Rational -> SomeBetSize
+
+data BetSize c = BetSize !(Curr c) Rational
 
 deriving instance Show SomeBetSize

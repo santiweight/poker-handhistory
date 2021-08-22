@@ -108,16 +108,7 @@ pActionValue :: Parser (BetAction SomeBetSize)
 pActionValue =
   choice
     . fmap try
-    $ [ pComplexFold
-      , pFold
-      , pCheck
-      , pCall
-      , pRaise
-      , pBet
-      , pAllInRaise
-      , pAllIn
-      , pOtherAction
-      ]
+    $ [pComplexFold, pFold, pCheck, pCall, pRaise, pBet, pAllInRaise, pAllIn]
  where
   pFold = ((Fold <$) . choice . fmap (string . ("Folds" <>)))
     [" (timeout)", " (disconnect)", " (auth)", ""]
@@ -131,9 +122,7 @@ pActionValue =
   pBet   = Bet <$> (string "Bets " *> amountP)
   pAllInRaise =
     uncurry AllInRaise <$> (string "All-in(raise) " >> amountPFromTo)
-  pAllIn = AllIn <$> (string "All-in " *> amountP)
-  pOtherAction =
-    OtherAction <$ (string "Seat stand" <|> string "Showdown(High Card)")
+  pAllIn        = AllIn <$> (string "All-in " *> amountP)
   amountPFromTo = liftM2 (,) amountP (string "to " *> amountP)
 
 -- pDealer matches dealer announcements and exhibits how awful Bovada's format is
@@ -222,7 +211,7 @@ pBoard = string "Board " >> brackets (manyCardsP sc)
 
 pTableAction :: Parser (TableAction SomeBetSize)-- TableAction
 pTableAction = (lexeme . choice . fmap try)
-  [pKnownTableAction, pSimpleUnknown, UnknownAction <$ pTableDeposit]
+  [pSeatStand, pShowdown, pKnownTableAction, pSimpleUnknown, UnknownAction <$ pTableDeposit]
  where
   pKnownTableAction = do
     (pos, _)       <- pPosition <* colon
@@ -239,11 +228,18 @@ pTableAction = (lexeme . choice . fmap try)
       , Deposit <$> pTableDeposit
       ]
     pure $ TableAction pos tableActionVal
+  pShowdown = UnknownAction <$ maybePositioned_ (string "Showdown(High Card)")
+  pSeatStand = UnknownAction <$ maybePositioned_ (string "Seat stand")
   pSimpleUnknown =
-    (UnknownAction <$ pTableLeaveOrEnter)
-      <|> (UnknownAction <$ pSeatUpdate)
+    try (UnknownAction <$ pTableLeaveOrEnter)
+      <|> try (UnknownAction <$ pSeatUpdate)
       <|> choice
-            (fmap ((<$) UnknownAction . string) ["Enter(Auto)", "Leave(Auto)"])
+            (fmap
+              ((<$) UnknownAction . string)
+              [ "Enter(Auto)"
+              , "Leave(Auto)"
+              ]
+            )
   pReturnUncalled =
     Return <$> (string "Return uncalled portion of bet " >> amountP)
   pResult =
@@ -367,8 +363,10 @@ pHand = do
   (bbAct, bb) <- pBigBlind
   pTableOrSeatLines
   postAs                  <- many . try $ pPost
+  _ <- many pTableAction
   (preFlopDeal, holdings) <- pHoldingsMap
   postFlopAs              <- streets
+  _ <- many pTableAction
   pSummary
   -- TODO parse summary
   _ <- many (try $ notFollowedBy (lookAhead (eol >> eol)) >> anySingle)

@@ -12,7 +12,6 @@ import qualified Data.Map.Strict               as Map
 import           Data.Maybe                     ( fromJust
                                                 , fromMaybe
                                                 )
-import           Data.Text                      ( Text )
 import           Data.Time.Calendar             ( fromGregorian )
 import           Data.Time.LocalTime            ( LocalTime(..)
                                                 , TimeOfDay(..)
@@ -300,8 +299,8 @@ getPlayers stacks holdings =
   let players = M.fromList $ do
         (seat_, pos_, stack_, _) <- stacks
         pure $ (,)
-          (MkSeat seat_)
-          ( MkSeat seat_
+          (Seat seat_)
+          ( Seat seat_
           , pos_
           , Player { -- _name           = Just "test"
                  -- , _playerPosition = Just pos_

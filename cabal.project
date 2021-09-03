@@ -1,6 +1,6 @@
 packages:
  *.cabal
- ../poker-base
+ ../base
 
 index-state: 2021-08-08T02:21:16Z
 with-compiler: ghc-8.10.4

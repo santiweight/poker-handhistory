@@ -282,8 +282,9 @@ pAction =
     $   try
           (do
             (pos, isHeroVal) <- pPosition <* colon
+            -- TODO track isHero
             actionVal        <- pActionValue
-            pure . MkPlayerAction $ PlayerAction pos actionVal isHeroVal
+            pure . MkPlayerAction $ PlayerAction pos actionVal
           )
     <|> MkTableAction
     <$> try pTableAction

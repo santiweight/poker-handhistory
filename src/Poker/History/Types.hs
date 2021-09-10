@@ -10,6 +10,7 @@ import           Data.Time                      ( LocalTime )
 import           GHC.Generics                   ( Generic )
 import           GHC.TypeLits                   ( Symbol )
 import           Poker.Base
+import Poker.History.Model
 
 data GameType = Zone | Cash
   deriving (Show, Eq, Ord, Read, Enum, Generic)

@@ -29,6 +29,7 @@ library
   exposed-modules:
       Poker.History.Parse.Base
       Poker.History.Parse.Bovada
+      Poker.History.Model
       Poker.History.Types
   other-modules:
       Paths_poker_handhistory

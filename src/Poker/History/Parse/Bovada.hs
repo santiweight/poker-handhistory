@@ -17,6 +17,7 @@ import           Data.Time.LocalTime            ( LocalTime(..)
                                                 , TimeOfDay(..)
                                                 )
 import           Poker.Base
+import           Poker.History.Model
 import           Poker.History.Parse.Base
 import           Poker.History.Types
 import           Prelude                 hiding ( id )
@@ -139,7 +140,7 @@ pSmallBlind = label "Small blind post" . optional $ do
   string ": Small Blind " >> mkPost p <$> amountP
  where
   pSmallBlindPosition = SB <$ symbol "Small Blind" <|> BU <$ symbol "Dealer"
-  mkPost p = TableAction p . Post
+  mkPost p = KnownPlayer p . Post
 
 pBigBlind :: Parser (TableAction SomeBetSize, SomeBetSize)
 pBigBlind = label "Big blind post" $ do
@@ -147,7 +148,7 @@ pBigBlind = label "Big blind post" $ do
   string_ ": Big blind "
   bb <- amountP
   pure (mkBBPost bb, bb)
-  where mkBBPost = TableAction BB . Post
+  where mkBBPost = KnownPlayer BB . Post
 
 pFlop :: Parser (Action t)
 pFlop = do
@@ -199,22 +200,28 @@ potP :: Parser SomeBetSize
 potP = string "Total Pot" *> parens amountP
 
 -- pSeatSumm takes
-pSeatSumm :: Parser (TableAction t) -- TableAction
+pSeatSumm :: Parser (TableActionValue t) -- TableAction
 pSeatSumm = do
   string "Seat+" >> integer >> string_ ": "
-  pPosition >> many printChar $> UnknownAction
+  pPosition >> many printChar $> SeatSummary
 
 -- pBoard takes the input 'Board [Cards]' and gives the contained cards
 pBoard :: Parser [Card]
 pBoard = string "Board " >> brackets (manyCardsP sc)
 
+-- TODO many calls to UnknownPlayer are incorrect here. We may be able to get more position information
 pTableAction :: Parser (TableAction SomeBetSize)-- TableAction
 pTableAction = (lexeme . choice . fmap try)
-  [pSeatStand, pShowdown, pKnownTableAction, pSimpleUnknown, UnknownAction <$ pTableDeposit]
+  [ UnknownPlayer <$> pSeatStand
+  , UnknownPlayer <$> pShowdown
+  , pKnownTableAction
+  , UnknownPlayer <$> pSimpleUnknown
+  , UnknownPlayer <$> pTableDeposit
+  ]
  where
   pKnownTableAction = do
     (pos, _)       <- pPosition <* colon
-    tableActionVal <- choice
+    tableActionVal <- choice . fmap try $
       [ pDeposit
       , pSitDown
       , pSitOut
@@ -224,21 +231,14 @@ pTableAction = (lexeme . choice . fmap try)
       , pRejoin
       , pEnter
       , pReturnUncalled
-      , Deposit <$> pTableDeposit
+      , pTableDeposit
       ]
-    pure $ TableAction pos tableActionVal
-  pShowdown = UnknownAction <$ maybePositioned_ (string "Showdown(High Card)")
-  pSeatStand = UnknownAction <$ maybePositioned_ (string "Seat stand")
-  pSimpleUnknown =
-    try (UnknownAction <$ pTableLeaveOrEnter)
-      <|> try (UnknownAction <$ pSeatUpdate)
-      <|> choice
-            (fmap
-              ((<$) UnknownAction . string)
-              [ "Enter(Auto)"
-              , "Leave(Auto)"
-              ]
-            )
+    pure $ KnownPlayer pos tableActionVal
+  pShowdown      = UnknownShowdown <$ maybePositioned_ (string "Showdown(High Card)")
+  pSeatStand     = SeatStand <$ maybePositioned_ (string "Seat stand")
+  pSimpleUnknown = try pTableLeaveOrEnter <|> try pSeatUpdate <|> choice
+    [Enter <$ string "Enter(Auto)", Leave <$ "Leave(Auto)"]
+
   pReturnUncalled =
     Return <$> (string "Return uncalled portion of bet " >> amountP)
   pResult =
@@ -262,9 +262,9 @@ pTableAction = (lexeme . choice . fmap try)
   pSitDown = SitDown <$ string "Seat sit down"
   pSitOut  = SitOut <$ string "Seat sit out"
 
-pTableLeaveOrEnter :: Parser ()
+pTableLeaveOrEnter :: Parser (TableActionValue t)
 pTableLeaveOrEnter =
-  choice . fmap symbol_ $ ["Table leave user", "Table enter user"]
+  choice . fmap try $ [Leave <$ symbol "Table leave user", Enter <$ "Table enter user"]
 
 pPost :: Parser (TableAction SomeBetSize)
 pPost = do
@@ -273,7 +273,7 @@ pPost = do
     [ PostDead <$> (string "Posts dead chip " >> amountP)
     , Post <$> ((string "Posts chip " <|> string "Posts ") *> amountP)
     ]
-  pure $ TableAction p tableActVal
+  pure $ KnownPlayer p tableActVal
 
 -- pAction parses a simple player action
 pAction :: Parser (Action SomeBetSize)
@@ -284,7 +284,7 @@ pAction =
             (pos, isHeroVal) <- pPosition <* colon
             -- TODO track isHero
             actionVal        <- pActionValue
-            pure . MkPlayerAction $ PlayerAction pos actionVal
+            pure $ MkBetAction pos actionVal
           )
     <|> MkTableAction
     <$> try pTableAction
@@ -332,20 +332,23 @@ streets = do
     pure $ flopAs <> turnAndRiverAs
   pure $ preflopAs <> postFlopAs
 
-pSeatUpdate :: Parser ()
+pSeatUpdate :: Parser (TableActionValue t)
 pSeatUpdate =
   choice
-    . fmap (symbol_ . ("Seat " <>))
-    $ ["re-join", "sit out", "sit down", "stand"]
+    $ [ Rejoin <$ symbol "Seat re-join"
+      , SitOut <$ symbol "Seat sit out"
+      , SitDown <$ symbol "Seat sit down"
+      , SeatStand <$ symbol "Seat stand"
+      ]
 
-pTableDeposit :: Parser SomeBetSize
-pTableDeposit = string "Table deposit " >> amountP
+pTableDeposit :: Parser (TableActionValue SomeBetSize)
+pTableDeposit = Deposit <$> (string "Table deposit " >> amountP)
 
 pTableOrSeatLines :: Parser ()
 pTableOrSeatLines = (void . many . choice . fmap try)
   [ maybePositioned_ pTableDeposit
   , maybePositioned_ pSeatUpdate
-  , maybePositioned_ pTableLeaveOrEnter
+  , maybePositioned_ $ lexeme pTableLeaveOrEnter
   ]
 
 maybePositioned_ :: Parser b -> Parser ()
@@ -363,10 +366,10 @@ pHand = do
   (bbAct, bb) <- pBigBlind
   pTableOrSeatLines
   postAs                  <- many . try $ pPost
-  _ <- many pTableAction
+  _                       <- many pTableAction
   (preFlopDeal, holdings) <- pHoldingsMap
   postFlopAs              <- streets
-  _ <- many pTableAction
+  _                       <- many pTableAction
   pSummary
   -- TODO parse summary
   _ <- many (try $ notFollowedBy (lookAhead (eol >> eol)) >> anySingle)

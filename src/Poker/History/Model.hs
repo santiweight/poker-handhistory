@@ -2,7 +2,7 @@
 module Poker.History.Model where
 
 import Data.Text (Text)
-import Poker.Base
+import Poker
 
 data BetAction t
   = Call !t

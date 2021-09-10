@@ -16,7 +16,7 @@ import           Data.Time.Calendar             ( fromGregorian )
 import           Data.Time.LocalTime            ( LocalTime(..)
                                                 , TimeOfDay(..)
                                                 )
-import           Poker.Base
+import           Poker
 import           Poker.History.Model
 import           Poker.History.Parse.Base
 import           Poker.History.Types
@@ -221,20 +221,23 @@ pTableAction = (lexeme . choice . fmap try)
  where
   pKnownTableAction = do
     (pos, _)       <- pPosition <* colon
-    tableActionVal <- choice . fmap try $
-      [ pDeposit
-      , pSitDown
-      , pSitOut
-      , pMuck
-      , pResult
-      , pLeave
-      , pRejoin
-      , pEnter
-      , pReturnUncalled
-      , pTableDeposit
-      ]
+    tableActionVal <-
+      choice
+      . fmap try
+      $ [ pDeposit
+        , pSitDown
+        , pSitOut
+        , pMuck
+        , pResult
+        , pLeave
+        , pRejoin
+        , pEnter
+        , pReturnUncalled
+        , pTableDeposit
+        ]
     pure $ KnownPlayer pos tableActionVal
-  pShowdown      = UnknownShowdown <$ maybePositioned_ (string "Showdown(High Card)")
+  pShowdown =
+    UnknownShowdown <$ maybePositioned_ (string "Showdown(High Card)")
   pSeatStand     = SeatStand <$ maybePositioned_ (string "Seat stand")
   pSimpleUnknown = try pTableLeaveOrEnter <|> try pSeatUpdate <|> choice
     [Enter <$ string "Enter(Auto)", Leave <$ "Leave(Auto)"]
@@ -264,7 +267,9 @@ pTableAction = (lexeme . choice . fmap try)
 
 pTableLeaveOrEnter :: Parser (TableActionValue t)
 pTableLeaveOrEnter =
-  choice . fmap try $ [Leave <$ symbol "Table leave user", Enter <$ "Table enter user"]
+  choice
+    . fmap try
+    $ [Leave <$ symbol "Table leave user", Enter <$ "Table enter user"]
 
 pPost :: Parser (TableAction SomeBetSize)
 pPost = do

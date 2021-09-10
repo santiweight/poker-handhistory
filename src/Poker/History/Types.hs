@@ -9,15 +9,15 @@ import           Data.Text                      ( Text )
 import           Data.Time                      ( LocalTime )
 import           GHC.Generics                   ( Generic )
 import           GHC.TypeLits                   ( Symbol )
-import           Poker.Base
-import Poker.History.Model
+import           Poker
+import           Poker.History.Model
 
 data GameType = Zone | Cash
   deriving (Show, Eq, Ord, Read, Enum, Generic)
 
 data Player t = Player
-  { _playerHolding  :: !(Maybe Hand)
-  , _stack          :: !t -- TODO use newtype
+  { _playerHolding :: !(Maybe Hand)
+  , _stack         :: !t -- TODO use newtype
   }
   deriving (Show, Eq, Ord, Generic, Functor)
 
@@ -34,7 +34,7 @@ deriving instance Ord (SNetwork net)
 
 data Header net = Header
   { sNetwork :: !(SNetwork net)
-  , gameId       :: !Int
+  , gameId   :: !Int
   , gameTy   :: !GameType
   , time     :: !LocalTime
   }
@@ -51,19 +51,19 @@ data History net b = History
   deriving (Show, Eq, Ord, Generic, Functor)
 
 data Curr (c :: Symbol) where
-  USD :: Curr "USD"
-  EUR :: Curr "EUR"
-  GBP :: Curr "GBP"
+  USD ::Curr "USD"
+  EUR ::Curr "EUR"
+  GBP ::Curr "GBP"
 
 data SomeHistory where
-  SomeHistory :: Curr c -> History Bovada (Amount c) -> SomeHistory
+  SomeHistory ::Curr c -> History Bovada (Amount c) -> SomeHistory
 deriving instance Show (Curr c)
 
 data SomeCurr where
   SomeCurr ::{unSomeCurr :: Curr c} -> SomeCurr
 
 data SomeBetSize where
-  SomeBetSize :: Curr c -> Rational -> SomeBetSize
+  SomeBetSize ::Curr c -> Rational -> SomeBetSize
 
 data BetSize c = BetSize !(Curr c) Rational
 

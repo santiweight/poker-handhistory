@@ -44,6 +44,7 @@ data History net b = History
   { header         :: Header net
   , _handStakes    :: !(Stake b)
   , _handPlayerMap :: !(Map Seat (Player b))
+  -- , _handPositionMap :: !(Map Position (Player b))
   , _handSeatMap   :: !(Map Position Seat)
   , _handActions   :: ![Action b]
   , _handText      :: !Text

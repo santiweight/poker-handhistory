@@ -41,7 +41,7 @@ data Header net = Header
   deriving (Show, Eq, Ord, Generic)
 
 data History net b = History
-  { header         :: Header net
+  { header         :: !(Header net)
   , _handStakes    :: !(Stake b)
   , _handPlayerMap :: !(Map Seat (Player b))
   -- , _handPositionMap :: !(Map Position (Player b))

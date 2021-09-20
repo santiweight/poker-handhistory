@@ -1,6 +1,6 @@
 cradle:
   cabal:
     - path: "./src"
-      component: lib:poker-handhistory
+      component: lib:history-bovada
     - path: "./test"
       component: all-tests

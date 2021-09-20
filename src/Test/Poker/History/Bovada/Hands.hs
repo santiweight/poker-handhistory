@@ -2,7 +2,7 @@ module Test.Poker.History.Bovada.Hands where
 
 import           Data.Functor
 import           Money
-import           Paths_poker_handhistory
+import           Paths_history_bovada
 import           Poker
 import           Poker.History.Parse.Bovada     ( pHands )
 import           Poker.History.Types

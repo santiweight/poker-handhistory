@@ -1,0 +1,41 @@
+﻿PokerStars Hand #228696855119:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:22:10 ET
+Table 'Kypria' 9-max Seat #2 is the button
+Seat 1: Jim h345 ($43.91 in chips) 
+Seat 2: AndyLu)|(ynski ($23.68 in chips) 
+Seat 3: mcZAG ($50 in chips) 
+Seat 4: sw_iceman ($50.50 in chips) 
+Seat 5: JBJ68 ($54.64 in chips) 
+Seat 6: cartman177 ($52.53 in chips) 
+Seat 7: Chernovsky ($51.34 in chips) 
+Seat 8: lexon3 ($50 in chips) 
+Seat 9: SparkYLive ($52.50 in chips) 
+mcZAG: posts small blind $0.25
+sw_iceman: posts big blind $0.50
+*** HOLE CARDS ***
+JBJ68: folds 
+cartman177: folds 
+Chernovsky: raises $0.75 to $1.25
+lexon3: folds 
+SparkYLive: folds 
+Jim h345 has timed out
+Jim h345: folds 
+AndyLu)|(ynski: folds 
+mcZAG: folds 
+sw_iceman: folds 
+Uncalled bet ($0.75) returned to Chernovsky
+Chernovsky collected $1.25 from pot
+Chernovsky: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Jim h345 folded before Flop (didn't bet)
+Seat 2: AndyLu)|(ynski (button) folded before Flop (didn't bet)
+Seat 3: mcZAG (small blind) folded before Flop
+Seat 4: sw_iceman (big blind) folded before Flop
+Seat 5: JBJ68 folded before Flop (didn't bet)
+Seat 6: cartman177 folded before Flop (didn't bet)
+Seat 7: Chernovsky collected ($1.25)
+Seat 8: lexon3 folded before Flop (didn't bet)
+Seat 9: SparkYLive folded before Flop (didn't bet)
+
+
+

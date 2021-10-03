@@ -1,0 +1,1623 @@
+﻿PokerStars Hand #228691354374:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:12:16 ET
+Table 'Semirot II' 9-max Seat #3 is the button
+Seat 2: vinny_coyle ($16.99 in chips) 
+Seat 3: VampireMagic ($50.20 in chips) 
+Seat 4: coolkook ($72.01 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($31.76 in chips) 
+coolkook: posts small blind $0.25
+el Fatto: posts big blind $0.50
+sokoros24: posts big blind $0.50
+goldenpig666: sits out 
+Pablo1405: sits out 
+StudentRB: sits out 
+*** HOLE CARDS ***
+sokoros24: checks 
+vinny_coyle: calls $0.50
+VampireMagic: raises $2.25 to $2.75
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $2.25
+vinny_coyle: calls $2.25
+*** FLOP *** [Jc 4d 2h]
+sokoros24: checks 
+vinny_coyle: checks 
+VampireMagic: checks 
+*** TURN *** [Jc 4d 2h] [6c]
+sokoros24: checks 
+vinny_coyle: checks 
+VampireMagic: bets $4
+sokoros24: folds 
+vinny_coyle: calls $4
+*** RIVER *** [Jc 4d 2h 6c] [5h]
+vinny_coyle: checks 
+VampireMagic: checks 
+*** SHOW DOWN ***
+vinny_coyle: shows [3d 3c] (a straight, Deuce to Six)
+VampireMagic: mucks hand 
+vinny_coyle collected $16.15 from pot
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [Jc 4d 2h 6c 5h]
+Seat 2: vinny_coyle showed [3d 3c] and won ($16.15) with a straight, Deuce to Six
+Seat 3: VampireMagic (button) mucked
+Seat 4: coolkook (small blind) folded before Flop
+Seat 5: el Fatto (big blind) folded before Flop
+Seat 6: sokoros24 folded on the Turn
+
+
+
+PokerStars Hand #228691375087:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:13:06 ET
+Table 'Semirot II' 9-max Seat #4 is the button
+Seat 2: vinny_coyle ($26.39 in chips) 
+Seat 3: VampireMagic ($50 in chips) 
+Seat 4: coolkook ($71.76 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($29.01 in chips) 
+el Fatto: posts small blind $0.25
+sokoros24: posts big blind $0.50
+goldenpig666: sits out 
+Pablo1405: sits out 
+StudentRB: sits out 
+*** HOLE CARDS ***
+vinny_coyle: calls $0.50
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: checks 
+*** FLOP *** [Qs 5s Td]
+sokoros24: checks 
+vinny_coyle: checks 
+*** TURN *** [Qs 5s Td] [7s]
+sokoros24: checks 
+vinny_coyle: checks 
+*** RIVER *** [Qs 5s Td 7s] [8h]
+sokoros24: checks 
+vinny_coyle: bets $1.50
+sokoros24: calls $1.50
+*** SHOW DOWN ***
+vinny_coyle: shows [6d 9d] (a straight, Six to Ten)
+sokoros24: mucks hand 
+vinny_coyle collected $4.04 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.21 
+Board [Qs 5s Td 7s 8h]
+Seat 2: vinny_coyle showed [6d 9d] and won ($4.04) with a straight, Six to Ten
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook (button) folded before Flop (didn't bet)
+Seat 5: el Fatto (small blind) folded before Flop
+Seat 6: sokoros24 (big blind) mucked
+
+
+
+PokerStars Hand #228691384772:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:13:30 ET
+Table 'Semirot II' 9-max Seat #5 is the button
+Seat 2: vinny_coyle ($28.43 in chips) 
+Seat 3: VampireMagic ($50 in chips) 
+Seat 4: coolkook ($71.76 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($27.01 in chips) 
+Seat 7: goldenpig666 ($50 in chips) 
+sokoros24: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+Pablo1405: sits out 
+StudentRB: sits out 
+*** HOLE CARDS ***
+vinny_coyle: folds 
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $0.25
+goldenpig666: checks 
+*** FLOP *** [2d Ks 4c]
+sokoros24: checks 
+goldenpig666: bets $0.70
+sokoros24: folds 
+Uncalled bet ($0.70) returned to goldenpig666
+goldenpig666 collected $0.94 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.06 
+Board [2d Ks 4c]
+Seat 2: vinny_coyle folded before Flop (didn't bet)
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto (button) folded before Flop (didn't bet)
+Seat 6: sokoros24 (small blind) folded on the Flop
+Seat 7: goldenpig666 (big blind) collected ($0.94)
+
+
+
+PokerStars Hand #228691393209:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:13:50 ET
+Table 'Semirot II' 9-max Seat #6 is the button
+Seat 2: vinny_coyle ($28.43 in chips) 
+Seat 3: VampireMagic ($50 in chips) 
+Seat 4: coolkook ($71.76 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($26.51 in chips) 
+Seat 7: goldenpig666 ($50.44 in chips) 
+Seat 8: Pablo1405 ($50 in chips) 
+goldenpig666: posts small blind $0.25
+Pablo1405: posts big blind $0.50
+StudentRB: sits out 
+*** HOLE CARDS ***
+vinny_coyle: folds 
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: folds 
+goldenpig666: raises $1 to $1.50
+Pablo1405: folds 
+Uncalled bet ($1) returned to goldenpig666
+goldenpig666 collected $1 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: vinny_coyle folded before Flop (didn't bet)
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 (button) folded before Flop (didn't bet)
+Seat 7: goldenpig666 (small blind) collected ($1)
+Seat 8: Pablo1405 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228691398534:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:14:04 ET
+Table 'Semirot II' 9-max Seat #7 is the button
+Seat 2: vinny_coyle ($28.43 in chips) 
+Seat 3: VampireMagic ($50 in chips) 
+Seat 4: coolkook ($71.76 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($26.51 in chips) 
+Seat 7: goldenpig666 ($50.94 in chips) 
+Seat 8: Pablo1405 ($50 in chips) 
+Seat 9: StudentRB ($50 in chips) 
+Pablo1405: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+vinny_coyle: folds 
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $0.50
+goldenpig666: raises $1.50 to $2
+Pablo1405: folds 
+StudentRB: calls $1.50
+sokoros24: calls $1.50
+*** FLOP *** [7c 2s Qs]
+StudentRB: checks 
+sokoros24: checks 
+goldenpig666: bets $3.86
+StudentRB: calls $3.86
+sokoros24: folds 
+*** TURN *** [7c 2s Qs] [Kh]
+StudentRB: checks 
+goldenpig666: bets $4.50
+StudentRB: calls $4.50
+*** RIVER *** [7c 2s Qs Kh] [Jh]
+StudentRB: checks 
+goldenpig666: checks 
+*** SHOW DOWN ***
+StudentRB: shows [Qd Kd] (two pair, Kings and Queens)
+goldenpig666: mucks hand 
+StudentRB collected $21.82 from pot
+*** SUMMARY ***
+Total pot $22.97 | Rake $1.15 
+Board [7c 2s Qs Kh Jh]
+Seat 2: vinny_coyle folded before Flop (didn't bet)
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 folded on the Flop
+Seat 7: goldenpig666 (button) mucked
+Seat 8: Pablo1405 (small blind) folded before Flop
+Seat 9: StudentRB (big blind) showed [Qd Kd] and won ($21.82) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #228691425562:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:15:09 ET
+Table 'Semirot II' 9-max Seat #8 is the button
+Seat 1: wildermorph ($50 in chips) 
+Seat 2: vinny_coyle ($28.43 in chips) 
+Seat 3: VampireMagic ($50 in chips) 
+Seat 4: coolkook ($71.76 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($24.51 in chips) 
+Seat 7: goldenpig666 ($50 in chips) 
+Seat 8: Pablo1405 ($50 in chips) 
+Seat 9: StudentRB ($61.46 in chips) 
+StudentRB: posts small blind $0.25
+wildermorph: posts big blind $0.50
+*** HOLE CARDS ***
+vinny_coyle: calls $0.50
+VampireMagic: raises $2 to $2.50
+coolkook: folds 
+el Fatto: folds 
+sokoros24: folds 
+goldenpig666: folds 
+Pablo1405: folds 
+StudentRB: folds 
+wildermorph: folds 
+vinny_coyle: calls $2
+*** FLOP *** [8c Jd 7h]
+vinny_coyle: checks 
+VampireMagic: bets $3.50
+vinny_coyle: calls $3.50
+*** TURN *** [8c Jd 7h] [Qh]
+vinny_coyle: checks 
+VampireMagic: bets $6
+vinny_coyle: calls $6
+*** RIVER *** [8c Jd 7h Qh] [5c]
+vinny_coyle: checks 
+VampireMagic: checks 
+*** SHOW DOWN ***
+vinny_coyle: shows [Jh Kh] (a pair of Jacks)
+VampireMagic: shows [Js Ac] (a pair of Jacks - Ace kicker)
+VampireMagic collected $23.51 from pot
+*** SUMMARY ***
+Total pot $24.75 | Rake $1.24 
+Board [8c Jd 7h Qh 5c]
+Seat 1: wildermorph (big blind) folded before Flop
+Seat 2: vinny_coyle showed [Jh Kh] and lost with a pair of Jacks
+Seat 3: VampireMagic showed [Js Ac] and won ($23.51) with a pair of Jacks
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 folded before Flop (didn't bet)
+Seat 7: goldenpig666 folded before Flop (didn't bet)
+Seat 8: Pablo1405 (button) folded before Flop (didn't bet)
+Seat 9: StudentRB (small blind) folded before Flop
+
+
+
+PokerStars Hand #228691441170:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:15:48 ET
+Table 'Semirot II' 9-max Seat #9 is the button
+Seat 1: wildermorph ($49.50 in chips) 
+Seat 2: vinny_coyle ($16.43 in chips) 
+Seat 3: VampireMagic ($61.51 in chips) 
+Seat 4: coolkook ($71.76 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($24.51 in chips) 
+Seat 7: goldenpig666 ($50 in chips) 
+Seat 8: Pablo1405 ($50 in chips) 
+Seat 9: StudentRB ($61.21 in chips) 
+wildermorph: posts small blind $0.25
+vinny_coyle: posts big blind $0.50
+*** HOLE CARDS ***
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $0.50
+goldenpig666: folds 
+Pablo1405: folds 
+StudentRB: folds 
+wildermorph: folds 
+vinny_coyle: checks 
+*** FLOP *** [Jd Js As]
+vinny_coyle: checks 
+sokoros24: checks 
+*** TURN *** [Jd Js As] [3c]
+vinny_coyle: checks 
+sokoros24: checks 
+*** RIVER *** [Jd Js As 3c] [4d]
+vinny_coyle: checks 
+sokoros24: checks 
+*** SHOW DOWN ***
+vinny_coyle: shows [Tc Qs] (a pair of Jacks)
+sokoros24: shows [Kd 2c] (a pair of Jacks - Ace+King kicker)
+sokoros24 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Jd Js As 3c 4d]
+Seat 1: wildermorph (small blind) folded before Flop
+Seat 2: vinny_coyle (big blind) showed [Tc Qs] and lost with a pair of Jacks
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 showed [Kd 2c] and won ($1.19) with a pair of Jacks
+Seat 7: goldenpig666 folded before Flop (didn't bet)
+Seat 8: Pablo1405 folded before Flop (didn't bet)
+Seat 9: StudentRB (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691462256:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:16:39 ET
+Table 'Semirot II' 9-max Seat #1 is the button
+Seat 1: wildermorph ($49.25 in chips) 
+Seat 2: vinny_coyle ($15.93 in chips) 
+Seat 3: VampireMagic ($61.51 in chips) 
+Seat 4: coolkook ($71.76 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($25.20 in chips) 
+Seat 7: goldenpig666 ($50 in chips) 
+Seat 8: Pablo1405 ($50 in chips) 
+Seat 9: StudentRB ($61.21 in chips) 
+vinny_coyle: posts small blind $0.25
+VampireMagic: posts big blind $0.50
+*** HOLE CARDS ***
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $0.50
+goldenpig666: raises $1.50 to $2
+Pablo1405: folds 
+StudentRB: folds 
+wildermorph: folds 
+vinny_coyle: folds 
+VampireMagic: folds 
+sokoros24: calls $1.50
+*** FLOP *** [Js 8c Jc]
+sokoros24: checks 
+goldenpig666: bets $1.50
+sokoros24: folds 
+Uncalled bet ($1.50) returned to goldenpig666
+goldenpig666 collected $4.45 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.30 
+Board [Js 8c Jc]
+Seat 1: wildermorph (button) folded before Flop (didn't bet)
+Seat 2: vinny_coyle (small blind) folded before Flop
+Seat 3: VampireMagic (big blind) folded before Flop
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 folded on the Flop
+Seat 7: goldenpig666 collected ($4.45)
+Seat 8: Pablo1405 folded before Flop (didn't bet)
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691476833:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:17:15 ET
+Table 'Semirot II' 9-max Seat #2 is the button
+Seat 1: wildermorph ($49.25 in chips) 
+Seat 2: vinny_coyle ($15.68 in chips) 
+Seat 3: VampireMagic ($61.01 in chips) 
+Seat 4: coolkook ($71.76 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($23.20 in chips) 
+Seat 7: goldenpig666 ($52.45 in chips) 
+Seat 8: Pablo1405 ($50 in chips) 
+Seat 9: StudentRB ($61.21 in chips) 
+VampireMagic: posts small blind $0.25
+coolkook: posts big blind $0.50
+*** HOLE CARDS ***
+el Fatto: folds 
+sokoros24: calls $0.50
+goldenpig666: raises $1.50 to $2
+Pablo1405: folds 
+StudentRB: folds 
+wildermorph: folds 
+vinny_coyle: folds 
+VampireMagic: folds 
+coolkook: folds 
+sokoros24: calls $1.50
+*** FLOP *** [Kd 3d Qh]
+sokoros24: checks 
+goldenpig666: bets $1.50
+sokoros24: calls $1.50
+*** TURN *** [Kd 3d Qh] [Tc]
+sokoros24: checks 
+goldenpig666: checks 
+*** RIVER *** [Kd 3d Qh Tc] [2c]
+sokoros24: checks 
+goldenpig666: checks 
+*** SHOW DOWN ***
+sokoros24: shows [3s Ac] (a pair of Threes)
+goldenpig666: shows [Jc Jh] (a pair of Jacks)
+goldenpig666 collected $7.26 from pot
+*** SUMMARY ***
+Total pot $7.75 | Rake $0.49 
+Board [Kd 3d Qh Tc 2c]
+Seat 1: wildermorph folded before Flop (didn't bet)
+Seat 2: vinny_coyle (button) folded before Flop (didn't bet)
+Seat 3: VampireMagic (small blind) folded before Flop
+Seat 4: coolkook (big blind) folded before Flop
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 showed [3s Ac] and lost with a pair of Threes
+Seat 7: goldenpig666 showed [Jc Jh] and won ($7.26) with a pair of Jacks
+Seat 8: Pablo1405 folded before Flop (didn't bet)
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691494476:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:17:58 ET
+Table 'Semirot II' 9-max Seat #3 is the button
+Seat 1: wildermorph ($49.25 in chips) 
+Seat 2: vinny_coyle ($15.68 in chips) 
+Seat 3: VampireMagic ($60.76 in chips) 
+Seat 4: coolkook ($71.26 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($19.70 in chips) 
+Seat 7: goldenpig666 ($56.21 in chips) 
+Seat 8: Pablo1405 ($50 in chips) 
+Seat 9: StudentRB ($61.21 in chips) 
+coolkook: posts small blind $0.25
+el Fatto: posts big blind $0.50
+*** HOLE CARDS ***
+sokoros24: calls $0.50
+goldenpig666: folds 
+Pablo1405: folds 
+StudentRB: folds 
+wildermorph: raises $0.50 to $1
+vinny_coyle: folds 
+VampireMagic: folds 
+coolkook: raises $4 to $5
+el Fatto: folds 
+sokoros24: folds 
+wildermorph: folds 
+Uncalled bet ($4) returned to coolkook
+coolkook collected $3 from pot
+coolkook: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: wildermorph folded before Flop
+Seat 2: vinny_coyle folded before Flop (didn't bet)
+Seat 3: VampireMagic (button) folded before Flop (didn't bet)
+Seat 4: coolkook (small blind) collected ($3)
+Seat 5: el Fatto (big blind) folded before Flop
+Seat 6: sokoros24 folded before Flop
+Seat 7: goldenpig666 folded before Flop (didn't bet)
+Seat 8: Pablo1405 folded before Flop (didn't bet)
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691502420:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:18:17 ET
+Table 'Semirot II' 9-max Seat #4 is the button
+Seat 1: wildermorph ($48.25 in chips) 
+Seat 2: vinny_coyle ($15.68 in chips) 
+Seat 3: VampireMagic ($60.76 in chips) 
+Seat 4: coolkook ($73.26 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($19.20 in chips) 
+Seat 7: goldenpig666 ($56.21 in chips) 
+Seat 8: Pablo1405 ($50 in chips) 
+Seat 9: StudentRB ($61.21 in chips) 
+el Fatto: posts small blind $0.25
+sokoros24: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+Pablo1405: raises $0.75 to $1.25
+StudentRB: folds 
+wildermorph: folds 
+vinny_coyle: calls $1.25
+VampireMagic: raises $4.50 to $5.75
+coolkook: folds 
+el Fatto: folds 
+sokoros24: folds 
+Pablo1405: folds 
+vinny_coyle: calls $4.50
+*** FLOP *** [7h 4d 7d]
+vinny_coyle: checks 
+VampireMagic: bets $10
+vinny_coyle: calls $9.93 and is all-in
+Uncalled bet ($0.07) returned to VampireMagic
+*** TURN *** [7h 4d 7d] [2c]
+*** RIVER *** [7h 4d 7d 2c] [5s]
+*** SHOW DOWN ***
+vinny_coyle: shows [3d Kd] (a pair of Sevens)
+VampireMagic: shows [Qh Qs] (two pair, Queens and Sevens)
+VampireMagic collected $31.69 from pot
+*** SUMMARY ***
+Total pot $33.36 | Rake $1.67 
+Board [7h 4d 7d 2c 5s]
+Seat 1: wildermorph folded before Flop (didn't bet)
+Seat 2: vinny_coyle showed [3d Kd] and lost with a pair of Sevens
+Seat 3: VampireMagic showed [Qh Qs] and won ($31.69) with two pair, Queens and Sevens
+Seat 4: coolkook (button) folded before Flop (didn't bet)
+Seat 5: el Fatto (small blind) folded before Flop
+Seat 6: sokoros24 (big blind) folded before Flop
+Seat 7: goldenpig666 folded before Flop (didn't bet)
+Seat 8: Pablo1405 folded before Flop
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691519592:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:19:00 ET
+Table 'Semirot II' 9-max Seat #5 is the button
+Seat 1: wildermorph ($48.25 in chips) 
+Seat 3: VampireMagic ($76.77 in chips) 
+Seat 4: coolkook ($73.26 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($18.70 in chips) 
+Seat 7: goldenpig666 ($56.21 in chips) 
+Seat 8: Pablo1405 ($50 in chips) 
+Seat 9: StudentRB ($61.21 in chips) 
+sokoros24: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+*** HOLE CARDS ***
+Pablo1405: folds 
+StudentRB: raises $0.75 to $1.25
+wildermorph: folds 
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $1
+goldenpig666: raises $5.25 to $6.50
+StudentRB: calls $5.25
+sokoros24: folds 
+*** FLOP *** [6d Jd 4h]
+goldenpig666: bets $9.48
+StudentRB: calls $9.48
+*** TURN *** [6d Jd 4h] [Th]
+goldenpig666: checks 
+StudentRB: checks 
+*** RIVER *** [6d Jd 4h Th] [Kc]
+goldenpig666: bets $40.23 and is all-in
+StudentRB: folds 
+Uncalled bet ($40.23) returned to goldenpig666
+goldenpig666 collected $31.13 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $33.21 | Rake $2.08 
+Board [6d Jd 4h Th Kc]
+Seat 1: wildermorph folded before Flop (didn't bet)
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto (button) folded before Flop (didn't bet)
+Seat 6: sokoros24 (small blind) folded before Flop
+Seat 7: goldenpig666 (big blind) collected ($31.13)
+Seat 8: Pablo1405 folded before Flop (didn't bet)
+Seat 9: StudentRB folded on the River
+
+
+
+PokerStars Hand #228691550567:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:20:17 ET
+Table 'Semirot II' 9-max Seat #6 is the button
+Seat 1: wildermorph ($48.25 in chips) 
+Seat 3: VampireMagic ($76.77 in chips) 
+Seat 4: coolkook ($73.26 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($17.45 in chips) 
+Seat 7: goldenpig666 ($71.36 in chips) 
+Seat 8: Pablo1405 ($50 in chips) 
+Seat 9: StudentRB ($50 in chips) 
+goldenpig666: posts small blind $0.25
+Pablo1405: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: folds 
+wildermorph: folds 
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $0.50
+goldenpig666: raises $1.75 to $2.25
+Pablo1405: folds 
+sokoros24: calls $1.75
+*** FLOP *** [3s Jh 7h]
+goldenpig666: bets $3.09
+sokoros24: folds 
+Uncalled bet ($3.09) returned to goldenpig666
+goldenpig666 collected $4.69 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.31 
+Board [3s Jh 7h]
+Seat 1: wildermorph folded before Flop (didn't bet)
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 (button) folded on the Flop
+Seat 7: goldenpig666 (small blind) collected ($4.69)
+Seat 8: Pablo1405 (big blind) folded before Flop
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691564308:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:20:51 ET
+Table 'Semirot II' 9-max Seat #7 is the button
+Seat 1: wildermorph ($48.25 in chips) 
+Seat 3: VampireMagic ($76.77 in chips) 
+Seat 4: coolkook ($73.26 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($15.20 in chips) 
+Seat 7: goldenpig666 ($73.80 in chips) 
+Seat 8: Pablo1405 ($50 in chips) 
+Seat 9: StudentRB ($50 in chips) 
+Pablo1405: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+wildermorph: raises $0.50 to $1
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $1
+goldenpig666: folds 
+Pablo1405: folds 
+StudentRB: folds 
+*** FLOP *** [8s 6d 6s]
+wildermorph: bets $1.30
+sokoros24: folds 
+Uncalled bet ($1.30) returned to wildermorph
+wildermorph collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [8s 6d 6s]
+Seat 1: wildermorph collected ($2.61)
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 folded on the Flop
+Seat 7: goldenpig666 (button) folded before Flop (didn't bet)
+Seat 8: Pablo1405 (small blind) folded before Flop
+Seat 9: StudentRB (big blind) folded before Flop
+
+
+
+PokerStars Hand #228691575939:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:21:20 ET
+Table 'Semirot II' 9-max Seat #8 is the button
+Seat 1: wildermorph ($49.86 in chips) 
+Seat 3: VampireMagic ($76.77 in chips) 
+Seat 4: coolkook ($73.26 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($14.20 in chips) 
+Seat 7: goldenpig666 ($73.80 in chips) 
+Seat 8: Pablo1405 ($50 in chips) 
+Seat 9: StudentRB ($50 in chips) 
+StudentRB: posts small blind $0.25
+wildermorph: posts big blind $0.50
+*** HOLE CARDS ***
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: folds 
+goldenpig666: folds 
+Pablo1405: raises $0.75 to $1.25
+StudentRB: folds 
+wildermorph: folds 
+Uncalled bet ($0.75) returned to Pablo1405
+Pablo1405 collected $1.25 from pot
+Pablo1405: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wildermorph (big blind) folded before Flop
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 folded before Flop (didn't bet)
+Seat 7: goldenpig666 folded before Flop (didn't bet)
+Seat 8: Pablo1405 (button) collected ($1.25)
+Seat 9: StudentRB (small blind) folded before Flop
+
+
+
+PokerStars Hand #228691580895:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:21:32 ET
+Table 'Semirot II' 9-max Seat #9 is the button
+Seat 1: wildermorph ($49.36 in chips) 
+Seat 3: VampireMagic ($76.77 in chips) 
+Seat 4: coolkook ($73.26 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($14.20 in chips) 
+Seat 7: goldenpig666 ($73.80 in chips) 
+Seat 8: Pablo1405 ($50.75 in chips) 
+Seat 9: StudentRB ($50 in chips) 
+wildermorph: posts small blind $0.25
+VampireMagic: posts big blind $0.50
+*** HOLE CARDS ***
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $0.50
+goldenpig666: folds 
+Pablo1405: folds 
+StudentRB: folds 
+wildermorph: folds 
+VampireMagic: checks 
+*** FLOP *** [3d As 4c]
+VampireMagic: checks 
+sokoros24: checks 
+*** TURN *** [3d As 4c] [6d]
+Pablo1405 leaves the table
+VampireMagic: checks 
+sokoros24: checks 
+*** RIVER *** [3d As 4c 6d] [Td]
+Kolyan2114 joins the table at seat #8 
+VampireMagic: checks 
+sokoros24: bets $0.50
+VampireMagic: folds 
+Uncalled bet ($0.50) returned to sokoros24
+sokoros24 collected $1.19 from pot
+sokoros24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [3d As 4c 6d Td]
+Seat 1: wildermorph (small blind) folded before Flop
+Seat 3: VampireMagic (big blind) folded on the River
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 collected ($1.19)
+Seat 7: goldenpig666 folded before Flop (didn't bet)
+Seat 8: Pablo1405 folded before Flop (didn't bet)
+Seat 9: StudentRB (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691595706:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:22:09 ET
+Table 'Semirot II' 9-max Seat #1 is the button
+Seat 1: wildermorph ($49.11 in chips) 
+Seat 3: VampireMagic ($76.27 in chips) 
+Seat 4: coolkook ($73.26 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($14.89 in chips) 
+Seat 7: goldenpig666 ($73.80 in chips) 
+Seat 9: StudentRB ($50 in chips) 
+VampireMagic: posts small blind $0.25
+coolkook: posts big blind $0.50
+Kolyan2114: sits out 
+*** HOLE CARDS ***
+el Fatto: folds 
+sokoros24: raises $0.50 to $1
+goldenpig666: folds 
+StudentRB: folds 
+wildermorph: folds 
+wildermorph leaves the table
+VampireMagic: folds 
+coolkook: calls $0.50
+*** FLOP *** [Ks Qc 6s]
+coolkook: checks 
+sokoros24: bets $0.50
+mazefaka007 joins the table at seat #1 
+coolkook: folds 
+Uncalled bet ($0.50) returned to sokoros24
+sokoros24 collected $2.14 from pot
+sokoros24: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [Ks Qc 6s]
+Seat 1: wildermorph (button) folded before Flop (didn't bet)
+Seat 3: VampireMagic (small blind) folded before Flop
+Seat 4: coolkook (big blind) folded on the Flop
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 collected ($2.14)
+Seat 7: goldenpig666 folded before Flop (didn't bet)
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691604344:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:22:31 ET
+Table 'Semirot II' 9-max Seat #3 is the button
+Seat 3: VampireMagic ($76.02 in chips) 
+Seat 4: coolkook ($72.26 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($16.03 in chips) 
+Seat 7: goldenpig666 ($73.80 in chips) 
+Seat 9: StudentRB ($50 in chips) 
+coolkook: posts small blind $0.25
+el Fatto: posts big blind $0.50
+Kolyan2114: sits out 
+mazefaka007: sits out 
+*** HOLE CARDS ***
+sokoros24: calls $0.50
+goldenpig666: folds 
+StudentRB: folds 
+VampireMagic: raises $1.50 to $2
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $1.50
+*** FLOP *** [Ks Qh 4s]
+sokoros24: checks 
+VampireMagic: bets $2.25
+sokoros24: folds 
+Uncalled bet ($2.25) returned to VampireMagic
+VampireMagic collected $4.51 from pot
+VampireMagic: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [Ks Qh 4s]
+Seat 3: VampireMagic (button) collected ($4.51)
+Seat 4: coolkook (small blind) folded before Flop
+Seat 5: el Fatto (big blind) folded before Flop
+Seat 6: sokoros24 folded on the Flop
+Seat 7: goldenpig666 folded before Flop (didn't bet)
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691622227:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:23:16 ET
+Table 'Semirot II' 9-max Seat #4 is the button
+Seat 3: VampireMagic ($78.53 in chips) 
+Seat 4: coolkook ($72.01 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($14.03 in chips) 
+Seat 7: goldenpig666 ($73.80 in chips) 
+Seat 9: StudentRB ($50 in chips) 
+el Fatto: posts small blind $0.25
+sokoros24: posts big blind $0.50
+Kolyan2114: sits out 
+mazefaka007: sits out 
+*** HOLE CARDS ***
+goldenpig666: raises $1 to $1.50
+StudentRB: folds 
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $1
+*** FLOP *** [8c Ah 7s]
+sokoros24: checks 
+goldenpig666: bets $2.01
+sokoros24: folds 
+Uncalled bet ($2.01) returned to goldenpig666
+goldenpig666 collected $3.05 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.20 
+Board [8c Ah 7s]
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook (button) folded before Flop (didn't bet)
+Seat 5: el Fatto (small blind) folded before Flop
+Seat 6: sokoros24 (big blind) folded on the Flop
+Seat 7: goldenpig666 collected ($3.05)
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691634100:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:23:46 ET
+Table 'Semirot II' 9-max Seat #5 is the button
+Seat 3: VampireMagic ($78.53 in chips) 
+Seat 4: coolkook ($72.01 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($12.53 in chips) 
+Seat 7: goldenpig666 ($75.35 in chips) 
+Seat 9: StudentRB ($50 in chips) 
+sokoros24: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+Kolyan2114: sits out 
+mazefaka007: sits out 
+*** HOLE CARDS ***
+StudentRB: folds 
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: raises $0.75 to $1.25
+sokoros24: folds 
+goldenpig666: calls $0.75
+*** FLOP *** [8h 9d Ah]
+goldenpig666: checks 
+el Fatto: bets $1.96
+goldenpig666: calls $1.96
+*** TURN *** [8h 9d Ah] [Qh]
+goldenpig666: checks 
+el Fatto: bets $4.76
+goldenpig666: raises $8.74 to $13.50
+el Fatto: folds 
+Uncalled bet ($8.74) returned to goldenpig666
+goldenpig666 collected $15.18 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.19 | Rake $1.01 
+Board [8h 9d Ah Qh]
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto (button) folded on the Turn
+Seat 6: sokoros24 (small blind) folded before Flop
+Seat 7: goldenpig666 (big blind) collected ($15.18)
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691663125:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:24:59 ET
+Table 'Semirot II' 9-max Seat #6 is the button
+Seat 3: VampireMagic ($78.53 in chips) 
+Seat 4: coolkook ($72.01 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($12.28 in chips) 
+Seat 7: goldenpig666 ($82.56 in chips) 
+Seat 8: Kolyan2114 ($50 in chips) 
+Seat 9: StudentRB ($50 in chips) 
+goldenpig666: posts small blind $0.25
+Kolyan2114: posts big blind $0.50
+mazefaka007: sits out 
+*** HOLE CARDS ***
+StudentRB: raises $0.75 to $1.25
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: folds 
+goldenpig666: folds 
+Kolyan2114: calls $0.75
+*** FLOP *** [Ks 9s 9d]
+Kolyan2114: checks 
+StudentRB: bets $0.86
+Kolyan2114: raises $1.81 to $2.67
+StudentRB: calls $1.81
+*** TURN *** [Ks 9s 9d] [3s]
+Kolyan2114: bets $4.23
+StudentRB: calls $4.23
+*** RIVER *** [Ks 9s 9d 3s] [2d]
+Kolyan2114: checks 
+StudentRB: bets $11.79
+Kolyan2114: folds 
+Uncalled bet ($11.79) returned to StudentRB
+StudentRB collected $15.72 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.55 | Rake $0.83 
+Board [Ks 9s 9d 3s 2d]
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 (button) folded before Flop (didn't bet)
+Seat 7: goldenpig666 (small blind) folded before Flop
+Seat 8: Kolyan2114 (big blind) folded on the River
+Seat 9: StudentRB collected ($15.72)
+
+
+
+PokerStars Hand #228691697269:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:26:25 ET
+Table 'Semirot II' 9-max Seat #7 is the button
+Seat 3: VampireMagic ($78.53 in chips) 
+Seat 4: coolkook ($72.01 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($12.28 in chips) 
+Seat 7: goldenpig666 ($82.31 in chips) 
+Seat 8: Kolyan2114 ($50 in chips) 
+Seat 9: StudentRB ($57.57 in chips) 
+Kolyan2114: posts small blind $0.25
+StudentRB: posts big blind $0.50
+mazefaka007: sits out 
+*** HOLE CARDS ***
+VampireMagic: raises $1 to $1.50
+coolkook: folds 
+el Fatto: folds 
+sokoros24: folds 
+goldenpig666: folds 
+Kolyan2114: folds 
+StudentRB: folds 
+Uncalled bet ($1) returned to VampireMagic
+VampireMagic collected $1.25 from pot
+VampireMagic: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: VampireMagic collected ($1.25)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 folded before Flop (didn't bet)
+Seat 7: goldenpig666 (button) folded before Flop (didn't bet)
+Seat 8: Kolyan2114 (small blind) folded before Flop
+Seat 9: StudentRB (big blind) folded before Flop
+
+
+
+PokerStars Hand #228691704159:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:26:43 ET
+Table 'Semirot II' 9-max Seat #8 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 3: VampireMagic ($79.28 in chips) 
+Seat 4: coolkook ($72.01 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($12.28 in chips) 
+Seat 7: goldenpig666 ($82.31 in chips) 
+Seat 8: Kolyan2114 ($50 in chips) 
+Seat 9: StudentRB ($57.07 in chips) 
+StudentRB: posts small blind $0.25
+mazefaka007: posts big blind $0.50
+*** HOLE CARDS ***
+VampireMagic: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $0.50
+goldenpig666: folds 
+Kolyan2114: folds 
+StudentRB: raises $2 to $2.50
+mazefaka007: folds 
+sokoros24: folds 
+Uncalled bet ($2) returned to StudentRB
+StudentRB collected $1.50 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: mazefaka007 (big blind) folded before Flop
+Seat 3: VampireMagic folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 folded before Flop
+Seat 7: goldenpig666 folded before Flop (didn't bet)
+Seat 8: Kolyan2114 (button) folded before Flop (didn't bet)
+Seat 9: StudentRB (small blind) collected ($1.50)
+
+
+
+PokerStars Hand #228691711960:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:27:03 ET
+Table 'Semirot II' 9-max Seat #9 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 4: coolkook ($72.01 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($11.78 in chips) 
+Seat 7: goldenpig666 ($82.31 in chips) 
+Seat 8: Kolyan2114 ($50 in chips) 
+Seat 9: StudentRB ($58.07 in chips) 
+mazefaka007: posts small blind $0.25
+VampireMagic: is sitting out 
+coolkook: posts big blind $0.50
+*** HOLE CARDS ***
+VampireMagic leaves the table
+el Fatto: folds 
+sokoros24: calls $0.50
+goldenpig666: folds 
+Kolyan2114: folds 
+StudentRB: folds 
+alexrus18 joins the table at seat #3 
+mazefaka007: folds 
+coolkook: checks 
+*** FLOP *** [5d 7c Ad]
+coolkook: checks 
+sokoros24: checks 
+*** TURN *** [5d 7c Ad] [Th]
+goldenpig666 leaves the table
+coolkook: checks 
+sokoros24: checks 
+*** RIVER *** [5d 7c Ad Th] [Kc]
+coolkook: checks 
+sokoros24: bets $0.59
+coolkook: folds 
+Uncalled bet ($0.59) returned to sokoros24
+sokoros24 collected $1.19 from pot
+sokoros24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [5d 7c Ad Th Kc]
+Seat 1: mazefaka007 (small blind) folded before Flop
+Seat 4: coolkook (big blind) folded on the River
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 collected ($1.19)
+Seat 7: goldenpig666 folded before Flop (didn't bet)
+Seat 8: Kolyan2114 folded before Flop (didn't bet)
+Seat 9: StudentRB (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691737418:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:27:54 ET
+Table 'Semirot II' 9-max Seat #1 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 4: coolkook ($71.51 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($12.47 in chips) 
+Seat 8: Kolyan2114 ($50 in chips) 
+Seat 9: StudentRB ($58.07 in chips) 
+coolkook: posts small blind $0.25
+el Fatto: posts big blind $0.50
+*** HOLE CARDS ***
+sokoros24: calls $0.50
+Kolyan2114: folds 
+StudentRB: folds 
+mazefaka007: folds 
+coolkook: calls $0.25
+el Fatto: checks 
+*** FLOP *** [6h Ac 4d]
+coolkook: checks 
+el Fatto: checks 
+sokoros24: checks 
+*** TURN *** [6h Ac 4d] [9d]
+Pachebrash joins the table at seat #7 
+coolkook: bets $1.50
+el Fatto: folds 
+sokoros24: folds 
+Uncalled bet ($1.50) returned to coolkook
+coolkook collected $1.42 from pot
+coolkook: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [6h Ac 4d 9d]
+Seat 1: mazefaka007 (button) folded before Flop (didn't bet)
+Seat 4: coolkook (small blind) collected ($1.42)
+Seat 5: el Fatto (big blind) folded on the Turn
+Seat 6: sokoros24 folded on the Turn
+Seat 8: Kolyan2114 folded before Flop (didn't bet)
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691757616:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:28:46 ET
+Table 'Semirot II' 9-max Seat #4 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 4: coolkook ($72.43 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($11.97 in chips) 
+Seat 8: Kolyan2114 ($50 in chips) 
+Seat 9: StudentRB ($58.07 in chips) 
+el Fatto: posts small blind $0.25
+sokoros24: posts big blind $0.50
+Pachebrash: sits out 
+alexrus18: sits out 
+*** HOLE CARDS ***
+Kolyan2114: folds 
+StudentRB: folds 
+mazefaka007: folds 
+coolkook: raises $0.56 to $1.06
+el Fatto: folds 
+sokoros24: folds 
+Uncalled bet ($0.56) returned to coolkook
+coolkook collected $1.25 from pot
+coolkook: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: mazefaka007 folded before Flop (didn't bet)
+Seat 4: coolkook (button) collected ($1.25)
+Seat 5: el Fatto (small blind) folded before Flop
+Seat 6: sokoros24 (big blind) folded before Flop
+Seat 8: Kolyan2114 folded before Flop (didn't bet)
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691763737:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:29:02 ET
+Table 'Semirot II' 9-max Seat #5 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 4: coolkook ($73.18 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($11.47 in chips) 
+Seat 7: Pachebrash ($50 in chips) 
+Seat 8: Kolyan2114 ($50 in chips) 
+Seat 9: StudentRB ($58.07 in chips) 
+sokoros24: posts small blind $0.25
+Pachebrash: posts big blind $0.50
+alexrus18: sits out 
+*** HOLE CARDS ***
+Kolyan2114: folds 
+StudentRB: folds 
+mazefaka007: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $0.25
+Pachebrash: checks 
+*** FLOP *** [4h 3h 3d]
+sokoros24: checks 
+Pachebrash: bets $0.75
+sokoros24: folds 
+Uncalled bet ($0.75) returned to Pachebrash
+Pachebrash collected $0.95 from pot
+Pachebrash: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [4h 3h 3d]
+Seat 1: mazefaka007 folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto (button) folded before Flop (didn't bet)
+Seat 6: sokoros24 (small blind) folded on the Flop
+Seat 7: Pachebrash (big blind) collected ($0.95)
+Seat 8: Kolyan2114 folded before Flop (didn't bet)
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691774798:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:29:30 ET
+Table 'Semirot II' 9-max Seat #6 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 4: coolkook ($73.18 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($10.97 in chips) 
+Seat 7: Pachebrash ($50.45 in chips) 
+Seat 8: Kolyan2114 ($50 in chips) 
+Seat 9: StudentRB ($58.07 in chips) 
+Pachebrash: posts small blind $0.25
+Kolyan2114: posts big blind $0.50
+alexrus18: sits out 
+*** HOLE CARDS ***
+StudentRB: folds 
+mazefaka007: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: raises $0.50 to $1
+Pachebrash: folds 
+Kolyan2114: raises $3 to $4
+sokoros24: calls $3
+*** FLOP *** [3c Td 2d]
+Kolyan2114: checks 
+sokoros24: checks 
+*** TURN *** [3c Td 2d] [Kc]
+Kolyan2114: checks 
+sokoros24: checks 
+*** RIVER *** [3c Td 2d Kc] [9s]
+Kolyan2114: bets $7.84
+sokoros24: folds 
+Uncalled bet ($7.84) returned to Kolyan2114
+Kolyan2114 collected $7.84 from pot
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.41 
+Board [3c Td 2d Kc 9s]
+Seat 1: mazefaka007 folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 (button) folded on the River
+Seat 7: Pachebrash (small blind) folded before Flop
+Seat 8: Kolyan2114 (big blind) collected ($7.84)
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691791993:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:30:13 ET
+Table 'Semirot II' 9-max Seat #7 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 4: coolkook ($73.18 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($6.97 in chips) 
+Seat 7: Pachebrash ($50.20 in chips) 
+Seat 8: Kolyan2114 ($53.84 in chips) 
+Seat 9: StudentRB ($58.07 in chips) 
+Kolyan2114: posts small blind $0.25
+StudentRB: posts big blind $0.50
+alexrus18: sits out 
+*** HOLE CARDS ***
+mazefaka007: folds 
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $0.50
+Pachebrash: folds 
+Kolyan2114: folds 
+StudentRB: checks 
+*** FLOP *** [6s 3d 6d]
+StudentRB: bets $0.50
+sokoros24: calls $0.50
+*** TURN *** [6s 3d 6d] [8h]
+StudentRB: checks 
+sokoros24: checks 
+*** RIVER *** [6s 3d 6d 8h] [Js]
+StudentRB: checks 
+sokoros24: checks 
+*** SHOW DOWN ***
+StudentRB: shows [Kd 3s] (two pair, Sixes and Threes)
+sokoros24: mucks hand 
+StudentRB collected $2.14 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [6s 3d 6d 8h Js]
+Seat 1: mazefaka007 folded before Flop (didn't bet)
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 mucked
+Seat 7: Pachebrash (button) folded before Flop (didn't bet)
+Seat 8: Kolyan2114 (small blind) folded before Flop
+Seat 9: StudentRB (big blind) showed [Kd 3s] and won ($2.14) with two pair, Sixes and Threes
+
+
+
+PokerStars Hand #228691803265:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:30:42 ET
+Table 'Semirot II' 9-max Seat #8 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 4: coolkook ($73.18 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($5.97 in chips) 
+Seat 7: Pachebrash ($50.20 in chips) 
+Seat 8: Kolyan2114 ($53.59 in chips) 
+Seat 9: StudentRB ($59.21 in chips) 
+StudentRB: posts small blind $0.25
+mazefaka007: posts big blind $0.50
+alexrus18: sits out 
+*** HOLE CARDS ***
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $0.50
+Pachebrash: folds 
+Kolyan2114: folds 
+StudentRB: folds 
+mazefaka007: checks 
+*** FLOP *** [5c Js 9c]
+mazefaka007: checks 
+sokoros24: checks 
+*** TURN *** [5c Js 9c] [Jd]
+mazefaka007: checks 
+sokoros24: checks 
+*** RIVER *** [5c Js 9c Jd] [3s]
+mazefaka007: checks 
+sokoros24: checks 
+*** SHOW DOWN ***
+mazefaka007: shows [Qd 7c] (a pair of Jacks)
+sokoros24: shows [8d Kd] (a pair of Jacks - King kicker)
+sokoros24 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [5c Js 9c Jd 3s]
+Seat 1: mazefaka007 (big blind) showed [Qd 7c] and lost with a pair of Jacks
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 showed [8d Kd] and won ($1.19) with a pair of Jacks
+Seat 7: Pachebrash folded before Flop (didn't bet)
+Seat 8: Kolyan2114 (button) folded before Flop (didn't bet)
+Seat 9: StudentRB (small blind) folded before Flop
+
+
+
+PokerStars Hand #228691822420:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:31:29 ET
+Table 'Semirot II' 9-max Seat #9 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 3: alexrus18 ($50 in chips) 
+Seat 4: coolkook ($73.18 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($6.66 in chips) 
+Seat 7: Pachebrash ($50.20 in chips) 
+Seat 8: Kolyan2114 ($53.59 in chips) 
+Seat 9: StudentRB ($58.96 in chips) 
+mazefaka007: posts small blind $0.25
+alexrus18: posts big blind $0.50
+*** HOLE CARDS ***
+coolkook: folds 
+el Fatto: folds 
+sokoros24: calls $0.50
+Pachebrash: folds 
+Kolyan2114: folds 
+StudentRB: raises $1.50 to $2
+mazefaka007: folds 
+alexrus18: folds 
+sokoros24: folds 
+Uncalled bet ($1.50) returned to StudentRB
+StudentRB collected $1.75 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: mazefaka007 (small blind) folded before Flop
+Seat 3: alexrus18 (big blind) folded before Flop
+Seat 4: coolkook folded before Flop (didn't bet)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 6: sokoros24 folded before Flop
+Seat 7: Pachebrash folded before Flop (didn't bet)
+Seat 8: Kolyan2114 folded before Flop (didn't bet)
+Seat 9: StudentRB (button) collected ($1.75)
+
+
+
+PokerStars Hand #228691828186:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:31:44 ET
+Table 'Semirot II' 9-max Seat #1 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 3: alexrus18 ($50 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($6.16 in chips) 
+Seat 7: Pachebrash ($50.20 in chips) 
+Seat 8: Kolyan2114 ($53.59 in chips) 
+Seat 9: StudentRB ($60.21 in chips) 
+alexrus18: posts small blind $0.25
+coolkook: is sitting out 
+el Fatto: posts big blind $0.50
+*** HOLE CARDS ***
+sokoros24: raises $0.50 to $1
+coolkook leaves the table
+Pachebrash: folds 
+Kolyan2114: raises $2.75 to $3.75
+StudentRB: folds 
+mazefaka007: folds 
+alexrus18: folds 
+dikanmax joins the table at seat #4 
+el Fatto: folds 
+sokoros24: calls $2.75
+*** FLOP *** [4d 8h Jh]
+sokoros24: checks 
+Kolyan2114: bets $2.67
+sokoros24: folds 
+Uncalled bet ($2.67) returned to Kolyan2114
+Kolyan2114 collected $7.84 from pot
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.41 
+Board [4d 8h Jh]
+Seat 1: mazefaka007 (button) folded before Flop (didn't bet)
+Seat 3: alexrus18 (small blind) folded before Flop
+Seat 5: el Fatto (big blind) folded before Flop
+Seat 6: sokoros24 folded on the Flop
+Seat 7: Pachebrash folded before Flop (didn't bet)
+Seat 8: Kolyan2114 collected ($7.84)
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691845478:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:32:27 ET
+Table 'Semirot II' 9-max Seat #3 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 3: alexrus18 ($50 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 6: sokoros24 ($2.41 in chips) 
+Seat 7: Pachebrash ($50.20 in chips) 
+Seat 8: Kolyan2114 ($57.68 in chips) 
+Seat 9: StudentRB ($60.21 in chips) 
+el Fatto: posts small blind $0.25
+sokoros24: posts big blind $0.50
+*** HOLE CARDS ***
+Pachebrash: folds 
+Kolyan2114: folds 
+StudentRB: raises $0.75 to $1.25
+mazefaka007: folds 
+alexrus18: folds 
+el Fatto: folds 
+sokoros24: raises $1.16 to $2.41 and is all-in
+StudentRB: calls $1.16
+*** FLOP *** [9s Qh 8h]
+*** TURN *** [9s Qh 8h] [5h]
+*** RIVER *** [9s Qh 8h 5h] [Qd]
+*** SHOW DOWN ***
+sokoros24: shows [Ah Jd] (a pair of Queens)
+StudentRB: shows [Qc Ac] (three of a kind, Queens)
+StudentRB collected $4.82 from pot
+*** SUMMARY ***
+Total pot $5.07 | Rake $0.25 
+Board [9s Qh 8h 5h Qd]
+Seat 1: mazefaka007 folded before Flop (didn't bet)
+Seat 3: alexrus18 (button) folded before Flop (didn't bet)
+Seat 5: el Fatto (small blind) folded before Flop
+Seat 6: sokoros24 (big blind) showed [Ah Jd] and lost with a pair of Queens
+Seat 7: Pachebrash folded before Flop (didn't bet)
+Seat 8: Kolyan2114 folded before Flop (didn't bet)
+Seat 9: StudentRB showed [Qc Ac] and won ($4.82) with three of a kind, Queens
+
+
+
+PokerStars Hand #228691853469:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:32:47 ET
+Table 'Semirot II' 9-max Seat #5 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 3: alexrus18 ($50 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 7: Pachebrash ($50.20 in chips) 
+Seat 8: Kolyan2114 ($57.68 in chips) 
+Seat 9: StudentRB ($62.62 in chips) 
+Pachebrash: posts small blind $0.25
+Kolyan2114: posts big blind $0.50
+dikanmax: sits out 
+*** HOLE CARDS ***
+StudentRB: folds 
+mazefaka007: folds 
+alexrus18: folds 
+el Fatto: folds 
+Pachebrash: raises $1 to $1.50
+sokoros24 leaves the table
+Kolyan2114: folds 
+Uncalled bet ($1) returned to Pachebrash
+Pachebrash collected $1 from pot
+Pachebrash: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: mazefaka007 folded before Flop (didn't bet)
+Seat 3: alexrus18 folded before Flop (didn't bet)
+Seat 5: el Fatto (button) folded before Flop (didn't bet)
+Seat 7: Pachebrash (small blind) collected ($1)
+Seat 8: Kolyan2114 (big blind) folded before Flop
+Seat 9: StudentRB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691860557:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:33:05 ET
+Table 'Semirot II' 9-max Seat #7 is the button
+Seat 3: alexrus18 ($50 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 7: Pachebrash ($50.70 in chips) 
+Seat 8: Kolyan2114 ($57.18 in chips) 
+Kolyan2114: posts small blind $0.25
+StudentRB: is sitting out 
+mazefaka007: is sitting out 
+alexrus18: posts big blind $0.50
+dikanmax: sits out 
+*** HOLE CARDS ***
+StudentRB leaves the table
+el Fatto: folds 
+Pachebrash: folds 
+Kolyan2114: folds 
+Uncalled bet ($0.25) returned to alexrus18
+alexrus18 collected $0.50 from pot
+vinny_coyle was removed from the table for failing to post
+vinny_coyle leaves the table
+alexrus18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: alexrus18 (big blind) collected ($0.50)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 7: Pachebrash (button) folded before Flop (didn't bet)
+Seat 8: Kolyan2114 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228691865345:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:33:16 ET
+Table 'Semirot II' 9-max Seat #8 is the button
+Seat 3: alexrus18 ($50.25 in chips) 
+Seat 4: dikanmax ($50 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 7: Pachebrash ($50.70 in chips) 
+Seat 8: Kolyan2114 ($56.93 in chips) 
+alexrus18: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+el Fatto: folds 
+Pachebrash: folds 
+Kolyan2114: folds 
+alexrus18: folds 
+Uncalled bet ($0.25) returned to dikanmax
+nlaz29 joins the table at seat #6 
+dikanmax collected $0.50 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: alexrus18 (small blind) folded before Flop
+Seat 4: dikanmax (big blind) collected ($0.50)
+Seat 5: el Fatto folded before Flop (didn't bet)
+Seat 7: Pachebrash folded before Flop (didn't bet)
+Seat 8: Kolyan2114 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691868991:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:33:26 ET
+Table 'Semirot II' 9-max Seat #3 is the button
+Seat 3: alexrus18 ($50 in chips) 
+Seat 4: dikanmax ($50.25 in chips) 
+Seat 5: el Fatto ($50 in chips) 
+Seat 7: Pachebrash ($50.70 in chips) 
+Seat 8: Kolyan2114 ($56.93 in chips) 
+dikanmax: posts small blind $0.25
+el Fatto: posts big blind $0.50
+nlaz29: sits out 
+*** HOLE CARDS ***
+Pachebrash: folds 
+Kolyan2114: folds 
+alexrus18: folds 
+dikanmax: raises $1 to $1.50
+el Fatto: calls $1
+*** FLOP *** [Jh Ks Qs]
+dikanmax: checks 
+el Fatto: checks 
+*** TURN *** [Jh Ks Qs] [Tc]
+dikanmax: checks 
+el Fatto: bets $2.85
+dikanmax: folds 
+Uncalled bet ($2.85) returned to el Fatto
+el Fatto collected $2.85 from pot
+el Fatto: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Jh Ks Qs Tc]
+Seat 3: alexrus18 (button) folded before Flop (didn't bet)
+Seat 4: dikanmax (small blind) folded on the Turn
+Seat 5: el Fatto (big blind) collected ($2.85)
+Seat 7: Pachebrash folded before Flop (didn't bet)
+Seat 8: Kolyan2114 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691904061:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:34:42 ET
+Table 'Semirot II' 9-max Seat #4 is the button
+Seat 3: alexrus18 ($50 in chips) 
+Seat 4: dikanmax ($50 in chips) 
+Seat 5: el Fatto ($51.35 in chips) 
+Seat 6: nlaz29 ($40 in chips) 
+Seat 7: Pachebrash ($50.70 in chips) 
+Seat 8: Kolyan2114 ($56.93 in chips) 
+el Fatto: posts small blind $0.25
+nlaz29: posts big blind $0.50
+mazefaka007: sits out 
+*** HOLE CARDS ***
+Pachebrash: folds 
+Kolyan2114: folds 
+Pachebrash leaves the table
+alexrus18: folds 
+alexrus18 leaves the table
+dikanmax: folds 
+el Fatto: raises $0.75 to $1.25
+nlaz29: folds 
+Uncalled bet ($0.75) returned to el Fatto
+el Fatto collected $1 from pot
+el Fatto: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: alexrus18 folded before Flop (didn't bet)
+Seat 4: dikanmax (button) folded before Flop (didn't bet)
+Seat 5: el Fatto (small blind) collected ($1)
+Seat 6: nlaz29 (big blind) folded before Flop
+Seat 7: Pachebrash folded before Flop (didn't bet)
+Seat 8: Kolyan2114 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691915137:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:35:09 ET
+Table 'Semirot II' 9-max Seat #5 is the button
+Seat 1: mazefaka007 ($50 in chips) 
+Seat 4: dikanmax ($50 in chips) 
+Seat 5: el Fatto ($51.85 in chips) 
+Seat 8: Kolyan2114 ($56.93 in chips) 
+Kolyan2114: posts small blind $0.25
+mazefaka007: posts big blind $0.50
+*** HOLE CARDS ***
+nlaz29 leaves the table
+dikanmax: folds 
+el Fatto: folds 
+Kolyan2114: folds 
+Uncalled bet ($0.25) returned to mazefaka007
+mazefaka007 collected $0.50 from pot
+mazefaka007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: mazefaka007 (big blind) collected ($0.50)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: el Fatto (button) folded before Flop (didn't bet)
+Seat 8: Kolyan2114 (small blind) folded before Flop
+
+
+

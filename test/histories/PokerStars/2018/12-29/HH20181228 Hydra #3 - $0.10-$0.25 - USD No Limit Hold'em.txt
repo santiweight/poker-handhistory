@@ -1,0 +1,44 @@
+﻿PokerStars Zoom Hand #195021909233:  Hold'em No Limit ($0.10/$0.25) - 2018/12/29 2:29:04 UTC [2018/12/28 21:29:04 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: Q'sFullOf8's ($30.90 in chips) 
+Seat 2: aa1421b ($17.80 in chips) 
+Seat 3: SantiagoWeight ($25 in chips) 
+Seat 4: zhang1zhang ($39.79 in chips) 
+Seat 5: samioattila ($40.11 in chips) 
+Seat 6: ckriszee ($78.92 in chips) 
+aa1421b: posts small blind $0.10
+SantiagoWeight: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [9d Ks]
+zhang1zhang: folds 
+samioattila: folds 
+ckriszee: folds 
+Q'sFullOf8's: raises $0.25 to $0.50
+aa1421b: folds 
+SantiagoWeight: calls $0.25
+*** FLOP *** [Jh 7d Kh]
+SantiagoWeight: checks 
+Q'sFullOf8's: bets $0.45
+SantiagoWeight: calls $0.45
+*** TURN *** [Jh 7d Kh] [Jd]
+SantiagoWeight: checks 
+Q'sFullOf8's: checks 
+*** RIVER *** [Jh 7d Kh Jd] [6d]
+SantiagoWeight: bets $1
+Q'sFullOf8's: calls $1
+*** SHOW DOWN ***
+SantiagoWeight: shows [9d Ks] (two pair, Kings and Jacks)
+Q'sFullOf8's: mucks hand 
+SantiagoWeight collected $3.82 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.18 
+Board [Jh 7d Kh Jd 6d]
+Seat 1: Q'sFullOf8's (button) mucked [6h 7s]
+Seat 2: aa1421b (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) showed [9d Ks] and won ($3.82) with two pair, Kings and Jacks
+Seat 4: zhang1zhang folded before Flop (didn't bet)
+Seat 5: samioattila folded before Flop (didn't bet)
+Seat 6: ckriszee folded before Flop (didn't bet)
+
+
+

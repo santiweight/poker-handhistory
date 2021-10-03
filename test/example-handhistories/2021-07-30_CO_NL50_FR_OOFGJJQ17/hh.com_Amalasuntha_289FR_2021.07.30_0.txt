@@ -1,0 +1,5498 @@
+ÔªøPokerStars Hand #228673725983:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:48:08 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: Red Harvey ($10.85 in chips) 
+Seat 2: shakey_1989 ($23.01 in chips) 
+Seat 3: Zager.v ($56.40 in chips) 
+Seat 4: PanicJX ($51.20 in chips) 
+Seat 5: KABAL_ua ($54.69 in chips) 
+Seat 6: Medved219 ($52.51 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($49.25 in chips) 
+shakey_1989: posts small blind $0.25
+Zager.v: posts big blind $0.50
+*** HOLE CARDS ***
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77 has timed out
+zverev_77: folds 
+ssorinacho92: raises $0.75 to $1.25
+Red Harvey: calls $1.25
+shakey_1989: calls $1
+Zager.v: folds 
+*** FLOP *** [2c 3c 6c]
+shakey_1989: checks 
+ssorinacho92: bets $3.23
+Red Harvey: calls $3.23
+shakey_1989: folds 
+*** TURN *** [2c 3c 6c] [Jd]
+ssorinacho92: bets $8.14
+Red Harvey: calls $6.37 and is all-in
+Uncalled bet ($1.77) returned to ssorinacho92
+*** RIVER *** [2c 3c 6c Jd] [Qs]
+*** SHOW DOWN ***
+ssorinacho92: shows [Qc Qd] (three of a kind, Queens)
+Red Harvey: shows [Kc Jh] (a pair of Jacks)
+ssorinacho92 collected $22.28 from pot
+Red Harvey cashed out the hand for $6.01 | Cash Out Fee $0.06
+*** SUMMARY ***
+Total pot $23.45 | Rake $1.17 
+Board [2c 3c 6c Jd Qs]
+Seat 1: Red Harvey (button) showed [Kc Jh] and lost with a pair of Jacks (cashed out).
+Seat 2: shakey_1989 (small blind) folded on the Flop
+Seat 3: Zager.v (big blind) folded before Flop
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 showed [Qc Qd] and won ($22.28) with three of a kind, Queens
+
+
+
+PokerStars Hand #228674769163:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:51:06 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: cosmin198484 ($31.98 in chips) 
+Seat 3: marshallteem ($39.50 in chips) 
+Seat 4: Popokluev ($56.48 in chips) 
+Seat 5: Schillaci92 ($18.75 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50.69 in chips) 
+Seat 8: Medved219 ($60.39 in chips) 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: posts small blind $0.25
+Medved219: posts big blind $0.50
+juwnas: sits out 
+*** HOLE CARDS ***
+ilaviiitech joins the table at seat #9 
+cosmin198484: raises $1 to $1.50
+marshallteem: calls $1.50
+Popokluev: folds 
+Schillaci92: calls $1.50
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Medved219: calls $1
+*** FLOP *** [8s 7s 9h]
+Medved219: checks 
+cosmin198484: bets $5.94
+marshallteem: folds 
+Schillaci92: raises $11.31 to $17.25 and is all-in
+Medved219: folds 
+cosmin198484: calls $11.31
+cosmin198484:  
+Schillaci92:  
+*** TURN *** [8s 7s 9h] [6d]
+*** RIVER *** [8s 7s 9h 6d] [4s]
+*** SHOW DOWN ***
+cosmin198484: shows [3s As] (a flush, Ace high)
+Schillaci92: shows [Ad Td] (a straight, Six to Ten)
+cosmin198484 collected $38.75 from pot
+*** SUMMARY ***
+Total pot $40.75 | Rake $2 
+Board [8s 7s 9h 6d 4s]
+Seat 1: cosmin198484 showed [3s As] and won ($38.75) with a flush, Ace high
+Seat 3: marshallteem folded on the Flop
+Seat 4: Popokluev folded before Flop (didn't bet)
+Seat 5: Schillaci92 (button) showed [Ad Td] and lost with a straight, Six to Ten
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R (small blind) folded before Flop
+Seat 8: Medved219 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228674778658:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:52:11 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 1: cosmin198484 ($51.98 in chips) 
+Seat 3: marshallteem ($38 in chips) 
+Seat 4: Popokluev ($56.48 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50.44 in chips) 
+Seat 8: Medved219 ($58.89 in chips) 
+Seat 9: ilaviiitech ($50 in chips) 
+Medved219: posts small blind $0.25
+ilaviiitech: posts big blind $0.50
+juwnas: sits out 
+*** HOLE CARDS ***
+cosmin198484: folds 
+marshallteem: folds 
+Popokluev: raises $0.75 to $1.25
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Schillaci92 leaves the table
+Medved219: raises $4.25 to $5.50
+ilaviiitech: folds 
+Popokluev: calls $4.25
+*** FLOP *** [6c 7d Qh]
+Medved219: bets $3.60
+Popokluev: folds 
+Uncalled bet ($3.60) returned to Medved219
+Medved219 collected $10.92 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.58 
+Board [6c 7d Qh]
+Seat 1: cosmin198484 folded before Flop (didn't bet)
+Seat 3: marshallteem folded before Flop (didn't bet)
+Seat 4: Popokluev folded on the Flop
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R (button) folded before Flop (didn't bet)
+Seat 8: Medved219 (small blind) collected ($10.92)
+Seat 9: ilaviiitech (big blind) folded before Flop
+
+
+
+PokerStars Hand #228674785285:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:52:56 ET
+Table 'Amalasuntha II' 9-max Seat #8 is the button
+Seat 1: cosmin198484 ($51.98 in chips) 
+Seat 3: marshallteem ($38 in chips) 
+Seat 4: Popokluev ($50.98 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50.44 in chips) 
+Seat 8: Medved219 ($64.31 in chips) 
+Seat 9: ilaviiitech ($50 in chips) 
+ilaviiitech: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+juwnas: sits out 
+chata.iz: sits out 
+*** HOLE CARDS ***
+marshallteem: calls $0.50
+Popokluev: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Medved219: folds 
+ilaviiitech: folds 
+Vert Dider joins the table at seat #5 
+cosmin198484: checks 
+*** FLOP *** [As 3s Kc]
+cosmin198484: checks 
+marshallteem: bets $0.50
+cosmin198484: folds 
+Uncalled bet ($0.50) returned to marshallteem
+marshallteem collected $1.19 from pot
+marshallteem: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [As 3s Kc]
+Seat 1: cosmin198484 (big blind) folded on the Flop
+Seat 3: marshallteem collected ($1.19)
+Seat 4: Popokluev folded before Flop (didn't bet)
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 8: Medved219 (button) folded before Flop (didn't bet)
+Seat 9: ilaviiitech (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674792852:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:53:47 ET
+Table 'Amalasuntha II' 9-max Seat #9 is the button
+Seat 1: cosmin198484 ($51.48 in chips) 
+Seat 2: juwnas ($50 in chips) 
+Seat 3: marshallteem ($38.69 in chips) 
+Seat 4: Popokluev ($50.98 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50.44 in chips) 
+Seat 8: Medved219 ($64.31 in chips) 
+Seat 9: ilaviiitech ($50 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+Vert Dider: sits out 
+chata.iz: sits out 
+*** HOLE CARDS ***
+marshallteem: folds 
+Popokluev: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Medved219: folds 
+ilaviiitech: folds 
+cosmin198484: raises $1 to $1.50
+juwnas: folds 
+Uncalled bet ($1) returned to cosmin198484
+cosmin198484 collected $1 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: cosmin198484 (small blind) collected ($1)
+Seat 2: juwnas (big blind) folded before Flop
+Seat 3: marshallteem folded before Flop (didn't bet)
+Seat 4: Popokluev folded before Flop (didn't bet)
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 8: Medved219 folded before Flop (didn't bet)
+Seat 9: ilaviiitech (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674795940:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:54:08 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($51.98 in chips) 
+Seat 2: juwnas ($49.50 in chips) 
+Seat 3: marshallteem ($38.69 in chips) 
+Seat 4: Popokluev ($50.98 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50.44 in chips) 
+Seat 8: Medved219 ($64.31 in chips) 
+Seat 9: ilaviiitech ($50 in chips) 
+juwnas: posts small blind $0.25
+marshallteem: posts big blind $0.50
+Vert Dider: sits out 
+chata.iz: sits out 
+*** HOLE CARDS ***
+Popokluev: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Medved219: folds 
+ilaviiitech: folds 
+cosmin198484: raises $1 to $1.50
+juwnas: folds 
+marshallteem: calls $1
+*** FLOP *** [Kd 2s Th]
+marshallteem: checks 
+cosmin198484: checks 
+*** TURN *** [Kd 2s Th] [9c]
+marshallteem: checks 
+cosmin198484: checks 
+*** RIVER *** [Kd 2s Th 9c] [Td]
+marshallteem: checks 
+cosmin198484: checks 
+*** SHOW DOWN ***
+marshallteem: shows [5s 6s] (a pair of Tens)
+cosmin198484: shows [7h 5h] (a pair of Tens - King+Nine+Seven kicker)
+cosmin198484 collected $3.09 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [Kd 2s Th 9c Td]
+Seat 1: cosmin198484 (button) showed [7h 5h] and won ($3.09) with a pair of Tens
+Seat 2: juwnas (small blind) folded before Flop
+Seat 3: marshallteem (big blind) showed [5s 6s] and lost with a pair of Tens
+Seat 4: Popokluev folded before Flop (didn't bet)
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 8: Medved219 folded before Flop (didn't bet)
+Seat 9: ilaviiitech folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674803682:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:55:01 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($53.57 in chips) 
+Seat 2: juwnas ($49.25 in chips) 
+Seat 3: marshallteem ($37.19 in chips) 
+Seat 4: Popokluev ($50.98 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50.44 in chips) 
+Seat 8: Medved219 ($64.31 in chips) 
+Seat 9: ilaviiitech ($50 in chips) 
+marshallteem: posts small blind $0.25
+Popokluev: posts big blind $0.50
+Vert Dider: sits out 
+chata.iz: sits out 
+*** HOLE CARDS ***
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Medved219: folds 
+ilaviiitech: folds 
+cosmin198484: folds 
+juwnas: folds 
+marshallteem: calls $0.25
+Popokluev: checks 
+*** FLOP *** [Jd Kc Qh]
+marshallteem: bets $0.50
+Popokluev: calls $0.50
+*** TURN *** [Jd Kc Qh] [7c]
+marshallteem: bets $1
+Popokluev: folds 
+Uncalled bet ($1) returned to marshallteem
+marshallteem collected $1.90 from pot
+marshallteem: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Jd Kc Qh 7c]
+Seat 1: cosmin198484 folded before Flop (didn't bet)
+Seat 2: juwnas (button) folded before Flop (didn't bet)
+Seat 3: marshallteem (small blind) collected ($1.90)
+Seat 4: Popokluev (big blind) folded on the Turn
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 8: Medved219 folded before Flop (didn't bet)
+Seat 9: ilaviiitech folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674808585:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:55:38 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 1: cosmin198484 ($53.57 in chips) 
+Seat 2: juwnas ($49.25 in chips) 
+Seat 3: marshallteem ($38.09 in chips) 
+Seat 4: Popokluev ($50 in chips) 
+Seat 5: Vert Dider ($50 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50.44 in chips) 
+Seat 8: Medved219 ($64.31 in chips) 
+Seat 9: ilaviiitech ($50 in chips) 
+Popokluev: posts small blind $0.25
+Vert Dider: posts big blind $0.50
+chata.iz: sits out 
+*** HOLE CARDS ***
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Medved219: folds 
+ilaviiitech: folds 
+cosmin198484: folds 
+juwnas has timed out
+juwnas: folds 
+marshallteem: folds 
+Popokluev: raises $1 to $1.50
+Vert Dider: calls $1
+*** FLOP *** [Qh Th 9c]
+Popokluev: checks 
+Vert Dider: checks 
+*** TURN *** [Qh Th 9c] [3d]
+Popokluev: bets $2.19
+Vert Dider: folds 
+Uncalled bet ($2.19) returned to Popokluev
+Popokluev collected $2.85 from pot
+Popokluev: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Qh Th 9c 3d]
+Seat 1: cosmin198484 folded before Flop (didn't bet)
+Seat 2: juwnas folded before Flop (didn't bet)
+Seat 3: marshallteem (button) folded before Flop (didn't bet)
+Seat 4: Popokluev (small blind) collected ($2.85)
+Seat 5: Vert Dider (big blind) folded on the Turn
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 8: Medved219 folded before Flop (didn't bet)
+Seat 9: ilaviiitech folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674814945:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:56:28 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: cosmin198484 ($53.57 in chips) 
+Seat 2: juwnas ($49.25 in chips) 
+Seat 3: marshallteem ($38.09 in chips) 
+Seat 4: Popokluev ($51.35 in chips) 
+Seat 5: Vert Dider ($50 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50.44 in chips) 
+Seat 8: Medved219 ($64.31 in chips) 
+Seat 9: ilaviiitech ($50 in chips) 
+Vert Dider: posts small blind $0.25
+D‚‚Ç¨†est7oye‚‚Ç¨†R: posts big blind $0.50
+chata.iz: sits out 
+*** HOLE CARDS ***
+Medved219: folds 
+ilaviiitech: raises $0.78 to $1.28
+cosmin198484: folds 
+juwnas: folds 
+marshallteem: folds 
+Popokluev: folds 
+Vert Dider: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Uncalled bet ($0.78) returned to ilaviiitech
+ilaviiitech collected $1.25 from pot
+ilaviiitech: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: cosmin198484 folded before Flop (didn't bet)
+Seat 2: juwnas folded before Flop (didn't bet)
+Seat 3: marshallteem folded before Flop (didn't bet)
+Seat 4: Popokluev (button) folded before Flop (didn't bet)
+Seat 5: Vert Dider (small blind) folded before Flop
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R (big blind) folded before Flop
+Seat 8: Medved219 folded before Flop (didn't bet)
+Seat 9: ilaviiitech collected ($1.25)
+
+
+
+PokerStars Hand #228674817373:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:56:47 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: cosmin198484 ($53.57 in chips) 
+Seat 2: juwnas ($49.25 in chips) 
+Seat 3: marshallteem ($38.09 in chips) 
+Seat 4: Popokluev ($51.35 in chips) 
+Seat 5: Vert Dider ($50 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50 in chips) 
+Seat 7: chata.iz ($56.78 in chips) 
+Seat 8: Medved219 ($64.31 in chips) 
+Seat 9: ilaviiitech ($50.75 in chips) 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: posts small blind $0.25
+chata.iz: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+ilaviiitech: folds 
+Medved219 leaves the table
+cosmin198484: folds 
+juwnas has timed out
+juwnas: folds 
+marshallteem: calls $0.50
+Popokluev: folds 
+Vert Dider: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+chata.iz: checks 
+*** FLOP *** [4h 2s 3h]
+chata.iz: checks 
+marshallteem: checks 
+*** TURN *** [4h 2s 3h] [Kd]
+chata.iz: checks 
+marshallteem: checks 
+*** RIVER *** [4h 2s 3h Kd] [4c]
+chata.iz: checks 
+marshallteem: checks 
+*** SHOW DOWN ***
+chata.iz: shows [Qd 7c] (a pair of Fours)
+marshallteem: shows [3s 5s] (two pair, Fours and Threes)
+marshallteem collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [4h 2s 3h Kd 4c]
+Seat 1: cosmin198484 folded before Flop (didn't bet)
+Seat 2: juwnas folded before Flop (didn't bet)
+Seat 3: marshallteem showed [3s 5s] and won ($1.19) with two pair, Fours and Threes
+Seat 4: Popokluev folded before Flop (didn't bet)
+Seat 5: Vert Dider (button) folded before Flop (didn't bet)
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R (small blind) folded before Flop
+Seat 7: chata.iz (big blind) showed [Qd 7c] and lost with a pair of Fours
+Seat 8: Medved219 folded before Flop (didn't bet)
+Seat 9: ilaviiitech folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674824218:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:57:42 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 1: cosmin198484 ($53.57 in chips) 
+Seat 3: marshallteem ($38.78 in chips) 
+Seat 4: Popokluev ($51.35 in chips) 
+Seat 5: Vert Dider ($50 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50 in chips) 
+Seat 7: chata.iz ($56.28 in chips) 
+chata.iz: posts small blind $0.25
+ilaviiitech: is sitting out 
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+marshallteem: calls $0.50
+Popokluev: folds 
+Vert Dider: folds 
+ilaviiitech leaves the table
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+chata.iz: calls $0.25
+cosmin198484: checks 
+*** FLOP *** [Qd 2s 8s]
+chata.iz: checks 
+juwnas is disconnected 
+cosmin198484: checks 
+marshallteem: bets $0.50
+chata.iz: folds 
+cosmin198484: calls $0.50
+*** TURN *** [Qd 2s 8s] [8c]
+bbqarteeste joins the table at seat #8 
+cosmin198484: checks 
+marshallteem: bets $0.50
+cosmin198484: calls $0.50
+*** RIVER *** [Qd 2s 8s 8c] [Th]
+cosmin198484: checks 
+marshallteem: bets $0.50
+cosmin198484: folds 
+Uncalled bet ($0.50) returned to marshallteem
+marshallteem collected $3.32 from pot
+marshallteem: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [Qd 2s 8s 8c Th]
+Seat 1: cosmin198484 (big blind) folded on the River
+Seat 3: marshallteem collected ($3.32)
+Seat 4: Popokluev folded before Flop (didn't bet)
+Seat 5: Vert Dider folded before Flop (didn't bet)
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R (button) folded before Flop (didn't bet)
+Seat 7: chata.iz (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228674829954:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:58:26 ET
+Table 'Amalasuntha II' 9-max Seat #7 is the button
+Seat 1: cosmin198484 ($52.07 in chips) 
+Seat 2: juwnas ($49.25 in chips) 
+Seat 3: marshallteem ($40.60 in chips) 
+Seat 4: Popokluev ($51.35 in chips) 
+Seat 5: Vert Dider ($50 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50 in chips) 
+Seat 7: chata.iz ($55.78 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+marshallteem: folds 
+Popokluev: folds 
+marshallteem leaves the table
+Vert Dider: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: raises $1 to $1.50
+chata.iz: folds 
+cosmin198484: calls $1.25
+Popokluev leaves the table
+juwnas: folds 
+*** FLOP *** [5d Ac 2s]
+cosmin198484: checks 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: checks 
+*** TURN *** [5d Ac 2s] [2d]
+cosmin198484: checks 
+bbqarteeste was removed from the table for failing to post
+bbqarteeste leaves the table
+D‚‚Ç¨†est7oye‚‚Ç¨†R: bets $2.49
+cosmin198484: folds 
+Uncalled bet ($2.49) returned to D‚‚Ç¨†est7oye‚‚Ç¨†R
+D‚‚Ç¨†est7oye‚‚Ç¨†R collected $3.32 from pot
+D‚‚Ç¨†est7oye‚‚Ç¨†R: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [5d Ac 2s 2d]
+Seat 1: cosmin198484 (small blind) folded on the Turn
+Seat 2: juwnas (big blind) folded before Flop
+Seat 3: marshallteem folded before Flop (didn't bet)
+Seat 4: Popokluev folded before Flop (didn't bet)
+Seat 5: Vert Dider folded before Flop (didn't bet)
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R collected ($3.32)
+Seat 7: chata.iz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674836898:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:59:21 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($50.57 in chips) 
+Seat 2: juwnas ($48.75 in chips) 
+Seat 5: Vert Dider ($50 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($51.82 in chips) 
+Seat 7: chata.iz ($55.78 in chips) 
+juwnas: posts small blind $0.25
+Vert Dider: posts big blind $0.50
+*** HOLE CARDS ***
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+chata.iz: folds 
+cosmin198484: folds 
+juwnas: folds 
+Uncalled bet ($0.25) returned to Vert Dider
+Vert Dider collected $0.50 from pot
+Vert Dider: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (button) folded before Flop (didn't bet)
+Seat 2: juwnas (small blind) folded before Flop
+Seat 5: Vert Dider (big blind) collected ($0.50)
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674838498:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:59:34 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($50.57 in chips) 
+Seat 2: juwnas ($48.50 in chips) 
+Seat 5: Vert Dider ($50.25 in chips) 
+Vert Dider: posts small blind $0.25
+D‚‚Ç¨†est7oye‚‚Ç¨†R: is sitting out 
+chata.iz: is sitting out 
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: folds 
+Vert Dider: raises $1 to $1.50
+cosmin198484: calls $1
+*** FLOP *** [Qh Jd Ad]
+D‚‚Ç¨†est7oye‚‚Ç¨†R leaves the table
+Vert Dider: bets $0.86
+cosmin198484: folds 
+Uncalled bet ($0.86) returned to Vert Dider
+Vert Dider collected $2.85 from pot
+Vert Dider: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Qh Jd Ad]
+Seat 1: cosmin198484 (big blind) folded on the Flop
+Seat 2: juwnas (button) folded before Flop (didn't bet)
+Seat 5: Vert Dider (small blind) collected ($2.85)
+
+
+
+PokerStars Hand #228674840592:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:59:50 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: cosmin198484 ($49.07 in chips) 
+Seat 2: juwnas ($48.50 in chips) 
+Seat 5: Vert Dider ($51.60 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+Vert Dider: raises $0.70 to $1.20
+cosmin198484: folds 
+juwnas: calls $0.70
+*** FLOP *** [7h As 6h]
+juwnas: checks 
+Vert Dider: checks 
+*** TURN *** [7h As 6h] [Th]
+juwnas: bets $1.26
+Vert Dider: calls $1.26
+*** RIVER *** [7h As 6h Th] [7d]
+juwnas: checks 
+Vert Dider: checks 
+*** SHOW DOWN ***
+juwnas: shows [Ac 9c] (two pair, Aces and Sevens)
+Vert Dider: mucks hand 
+juwnas collected $4.91 from pot
+*** SUMMARY ***
+Total pot $5.17 | Rake $0.26 
+Board [7h As 6h Th 7d]
+Seat 1: cosmin198484 (small blind) folded before Flop
+Seat 2: juwnas (big blind) showed [Ac 9c] and won ($4.91) with two pair, Aces and Sevens
+Seat 5: Vert Dider (button) mucked
+
+
+
+PokerStars Hand #228673650616:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:38:59 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: Red Harvey ($20.50 in chips) 
+Seat 2: shakey_1989 ($20 in chips) 
+Seat 5: KABAL_ua ($50 in chips) 
+KABAL_ua: posts small blind $0.25
+Red Harvey: posts big blind $0.50
+*** HOLE CARDS ***
+shakey_1989: folds 
+KABAL_ua: raises $0.99 to $1.49
+Red Harvey: folds 
+Uncalled bet ($0.99) returned to KABAL_ua
+KABAL_ua collected $1 from pot
+KABAL_ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Red Harvey (big blind) folded before Flop
+Seat 2: shakey_1989 (button) folded before Flop (didn't bet)
+Seat 5: KABAL_ua (small blind) collected ($1)
+
+
+
+PokerStars Hand #228673652267:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:39:11 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: Red Harvey ($20 in chips) 
+Seat 2: shakey_1989 ($20 in chips) 
+Seat 5: KABAL_ua ($50.50 in chips) 
+Red Harvey: posts small blind $0.25
+shakey_1989: posts big blind $0.50
+*** HOLE CARDS ***
+KABAL_ua: folds 
+Red Harvey: calls $0.25
+shakey_1989: checks 
+*** FLOP *** [3s 9s 2d]
+Red Harvey: checks 
+shakey_1989: checks 
+*** TURN *** [3s 9s 2d] [7h]
+Red Harvey: checks 
+shakey_1989: checks 
+*** RIVER *** [3s 9s 2d 7h] [Kd]
+Red Harvey: checks 
+Zager.v joins the table at seat #3 
+shakey_1989: bets $1
+Red Harvey: folds 
+Uncalled bet ($1) returned to shakey_1989
+shakey_1989 collected $0.95 from pot
+shakey_1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [3s 9s 2d 7h Kd]
+Seat 1: Red Harvey (small blind) folded on the River
+Seat 2: shakey_1989 (big blind) collected ($0.95)
+Seat 5: KABAL_ua (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673655419:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:39:34 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: Red Harvey ($19.50 in chips) 
+Seat 2: shakey_1989 ($20.45 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 5: KABAL_ua ($50.50 in chips) 
+shakey_1989: posts small blind $0.25
+Zager.v: posts big blind $0.50
+*** HOLE CARDS ***
+PanicJX joins the table at seat #4 
+KABAL_ua: folds 
+Red Harvey: calls $0.50
+shakey_1989: folds 
+Zager.v: checks 
+*** FLOP *** [2c Ts 9h]
+Zager.v: checks 
+Red Harvey: checks 
+*** TURN *** [2c Ts 9h] [2s]
+gambleruin joins the table at seat #9 
+Zager.v: checks 
+Red Harvey: checks 
+*** RIVER *** [2c Ts 9h 2s] [9d]
+Zager.v: checks 
+Red Harvey: checks 
+*** SHOW DOWN ***
+Zager.v: shows [4s 7s] (two pair, Nines and Deuces)
+Red Harvey: shows [4d 8d] (two pair, Nines and Deuces)
+Zager.v collected $0.60 from pot
+Red Harvey collected $0.59 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [2c Ts 9h 2s 9d]
+Seat 1: Red Harvey (button) showed [4d 8d] and won ($0.59) with two pair, Nines and Deuces
+Seat 2: shakey_1989 (small blind) folded before Flop
+Seat 3: Zager.v (big blind) showed [4s 7s] and won ($0.60) with two pair, Nines and Deuces
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673661449:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:40:17 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: Red Harvey ($19.59 in chips) 
+Seat 2: shakey_1989 ($20.20 in chips) 
+Seat 3: Zager.v ($50.10 in chips) 
+Seat 4: PanicJX ($50 in chips) 
+Seat 5: KABAL_ua ($50.50 in chips) 
+Zager.v: posts small blind $0.25
+PanicJX: posts big blind $0.50
+gambleruin: sits out 
+*** HOLE CARDS ***
+KABAL_ua: folds 
+Red Harvey: raises $0.50 to $1
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: calls $0.50
+*** FLOP *** [2d Ac 5d]
+PanicJX: checks 
+Red Harvey: bets $1
+PanicJX: folds 
+Uncalled bet ($1) returned to Red Harvey
+Red Harvey collected $2.14 from pot
+Red Harvey: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [2d Ac 5d]
+Seat 1: Red Harvey collected ($2.14)
+Seat 2: shakey_1989 (button) folded before Flop (didn't bet)
+Seat 3: Zager.v (small blind) folded before Flop
+Seat 4: PanicJX (big blind) folded on the Flop
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673664179:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:40:37 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 1: Red Harvey ($20.73 in chips) 
+Seat 2: shakey_1989 ($20.20 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 4: PanicJX ($49 in chips) 
+Seat 5: KABAL_ua ($50.50 in chips) 
+PanicJX: posts small blind $0.25
+KABAL_ua: posts big blind $0.50
+gambleruin: sits out 
+*** HOLE CARDS ***
+Medved219 joins the table at seat #6 
+Red Harvey: folds 
+shakey_1989: folds 
+Zager.v: raises $0.75 to $1.25
+PanicJX: folds 
+KABAL_ua: raises $4.25 to $5.50
+zverev_77 joins the table at seat #7 
+Zager.v: calls $4.25
+*** FLOP *** [Js 4h Jc]
+KABAL_ua: bets $6.41
+Zager.v: folds 
+Uncalled bet ($6.41) returned to KABAL_ua
+KABAL_ua collected $10.69 from pot
+KABAL_ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.25 | Rake $0.56 
+Board [Js 4h Jc]
+Seat 1: Red Harvey folded before Flop (didn't bet)
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v (button) folded on the Flop
+Seat 4: PanicJX (small blind) folded before Flop
+Seat 5: KABAL_ua (big blind) collected ($10.69)
+
+
+
+PokerStars Hand #228673670346:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:41:22 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: Red Harvey ($20.73 in chips) 
+Seat 2: shakey_1989 ($20.20 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 4: PanicJX ($48.75 in chips) 
+Seat 5: KABAL_ua ($55.69 in chips) 
+Seat 6: Medved219 ($50 in chips) 
+KABAL_ua: posts small blind $0.25
+Medved219: posts big blind $0.50
+zverev_77: sits out 
+gambleruin: sits out 
+*** HOLE CARDS ***
+Red Harvey: folds 
+shakey_1989: calls $0.50
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: checks 
+*** FLOP *** [3c Ad As]
+Medved219: checks 
+shakey_1989: checks 
+*** TURN *** [3c Ad As] [3d]
+Medved219: checks 
+shakey_1989: checks 
+*** RIVER *** [3c Ad As 3d] [Qc]
+Medved219: checks 
+shakey_1989: checks 
+*** SHOW DOWN ***
+Medved219: shows [7s Jc] (two pair, Aces and Threes)
+shakey_1989: shows [Th Jd] (two pair, Aces and Threes)
+Medved219 collected $0.60 from pot
+shakey_1989 collected $0.59 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [3c Ad As 3d Qc]
+Seat 1: Red Harvey folded before Flop (didn't bet)
+Seat 2: shakey_1989 showed [Th Jd] and won ($0.59) with two pair, Aces and Threes
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX (button) folded before Flop (didn't bet)
+Seat 5: KABAL_ua (small blind) folded before Flop
+Seat 6: Medved219 (big blind) showed [7s Jc] and won ($0.60) with two pair, Aces and Threes
+
+
+
+PokerStars Hand #228673673664:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:41:46 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: Red Harvey ($20.73 in chips) 
+Seat 2: shakey_1989 ($20.29 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 4: PanicJX ($48.75 in chips) 
+Seat 5: KABAL_ua ($55.44 in chips) 
+Seat 6: Medved219 ($50.10 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Medved219: posts small blind $0.25
+zverev_77: posts big blind $0.50
+gambleruin: sits out 
+*** HOLE CARDS ***
+Red Harvey: calls $0.50
+shakey_1989: folds 
+ssorinacho92 joins the table at seat #8 
+Zager.v: raises $1.19 to $1.69
+PanicJX: calls $1.69
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+Red Harvey: calls $1.19
+*** FLOP *** [7h Jc 9c]
+Red Harvey: checks 
+Zager.v: checks 
+PanicJX: checks 
+*** TURN *** [7h Jc 9c] [Jh]
+Red Harvey: checks 
+Zager.v: checks 
+PanicJX: bets $2.77
+Red Harvey: folds 
+Zager.v: folds 
+Uncalled bet ($2.77) returned to PanicJX
+PanicJX collected $5.53 from pot
+PanicJX: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.82 | Rake $0.29 
+Board [7h Jc 9c Jh]
+Seat 1: Red Harvey folded on the Turn
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded on the Turn
+Seat 4: PanicJX collected ($5.53)
+Seat 5: KABAL_ua (button) folded before Flop (didn't bet)
+Seat 6: Medved219 (small blind) folded before Flop
+Seat 7: zverev_77 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228673679365:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:42:27 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 1: Red Harvey ($19.04 in chips) 
+Seat 2: shakey_1989 ($20.29 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 4: PanicJX ($52.59 in chips) 
+Seat 5: KABAL_ua ($55.44 in chips) 
+Seat 6: Medved219 ($50 in chips) 
+Red Harvey: posts small blind $0.25
+shakey_1989: posts big blind $0.50
+*** HOLE CARDS ***
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: raises $0.75 to $1.25
+Red Harvey: calls $1
+shakey_1989: folds 
+*** FLOP *** [8s Jd Th]
+Red Harvey: checks 
+Medved219: bets $2.14
+Red Harvey: folds 
+Uncalled bet ($2.14) returned to Medved219
+Medved219 collected $2.85 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [8s Jd Th]
+Seat 1: Red Harvey (small blind) folded on the Flop
+Seat 2: shakey_1989 (big blind) folded before Flop
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 (button) collected ($2.85)
+
+
+
+PokerStars Hand #228673681947:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:42:46 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: Red Harvey ($17.79 in chips) 
+Seat 2: shakey_1989 ($19.79 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 4: PanicJX ($52.59 in chips) 
+Seat 5: KABAL_ua ($55.44 in chips) 
+Seat 6: Medved219 ($51.60 in chips) 
+shakey_1989: posts small blind $0.25
+Zager.v: posts big blind $0.50
+ssorinacho92: sits out 
+gambleruin: sits out 
+*** HOLE CARDS ***
+PanicJX has timed out
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: folds 
+Red Harvey: raises $1 to $1.50
+shakey_1989: calls $1.25
+Zager.v: folds 
+*** FLOP *** [7d As 8h]
+shakey_1989: checks 
+Red Harvey: bets $1.50
+shakey_1989: calls $1.50
+*** TURN *** [7d As 8h] [Ac]
+shakey_1989: bets $16.79 and is all-in
+Red Harvey: folds 
+Uncalled bet ($16.79) returned to shakey_1989
+shakey_1989 collected $6.18 from pot
+shakey_1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [7d As 8h Ac]
+Seat 1: Red Harvey (button) folded on the Turn
+Seat 2: shakey_1989 (small blind) collected ($6.18)
+Seat 3: Zager.v (big blind) folded before Flop
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673686792:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:43:21 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: Red Harvey ($14.79 in chips) 
+Seat 2: shakey_1989 ($22.97 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 4: PanicJX ($52.59 in chips) 
+Seat 5: KABAL_ua ($55.44 in chips) 
+Seat 6: Medved219 ($51.60 in chips) 
+Zager.v: posts small blind $0.25
+PanicJX: posts big blind $0.50
+ssorinacho92: sits out 
+gambleruin: sits out 
+*** HOLE CARDS ***
+KABAL_ua: folds 
+Medved219: folds 
+Red Harvey: folds 
+shakey_1989: calls $0.50
+Zager.v: folds 
+PanicJX: checks 
+*** FLOP *** [Ah 6d Jd]
+PanicJX: checks 
+shakey_1989: checks 
+*** TURN *** [Ah 6d Jd] [Kh]
+PanicJX: checks 
+shakey_1989: checks 
+*** RIVER *** [Ah 6d Jd Kh] [8s]
+PanicJX: checks 
+shakey_1989: bets $0.50
+PanicJX: folds 
+Uncalled bet ($0.50) returned to shakey_1989
+shakey_1989 collected $1.19 from pot
+shakey_1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Ah 6d Jd Kh 8s]
+Seat 1: Red Harvey folded before Flop (didn't bet)
+Seat 2: shakey_1989 (button) collected ($1.19)
+Seat 3: Zager.v (small blind) folded before Flop
+Seat 4: PanicJX (big blind) folded on the River
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673694805:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:44:18 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 1: Red Harvey ($14.79 in chips) 
+Seat 2: shakey_1989 ($23.66 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 4: PanicJX ($52.09 in chips) 
+Seat 5: KABAL_ua ($55.44 in chips) 
+Seat 6: Medved219 ($51.60 in chips) 
+PanicJX: posts small blind $0.25
+KABAL_ua: posts big blind $0.50
+ssorinacho92: sits out 
+gambleruin: sits out 
+*** HOLE CARDS ***
+Medved219: folds 
+Red Harvey: raises $0.50 to $1
+shakey_1989: calls $1
+Zager.v: calls $1
+PanicJX: folds 
+KABAL_ua: folds 
+*** FLOP *** [Ks Jh 9c]
+Red Harvey: checks 
+shakey_1989: checks 
+Zager.v: checks 
+*** TURN *** [Ks Jh 9c] [Kc]
+Red Harvey: bets $1.50
+shakey_1989: folds 
+Zager.v: folds 
+Uncalled bet ($1.50) returned to Red Harvey
+Red Harvey collected $3.56 from pot
+Red Harvey: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [Ks Jh 9c Kc]
+Seat 1: Red Harvey collected ($3.56)
+Seat 2: shakey_1989 folded on the Turn
+Seat 3: Zager.v (button) folded on the Turn
+Seat 4: PanicJX (small blind) folded before Flop
+Seat 5: KABAL_ua (big blind) folded before Flop
+Seat 6: Medved219 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673698774:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:44:47 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: Red Harvey ($17.35 in chips) 
+Seat 2: shakey_1989 ($22.66 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 4: PanicJX ($51.84 in chips) 
+Seat 5: KABAL_ua ($54.94 in chips) 
+Seat 6: Medved219 ($51.60 in chips) 
+KABAL_ua: posts small blind $0.25
+Medved219: posts big blind $0.50
+ssorinacho92: sits out 
+gambleruin: sits out 
+*** HOLE CARDS ***
+Red Harvey: calls $0.50
+shakey_1989: calls $0.50
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: checks 
+*** FLOP *** [2h Tc 9d]
+Medved219: checks 
+Red Harvey: checks 
+shakey_1989: checks 
+*** TURN *** [2h Tc 9d] [9h]
+Medved219: checks 
+Red Harvey: checks 
+shakey_1989: checks 
+*** RIVER *** [2h Tc 9d 9h] [5d]
+Medved219: checks 
+Red Harvey: checks 
+shakey_1989: checks 
+*** SHOW DOWN ***
+Medved219: shows [Js 5c] (two pair, Nines and Fives)
+Red Harvey: mucks hand 
+shakey_1989: mucks hand 
+Medved219 collected $1.66 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.09 
+Board [2h Tc 9d 9h 5d]
+Seat 1: Red Harvey mucked
+Seat 2: shakey_1989 mucked
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX (button) folded before Flop (didn't bet)
+Seat 5: KABAL_ua (small blind) folded before Flop
+Seat 6: Medved219 (big blind) showed [Js 5c] and won ($1.66) with two pair, Nines and Fives
+
+
+
+PokerStars Hand #228673702409:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:45:14 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: Red Harvey ($16.85 in chips) 
+Seat 2: shakey_1989 ($22.16 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 4: PanicJX ($51.84 in chips) 
+Seat 5: KABAL_ua ($54.69 in chips) 
+Seat 6: Medved219 ($52.76 in chips) 
+Seat 7: zverev_77 ($49.50 in chips) 
+Medved219: posts small blind $0.25
+zverev_77: posts big blind $0.50
+ssorinacho92: sits out 
+gambleruin: sits out 
+*** HOLE CARDS ***
+Red Harvey: raises $1 to $1.50
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: calls $1.50
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: calls $1
+*** FLOP *** [3d 2s 5h]
+zverev_77: checks 
+gambleruin leaves the table
+Red Harvey: checks 
+PanicJX: bets $1.50
+zverev_77: folds 
+Red Harvey: calls $1.50
+*** TURN *** [3d 2s 5h] [9h]
+Red Harvey: checks 
+PanicJX: bets $7.36
+Red Harvey: folds 
+Uncalled bet ($7.36) returned to PanicJX
+PanicJX collected $7.36 from pot
+PanicJX: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.75 | Rake $0.39 
+Board [3d 2s 5h 9h]
+Seat 1: Red Harvey folded on the Turn
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX collected ($7.36)
+Seat 5: KABAL_ua (button) folded before Flop (didn't bet)
+Seat 6: Medved219 (small blind) folded before Flop
+Seat 7: zverev_77 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228673707809:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:45:54 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 1: Red Harvey ($13.85 in chips) 
+Seat 2: shakey_1989 ($22.16 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 4: PanicJX ($56.20 in chips) 
+Seat 5: KABAL_ua ($54.69 in chips) 
+Seat 6: Medved219 ($52.51 in chips) 
+Seat 7: zverev_77 ($48 in chips) 
+Seat 8: ssorinacho92 ($50 in chips) 
+zverev_77: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+*** HOLE CARDS ***
+Red Harvey: raises $1 to $1.50
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: folds 
+dstrola joins the table at seat #9 
+zverev_77: folds 
+ssorinacho92: folds 
+Uncalled bet ($1) returned to Red Harvey
+Red Harvey collected $1.25 from pot
+Red Harvey: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Red Harvey collected ($1.25)
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 (button) folded before Flop (didn't bet)
+Seat 7: zverev_77 (small blind) folded before Flop
+Seat 8: ssorinacho92 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228673711707:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:46:22 ET
+Table 'Amalasuntha II' 9-max Seat #7 is the button
+Seat 1: Red Harvey ($14.60 in chips) 
+Seat 2: shakey_1989 ($22.16 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 4: PanicJX ($56.20 in chips) 
+Seat 5: KABAL_ua ($54.69 in chips) 
+Seat 6: Medved219 ($52.51 in chips) 
+Seat 7: zverev_77 ($47.75 in chips) 
+Seat 8: ssorinacho92 ($49.50 in chips) 
+Seat 9: dstrola ($50 in chips) 
+ssorinacho92: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+Red Harvey: calls $0.50
+shakey_1989: calls $0.50
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: raises $2 to $2.50
+Red Harvey: folds 
+shakey_1989: folds 
+Uncalled bet ($2) returned to dstrola
+dstrola collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Red Harvey folded before Flop
+Seat 2: shakey_1989 folded before Flop
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 (button) folded before Flop (didn't bet)
+Seat 8: ssorinacho92 (small blind) folded before Flop
+Seat 9: dstrola (big blind) collected ($1.75)
+
+
+
+PokerStars Hand #228673715305:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:46:48 ET
+Table 'Amalasuntha II' 9-max Seat #8 is the button
+Seat 1: Red Harvey ($14.10 in chips) 
+Seat 2: shakey_1989 ($21.66 in chips) 
+Seat 3: Zager.v ($50 in chips) 
+Seat 4: PanicJX ($56.20 in chips) 
+Seat 5: KABAL_ua ($54.69 in chips) 
+Seat 6: Medved219 ($52.51 in chips) 
+Seat 7: zverev_77 ($47.75 in chips) 
+Seat 8: ssorinacho92 ($49.25 in chips) 
+Seat 9: dstrola ($51.25 in chips) 
+dstrola: posts small blind $0.25
+Red Harvey: posts big blind $0.50
+*** HOLE CARDS ***
+shakey_1989: folds 
+Zager.v: raises $0.75 to $1.25
+PanicJX: calls $1.25
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: calls $0.75
+*** FLOP *** [Qc 2h Ac]
+Red Harvey: checks 
+Zager.v: checks 
+PanicJX: checks 
+*** TURN *** [Qc 2h Ac] [Ts]
+Red Harvey: bets $0.50
+Zager.v: raises $3.25 to $3.75
+PanicJX: calls $3.75
+Red Harvey: folds 
+*** RIVER *** [Qc 2h Ac Ts] [Kc]
+Zager.v: checks 
+PanicJX: checks 
+*** SHOW DOWN ***
+Zager.v: shows [Qh Qd] (three of a kind, Queens)
+PanicJX: mucks hand 
+Zager.v collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Qc 2h Ac Ts Kc]
+Seat 1: Red Harvey (big blind) folded on the Turn
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v showed [Qh Qd] and won ($11.40) with three of a kind, Queens
+Seat 4: PanicJX mucked
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 (button) folded before Flop (didn't bet)
+Seat 9: dstrola (small blind) folded before Flop
+
+
+
+PokerStars Hand #228673719740:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:47:22 ET
+Table 'Amalasuntha II' 9-max Seat #9 is the button
+Seat 1: Red Harvey ($12.35 in chips) 
+Seat 2: shakey_1989 ($21.66 in chips) 
+Seat 3: Zager.v ($56.40 in chips) 
+Seat 4: PanicJX ($51.20 in chips) 
+Seat 5: KABAL_ua ($54.69 in chips) 
+Seat 6: Medved219 ($52.51 in chips) 
+Seat 7: zverev_77 ($47.75 in chips) 
+Seat 8: ssorinacho92 ($49.25 in chips) 
+Seat 9: dstrola ($51 in chips) 
+Red Harvey: posts small blind $0.25
+shakey_1989: posts big blind $0.50
+*** HOLE CARDS ***
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola has timed out
+dstrola: folds 
+Red Harvey: calls $0.25
+shakey_1989: checks 
+*** FLOP *** [6s 7d Qs]
+Red Harvey: checks 
+shakey_1989: checks 
+*** TURN *** [6s 7d Qs] [3c]
+Red Harvey: bets $0.50
+shakey_1989: calls $0.50
+*** RIVER *** [6s 7d Qs 3c] [2s]
+Red Harvey: bets $0.50
+shakey_1989: raises $1.50 to $2
+Red Harvey: folds 
+Uncalled bet ($1.50) returned to shakey_1989
+shakey_1989 collected $2.85 from pot
+shakey_1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [6s 7d Qs 3c 2s]
+Seat 1: Red Harvey (small blind) folded on the River
+Seat 2: shakey_1989 (big blind) collected ($2.85)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673735015:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:49:16 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: Red Harvey ($6.01 in chips) 
+Seat 2: shakey_1989 ($21.76 in chips) 
+Seat 3: Zager.v ($55.90 in chips) 
+Seat 4: PanicJX ($51.20 in chips) 
+Seat 5: KABAL_ua ($54.69 in chips) 
+Seat 6: Medved219 ($52.51 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($60.68 in chips) 
+Seat 9: dstrola ($51 in chips) 
+Zager.v: posts small blind $0.25
+PanicJX: posts big blind $0.50
+*** HOLE CARDS ***
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: raises $0.85 to $1.35
+ssorinacho92: folds 
+dstrola: raises $3.45 to $4.80
+Red Harvey: raises $1.21 to $6.01 and is all-in
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: folds 
+zverev_77: folds 
+dstrola: calls $1.21
+Red Harvey has timed out
+*** FLOP *** [9d 9h 2s]
+*** TURN *** [9d 9h 2s] [Jd]
+*** RIVER *** [9d 9h 2s Jd] [7c]
+*** SHOW DOWN ***
+dstrola: shows [Ac Ad] (two pair, Aces and Nines)
+Red Harvey: shows [Kh Kd] (two pair, Kings and Nines)
+dstrola collected $13.41 from pot
+*** SUMMARY ***
+Total pot $14.12 | Rake $0.71 
+Board [9d 9h 2s Jd 7c]
+Seat 1: Red Harvey showed [Kh Kd] and lost with two pair, Kings and Nines
+Seat 2: shakey_1989 (button) folded before Flop (didn't bet)
+Seat 3: Zager.v (small blind) folded before Flop
+Seat 4: PanicJX (big blind) folded before Flop
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola showed [Ac Ad] and won ($13.41) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #228673740858:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:49:59 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 2: shakey_1989 ($21.76 in chips) 
+Seat 3: Zager.v ($55.65 in chips) 
+Seat 4: PanicJX ($50.70 in chips) 
+Seat 5: KABAL_ua ($54.69 in chips) 
+Seat 6: Medved219 ($52.51 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($60.68 in chips) 
+Seat 9: dstrola ($58.40 in chips) 
+PanicJX: posts small blind $0.25
+KABAL_ua: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: raises $0.75 to $1.25
+dstrola: raises $2.75 to $4
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+ssorinacho92: calls $2.75
+*** FLOP *** [Jd 7d Qd]
+ssorinacho92: checks 
+dstrola: bets $5.82
+ssorinacho92: folds 
+Uncalled bet ($5.82) returned to dstrola
+dstrola collected $8.31 from pot
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.44 
+Board [Jd 7d Qd]
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v (button) folded before Flop (didn't bet)
+Seat 4: PanicJX (small blind) folded before Flop
+Seat 5: KABAL_ua (big blind) folded before Flop
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded on the Flop
+Seat 9: dstrola collected ($8.31)
+
+
+
+PokerStars Hand #228673747510:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:50:49 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: Red Harvey ($21 in chips) 
+Seat 2: shakey_1989 ($21.76 in chips) 
+Seat 3: Zager.v ($55.65 in chips) 
+Seat 4: PanicJX ($50.45 in chips) 
+Seat 5: KABAL_ua ($54.19 in chips) 
+Seat 6: Medved219 ($52.51 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($56.68 in chips) 
+Seat 9: dstrola ($62.71 in chips) 
+KABAL_ua: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: raises $1 to $1.50
+Red Harvey: folds 
+shakey_1989: calls $1.50
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: calls $1
+*** FLOP *** [7d 4d 6c]
+Medved219: checks 
+dstrola: checks 
+shakey_1989: checks 
+*** TURN *** [7d 4d 6c] [Td]
+Medved219: checks 
+dstrola: checks 
+shakey_1989: checks 
+*** RIVER *** [7d 4d 6c Td] [8s]
+Medved219: bets $2
+dstrola: folds 
+shakey_1989: folds 
+Uncalled bet ($2) returned to Medved219
+Medved219 collected $4.51 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [7d 4d 6c Td 8s]
+Seat 1: Red Harvey folded before Flop (didn't bet)
+Seat 2: shakey_1989 folded on the River
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX (button) folded before Flop (didn't bet)
+Seat 5: KABAL_ua (small blind) folded before Flop
+Seat 6: Medved219 (big blind) collected ($4.51)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded on the River
+
+
+
+PokerStars Hand #228673752275:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:51:24 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: Red Harvey ($21 in chips) 
+Seat 2: shakey_1989 ($20.26 in chips) 
+Seat 3: Zager.v ($55.65 in chips) 
+Seat 4: PanicJX ($50.45 in chips) 
+Seat 5: KABAL_ua ($53.94 in chips) 
+Seat 6: Medved219 ($55.52 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($56.68 in chips) 
+Seat 9: dstrola ($61.21 in chips) 
+Medved219: posts small blind $0.25
+zverev_77: posts big blind $0.50
+*** HOLE CARDS ***
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: raises $0.50 to $1
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+Uncalled bet ($0.50) returned to Red Harvey
+Red Harvey collected $1.25 from pot
+Red Harvey: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Red Harvey collected ($1.25)
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua (button) folded before Flop (didn't bet)
+Seat 6: Medved219 (small blind) folded before Flop
+Seat 7: zverev_77 (big blind) folded before Flop
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673755724:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:51:50 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 1: Red Harvey ($21.75 in chips) 
+Seat 2: shakey_1989 ($20.26 in chips) 
+Seat 3: Zager.v ($55.65 in chips) 
+Seat 4: PanicJX ($50.45 in chips) 
+Seat 5: KABAL_ua ($53.94 in chips) 
+Seat 6: Medved219 ($55.27 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($56.68 in chips) 
+Seat 9: dstrola ($61.21 in chips) 
+zverev_77: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+*** HOLE CARDS ***
+dstrola: folds 
+Red Harvey: calls $0.50
+shakey_1989: calls $0.50
+Zager.v: folds 
+PanicJX: raises $2.25 to $2.75
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+Red Harvey: folds 
+shakey_1989: folds 
+Uncalled bet ($2.25) returned to PanicJX
+PanicJX collected $2.25 from pot
+PanicJX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0 
+Seat 1: Red Harvey folded before Flop
+Seat 2: shakey_1989 folded before Flop
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX collected ($2.25)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 (button) folded before Flop (didn't bet)
+Seat 7: zverev_77 (small blind) folded before Flop
+Seat 8: ssorinacho92 (big blind) folded before Flop
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673759117:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:52:15 ET
+Table 'Amalasuntha II' 9-max Seat #7 is the button
+Seat 1: Red Harvey ($21.25 in chips) 
+Seat 2: shakey_1989 ($19.76 in chips) 
+Seat 3: Zager.v ($55.65 in chips) 
+Seat 4: PanicJX ($52.20 in chips) 
+Seat 5: KABAL_ua ($53.94 in chips) 
+Seat 6: Medved219 ($55.27 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($56.18 in chips) 
+Seat 9: dstrola ($61.21 in chips) 
+ssorinacho92: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+Red Harvey: calls $0.50
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: checks 
+*** FLOP *** [7h Kh Ks]
+dstrola: checks 
+Red Harvey: bets $0.50
+dstrola: calls $0.50
+*** TURN *** [7h Kh Ks] [2d]
+dstrola: checks 
+Red Harvey: checks 
+*** RIVER *** [7h Kh Ks 2d] [5d]
+dstrola: checks 
+Red Harvey: bets $0.50
+dstrola: folds 
+Uncalled bet ($0.50) returned to Red Harvey
+Red Harvey collected $2.14 from pot
+Red Harvey: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [7h Kh Ks 2d 5d]
+Seat 1: Red Harvey collected ($2.14)
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 (button) folded before Flop (didn't bet)
+Seat 8: ssorinacho92 (small blind) folded before Flop
+Seat 9: dstrola (big blind) folded on the River
+
+
+
+PokerStars Hand #228673765207:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:53:00 ET
+Table 'Amalasuntha II' 9-max Seat #8 is the button
+Seat 1: Red Harvey ($22.39 in chips) 
+Seat 2: shakey_1989 ($19.76 in chips) 
+Seat 3: Zager.v ($55.65 in chips) 
+Seat 4: PanicJX ($52.20 in chips) 
+Seat 5: KABAL_ua ($53.94 in chips) 
+Seat 6: Medved219 ($55.27 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($55.93 in chips) 
+Seat 9: dstrola ($60.21 in chips) 
+dstrola: posts small blind $0.25
+Red Harvey: posts big blind $0.50
+*** HOLE CARDS ***
+shakey_1989 has timed out
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: raises $0.75 to $1.25
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: folds 
+Uncalled bet ($0.75) returned to PanicJX
+PanicJX collected $1.25 from pot
+PanicJX: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Red Harvey (big blind) folded before Flop
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX collected ($1.25)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 (button) folded before Flop (didn't bet)
+Seat 9: dstrola (small blind) folded before Flop
+
+
+
+PokerStars Hand #228673769832:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:53:34 ET
+Table 'Amalasuntha II' 9-max Seat #9 is the button
+Seat 1: Red Harvey ($21.89 in chips) 
+Seat 2: shakey_1989 ($19.76 in chips) 
+Seat 3: Zager.v ($55.65 in chips) 
+Seat 4: PanicJX ($52.95 in chips) 
+Seat 5: KABAL_ua ($53.94 in chips) 
+Seat 6: Medved219 ($55.27 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($55.93 in chips) 
+Seat 9: dstrola ($59.96 in chips) 
+Red Harvey: posts small blind $0.25
+shakey_1989: posts big blind $0.50
+*** HOLE CARDS ***
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: raises $1 to $1.50
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: raises $1.50 to $3
+shakey_1989: folds 
+Medved219: calls $1.50
+*** FLOP *** [As 4s 7c]
+Red Harvey: checks 
+Medved219: checks 
+*** TURN *** [As 4s 7c] [Jh]
+Red Harvey: bets $3
+Medved219: calls $3
+*** RIVER *** [As 4s 7c Jh] [7d]
+Red Harvey: bets $2.50
+Medved219: calls $2.50
+*** SHOW DOWN ***
+Red Harvey: shows [Kd Kh] (two pair, Kings and Sevens)
+Medved219: shows [Qs Ah] (two pair, Aces and Sevens)
+Medved219 collected $16.62 from pot
+*** SUMMARY ***
+Total pot $17.50 | Rake $0.88 
+Board [As 4s 7c Jh 7d]
+Seat 1: Red Harvey (small blind) showed [Kd Kh] and lost with two pair, Kings and Sevens
+Seat 2: shakey_1989 (big blind) folded before Flop
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 showed [Qs Ah] and won ($16.62) with two pair, Aces and Sevens
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673774686:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:54:11 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: Red Harvey ($13.39 in chips) 
+Seat 2: shakey_1989 ($19.26 in chips) 
+Seat 3: Zager.v ($55.65 in chips) 
+Seat 4: PanicJX ($52.95 in chips) 
+Seat 5: KABAL_ua ($53.94 in chips) 
+Seat 6: Medved219 ($63.39 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($55.93 in chips) 
+Seat 9: dstrola ($59.96 in chips) 
+shakey_1989: posts small blind $0.25
+Zager.v: posts big blind $0.50
+*** HOLE CARDS ***
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: calls $0.50
+shakey_1989: calls $0.25
+Zager.v: checks 
+*** FLOP *** [Ah 9s Js]
+shakey_1989: checks 
+Zager.v: checks 
+Red Harvey: checks 
+*** TURN *** [Ah 9s Js] [3c]
+shakey_1989: bets $0.50
+Zager.v: folds 
+Red Harvey: folds 
+Uncalled bet ($0.50) returned to shakey_1989
+shakey_1989 collected $1.42 from pot
+shakey_1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [Ah 9s Js 3c]
+Seat 1: Red Harvey (button) folded on the Turn
+Seat 2: shakey_1989 (small blind) collected ($1.42)
+Seat 3: Zager.v (big blind) folded on the Turn
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673778189:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:54:37 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: Red Harvey ($12.89 in chips) 
+Seat 2: shakey_1989 ($20.18 in chips) 
+Seat 3: Zager.v ($55.15 in chips) 
+Seat 4: PanicJX ($52.95 in chips) 
+Seat 5: KABAL_ua ($53.94 in chips) 
+Seat 6: Medved219 ($63.39 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($55.93 in chips) 
+Seat 9: dstrola ($59.96 in chips) 
+Zager.v: posts small blind $0.25
+PanicJX: posts big blind $0.50
+*** HOLE CARDS ***
+KABAL_ua: raises $0.74 to $1.24
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: calls $1.24
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: calls $0.74
+*** FLOP *** [Qc 9h 2c]
+PanicJX: checks 
+KABAL_ua: checks 
+Red Harvey: bets $1
+PanicJX: folds 
+KABAL_ua: calls $1
+*** TURN *** [Qc 9h 2c] [Qd]
+KABAL_ua: checks 
+Red Harvey: bets $2.50
+KABAL_ua: folds 
+Uncalled bet ($2.50) returned to Red Harvey
+Red Harvey collected $5.67 from pot
+Red Harvey: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.97 | Rake $0.30 
+Board [Qc 9h 2c Qd]
+Seat 1: Red Harvey collected ($5.67)
+Seat 2: shakey_1989 (button) folded before Flop (didn't bet)
+Seat 3: Zager.v (small blind) folded before Flop
+Seat 4: PanicJX (big blind) folded on the Flop
+Seat 5: KABAL_ua folded on the Turn
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673785550:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:55:34 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 1: Red Harvey ($16.32 in chips) 
+Seat 2: shakey_1989 ($20.18 in chips) 
+Seat 3: Zager.v ($54.90 in chips) 
+Seat 4: PanicJX ($51.71 in chips) 
+Seat 5: KABAL_ua ($51.70 in chips) 
+Seat 6: Medved219 ($63.39 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($55.93 in chips) 
+Seat 9: dstrola ($59.96 in chips) 
+PanicJX: posts small blind $0.25
+KABAL_ua: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: calls $0.50
+shakey_1989: folds 
+Zager.v: raises $1.19 to $1.69
+PanicJX: folds 
+KABAL_ua: folds 
+Red Harvey: folds 
+Uncalled bet ($1.19) returned to Zager.v
+Zager.v collected $1.75 from pot
+Zager.v: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Red Harvey folded before Flop
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v (button) collected ($1.75)
+Seat 4: PanicJX (small blind) folded before Flop
+Seat 5: KABAL_ua (big blind) folded before Flop
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673789494:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:56:07 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: Red Harvey ($15.82 in chips) 
+Seat 2: shakey_1989 ($20.18 in chips) 
+Seat 3: Zager.v ($56.15 in chips) 
+Seat 4: PanicJX ($51.46 in chips) 
+Seat 5: KABAL_ua ($51.20 in chips) 
+Seat 6: Medved219 ($63.39 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($55.93 in chips) 
+Seat 9: dstrola ($59.96 in chips) 
+KABAL_ua: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: raises $1 to $1.50
+Red Harvey: folds 
+shakey_1989: calls $1.50
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: calls $1
+*** FLOP *** [5s Ks Qd]
+Medved219: checks 
+dstrola: bets $2.50
+shakey_1989: folds 
+Medved219: calls $2.50
+*** TURN *** [5s Ks Qd] [4s]
+Medved219: checks 
+dstrola: checks 
+*** RIVER *** [5s Ks Qd 4s] [Jc]
+Medved219: checks 
+dstrola: bets $4.63
+Medved219: folds 
+Uncalled bet ($4.63) returned to dstrola
+dstrola collected $9.26 from pot
+*** SUMMARY ***
+Total pot $9.75 | Rake $0.49 
+Board [5s Ks Qd 4s Jc]
+Seat 1: Red Harvey folded before Flop (didn't bet)
+Seat 2: shakey_1989 folded on the Flop
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX (button) folded before Flop (didn't bet)
+Seat 5: KABAL_ua (small blind) folded before Flop
+Seat 6: Medved219 (big blind) folded on the River
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola collected ($9.26)
+
+
+
+PokerStars Hand #228673795932:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:57:02 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: Red Harvey ($15.82 in chips) 
+Seat 2: shakey_1989 ($18.68 in chips) 
+Seat 3: Zager.v ($56.15 in chips) 
+Seat 4: PanicJX ($51.46 in chips) 
+Seat 5: KABAL_ua ($50.95 in chips) 
+Seat 6: Medved219 ($59.39 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($55.93 in chips) 
+Seat 9: dstrola ($65.22 in chips) 
+Medved219: posts small blind $0.25
+zverev_77: posts big blind $0.50
+*** HOLE CARDS ***
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: calls $0.50
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: raises $2 to $2.50
+zverev_77: folds 
+Red Harvey: folds 
+Uncalled bet ($2) returned to Medved219
+Medved219 collected $1.50 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: Red Harvey folded before Flop
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua (button) folded before Flop (didn't bet)
+Seat 6: Medved219 (small blind) collected ($1.50)
+Seat 7: zverev_77 (big blind) folded before Flop
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673803522:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:57:36 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 1: Red Harvey ($15.32 in chips) 
+Seat 2: shakey_1989 ($18.68 in chips) 
+Seat 3: Zager.v ($56.15 in chips) 
+Seat 4: PanicJX ($51.46 in chips) 
+Seat 5: KABAL_ua ($50.95 in chips) 
+Seat 6: Medved219 ($60.39 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($55.93 in chips) 
+Seat 9: dstrola ($65.22 in chips) 
+zverev_77: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+*** HOLE CARDS ***
+dstrola: folds 
+Red Harvey: calls $0.50
+shakey_1989: calls $0.50
+Zager.v: calls $0.50
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: calls $0.25
+ssorinacho92: checks 
+*** FLOP *** [Td 4h 9c]
+zverev_77: checks 
+ssorinacho92: checks 
+Red Harvey: checks 
+shakey_1989: checks 
+Zager.v: checks 
+*** TURN *** [Td 4h 9c] [Th]
+zverev_77: checks 
+ssorinacho92: checks 
+Red Harvey: bets $2
+shakey_1989: calls $2
+Zager.v: folds 
+zverev_77: folds 
+ssorinacho92: calls $2
+*** RIVER *** [Td 4h 9c Th] [8s]
+ssorinacho92: bets $6.46
+Red Harvey: folds 
+shakey_1989: folds 
+Uncalled bet ($6.46) returned to ssorinacho92
+ssorinacho92 collected $8.08 from pot
+ssorinacho92: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [Td 4h 9c Th 8s]
+Seat 1: Red Harvey folded on the River
+Seat 2: shakey_1989 folded on the River
+Seat 3: Zager.v folded on the Turn
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 (button) folded before Flop (didn't bet)
+Seat 7: zverev_77 (small blind) folded on the Turn
+Seat 8: ssorinacho92 (big blind) collected ($8.08)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673812586:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:58:52 ET
+Table 'Amalasuntha II' 9-max Seat #7 is the button
+Seat 1: Red Harvey ($12.82 in chips) 
+Seat 2: shakey_1989 ($16.18 in chips) 
+Seat 3: Zager.v ($55.65 in chips) 
+Seat 4: PanicJX ($51.46 in chips) 
+Seat 5: KABAL_ua ($50.95 in chips) 
+Seat 6: Medved219 ($60.39 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($61.51 in chips) 
+Seat 9: dstrola ($65.22 in chips) 
+ssorinacho92: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+Red Harvey: calls $0.50
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: raises $0.75 to $1.25
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: calls $0.75
+*** FLOP *** [9h Jh 9d]
+Red Harvey: checks 
+PanicJX: checks 
+*** TURN *** [9h Jh 9d] [6s]
+Red Harvey: bets $1.50
+PanicJX: folds 
+Uncalled bet ($1.50) returned to Red Harvey
+Red Harvey collected $3.09 from pot
+Red Harvey: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [9h Jh 9d 6s]
+Seat 1: Red Harvey collected ($3.09)
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded on the Turn
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 (button) folded before Flop (didn't bet)
+Seat 8: ssorinacho92 (small blind) folded before Flop
+Seat 9: dstrola (big blind) folded before Flop
+
+
+
+PokerStars Hand #228673817847:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 1:59:37 ET
+Table 'Amalasuntha II' 9-max Seat #8 is the button
+Seat 1: Red Harvey ($14.66 in chips) 
+Seat 2: shakey_1989 ($16.18 in chips) 
+Seat 3: Zager.v ($55.65 in chips) 
+Seat 4: PanicJX ($50.21 in chips) 
+Seat 5: KABAL_ua ($50.95 in chips) 
+Seat 6: Medved219 ($60.39 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($61.26 in chips) 
+Seat 9: dstrola ($64.72 in chips) 
+dstrola: posts small blind $0.25
+Red Harvey: posts big blind $0.50
+*** HOLE CARDS ***
+shakey_1989: folds 
+Zager.v: raises $0.75 to $1.25
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: raises $3.75 to $5
+Red Harvey: folds 
+Zager.v: folds 
+Uncalled bet ($3.75) returned to dstrola
+dstrola collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: Red Harvey (big blind) folded before Flop
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 (button) folded before Flop (didn't bet)
+Seat 9: dstrola (small blind) collected ($3)
+
+
+
+PokerStars Hand #228673820775:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:00:03 ET
+Table 'Amalasuntha II' 9-max Seat #9 is the button
+Seat 1: Red Harvey ($14.16 in chips) 
+Seat 2: shakey_1989 ($16.18 in chips) 
+Seat 3: Zager.v ($54.40 in chips) 
+Seat 4: PanicJX ($50.21 in chips) 
+Seat 5: KABAL_ua ($50.95 in chips) 
+Seat 6: Medved219 ($60.39 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($61.26 in chips) 
+Seat 9: dstrola ($66.47 in chips) 
+Red Harvey: posts small blind $0.25
+shakey_1989: posts big blind $0.50
+*** HOLE CARDS ***
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: raises $0.74 to $1.24
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: calls $1.24
+dstrola: folds 
+Red Harvey: calls $0.99
+shakey_1989: calls $0.74
+*** FLOP *** [3h 7d 8c]
+Red Harvey: checks 
+shakey_1989: checks 
+KABAL_ua: checks 
+ssorinacho92: bets $2.83
+Red Harvey: folds 
+shakey_1989: folds 
+KABAL_ua: folds 
+Uncalled bet ($2.83) returned to ssorinacho92
+ssorinacho92 collected $4.71 from pot
+ssorinacho92: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.96 | Rake $0.25 
+Board [3h 7d 8c]
+Seat 1: Red Harvey (small blind) folded on the Flop
+Seat 2: shakey_1989 (big blind) folded on the Flop
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded on the Flop
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 collected ($4.71)
+Seat 9: dstrola (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673825555:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:00:40 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: Red Harvey ($12.92 in chips) 
+Seat 2: shakey_1989 ($14.94 in chips) 
+Seat 3: Zager.v ($54.40 in chips) 
+Seat 4: PanicJX ($50.21 in chips) 
+Seat 5: KABAL_ua ($50 in chips) 
+Seat 6: Medved219 ($60.39 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($64.73 in chips) 
+Seat 9: dstrola ($66.47 in chips) 
+shakey_1989: posts small blind $0.25
+Zager.v: posts big blind $0.50
+*** HOLE CARDS ***
+PanicJX: folds 
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: raises $1 to $1.50
+shakey_1989: calls $1.25
+Zager.v: folds 
+*** FLOP *** [5h Jd Ac]
+shakey_1989: checks 
+Red Harvey: bets $1
+shakey_1989: calls $1
+*** TURN *** [5h Jd Ac] [7d]
+shakey_1989: checks 
+Red Harvey: bets $2.50
+shakey_1989: folds 
+Uncalled bet ($2.50) returned to Red Harvey
+Red Harvey collected $5.22 from pot
+Red Harvey: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [5h Jd Ac 7d]
+Seat 1: Red Harvey (button) collected ($5.22)
+Seat 2: shakey_1989 (small blind) folded on the Turn
+Seat 3: Zager.v (big blind) folded before Flop
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673829549:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:01:11 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: Red Harvey ($15.64 in chips) 
+Seat 2: shakey_1989 ($12.44 in chips) 
+Seat 3: Zager.v ($53.90 in chips) 
+Seat 4: PanicJX ($50.21 in chips) 
+Seat 5: KABAL_ua ($50 in chips) 
+Seat 6: Medved219 ($60.39 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($64.73 in chips) 
+Seat 9: dstrola ($66.47 in chips) 
+Zager.v: posts small blind $0.25
+PanicJX: posts big blind $0.50
+*** HOLE CARDS ***
+KABAL_ua: folds 
+Medved219: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: raises $0.50 to $1
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: raises $2.50 to $3.50
+Red Harvey: folds 
+Uncalled bet ($2.50) returned to PanicJX
+PanicJX collected $2.25 from pot
+PanicJX: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0 
+Seat 1: Red Harvey folded before Flop
+Seat 2: shakey_1989 (button) folded before Flop (didn't bet)
+Seat 3: Zager.v (small blind) folded before Flop
+Seat 4: PanicJX (big blind) collected ($2.25)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673832614:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:01:34 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 1: Red Harvey ($14.64 in chips) 
+Seat 2: shakey_1989 ($12.44 in chips) 
+Seat 3: Zager.v ($53.65 in chips) 
+Seat 4: PanicJX ($51.46 in chips) 
+Seat 5: KABAL_ua ($50 in chips) 
+Seat 6: Medved219 ($60.39 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: ssorinacho92 ($64.73 in chips) 
+Seat 9: dstrola ($66.47 in chips) 
+PanicJX: posts small blind $0.25
+KABAL_ua: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+zverev_77: raises $0.85 to $1.35
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: calls $1.35
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+*** FLOP *** [8s 3c 7h]
+zverev_77: checks 
+Red Harvey: checks 
+*** TURN *** [8s 3c 7h] [2c]
+zverev_77: bets $1.80
+Red Harvey: folds 
+Uncalled bet ($1.80) returned to zverev_77
+zverev_77 collected $3.28 from pot
+*** SUMMARY ***
+Total pot $3.45 | Rake $0.17 
+Board [8s 3c 7h 2c]
+Seat 1: Red Harvey folded on the Turn
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v (button) folded before Flop (didn't bet)
+Seat 4: PanicJX (small blind) folded before Flop
+Seat 5: KABAL_ua (big blind) folded before Flop
+Seat 6: Medved219 folded before Flop (didn't bet)
+Seat 7: zverev_77 collected ($3.28)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673839101:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:02:23 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: Red Harvey ($13.29 in chips) 
+Seat 2: shakey_1989 ($12.44 in chips) 
+Seat 3: Zager.v ($53.65 in chips) 
+Seat 4: PanicJX ($51.21 in chips) 
+Seat 5: KABAL_ua ($50 in chips) 
+Seat 7: zverev_77 ($51.93 in chips) 
+Seat 8: ssorinacho92 ($64.73 in chips) 
+Seat 9: dstrola ($66.47 in chips) 
+KABAL_ua: posts small blind $0.25
+Medved219: is sitting out 
+zverev_77: posts big blind $0.50
+*** HOLE CARDS ***
+ssorinacho92: folds 
+Medved219 leaves the table
+dstrola: folds 
+Red Harvey: folds 
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Uncalled bet ($0.25) returned to zverev_77
+zverev_77 collected $0.50 from pot
+Echomk joins the table at seat #6 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Red Harvey folded before Flop (didn't bet)
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX (button) folded before Flop (didn't bet)
+Seat 5: KABAL_ua (small blind) folded before Flop
+Seat 7: zverev_77 (big blind) collected ($0.50)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673840651:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:02:34 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: Red Harvey ($13.29 in chips) 
+Seat 2: shakey_1989 ($12.44 in chips) 
+Seat 3: Zager.v ($53.65 in chips) 
+Seat 4: PanicJX ($51.21 in chips) 
+Seat 5: KABAL_ua ($50 in chips) 
+Seat 7: zverev_77 ($52.18 in chips) 
+Seat 8: ssorinacho92 ($64.73 in chips) 
+Seat 9: dstrola ($66.47 in chips) 
+zverev_77: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+*** HOLE CARDS ***
+dstrola: folds 
+Red Harvey: folds 
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: raises $0.59 to $1.09
+zverev_77: folds 
+ssorinacho92: calls $0.59
+*** FLOP *** [Td As Qs]
+ssorinacho92: checks 
+KABAL_ua: bets $0.76
+ssorinacho92: folds 
+Uncalled bet ($0.76) returned to KABAL_ua
+KABAL_ua collected $2.31 from pot
+KABAL_ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.43 | Rake $0.12 
+Board [Td As Qs]
+Seat 1: Red Harvey folded before Flop (didn't bet)
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua (button) collected ($2.31)
+Seat 7: zverev_77 (small blind) folded before Flop
+Seat 8: ssorinacho92 (big blind) folded on the Flop
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673847448:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:03:25 ET
+Table 'Amalasuntha II' 9-max Seat #7 is the button
+Seat 1: Red Harvey ($13.29 in chips) 
+Seat 2: shakey_1989 ($12.44 in chips) 
+Seat 3: Zager.v ($53.65 in chips) 
+Seat 4: PanicJX ($51.21 in chips) 
+Seat 5: KABAL_ua ($51.22 in chips) 
+Seat 7: zverev_77 ($51.93 in chips) 
+Seat 8: ssorinacho92 ($63.64 in chips) 
+Seat 9: dstrola ($66.47 in chips) 
+ssorinacho92: posts small blind $0.25
+dstrola: posts big blind $0.50
+Echomk: sits out 
+*** HOLE CARDS ***
+Red Harvey: calls $0.50
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: raises $1 to $1.50
+KABAL_ua: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: calls $1
+Red Harvey: calls $1
+*** FLOP *** [5d 4d Qs]
+dstrola: checks 
+Red Harvey: checks 
+PanicJX: bets $2.26
+dstrola: calls $2.26
+Red Harvey: folds 
+*** TURN *** [5d 4d Qs] [3h]
+dstrola: checks 
+PanicJX: checks 
+*** RIVER *** [5d 4d Qs 3h] [2c]
+dstrola: checks 
+PanicJX: checks 
+*** SHOW DOWN ***
+dstrola: shows [9s 9h] (a pair of Nines)
+PanicJX: shows [Jd Qd] (a pair of Queens)
+PanicJX collected $8.81 from pot
+*** SUMMARY ***
+Total pot $9.27 | Rake $0.46 
+Board [5d 4d Qs 3h 2c]
+Seat 1: Red Harvey folded on the Flop
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX showed [Jd Qd] and won ($8.81) with a pair of Queens
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 7: zverev_77 (button) folded before Flop (didn't bet)
+Seat 8: ssorinacho92 (small blind) folded before Flop
+Seat 9: dstrola (big blind) showed [9s 9h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #228673864659:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:04:19 ET
+Table 'Amalasuntha II' 9-max Seat #8 is the button
+Seat 1: Red Harvey ($11.79 in chips) 
+Seat 2: shakey_1989 ($12.44 in chips) 
+Seat 3: Zager.v ($53.65 in chips) 
+Seat 4: PanicJX ($56.26 in chips) 
+Seat 5: KABAL_ua ($51.22 in chips) 
+Seat 7: zverev_77 ($51.93 in chips) 
+Seat 8: ssorinacho92 ($63.39 in chips) 
+Seat 9: dstrola ($62.71 in chips) 
+dstrola: posts small blind $0.25
+Red Harvey: posts big blind $0.50
+Echomk: sits out 
+*** HOLE CARDS ***
+shakey_1989 is disconnected 
+shakey_1989 has timed out while being disconnected
+shakey_1989: folds 
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: raises $1 to $1.50
+Red Harvey: calls $1
+*** FLOP *** [8c 3s Js]
+dstrola: checks 
+Red Harvey: bets $1.50
+dstrola: folds 
+Uncalled bet ($1.50) returned to Red Harvey
+Red Harvey collected $2.85 from pot
+Red Harvey: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [8c 3s Js]
+Seat 1: Red Harvey (big blind) collected ($2.85)
+Seat 2: shakey_1989 folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 (button) folded before Flop (didn't bet)
+Seat 9: dstrola (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228673874297:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:05:31 ET
+Table 'Amalasuntha II' 9-max Seat #9 is the button
+Seat 1: Red Harvey ($13.14 in chips) 
+Seat 2: shakey_1989 ($12.44 in chips) 
+Seat 3: Zager.v ($53.65 in chips) 
+Seat 4: PanicJX ($56.26 in chips) 
+Seat 5: KABAL_ua ($51.22 in chips) 
+Seat 7: zverev_77 ($51.93 in chips) 
+Seat 8: ssorinacho92 ($63.39 in chips) 
+Seat 9: dstrola ($61.21 in chips) 
+Red Harvey: posts small blind $0.25
+shakey_1989: posts big blind $0.50
+Echomk: sits out 
+*** HOLE CARDS ***
+Zager.v: raises $0.75 to $1.25
+PanicJX: folds 
+KABAL_ua: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: calls $1
+shakey_1989: calls $0.75
+*** FLOP *** [6c Td 5c]
+Red Harvey: checks 
+shakey_1989: checks 
+Zager.v: bets $3.51
+Red Harvey: folds 
+shakey_1989: folds 
+Uncalled bet ($3.51) returned to Zager.v
+Zager.v collected $3.56 from pot
+Zager.v: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [6c Td 5c]
+Seat 1: Red Harvey (small blind) folded on the Flop
+Seat 2: shakey_1989 (big blind) folded on the Flop
+Seat 3: Zager.v collected ($3.56)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673880446:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:06:16 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: Red Harvey ($11.89 in chips) 
+Seat 2: shakey_1989 ($11.19 in chips) 
+Seat 3: Zager.v ($55.96 in chips) 
+Seat 4: PanicJX ($56.26 in chips) 
+Seat 5: KABAL_ua ($51.22 in chips) 
+Seat 7: zverev_77 ($51.93 in chips) 
+Seat 8: ssorinacho92 ($63.39 in chips) 
+Seat 9: dstrola ($61.21 in chips) 
+shakey_1989: posts small blind $0.25
+Zager.v: posts big blind $0.50
+Echomk: sits out 
+*** HOLE CARDS ***
+PanicJX: folds 
+KABAL_ua: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: raises $0.75 to $1.25
+Red Harvey: folds 
+shakey_1989: calls $1
+Zager.v: calls $0.75
+*** FLOP *** [8d Jd Ks]
+shakey_1989: checks 
+Zager.v: checks 
+dstrola: bets $2
+shakey_1989: calls $2
+Zager.v: calls $2
+*** TURN *** [8d Jd Ks] [6h]
+shakey_1989: checks 
+Zager.v: checks 
+dstrola: bets $6.48
+shakey_1989: raises $1.46 to $7.94 and is all-in
+Zager.v: folds 
+dstrola: calls $1.46
+*** RIVER *** [8d Jd Ks 6h] [2s]
+*** SHOW DOWN ***
+shakey_1989: shows [Ad Td] (high card Ace)
+dstrola: shows [8c Kc] (two pair, Kings and Eights)
+dstrola collected $24.35 from pot
+*** SUMMARY ***
+Total pot $25.63 | Rake $1.28 
+Board [8d Jd Ks 6h 2s]
+Seat 1: Red Harvey (button) folded before Flop (didn't bet)
+Seat 2: shakey_1989 (small blind) showed [Ad Td] and lost with high card Ace
+Seat 3: Zager.v (big blind) folded on the Turn
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola showed [8c Kc] and won ($24.35) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #228673886763:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:07:04 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 1: Red Harvey ($11.89 in chips) 
+Seat 3: Zager.v ($52.71 in chips) 
+Seat 4: PanicJX ($56.26 in chips) 
+Seat 5: KABAL_ua ($51.22 in chips) 
+Seat 7: zverev_77 ($51.93 in chips) 
+Seat 8: ssorinacho92 ($63.39 in chips) 
+Seat 9: dstrola ($74.37 in chips) 
+PanicJX: posts small blind $0.25
+KABAL_ua: posts big blind $0.50
+Echomk: sits out 
+*** HOLE CARDS ***
+shakey_1989 is disconnected 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: raises $0.50 to $1
+Zager.v: raises $2.71 to $3.71
+PanicJX: folds 
+KABAL_ua: folds 
+Red Harvey: folds 
+Uncalled bet ($2.71) returned to Zager.v
+Zager.v collected $2.75 from pot
+Zager.v: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0 
+Seat 1: Red Harvey folded before Flop
+Seat 3: Zager.v (button) collected ($2.75)
+Seat 4: PanicJX (small blind) folded before Flop
+Seat 5: KABAL_ua (big blind) folded before Flop
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673889655:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:07:25 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: Red Harvey ($10.89 in chips) 
+Seat 3: Zager.v ($54.46 in chips) 
+Seat 4: PanicJX ($56.01 in chips) 
+Seat 5: KABAL_ua ($50.72 in chips) 
+Seat 6: Echomk ($50 in chips) 
+Seat 7: zverev_77 ($51.93 in chips) 
+Seat 8: ssorinacho92 ($63.39 in chips) 
+Seat 9: dstrola ($74.37 in chips) 
+KABAL_ua: posts small blind $0.25
+Echomk: posts big blind $0.50
+*** HOLE CARDS ***
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: raises $0.50 to $1
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Echomk: calls $0.50
+*** FLOP *** [2h Jh Tc]
+Echomk: checks 
+Red Harvey: bets $1
+Echomk: folds 
+Uncalled bet ($1) returned to Red Harvey
+Red Harvey collected $2.14 from pot
+Red Harvey: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [2h Jh Tc]
+Seat 1: Red Harvey collected ($2.14)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX (button) folded before Flop (didn't bet)
+Seat 5: KABAL_ua (small blind) folded before Flop
+Seat 6: Echomk (big blind) folded on the Flop
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673894166:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:07:58 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: Red Harvey ($12.03 in chips) 
+Seat 3: Zager.v ($54.46 in chips) 
+Seat 4: PanicJX ($56.01 in chips) 
+Seat 5: KABAL_ua ($50.47 in chips) 
+Seat 6: Echomk ($50 in chips) 
+Seat 7: zverev_77 ($51.93 in chips) 
+Seat 8: ssorinacho92 ($63.39 in chips) 
+Seat 9: dstrola ($74.37 in chips) 
+Echomk: posts small blind $0.25
+zverev_77: posts big blind $0.50
+*** HOLE CARDS ***
+ssorinacho92: folds 
+dstrola: raises $1 to $1.50
+Red Harvey: calls $1.50
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Echomk: raises $5.50 to $7
+zverev_77: folds 
+dstrola: raises $67.37 to $74.37 and is all-in
+Red Harvey: folds 
+Echomk: folds 
+Uncalled bet ($67.37) returned to dstrola
+dstrola collected $16 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0 
+Seat 1: Red Harvey folded before Flop
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua (button) folded before Flop (didn't bet)
+Seat 6: Echomk (small blind) folded before Flop
+Seat 7: zverev_77 (big blind) folded before Flop
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola collected ($16)
+
+
+
+PokerStars Hand #228673899159:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:08:35 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 1: Red Harvey ($10.53 in chips) 
+Seat 3: Zager.v ($54.46 in chips) 
+Seat 4: PanicJX ($56.01 in chips) 
+Seat 5: KABAL_ua ($50.47 in chips) 
+Seat 6: Echomk ($50 in chips) 
+Seat 7: zverev_77 ($51.43 in chips) 
+Seat 8: ssorinacho92 ($63.39 in chips) 
+Seat 9: dstrola ($83.37 in chips) 
+zverev_77: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+*** HOLE CARDS ***
+dstrola: folds 
+Red Harvey: calls $0.50
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Echomk: folds 
+zverev_77: folds 
+ssorinacho92: checks 
+*** FLOP *** [Ks Qc Qd]
+ssorinacho92: checks 
+Red Harvey: checks 
+*** TURN *** [Ks Qc Qd] [6d]
+ssorinacho92: checks 
+Red Harvey: checks 
+*** RIVER *** [Ks Qc Qd 6d] [7h]
+ssorinacho92: checks 
+Red Harvey: bets $0.50
+ssorinacho92: folds 
+Uncalled bet ($0.50) returned to Red Harvey
+Red Harvey collected $1.19 from pot
+Red Harvey: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Ks Qc Qd 6d 7h]
+Seat 1: Red Harvey collected ($1.19)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Echomk (button) folded before Flop (didn't bet)
+Seat 7: zverev_77 (small blind) folded before Flop
+Seat 8: ssorinacho92 (big blind) folded on the River
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673904181:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:09:12 ET
+Table 'Amalasuntha II' 9-max Seat #7 is the button
+Seat 1: Red Harvey ($11.22 in chips) 
+Seat 3: Zager.v ($54.46 in chips) 
+Seat 4: PanicJX ($56.01 in chips) 
+Seat 5: KABAL_ua ($50.47 in chips) 
+Seat 6: Echomk ($50 in chips) 
+Seat 7: zverev_77 ($51.18 in chips) 
+Seat 8: ssorinacho92 ($62.89 in chips) 
+Seat 9: dstrola ($83.37 in chips) 
+ssorinacho92: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+Red Harvey: folds 
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: folds 
+Echomk: raises $0.75 to $1.25
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: calls $0.75
+*** FLOP *** [Ad 5h Td]
+dstrola: checks 
+Echomk: bets $1.17
+dstrola: folds 
+Uncalled bet ($1.17) returned to Echomk
+Echomk collected $2.61 from pot
+Echomk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [Ad 5h Td]
+Seat 1: Red Harvey folded before Flop (didn't bet)
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Echomk collected ($2.61)
+Seat 7: zverev_77 (button) folded before Flop (didn't bet)
+Seat 8: ssorinacho92 (small blind) folded before Flop
+Seat 9: dstrola (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228673907453:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:09:36 ET
+Table 'Amalasuntha II' 9-max Seat #8 is the button
+Seat 1: Red Harvey ($11.22 in chips) 
+Seat 3: Zager.v ($54.46 in chips) 
+Seat 4: PanicJX ($56.01 in chips) 
+Seat 5: KABAL_ua ($50.47 in chips) 
+Seat 6: Echomk ($51.36 in chips) 
+Seat 7: zverev_77 ($51.18 in chips) 
+Seat 8: ssorinacho92 ($62.64 in chips) 
+Seat 9: dstrola ($82.12 in chips) 
+dstrola: posts small blind $0.25
+Red Harvey: posts big blind $0.50
+*** HOLE CARDS ***
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: raises $0.74 to $1.24
+Echomk: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: calls $0.74
+*** FLOP *** [2c 3s 6h]
+Red Harvey: checks 
+KABAL_ua: bets $0.85
+Red Harvey: calls $0.85
+*** TURN *** [2c 3s 6h] [3c]
+Red Harvey: checks 
+KABAL_ua: checks 
+*** RIVER *** [2c 3s 6h 3c] [Ah]
+Red Harvey: bets $0.50
+KABAL_ua: raises $2.25 to $2.75
+Red Harvey: folds 
+Uncalled bet ($2.25) returned to KABAL_ua
+KABAL_ua collected $5.16 from pot
+KABAL_ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.43 | Rake $0.27 
+Board [2c 3s 6h 3c Ah]
+Seat 1: Red Harvey (big blind) folded on the River
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua collected ($5.16)
+Seat 6: Echomk folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 (button) folded before Flop (didn't bet)
+Seat 9: dstrola (small blind) folded before Flop
+
+
+
+PokerStars Hand #228673914449:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:10:28 ET
+Table 'Amalasuntha II' 9-max Seat #9 is the button
+Seat 1: Red Harvey ($8.63 in chips) 
+Seat 3: Zager.v ($54.46 in chips) 
+Seat 4: PanicJX ($56.01 in chips) 
+Seat 5: KABAL_ua ($53.04 in chips) 
+Seat 6: Echomk ($51.36 in chips) 
+Seat 7: zverev_77 ($51.18 in chips) 
+Seat 8: ssorinacho92 ($62.64 in chips) 
+Seat 9: dstrola ($81.87 in chips) 
+Red Harvey: posts small blind $0.25
+Zager.v: posts big blind $0.50
+*** HOLE CARDS ***
+PanicJX: folds 
+KABAL_ua: folds 
+Echomk: raises $0.75 to $1.25
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Red Harvey: folds 
+Zager.v: folds 
+Uncalled bet ($0.75) returned to Echomk
+Red Harvey leaves the table
+Echomk collected $1.25 from pot
+Echomk: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Red Harvey (small blind) folded before Flop
+Seat 3: Zager.v (big blind) folded before Flop
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua folded before Flop (didn't bet)
+Seat 6: Echomk collected ($1.25)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673917644:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:10:51 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 3: Zager.v ($53.96 in chips) 
+Seat 4: PanicJX ($56.01 in chips) 
+Seat 5: KABAL_ua ($53.04 in chips) 
+Seat 6: Echomk ($52.11 in chips) 
+Seat 7: zverev_77 ($51.18 in chips) 
+Seat 8: ssorinacho92 ($62.64 in chips) 
+Seat 9: dstrola ($81.87 in chips) 
+PanicJX: posts small blind $0.25
+KABAL_ua: posts big blind $0.50
+*** HOLE CARDS ***
+Echomk: folds 
+zverev_77: folds 
+ssorinacho92: folds 
+dstrola: folds 
+Zager.v: folds 
+shakey_1989 leaves the table
+PanicJX: raises $1 to $1.50
+KABAL_ua: raises $3 to $4.50
+PanicJX: calls $3
+*** FLOP *** [Kd Ks 4h]
+PanicJX: checks 
+KABAL_ua: bets $2.82
+PanicJX: calls $2.82
+*** TURN *** [Kd Ks 4h] [6s]
+PanicJX: checks 
+KABAL_ua: bets $10.43
+PanicJX: folds 
+Uncalled bet ($10.43) returned to KABAL_ua
+KABAL_ua collected $13.91 from pot
+KABAL_ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.64 | Rake $0.73 
+Board [Kd Ks 4h 6s]
+Seat 3: Zager.v (button) folded before Flop (didn't bet)
+Seat 4: PanicJX (small blind) folded on the Turn
+Seat 5: KABAL_ua (big blind) collected ($13.91)
+Seat 6: Echomk folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673923511:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:11:36 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 3: Zager.v ($53.96 in chips) 
+Seat 4: PanicJX ($48.69 in chips) 
+Seat 5: KABAL_ua ($59.63 in chips) 
+Seat 6: Echomk ($52.11 in chips) 
+Seat 7: zverev_77 ($51.18 in chips) 
+Seat 8: ssorinacho92 ($62.64 in chips) 
+Seat 9: dstrola ($81.87 in chips) 
+KABAL_ua: posts small blind $0.25
+Echomk: posts big blind $0.50
+*** HOLE CARDS ***
+zverev_77: folds 
+ssorinacho92: folds 
+zverev_77 leaves the table
+dstrola: folds 
+Zager.v: folds 
+PanicJX: raises $0.75 to $1.25
+KABAL_ua: folds 
+Echomk: calls $0.75
+*** FLOP *** [9h Td Kc]
+Echomk: checks 
+PanicJX: checks 
+*** TURN *** [9h Td Kc] [Qc]
+Echomk: checks 
+PanicJX: checks 
+*** RIVER *** [9h Td Kc Qc] [Jh]
+Echomk: bets $0.86
+PanicJX: raises $0.86 to $1.72
+Echomk: folds 
+Uncalled bet ($0.86) returned to PanicJX
+PanicJX collected $4.25 from pot
+PanicJX: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.47 | Rake $0.22 
+Board [9h Td Kc Qc Jh]
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX (button) collected ($4.25)
+Seat 5: KABAL_ua (small blind) folded before Flop
+Seat 6: Echomk (big blind) folded on the River
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: ssorinacho92 folded before Flop (didn't bet)
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673929241:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:12:18 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 3: Zager.v ($53.96 in chips) 
+Seat 4: PanicJX ($50.83 in chips) 
+Seat 5: KABAL_ua ($59.38 in chips) 
+Seat 6: Echomk ($50 in chips) 
+Seat 8: ssorinacho92 ($62.64 in chips) 
+Seat 9: dstrola ($81.87 in chips) 
+Echomk: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+*** HOLE CARDS ***
+dstrola: folds 
+dstrola leaves the table
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: raises $0.59 to $1.09
+Echomk: raises $3.66 to $4.75
+ssorinacho92: folds 
+KABAL_ua: folds 
+Uncalled bet ($3.66) returned to Echomk
+Echomk collected $2.68 from pot
+Echomk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.68 | Rake $0 
+Seat 3: Zager.v folded before Flop (didn't bet)
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua (button) folded before Flop
+Seat 6: Echomk (small blind) collected ($2.68)
+Seat 8: ssorinacho92 (big blind) folded before Flop
+Seat 9: dstrola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228673933461:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:12:50 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 3: Zager.v ($53.96 in chips) 
+Seat 4: PanicJX ($50.83 in chips) 
+Seat 5: KABAL_ua ($58.29 in chips) 
+Seat 6: Echomk ($51.59 in chips) 
+Seat 8: ssorinacho92 ($62.14 in chips) 
+ssorinacho92: posts small blind $0.25
+Zager.v: posts big blind $0.50
+*** HOLE CARDS ***
+PanicJX has timed out
+PanicJX: folds 
+KABAL_ua: raises $0.74 to $1.24
+Echomk: folds 
+ssorinacho92: raises $3.26 to $4.50
+Zager.v: folds 
+KABAL_ua: raises $6.25 to $10.75
+ssorinacho92: folds 
+Uncalled bet ($6.25) returned to KABAL_ua
+KABAL_ua collected $9.50 from pot
+KABAL_ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0 
+Seat 3: Zager.v (big blind) folded before Flop
+Seat 4: PanicJX folded before Flop (didn't bet)
+Seat 5: KABAL_ua collected ($9.50)
+Seat 6: Echomk (button) folded before Flop (didn't bet)
+Seat 8: ssorinacho92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228673942252:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:13:55 ET
+Table 'Amalasuntha II' 9-max Seat #8 is the button
+Seat 3: Zager.v ($53.46 in chips) 
+Seat 4: PanicJX ($50.83 in chips) 
+Seat 5: KABAL_ua ($63.29 in chips) 
+Seat 6: Echomk ($51.59 in chips) 
+Seat 8: ssorinacho92 ($57.64 in chips) 
+Zager.v: posts small blind $0.25
+PanicJX: posts big blind $0.50
+*** HOLE CARDS ***
+KABAL_ua: raises $0.74 to $1.24
+Echomk: folds 
+Koppesh joins the table at seat #2 
+ssorinacho92: raises $3.26 to $4.50
+Koppesh leaves the table
+Zager.v: folds 
+PanicJX: folds 
+KABAL_ua: raises $7.50 to $12
+ssorinacho92: calls $7.50
+*** FLOP *** [Ah 7s 5h]
+KABAL_ua: bets $7.76
+ssorinacho92: calls $7.76
+*** TURN *** [Ah 7s 5h] [2c]
+KABAL_ua: checks 
+ssorinacho92: checks 
+*** RIVER *** [Ah 7s 5h 2c] [Qd]
+KABAL_ua: bets $43.53 and is all-in
+ssorinacho92: folds 
+Uncalled bet ($43.53) returned to KABAL_ua
+KABAL_ua collected $38.27 from pot
+KABAL_ua: doesn't show hand 
+*** SUMMARY ***
+Total pot $40.27 | Rake $2 
+Board [Ah 7s 5h 2c Qd]
+Seat 3: Zager.v (small blind) folded before Flop
+Seat 4: PanicJX (big blind) folded before Flop
+Seat 5: KABAL_ua collected ($38.27)
+Seat 6: Echomk folded before Flop (didn't bet)
+Seat 8: ssorinacho92 (button) folded on the River
+
+
+
+PokerStars Hand #228673957296:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:15:47 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 3: Zager.v ($53.21 in chips) 
+Seat 4: PanicJX ($50.33 in chips) 
+Seat 8: ssorinacho92 ($50 in chips) 
+PanicJX: posts small blind $0.25
+KABAL_ua: is sitting out 
+Echomk: is sitting out 
+ssorinacho92: posts big blind $0.50
+*** HOLE CARDS ***
+KABAL_ua leaves the table
+Zager.v: raises $0.56 to $1.06
+PanicJX: folds 
+Echomk leaves the table
+ssorinacho92: calls $0.56
+*** FLOP *** [5h 9s Td]
+PanicJX leaves the table
+ssorinacho92: checks 
+Zager.v: checks 
+*** TURN *** [5h 9s Td] [6s]
+ssorinacho92: checks 
+Zager.v: checks 
+*** RIVER *** [5h 9s Td 6s] [2h]
+ssorinacho92: checks 
+Zager.v: checks 
+*** SHOW DOWN ***
+ssorinacho92: shows [Js Ad] (high card Ace)
+Zager.v: shows [6h Qh] (a pair of Sixes)
+Zager.v collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.37 | Rake $0.12 
+Board [5h 9s Td 6s 2h]
+Seat 3: Zager.v (button) showed [6h Qh] and won ($2.25) with a pair of Sixes
+Seat 4: PanicJX (small blind) folded before Flop
+Seat 8: ssorinacho92 (big blind) showed [Js Ad] and lost with high card Ace
+
+
+
+PokerStars Hand #228674274378:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:54:39 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: hc_carl ($35.40 in chips) 
+Seat 2: WrongButton ($50 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+hc_carl: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+Effort92 joins the table at seat #6 
+StudentRB joins the table at seat #5 
+pl@netskii: folds 
+melovidniy: raises $0.55 to $1.05
+hc_carl: calls $0.80
+WrongButton: folds 
+*** FLOP *** [Jc Qd Ad]
+hc_carl: bets $0.50
+melovidniy: raises $1.50 to $2
+gambleruin joins the table at seat #9 
+hc_carl: folds 
+Uncalled bet ($1.50) returned to melovidniy
+melovidniy collected $3.42 from pot
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.18 
+Board [Jc Qd Ad]
+Seat 1: hc_carl (small blind) folded on the Flop
+Seat 2: WrongButton (big blind) folded before Flop
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy (button) collected ($3.42)
+
+
+
+PokerStars Hand #228674281693:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:55:37 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: hc_carl ($33.85 in chips) 
+Seat 2: WrongButton ($50 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($51.87 in chips) 
+WrongButton: posts small blind $0.25
+pl@netskii: posts big blind $0.50
+StudentRB: sits out 
+daria130399 joins the table at seat #8 
+Effort92: sits out 
+gambleruin: sits out 
+*** HOLE CARDS ***
+melovidniy: folds 
+hc_carl: folds 
+WrongButton: raises $1 to $1.50
+pl@netskii: folds 
+Uncalled bet ($1) returned to WrongButton
+WrongButton collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: hc_carl (button) folded before Flop (didn't bet)
+Seat 2: WrongButton (small blind) collected ($1)
+Seat 3: pl@netskii (big blind) folded before Flop
+Seat 4: melovidniy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674284290:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:56:00 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: hc_carl ($33.85 in chips) 
+Seat 2: WrongButton ($50.50 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($51.87 in chips) 
+pl@netskii: posts small blind $0.25
+melovidniy: posts big blind $0.50
+StudentRB: sits out 
+Effort92: sits out 
+daria130399: sits out 
+gambleruin: sits out 
+*** HOLE CARDS ***
+hc_carl: folds 
+WrongButton: raises $0.75 to $1.25
+pl@netskii: raises $3 to $4.25
+melovidniy: folds 
+WrongButton: folds 
+Uncalled bet ($3) returned to pl@netskii
+pl@netskii collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: hc_carl folded before Flop (didn't bet)
+Seat 2: WrongButton (button) folded before Flop
+Seat 3: pl@netskii (small blind) collected ($3)
+Seat 4: melovidniy (big blind) folded before Flop
+
+
+
+PokerStars Hand #228674289638:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:56:44 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 1: hc_carl ($33.85 in chips) 
+Seat 2: WrongButton ($50 in chips) 
+Seat 3: pl@netskii ($51.75 in chips) 
+Seat 4: melovidniy ($51.37 in chips) 
+Seat 5: StudentRB ($50 in chips) 
+melovidniy: posts small blind $0.25
+StudentRB: posts big blind $0.50
+Effort92: sits out 
+daria130399: sits out 
+gambleruin: sits out 
+*** HOLE CARDS ***
+hc_carl: calls $0.50
+WrongButton: folds 
+chata.iz joins the table at seat #7 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: checks 
+*** FLOP *** [2h 3d Jh]
+StudentRB: checks 
+hc_carl: bets $0.50
+StudentRB: folds 
+Uncalled bet ($0.50) returned to hc_carl
+hc_carl collected $1.19 from pot
+hc_carl: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [2h 3d Jh]
+Seat 1: hc_carl collected ($1.19)
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii (button) folded before Flop (didn't bet)
+Seat 4: melovidniy (small blind) folded before Flop
+Seat 5: StudentRB (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228674293294:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:57:15 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: hc_carl ($34.54 in chips) 
+Seat 2: WrongButton ($50 in chips) 
+Seat 3: pl@netskii ($51.75 in chips) 
+Seat 4: melovidniy ($51.12 in chips) 
+Seat 5: StudentRB ($50 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+StudentRB: posts small blind $0.25
+Effort92: posts big blind $0.50
+chata.iz: sits out 
+daria130399: sits out 
+gambleruin: sits out 
+*** HOLE CARDS ***
+hc_carl: folds 
+WrongButton: raises $0.50 to $1
+pl@netskii: folds 
+melovidniy: raises $2.50 to $3.50
+StudentRB: folds 
+Effort92: folds 
+WrongButton: raises $7 to $10.50
+melovidniy: folds 
+Uncalled bet ($7) returned to WrongButton
+WrongButton collected $7.75 from pot
+*** SUMMARY ***
+Total pot $7.75 | Rake $0 
+Seat 1: hc_carl folded before Flop (didn't bet)
+Seat 2: WrongButton collected ($7.75)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy (button) folded before Flop
+Seat 5: StudentRB (small blind) folded before Flop
+Seat 6: Effort92 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228674300642:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:58:17 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: hc_carl ($34.54 in chips) 
+Seat 2: WrongButton ($54.25 in chips) 
+Seat 3: pl@netskii ($51.75 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($50 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($50 in chips) 
+Effort92: posts small blind $0.25
+chata.iz: posts big blind $0.50
+daria130399: sits out 
+gambleruin: sits out 
+*** HOLE CARDS ***
+hc_carl: calls $0.50
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: folds 
+Effort92: folds 
+chata.iz: checks 
+*** FLOP *** [Qd Jc As]
+chata.iz: checks 
+hc_carl: bets $0.50
+chata.iz: calls $0.50
+*** TURN *** [Qd Jc As] [5s]
+chata.iz: checks 
+hc_carl: bets $0.50
+chata.iz: calls $0.50
+*** RIVER *** [Qd Jc As 5s] [Ac]
+chata.iz: bets $1.55
+hc_carl: calls $1.55
+*** SHOW DOWN ***
+chata.iz: shows [Ah 7c] (three of a kind, Aces)
+hc_carl: mucks hand 
+chata.iz collected $6.03 from pot
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.32 
+Board [Qd Jc As 5s Ac]
+Seat 1: hc_carl mucked
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB (button) folded before Flop (didn't bet)
+Seat 6: Effort92 (small blind) folded before Flop
+Seat 7: chata.iz (big blind) showed [Ah 7c] and won ($6.03) with three of a kind, Aces
+
+
+
+PokerStars Hand #228674307241:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 2:59:12 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 1: hc_carl ($31.49 in chips) 
+Seat 2: WrongButton ($54.25 in chips) 
+Seat 3: pl@netskii ($51.75 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($50 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($52.98 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+chata.iz: posts small blind $0.25
+daria130399: posts big blind $0.50
+gambleruin: sits out 
+*** HOLE CARDS ***
+hc_carl: calls $0.50
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: raises $1.50 to $2
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+hc_carl: calls $1.50
+*** FLOP *** [4c Ks Qc]
+hc_carl: checks 
+StudentRB: checks 
+*** TURN *** [4c Ks Qc] [3h]
+hc_carl: bets $1
+StudentRB: calls $1
+*** RIVER *** [4c Ks Qc 3h] [Qs]
+hc_carl: checks 
+StudentRB: bets $2.50
+hc_carl: folds 
+Uncalled bet ($2.50) returned to StudentRB
+StudentRB collected $6.41 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.34 
+Board [4c Ks Qc 3h Qs]
+Seat 1: hc_carl folded on the River
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB collected ($6.41)
+Seat 6: Effort92 (button) folded before Flop (didn't bet)
+Seat 7: chata.iz (small blind) folded before Flop
+Seat 8: daria130399 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228674322278:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:00:11 ET
+Table 'Amalasuntha II' 9-max Seat #7 is the button
+Seat 1: hc_carl ($28.49 in chips) 
+Seat 2: WrongButton ($54.25 in chips) 
+Seat 3: pl@netskii ($51.75 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($53.41 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($52.73 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: gambleruin ($50 in chips) 
+daria130399: posts small blind $0.25
+gambleruin: posts big blind $0.50
+*** HOLE CARDS ***
+hc_carl: calls $0.50
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: folds 
+Effort92: folds 
+chata.iz: calls $0.50
+daria130399: calls $0.25
+gambleruin: checks 
+*** FLOP *** [Td 9h 5d]
+daria130399: checks 
+gambleruin: checks 
+hc_carl: bets $1
+chata.iz: folds 
+daria130399: calls $1
+gambleruin: folds 
+*** TURN *** [Td 9h 5d] [7d]
+daria130399: bets $2.85
+hc_carl: folds 
+Uncalled bet ($2.85) returned to daria130399
+daria130399 collected $3.80 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Td 9h 5d 7d]
+Seat 1: hc_carl folded on the Turn
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz (button) folded on the Flop
+Seat 8: daria130399 (small blind) collected ($3.80)
+Seat 9: gambleruin (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228674330884:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:01:16 ET
+Table 'Amalasuntha II' 9-max Seat #8 is the button
+Seat 1: hc_carl ($26.99 in chips) 
+Seat 2: WrongButton ($54.25 in chips) 
+Seat 3: pl@netskii ($51.75 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($53.41 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($52.23 in chips) 
+Seat 8: daria130399 ($52.30 in chips) 
+Seat 9: gambleruin ($50 in chips) 
+gambleruin: posts small blind $0.25
+hc_carl: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: raises $0.75 to $1.25
+StudentRB: raises $2.75 to $4
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+gambleruin: folds 
+hc_carl: folds 
+melovidniy: raises $8.50 to $12.50
+StudentRB: raises $40.91 to $53.41 and is all-in
+melovidniy: folds 
+Uncalled bet ($40.91) returned to StudentRB
+StudentRB collected $25.75 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $25.75 | Rake $0 
+Seat 1: hc_carl (big blind) folded before Flop
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy folded before Flop
+Seat 5: StudentRB collected ($25.75)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 (button) folded before Flop (didn't bet)
+Seat 9: gambleruin (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674344426:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:02:54 ET
+Table 'Amalasuntha II' 9-max Seat #9 is the button
+Seat 1: hc_carl ($26.49 in chips) 
+Seat 2: WrongButton ($54.25 in chips) 
+Seat 3: pl@netskii ($51.75 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($66.66 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($52.23 in chips) 
+Seat 8: daria130399 ($52.30 in chips) 
+Seat 9: gambleruin ($50 in chips) 
+hc_carl: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: raises $0.50 to $1
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+gambleruin: folds 
+hc_carl: folds 
+WrongButton: folds 
+Uncalled bet ($0.50) returned to StudentRB
+StudentRB collected $1.25 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hc_carl (small blind) folded before Flop
+Seat 2: WrongButton (big blind) folded before Flop
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB collected ($1.25)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: gambleruin (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674360148:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:03:36 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: hc_carl ($26.24 in chips) 
+Seat 2: WrongButton ($53.75 in chips) 
+Seat 3: pl@netskii ($51.75 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($67.41 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($52.23 in chips) 
+Seat 8: daria130399 ($52.30 in chips) 
+Seat 9: gambleruin ($50 in chips) 
+WrongButton: posts small blind $0.25
+pl@netskii: posts big blind $0.50
+*** HOLE CARDS ***
+melovidniy: folds 
+StudentRB: folds 
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+gambleruin: raises $0.75 to $1.25
+hc_carl: calls $1.25
+WrongButton: folds 
+pl@netskii: calls $0.75
+*** FLOP *** [5d 4c As]
+pl@netskii: checks 
+gambleruin: checks 
+hc_carl: bets $0.50
+pl@netskii: folds 
+gambleruin: folds 
+Uncalled bet ($0.50) returned to hc_carl
+hc_carl collected $3.80 from pot
+hc_carl: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [5d 4c As]
+Seat 1: hc_carl (button) collected ($3.80)
+Seat 2: WrongButton (small blind) folded before Flop
+Seat 3: pl@netskii (big blind) folded on the Flop
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: gambleruin folded on the Flop
+
+
+
+PokerStars Hand #228674366751:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:04:24 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: hc_carl ($28.79 in chips) 
+Seat 2: WrongButton ($53.50 in chips) 
+Seat 3: pl@netskii ($50.50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($67.41 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($52.23 in chips) 
+Seat 8: daria130399 ($52.30 in chips) 
+Seat 9: gambleruin ($50 in chips) 
+pl@netskii: posts small blind $0.25
+melovidniy: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: folds 
+Effort92: raises $0.55 to $1.05
+chata.iz: folds 
+daria130399 has timed out
+daria130399: folds 
+gambleruin: folds 
+hc_carl: folds 
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+Uncalled bet ($0.55) returned to Effort92
+Effort92 collected $1.25 from pot
+Effort92: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hc_carl folded before Flop (didn't bet)
+Seat 2: WrongButton (button) folded before Flop (didn't bet)
+Seat 3: pl@netskii (small blind) folded before Flop
+Seat 4: melovidniy (big blind) folded before Flop
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 collected ($1.25)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: gambleruin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674370523:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:04:50 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 1: hc_carl ($28.79 in chips) 
+Seat 2: WrongButton ($53.50 in chips) 
+Seat 3: pl@netskii ($50.25 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($67.41 in chips) 
+Seat 6: Effort92 ($50.75 in chips) 
+Seat 7: chata.iz ($52.23 in chips) 
+Seat 9: gambleruin ($50 in chips) 
+melovidniy: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+Effort92: folds 
+chata.iz: folds 
+gambleruin: folds 
+hc_carl has timed out
+hc_carl: folds 
+WrongButton: folds 
+pl@netskii: folds 
+hc_carl is disconnected 
+melovidniy: folds 
+Uncalled bet ($0.25) returned to StudentRB
+StudentRB collected $0.50 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: hc_carl folded before Flop (didn't bet)
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii (button) folded before Flop (didn't bet)
+Seat 4: melovidniy (small blind) folded before Flop
+Seat 5: StudentRB (big blind) collected ($0.50)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 9: gambleruin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674376567:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:05:34 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 2: WrongButton ($53.50 in chips) 
+Seat 3: pl@netskii ($50.25 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($67.66 in chips) 
+Seat 6: Effort92 ($50.75 in chips) 
+Seat 7: chata.iz ($52.23 in chips) 
+Seat 8: daria130399 ($52.30 in chips) 
+Seat 9: gambleruin ($50 in chips) 
+StudentRB: posts small blind $0.25
+Effort92: posts big blind $0.50
+*** HOLE CARDS ***
+chata.iz: folds 
+daria130399: folds 
+gambleruin: folds 
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: raises $1 to $1.50
+Effort92: folds 
+Uncalled bet ($1) returned to StudentRB
+StudentRB collected $1 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy (button) folded before Flop (didn't bet)
+Seat 5: StudentRB (small blind) collected ($1)
+Seat 6: Effort92 (big blind) folded before Flop
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: gambleruin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674379450:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:05:56 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 2: WrongButton ($53.50 in chips) 
+Seat 3: pl@netskii ($50.25 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($68.16 in chips) 
+Seat 6: Effort92 ($50.25 in chips) 
+Seat 7: chata.iz ($52.23 in chips) 
+Seat 8: daria130399 ($52.30 in chips) 
+Seat 9: gambleruin ($50 in chips) 
+Effort92: posts small blind $0.25
+chata.iz: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: folds 
+gambleruin: folds 
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB has timed out
+StudentRB: folds 
+Effort92: folds 
+Uncalled bet ($0.25) returned to chata.iz
+chata.iz collected $0.50 from pot
+chata.iz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB (button) folded before Flop (didn't bet)
+Seat 6: Effort92 (small blind) folded before Flop
+Seat 7: chata.iz (big blind) collected ($0.50)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: gambleruin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674382267:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:06:16 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 2: WrongButton ($53.50 in chips) 
+Seat 3: pl@netskii ($50.25 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($52.48 in chips) 
+Seat 8: daria130399 ($52.30 in chips) 
+Seat 9: gambleruin ($50 in chips) 
+chata.iz: posts small blind $0.25
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+gambleruin: folds 
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: raises $0.75 to $1.25
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+Uncalled bet ($0.75) returned to melovidniy
+melovidniy collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy collected ($1.25)
+Seat 6: Effort92 (button) folded before Flop (didn't bet)
+Seat 7: chata.iz (small blind) folded before Flop
+Seat 8: daria130399 (big blind) folded before Flop
+Seat 9: gambleruin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674385975:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:06:42 ET
+Table 'Amalasuntha II' 9-max Seat #7 is the button
+Seat 2: WrongButton ($53.50 in chips) 
+Seat 3: pl@netskii ($50.25 in chips) 
+Seat 4: melovidniy ($50.75 in chips) 
+Seat 5: StudentRB ($68.16 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($52.23 in chips) 
+Seat 8: daria130399 ($51.80 in chips) 
+daria130399: posts small blind $0.25
+gambleruin: is sitting out 
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: folds 
+Effort92: folds 
+chata.iz: raises $1 to $1.50
+daria130399: folds 
+WrongButton: folds 
+Uncalled bet ($1) returned to chata.iz
+chata.iz collected $1.25 from pot
+chata.iz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: WrongButton (big blind) folded before Flop
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz (button) collected ($1.25)
+Seat 8: daria130399 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674387983:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:06:56 ET
+Table 'Amalasuntha II' 9-max Seat #8 is the button
+Seat 2: WrongButton ($53 in chips) 
+Seat 3: pl@netskii ($50.25 in chips) 
+Seat 4: melovidniy ($50.75 in chips) 
+Seat 5: StudentRB ($68.16 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($52.98 in chips) 
+Seat 8: daria130399 ($51.55 in chips) 
+WrongButton: posts small blind $0.25
+pl@netskii: posts big blind $0.50
+*** HOLE CARDS ***
+melovidniy: folds 
+gambleruin leaves the table
+StudentRB: raises $0.75 to $1.25
+undergr0undY joins the table at seat #9 
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+WrongButton: folds 
+pl@netskii: folds 
+Uncalled bet ($0.75) returned to StudentRB
+StudentRB collected $1.25 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: WrongButton (small blind) folded before Flop
+Seat 3: pl@netskii (big blind) folded before Flop
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB collected ($1.25)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674391207:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:07:21 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: hc_carl ($28.79 in chips) 
+Seat 2: WrongButton ($52.75 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($50.75 in chips) 
+Seat 5: StudentRB ($68.91 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($52.98 in chips) 
+Seat 8: daria130399 ($51.55 in chips) 
+pl@netskii: posts small blind $0.25
+melovidniy: posts big blind $0.50
+undergr0undY: sits out 
+hc_carl: posts small & big blinds $0.75
+*** HOLE CARDS ***
+StudentRB: folds 
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+hc_carl: checks 
+WrongButton: raises $1 to $1.50
+pl@netskii: folds 
+melovidniy: calls $1
+hc_carl: calls $1
+*** FLOP *** [3d 8c 3s]
+melovidniy: checks 
+hc_carl: bets $0.50
+WrongButton: calls $0.50
+melovidniy: calls $0.50
+*** TURN *** [3d 8c 3s] [Qh]
+melovidniy: checks 
+hc_carl: bets $1
+WrongButton: folds 
+melovidniy: folds 
+Uncalled bet ($1) returned to hc_carl
+hc_carl collected $6.18 from pot
+hc_carl: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [3d 8c 3s Qh]
+Seat 1: hc_carl collected ($6.18)
+Seat 2: WrongButton (button) folded on the Turn
+Seat 3: pl@netskii (small blind) folded before Flop
+Seat 4: melovidniy (big blind) folded on the Turn
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674402033:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:08:40 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 1: hc_carl ($32.72 in chips) 
+Seat 2: WrongButton ($50.75 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($68.91 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($52.98 in chips) 
+Seat 8: daria130399 ($51.55 in chips) 
+melovidniy: posts small blind $0.25
+StudentRB: posts big blind $0.50
+undergr0undY: sits out 
+*** HOLE CARDS ***
+Effort92: folds 
+chata.iz: raises $1 to $1.50
+daria130399: folds 
+hc_carl: folds 
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: folds 
+Uncalled bet ($1) returned to chata.iz
+chata.iz collected $1.25 from pot
+chata.iz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hc_carl folded before Flop (didn't bet)
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii (button) folded before Flop (didn't bet)
+Seat 4: melovidniy (small blind) folded before Flop
+Seat 5: StudentRB (big blind) folded before Flop
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz collected ($1.25)
+Seat 8: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674405515:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:09:04 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: hc_carl ($32.72 in chips) 
+Seat 2: WrongButton ($50.75 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($68.41 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($53.73 in chips) 
+Seat 8: daria130399 ($51.55 in chips) 
+StudentRB: posts small blind $0.25
+Effort92: posts big blind $0.50
+undergr0undY: sits out 
+*** HOLE CARDS ***
+chata.iz: folds 
+daria130399: folds 
+hc_carl: calls $0.50
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: folds 
+Effort92: checks 
+*** FLOP *** [Jd Kd Th]
+Effort92: checks 
+hc_carl: bets $0.50
+Effort92: folds 
+Uncalled bet ($0.50) returned to hc_carl
+hc_carl collected $1.19 from pot
+hc_carl: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Jd Kd Th]
+Seat 1: hc_carl collected ($1.19)
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy (button) folded before Flop (didn't bet)
+Seat 5: StudentRB (small blind) folded before Flop
+Seat 6: Effort92 (big blind) folded on the Flop
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674411373:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:09:47 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: hc_carl ($33.41 in chips) 
+Seat 2: WrongButton ($50.75 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($68.16 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($53.73 in chips) 
+Seat 8: daria130399 ($51.55 in chips) 
+Effort92: posts small blind $0.25
+chata.iz: posts big blind $0.50
+undergr0undY: sits out 
+*** HOLE CARDS ***
+daria130399: raises $0.75 to $1.25
+hc_carl: calls $1.25
+WrongButton: folds 
+pl@netskii: calls $1.25
+melovidniy: folds 
+StudentRB: folds 
+Effort92: folds 
+chata.iz: folds 
+*** FLOP *** [5d 7c 8s]
+daria130399: checks 
+hc_carl: bets $1
+pl@netskii: folds 
+daria130399: folds 
+Uncalled bet ($1) returned to hc_carl
+hc_carl collected $4.28 from pot
+hc_carl: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [5d 7c 8s]
+Seat 1: hc_carl collected ($4.28)
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded on the Flop
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB (button) folded before Flop (didn't bet)
+Seat 6: Effort92 (small blind) folded before Flop
+Seat 7: chata.iz (big blind) folded before Flop
+Seat 8: daria130399 folded on the Flop
+
+
+
+PokerStars Hand #228674419522:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:10:45 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 1: hc_carl ($36.44 in chips) 
+Seat 2: WrongButton ($50.75 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($68.16 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($53.23 in chips) 
+Seat 8: daria130399 ($50.30 in chips) 
+chata.iz: posts small blind $0.25
+daria130399: posts big blind $0.50
+undergr0undY: sits out 
+*** HOLE CARDS ***
+hc_carl: raises $0.50 to $1
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: folds 
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+Uncalled bet ($0.50) returned to hc_carl
+hc_carl collected $1.25 from pot
+hc_carl: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hc_carl collected ($1.25)
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 (button) folded before Flop (didn't bet)
+Seat 7: chata.iz (small blind) folded before Flop
+Seat 8: daria130399 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228674422186:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:11:05 ET
+Table 'Amalasuntha II' 9-max Seat #7 is the button
+Seat 1: hc_carl ($37.19 in chips) 
+Seat 2: WrongButton ($50.75 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($68.16 in chips) 
+Seat 6: Effort92 ($50 in chips) 
+Seat 7: chata.iz ($52.98 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+daria130399: posts small blind $0.25
+undergr0undY: posts big blind $0.50
+*** HOLE CARDS ***
+hc_carl: calls $0.50
+WrongButton: folds 
+pl@netskii: raises $1.75 to $2.25
+melovidniy: folds 
+StudentRB: folds 
+Effort92: calls $2.25
+chata.iz: folds 
+daria130399: folds 
+undergr0undY: folds 
+hc_carl: folds 
+*** FLOP *** [Qs 2s 9d]
+pl@netskii: checks 
+Effort92: bets $4.10
+pl@netskii: calls $4.10
+*** TURN *** [Qs 2s 9d] [Qc]
+pl@netskii: checks 
+Effort92: checks 
+*** RIVER *** [Qs 2s 9d Qc] [Qd]
+pl@netskii: bets $7
+Effort92: calls $7
+*** SHOW DOWN ***
+pl@netskii: shows [Ks Jh] (three of a kind, Queens)
+Effort92: shows [6c 6d] (a full house, Queens full of Sixes)
+Effort92 collected $26.55 from pot
+*** SUMMARY ***
+Total pot $27.95 | Rake $1.40 
+Board [Qs 2s 9d Qc Qd]
+Seat 1: hc_carl folded before Flop
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii showed [Ks Jh] and lost with three of a kind, Queens
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 showed [6c 6d] and won ($26.55) with a full house, Queens full of Sixes
+Seat 7: chata.iz (button) folded before Flop (didn't bet)
+Seat 8: daria130399 (small blind) folded before Flop
+Seat 9: undergr0undY (big blind) folded before Flop
+
+
+
+PokerStars Hand #228674441906:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:13:29 ET
+Table 'Amalasuntha II' 9-max Seat #8 is the button
+Seat 1: hc_carl ($36.69 in chips) 
+Seat 2: WrongButton ($50.75 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($68.16 in chips) 
+Seat 6: Effort92 ($63.20 in chips) 
+Seat 7: chata.iz ($52.98 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+undergr0undY: posts small blind $0.25
+hc_carl: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: folds 
+Effort92: folds 
+chata.iz: raises $1 to $1.50
+daria130399: folds 
+undergr0undY: folds 
+hc_carl: folds 
+Uncalled bet ($1) returned to chata.iz
+chata.iz collected $1.25 from pot
+chata.iz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hc_carl (big blind) folded before Flop
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz collected ($1.25)
+Seat 8: daria130399 (button) folded before Flop (didn't bet)
+Seat 9: undergr0undY (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674447394:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:14:09 ET
+Table 'Amalasuntha II' 9-max Seat #9 is the button
+Seat 1: hc_carl ($36.19 in chips) 
+Seat 2: WrongButton ($50.75 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($68.16 in chips) 
+Seat 6: Effort92 ($63.20 in chips) 
+Seat 7: chata.iz ($53.73 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+hc_carl: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: raises $0.75 to $1.25
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+undergr0undY: folds 
+hc_carl: folds 
+WrongButton: raises $4.25 to $5.50
+StudentRB: folds 
+Uncalled bet ($4.25) returned to WrongButton
+WrongButton collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0 
+Seat 1: hc_carl (small blind) folded before Flop
+Seat 2: WrongButton (big blind) collected ($2.75)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB folded before Flop
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: undergr0undY (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674452801:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:14:49 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: hc_carl ($35.94 in chips) 
+Seat 2: WrongButton ($52.25 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($66.91 in chips) 
+Seat 6: Effort92 ($63.20 in chips) 
+Seat 7: chata.iz ($53.73 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+WrongButton: posts small blind $0.25
+pl@netskii: posts big blind $0.50
+*** HOLE CARDS ***
+melovidniy: raises $0.75 to $1.25
+StudentRB: folds 
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+undergr0undY: folds 
+hc_carl: folds 
+WrongButton: folds 
+pl@netskii: folds 
+Uncalled bet ($0.75) returned to melovidniy
+melovidniy collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hc_carl (button) folded before Flop (didn't bet)
+Seat 2: WrongButton (small blind) folded before Flop
+Seat 3: pl@netskii (big blind) folded before Flop
+Seat 4: melovidniy collected ($1.25)
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674456126:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:15:13 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: hc_carl ($35.94 in chips) 
+Seat 2: WrongButton ($52 in chips) 
+Seat 3: pl@netskii ($50 in chips) 
+Seat 4: melovidniy ($50.75 in chips) 
+Seat 5: StudentRB ($66.91 in chips) 
+Seat 6: Effort92 ($63.20 in chips) 
+Seat 7: chata.iz ($53.73 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+pl@netskii: posts small blind $0.25
+melovidniy: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: folds 
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+undergr0undY: folds 
+hc_carl: folds 
+WrongButton: folds 
+pl@netskii: raises $1 to $1.50
+melovidniy: folds 
+Uncalled bet ($1) returned to pl@netskii
+pl@netskii collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: hc_carl folded before Flop (didn't bet)
+Seat 2: WrongButton (button) folded before Flop (didn't bet)
+Seat 3: pl@netskii (small blind) collected ($1)
+Seat 4: melovidniy (big blind) folded before Flop
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674461925:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:15:56 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 1: hc_carl ($35.94 in chips) 
+Seat 2: WrongButton ($52 in chips) 
+Seat 3: pl@netskii ($50.50 in chips) 
+Seat 4: melovidniy ($50.25 in chips) 
+Seat 5: StudentRB ($66.91 in chips) 
+Seat 6: Effort92 ($63.20 in chips) 
+Seat 7: chata.iz ($53.73 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+melovidniy: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+undergr0undY: folds 
+hc_carl: calls $0.50
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: checks 
+*** FLOP *** [As 4s Ks]
+StudentRB: checks 
+hc_carl: bets $0.50
+StudentRB: folds 
+Uncalled bet ($0.50) returned to hc_carl
+hc_carl collected $1.19 from pot
+hc_carl: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [As 4s Ks]
+Seat 1: hc_carl collected ($1.19)
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii (button) folded before Flop (didn't bet)
+Seat 4: melovidniy (small blind) folded before Flop
+Seat 5: StudentRB (big blind) folded on the Flop
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674468817:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:16:47 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: hc_carl ($36.63 in chips) 
+Seat 2: WrongButton ($52 in chips) 
+Seat 3: pl@netskii ($50.50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($66.41 in chips) 
+Seat 6: Effort92 ($63.20 in chips) 
+Seat 7: chata.iz ($53.73 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+StudentRB: posts small blind $0.25
+Effort92: posts big blind $0.50
+*** HOLE CARDS ***
+chata.iz: folds 
+daria130399: folds 
+undergr0undY: folds 
+hc_carl: folds 
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: folds 
+Uncalled bet ($0.25) returned to Effort92
+Effort92 collected $0.50 from pot
+Effort92: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: hc_carl folded before Flop (didn't bet)
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy (button) folded before Flop (didn't bet)
+Seat 5: StudentRB (small blind) folded before Flop
+Seat 6: Effort92 (big blind) collected ($0.50)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674471295:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:17:05 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: hc_carl ($36.63 in chips) 
+Seat 2: WrongButton ($52 in chips) 
+Seat 3: pl@netskii ($50.50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($66.16 in chips) 
+Seat 6: Effort92 ($63.45 in chips) 
+Seat 7: chata.iz ($53.73 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+Effort92: posts small blind $0.25
+chata.iz: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: raises $0.75 to $1.25
+undergr0undY: folds 
+hc_carl: calls $1.25
+WrongButton: folds 
+pl@netskii: folds 
+melovidniy: folds 
+StudentRB: folds 
+Effort92: folds 
+chata.iz: calls $0.75
+*** FLOP *** [7d Qc Js]
+chata.iz: checks 
+daria130399: checks 
+hc_carl: checks 
+*** TURN *** [7d Qc Js] [4s]
+chata.iz: bets $2.50
+daria130399: folds 
+hc_carl: folds 
+Uncalled bet ($2.50) returned to chata.iz
+chata.iz collected $3.80 from pot
+chata.iz: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [7d Qc Js 4s]
+Seat 1: hc_carl folded on the Turn
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii folded before Flop (didn't bet)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB (button) folded before Flop (didn't bet)
+Seat 6: Effort92 (small blind) folded before Flop
+Seat 7: chata.iz (big blind) collected ($3.80)
+Seat 8: daria130399 folded on the Turn
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674482302:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:18:24 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 1: hc_carl ($35.38 in chips) 
+Seat 2: WrongButton ($52 in chips) 
+Seat 3: pl@netskii ($50.50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($66.16 in chips) 
+Seat 6: Effort92 ($63.20 in chips) 
+Seat 7: chata.iz ($56.28 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+chata.iz: posts small blind $0.25
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+undergr0undY: folds 
+hc_carl: calls $0.50
+WrongButton: folds 
+pl@netskii: raises $1.50 to $2
+melovidniy: folds 
+StudentRB: folds 
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+hc_carl: folds 
+Uncalled bet ($1.50) returned to pl@netskii
+pl@netskii collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: hc_carl folded before Flop
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii collected ($1.75)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 (button) folded before Flop (didn't bet)
+Seat 7: chata.iz (small blind) folded before Flop
+Seat 8: daria130399 (big blind) folded before Flop
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674486183:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:18:52 ET
+Table 'Amalasuntha II' 9-max Seat #7 is the button
+Seat 1: hc_carl ($34.88 in chips) 
+Seat 2: WrongButton ($52 in chips) 
+Seat 3: pl@netskii ($51.75 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($66.16 in chips) 
+Seat 6: Effort92 ($63.20 in chips) 
+Seat 7: chata.iz ($56.03 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+daria130399: posts small blind $0.25
+undergr0undY: posts big blind $0.50
+*** HOLE CARDS ***
+hc_carl: folds 
+WrongButton: folds 
+pl@netskii: raises $1 to $1.50
+melovidniy: folds 
+StudentRB: folds 
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+hc_carl leaves the table
+undergr0undY: folds 
+Uncalled bet ($1) returned to pl@netskii
+pl@netskii collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: hc_carl folded before Flop (didn't bet)
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 3: pl@netskii collected ($1.25)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz (button) folded before Flop (didn't bet)
+Seat 8: daria130399 (small blind) folded before Flop
+Seat 9: undergr0undY (big blind) folded before Flop
+
+
+
+PokerStars Hand #228674488557:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:19:09 ET
+Table 'Amalasuntha II' 9-max Seat #8 is the button
+Seat 2: WrongButton ($52 in chips) 
+Seat 3: pl@netskii ($52.50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($66.16 in chips) 
+Seat 6: Effort92 ($63.20 in chips) 
+Seat 7: chata.iz ($56.03 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+undergr0undY: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+pl@netskii: raises $1 to $1.50
+olhapro85 joins the table at seat #1 
+melovidniy: folds 
+StudentRB: folds 
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+undergr0undY: folds 
+WrongButton: folds 
+Uncalled bet ($1) returned to pl@netskii
+pl@netskii collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: WrongButton (big blind) folded before Flop
+Seat 3: pl@netskii collected ($1.25)
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 (button) folded before Flop (didn't bet)
+Seat 9: undergr0undY (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674491270:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:19:29 ET
+Table 'Amalasuntha II' 9-max Seat #9 is the button
+Seat 2: WrongButton ($51.50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($66.16 in chips) 
+Seat 6: Effort92 ($63.20 in chips) 
+Seat 7: chata.iz ($56.03 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+WrongButton: posts small blind $0.25
+pl@netskii: is sitting out 
+melovidniy: posts big blind $0.50
+*** HOLE CARDS ***
+pl@netskii leaves the table
+StudentRB: folds 
+Effort92: folds 
+chata.iz: folds 
+daria130399: folds 
+undergr0undY: raises $0.75 to $1.25
+WrongButton: folds 
+melovidniy: calls $0.75
+*** FLOP *** [Tc 7c 9d]
+melovidniy: checks 
+undergr0undY: checks 
+*** TURN *** [Tc 7c 9d] [9s]
+melovidniy: checks 
+undergr0undY: bets $2.01
+melovidniy: folds 
+Uncalled bet ($2.01) returned to undergr0undY
+undergr0undY collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [Tc 7c 9d 9s]
+Seat 2: WrongButton (small blind) folded before Flop
+Seat 4: melovidniy (big blind) folded on the Turn
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: undergr0undY (button) collected ($2.61)
+
+
+
+PokerStars Hand #228674501135:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:20:41 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 2: WrongButton ($51.25 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($66.16 in chips) 
+Seat 6: Effort92 ($63.20 in chips) 
+Seat 7: chata.iz ($56.03 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($51.36 in chips) 
+melovidniy: posts small blind $0.25
+StudentRB: posts big blind $0.50
+olhapro85: sits out 
+*** HOLE CARDS ***
+Effort92: folds 
+Effort92 leaves the table
+chata.iz: raises $1 to $1.50
+daria130399: folds 
+undergr0undY: folds 
+WrongButton: folds 
+melovidniy: folds 
+StudentRB: folds 
+Uncalled bet ($1) returned to chata.iz
+chata.iz collected $1.25 from pot
+chata.iz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: WrongButton (button) folded before Flop (didn't bet)
+Seat 4: melovidniy (small blind) folded before Flop
+Seat 5: StudentRB (big blind) folded before Flop
+Seat 6: Effort92 folded before Flop (didn't bet)
+Seat 7: chata.iz collected ($1.25)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674503967:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:21:01 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 2: WrongButton ($51.25 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($65.66 in chips) 
+Seat 7: chata.iz ($56.78 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: undergr0undY ($51.36 in chips) 
+StudentRB: posts small blind $0.25
+chata.iz: posts big blind $0.50
+olhapro85: sits out 
+*** HOLE CARDS ***
+daria130399: folds 
+undergr0undY: folds 
+WrongButton: folds 
+melovidniy: folds 
+StudentRB: folds 
+Uncalled bet ($0.25) returned to chata.iz
+chata.iz collected $0.50 from pot
+chata.iz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 4: melovidniy (button) folded before Flop (didn't bet)
+Seat 5: StudentRB (small blind) folded before Flop
+Seat 7: chata.iz (big blind) collected ($0.50)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228674505276:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:21:11 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 2: WrongButton ($51.25 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($65.41 in chips) 
+Seat 7: chata.iz ($57.03 in chips) 
+Seat 9: undergr0undY ($51.36 in chips) 
+chata.iz: posts small blind $0.25
+daria130399: is sitting out 
+undergr0undY: posts big blind $0.50
+olhapro85: sits out 
+*** HOLE CARDS ***
+WrongButton: raises $0.50 to $1
+daria130399 leaves the table
+melovidniy: folds 
+StudentRB: folds 
+chata.iz: folds 
+undergr0undY: calls $0.50
+*** FLOP *** [Jd 5c 6h]
+undergr0undY: checks 
+WrongButton: bets $0.75
+undergr0undY: calls $0.75
+*** TURN *** [Jd 5c 6h] [5s]
+undergr0undY: checks 
+WrongButton: checks 
+*** RIVER *** [Jd 5c 6h 5s] [3s]
+undergr0undY: bets $4.27
+WrongButton: folds 
+Uncalled bet ($4.27) returned to undergr0undY
+undergr0undY collected $3.56 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [Jd 5c 6h 5s 3s]
+Seat 2: WrongButton folded on the River
+Seat 4: melovidniy folded before Flop (didn't bet)
+Seat 5: StudentRB (button) folded before Flop (didn't bet)
+Seat 7: chata.iz (small blind) folded before Flop
+Seat 9: undergr0undY (big blind) collected ($3.56)
+
+
+
+PokerStars Hand #228674511861:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:21:59 ET
+Table 'Amalasuntha II' 9-max Seat #7 is the button
+Seat 1: olhapro85 ($50 in chips) 
+Seat 2: WrongButton ($50 in chips) 
+Seat 4: melovidniy ($50 in chips) 
+Seat 5: StudentRB ($65.41 in chips) 
+Seat 7: chata.iz ($56.78 in chips) 
+Seat 9: undergr0undY ($53.17 in chips) 
+undergr0undY: posts small blind $0.25
+olhapro85: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+melovidniy: raises $0.75 to $1.25
+StudentRB: folds 
+chata.iz: folds 
+undergr0undY: folds 
+olhapro85: folds 
+Uncalled bet ($0.75) returned to melovidniy
+melovidniy collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: olhapro85 (big blind) folded before Flop
+Seat 2: WrongButton folded before Flop (didn't bet)
+Seat 4: melovidniy collected ($1.25)
+Seat 5: StudentRB folded before Flop (didn't bet)
+Seat 7: chata.iz (button) folded before Flop (didn't bet)
+Seat 9: undergr0undY (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674514070:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:22:15 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: olhapro85 ($50 in chips) 
+Seat 9: undergr0undY ($52.92 in chips) 
+olhapro85: posts small blind $0.25
+WrongButton: is sitting out 
+melovidniy: is sitting out 
+StudentRB: is sitting out 
+WrongButton leaves the table
+chata.iz: is sitting out 
+undergr0undY: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB leaves the table
+olhapro85: raises $1 to $1.50
+undergr0undY: calls $1
+*** FLOP *** [As 8d 4d]
+undergr0undY: checks 
+melovidniy leaves the table
+olhapro85: bets $0.94
+undergr0undY: folds 
+Uncalled bet ($0.94) returned to olhapro85
+olhapro85 collected $2.85 from pot
+olhapro85: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [As 8d 4d]
+Seat 1: olhapro85 (button) (small blind) collected ($2.85)
+Seat 9: undergr0undY (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228674848254:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:00:48 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($48.82 in chips) 
+Seat 2: juwnas ($50.95 in chips) 
+juwnas: posts small blind $0.25
+Vert Dider: is sitting out 
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+chata.iz leaves the table
+juwnas: calls $0.25
+cosmin198484: checks 
+*** FLOP *** [3h Jh 4h]
+Vert Dider leaves the table
+cosmin198484: checks 
+juwnas: checks 
+*** TURN *** [3h Jh 4h] [5s]
+cosmin198484: checks 
+juwnas: bets $0.50
+cosmin198484: folds 
+Uncalled bet ($0.50) returned to juwnas
+juwnas collected $0.95 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [3h Jh 4h 5s]
+Seat 1: cosmin198484 (big blind) folded on the Turn
+Seat 2: juwnas (button) (small blind) collected ($0.95)
+
+
+
+PokerStars Hand #228674854469:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:01:31 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($48.32 in chips) 
+Seat 2: juwnas ($51.40 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to juwnas
+juwnas collected $0.50 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) folded before Flop
+Seat 2: juwnas (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674855474:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:01:38 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($48.07 in chips) 
+Seat 2: juwnas ($51.65 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: calls $0.25
+cosmin198484: checks 
+*** FLOP *** [7h As 9d]
+cosmin198484: checks 
+juwnas: bets $0.50
+cosmin198484: folds 
+Uncalled bet ($0.50) returned to juwnas
+juwnas collected $0.95 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [7h As 9d]
+Seat 1: cosmin198484 (big blind) folded on the Flop
+Seat 2: juwnas (button) (small blind) collected ($0.95)
+
+
+
+PokerStars Hand #228674858041:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:01:57 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($47.57 in chips) 
+Seat 2: juwnas ($52.10 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to juwnas
+juwnas collected $0.50 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) folded before Flop
+Seat 2: juwnas (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674858814:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:02:02 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($47.32 in chips) 
+Seat 2: juwnas ($52.35 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (big blind) collected ($0.50)
+Seat 2: juwnas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674859486:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:02:07 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($47.57 in chips) 
+Seat 2: juwnas ($52.10 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: raises $1 to $1.50
+juwnas: folds 
+Uncalled bet ($1) returned to cosmin198484
+cosmin198484 collected $1 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) collected ($1)
+Seat 2: juwnas (big blind) folded before Flop
+
+
+
+PokerStars Hand #228674860622:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:02:14 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($48.07 in chips) 
+Seat 2: juwnas ($51.60 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (big blind) collected ($0.50)
+Seat 2: juwnas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674861334:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:02:19 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($48.32 in chips) 
+Seat 2: juwnas ($51.35 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: raises $1 to $1.50
+juwnas: folds 
+Uncalled bet ($1) returned to cosmin198484
+cosmin198484 collected $1 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) collected ($1)
+Seat 2: juwnas (big blind) folded before Flop
+
+
+
+PokerStars Hand #228674863457:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:02:34 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($48.82 in chips) 
+Seat 2: juwnas ($50.85 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: raises $0.50 to $1
+cosmin198484: folds 
+Uncalled bet ($0.50) returned to juwnas
+juwnas collected $1 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: cosmin198484 (big blind) folded before Flop
+Seat 2: juwnas (button) (small blind) collected ($1)
+
+
+
+PokerStars Hand #228674865406:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:02:48 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($48.32 in chips) 
+Seat 2: juwnas ($51.35 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to juwnas
+juwnas collected $0.50 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) folded before Flop
+Seat 2: juwnas (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674866208:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:02:53 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($48.07 in chips) 
+Seat 2: juwnas ($51.60 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: raises $0.50 to $1
+cosmin198484: raises $2 to $3
+juwnas: folds 
+Uncalled bet ($2) returned to cosmin198484
+cosmin198484 collected $2 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: cosmin198484 (big blind) collected ($2)
+Seat 2: juwnas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674867818:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:03:03 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($49.07 in chips) 
+Seat 2: juwnas ($50.60 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+Jun624 joins the table at seat #3 
+cosmin198484: raises $1 to $1.50
+juwnas: folds 
+Uncalled bet ($1) returned to cosmin198484
+cosmin198484 collected $1 from pot
+cosmin198484: doesn't show hand 
+Jun624 leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) collected ($1)
+Seat 2: juwnas (big blind) folded before Flop
+
+
+
+PokerStars Hand #228674869513:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:03:15 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($49.57 in chips) 
+Seat 2: juwnas ($50.10 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (big blind) collected ($0.50)
+Seat 2: juwnas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674870275:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:03:20 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($49.82 in chips) 
+Seat 2: juwnas ($49.85 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to juwnas
+juwnas collected $0.50 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) folded before Flop
+Seat 2: juwnas (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674871116:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:03:25 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($49.57 in chips) 
+Seat 2: juwnas ($50.10 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (big blind) collected ($0.50)
+Seat 2: juwnas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674871830:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:03:30 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($49.82 in chips) 
+Seat 2: juwnas ($49.85 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: raises $1 to $1.50
+juwnas: calls $1
+*** FLOP *** [6d As 9h]
+juwnas: checks 
+cosmin198484: checks 
+*** TURN *** [6d As 9h] [8c]
+juwnas: checks 
+cosmin198484: checks 
+*** RIVER *** [6d As 9h 8c] [Qh]
+juwnas: checks 
+cosmin198484: checks 
+*** SHOW DOWN ***
+juwnas: shows [5d Jh] (high card Ace)
+cosmin198484: shows [Kh 6h] (a pair of Sixes)
+cosmin198484 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [6d As 9h 8c Qh]
+Seat 1: cosmin198484 (button) (small blind) showed [Kh 6h] and won ($2.85) with a pair of Sixes
+Seat 2: juwnas (big blind) showed [5d Jh] and lost with high card Ace
+
+
+
+PokerStars Hand #228674876376:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:04:01 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($51.17 in chips) 
+Seat 2: juwnas ($48.35 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: raises $1 to $1.50
+cosmin198484: raises $3 to $4.50
+juwnas: calls $3
+*** FLOP *** [4c 2c 8s]
+cosmin198484: bets $4.50
+juwnas: calls $4.50
+*** TURN *** [4c 2c 8s] [7d]
+cosmin198484: checks 
+juwnas: checks 
+*** RIVER *** [4c 2c 8s 7d] [9h]
+cosmin198484: checks 
+juwnas: bets $16.12
+cosmin198484: folds 
+Uncalled bet ($16.12) returned to juwnas
+juwnas collected $17.25 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.75 
+Board [4c 2c 8s 7d 9h]
+Seat 1: cosmin198484 (big blind) folded on the River
+Seat 2: juwnas (button) (small blind) collected ($17.25)
+
+
+
+PokerStars Hand #228674884846:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:04:58 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($42.17 in chips) 
+Seat 2: juwnas ($56.60 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to juwnas
+juwnas collected $0.50 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) folded before Flop
+Seat 2: juwnas (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674887115:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:05:13 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($41.92 in chips) 
+Seat 2: juwnas ($56.85 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (big blind) collected ($0.50)
+Seat 2: juwnas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674887854:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:05:17 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($42.17 in chips) 
+Seat 2: juwnas ($56.60 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to juwnas
+juwnas collected $0.50 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) folded before Flop
+Seat 2: juwnas (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674888732:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:05:24 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($41.92 in chips) 
+Seat 2: juwnas ($56.85 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (big blind) collected ($0.50)
+Seat 2: juwnas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674889420:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:05:28 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($42.17 in chips) 
+Seat 2: juwnas ($56.60 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to juwnas
+juwnas collected $0.50 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) folded before Flop
+Seat 2: juwnas (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674890154:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:05:33 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($41.92 in chips) 
+Seat 2: juwnas ($56.85 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: raises $1 to $1.50
+cosmin198484: folds 
+Uncalled bet ($1) returned to juwnas
+juwnas collected $1 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: cosmin198484 (big blind) folded before Flop
+Seat 2: juwnas (button) (small blind) collected ($1)
+
+
+
+PokerStars Hand #228674891289:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:05:41 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($41.42 in chips) 
+Seat 2: juwnas ($57.35 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to juwnas
+juwnas collected $0.50 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) folded before Flop
+Seat 2: juwnas (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674892004:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:05:45 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($41.17 in chips) 
+Seat 2: juwnas ($57.60 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (big blind) collected ($0.50)
+Seat 2: juwnas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674892759:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:05:50 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($41.42 in chips) 
+Seat 2: juwnas ($57.35 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to juwnas
+juwnas collected $0.50 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) folded before Flop
+Seat 2: juwnas (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674893425:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:05:55 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($41.17 in chips) 
+Seat 2: juwnas ($57.60 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (big blind) collected ($0.50)
+Seat 2: juwnas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674894118:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:05:59 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($41.42 in chips) 
+Seat 2: juwnas ($57.35 in chips) 
+cosmin198484: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to juwnas
+juwnas collected $0.50 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) folded before Flop
+Seat 2: juwnas (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674894912:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:06:05 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 1: cosmin198484 ($41.17 in chips) 
+Seat 2: juwnas ($57.60 in chips) 
+juwnas: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: raises $1 to $1.50
+Lisenok110 joins the table at seat #3 
+cosmin198484 has timed out
+cosmin198484: folds 
+Uncalled bet ($1) returned to juwnas
+juwnas collected $1 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: cosmin198484 (big blind) folded before Flop
+Seat 2: juwnas (button) (small blind) collected ($1)
+
+
+
+PokerStars Hand #228674902622:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:06:56 ET
+Table 'Amalasuntha II' 9-max Seat #2 is the button
+Seat 2: juwnas ($58.10 in chips) 
+Seat 3: Lisenok110 ($50 in chips) 
+juwnas: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+juwnas: folds 
+Uncalled bet ($0.25) returned to Lisenok110
+Lisenok110 collected $0.50 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: juwnas (button) (small blind) folded before Flop
+Seat 3: Lisenok110 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674903449:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:07:02 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 2: juwnas ($57.85 in chips) 
+Seat 3: Lisenok110 ($50.25 in chips) 
+Lisenok110: posts small blind $0.25
+juwnas: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: raises $1 to $1.50
+juwnas: calls $1
+*** FLOP *** [8c 4d 2d]
+juwnas: checks 
+Lisenok110: checks 
+*** TURN *** [8c 4d 2d] [6s]
+juwnas: bets $1.42
+Lisenok110: folds 
+Uncalled bet ($1.42) returned to juwnas
+juwnas collected $2.85 from pot
+juwnas: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [8c 4d 2d 6s]
+Seat 2: juwnas (big blind) collected ($2.85)
+Seat 3: Lisenok110 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #228674911285:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:07:54 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($40.67 in chips) 
+Seat 3: Lisenok110 ($50 in chips) 
+cosmin198484: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to Lisenok110
+Lisenok110 collected $0.50 from pot
+ChristianPowers leaves the table
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (button) (small blind) folded before Flop
+Seat 3: Lisenok110 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674912433:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 4:08:02 ET
+Table 'Amalasuntha II' 9-max Seat #3 is the button
+Seat 1: cosmin198484 ($40.42 in chips) 
+Seat 3: Lisenok110 ($50.25 in chips) 
+Lisenok110: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: raises $1 to $1.50
+cosmin198484: folds 
+Uncalled bet ($1) returned to Lisenok110
+Lisenok110 collected $1 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: cosmin198484 (big blind) folded before Flop
+Seat 3: Lisenok110 (button) (small blind) collected ($1)
+
+
+
+PokerStars Hand #228674729748:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:46:36 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: pl@netskii ($53.25 in chips) 
+Seat 4: Popokluev ($50 in chips) 
+Popokluev: posts small blind $0.25
+pl@netskii: posts big blind $0.50
+*** HOLE CARDS ***
+Popokluev: raises $1 to $1.50
+pl@netskii: raises $3.75 to $5.25
+Popokluev: calls $3.75
+*** FLOP *** [Tc 3h 7d]
+pl@netskii: checks 
+Popokluev: bets $3.29
+pl@netskii: folds 
+Uncalled bet ($3.29) returned to Popokluev
+Popokluev collected $9.98 from pot
+Popokluev: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [Tc 3h 7d]
+Seat 1: pl@netskii (big blind) folded on the Flop
+Seat 4: Popokluev (button) (small blind) collected ($9.98)
+
+
+
+PokerStars Hand #228674736331:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:47:21 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: pl@netskii ($50 in chips) 
+Seat 4: Popokluev ($54.73 in chips) 
+pl@netskii: posts small blind $0.25
+Popokluev: posts big blind $0.50
+*** HOLE CARDS ***
+pl@netskii: folds 
+Uncalled bet ($0.25) returned to Popokluev
+Popokluev collected $0.50 from pot
+Popokluev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: pl@netskii (button) (small blind) folded before Flop
+Seat 4: Popokluev (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228674747954:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:48:41 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: cosmin198484 ($31.98 in chips) 
+Seat 4: Popokluev ($54.98 in chips) 
+Seat 5: Schillaci92 ($20 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50 in chips) 
+Schillaci92: posts small blind $0.25
+D‚‚Ç¨†est7oye‚‚Ç¨†R: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Popokluev: folds 
+Schillaci92: calls $0.25
+D‚‚Ç¨†est7oye‚‚Ç¨†R: raises $1.25 to $1.75
+Schillaci92: folds 
+Uncalled bet ($1.25) returned to D‚‚Ç¨†est7oye‚‚Ç¨†R
+D‚‚Ç¨†est7oye‚‚Ç¨†R collected $1 from pot
+D‚‚Ç¨†est7oye‚‚Ç¨†R: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: cosmin198484 folded before Flop (didn't bet)
+Seat 4: Popokluev (button) folded before Flop (didn't bet)
+Seat 5: Schillaci92 (small blind) folded before Flop
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R (big blind) collected ($1)
+
+
+
+PokerStars Hand #228674752766:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:49:14 ET
+Table 'Amalasuntha II' 9-max Seat #5 is the button
+Seat 1: cosmin198484 ($31.98 in chips) 
+Seat 4: Popokluev ($54.98 in chips) 
+Seat 5: Schillaci92 ($19.50 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50.50 in chips) 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+Popokluev: folds 
+Schillaci92: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cosmin198484 (big blind) collected ($0.50)
+Seat 4: Popokluev folded before Flop (didn't bet)
+Seat 5: Schillaci92 (button) folded before Flop (didn't bet)
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R (small blind) folded before Flop
+
+
+
+PokerStars Hand #228674754395:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:49:25 ET
+Table 'Amalasuntha II' 9-max Seat #6 is the button
+Seat 1: cosmin198484 ($32.23 in chips) 
+Seat 4: Popokluev ($54.98 in chips) 
+Seat 5: Schillaci92 ($19.50 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50.25 in chips) 
+cosmin198484: posts small blind $0.25
+Popokluev: posts big blind $0.50
+*** HOLE CARDS ***
+Schillaci92: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: raises $1 to $1.50
+juwnas joins the table at seat #2 
+cosmin198484: folds 
+marshallteem joins the table at seat #3 
+Popokluev: folds 
+Uncalled bet ($1) returned to D‚‚Ç¨†est7oye‚‚Ç¨†R
+D‚‚Ç¨†est7oye‚‚Ç¨†R collected $1.25 from pot
+D‚‚Ç¨†est7oye‚‚Ç¨†R: doesn't show hand 
+Medved219 joins the table at seat #8 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: cosmin198484 (small blind) folded before Flop
+Seat 4: Popokluev (big blind) folded before Flop
+Seat 5: Schillaci92 folded before Flop (didn't bet)
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R (button) collected ($1.25)
+
+
+
+PokerStars Hand #228674760185:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:50:05 ET
+Table 'Amalasuntha II' 9-max Seat #1 is the button
+Seat 1: cosmin198484 ($31.98 in chips) 
+Seat 4: Popokluev ($54.48 in chips) 
+Seat 5: Schillaci92 ($19.50 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($51 in chips) 
+Popokluev: posts small blind $0.25
+Schillaci92: posts big blind $0.50
+Medved219: sits out 
+*** HOLE CARDS ***
+D‚‚Ç¨†est7oye‚‚Ç¨†R: raises $1 to $1.50
+cosmin198484: folds 
+Popokluev: raises $4.01 to $5.51
+Schillaci92: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Uncalled bet ($4.01) returned to Popokluev
+Popokluev collected $3.50 from pot
+Popokluev: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: cosmin198484 (button) folded before Flop (didn't bet)
+Seat 4: Popokluev (small blind) collected ($3.50)
+Seat 5: Schillaci92 (big blind) folded before Flop
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop
+
+
+
+PokerStars Hand #228674762623:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 3:50:21 ET
+Table 'Amalasuntha II' 9-max Seat #4 is the button
+Seat 1: cosmin198484 ($31.98 in chips) 
+Seat 3: marshallteem ($40 in chips) 
+Seat 4: Popokluev ($56.48 in chips) 
+Seat 5: Schillaci92 ($19 in chips) 
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50 in chips) 
+Schillaci92: posts small blind $0.25
+D‚‚Ç¨†est7oye‚‚Ç¨†R: posts big blind $0.50
+Medved219: sits out 
+juwnas: sits out 
+marshallteem: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+marshallteem: checks 
+Popokluev: folds 
+Schillaci92: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: checks 
+*** FLOP *** [9h 6s 9s]
+D‚‚Ç¨†est7oye‚‚Ç¨†R: checks 
+marshallteem: checks 
+*** TURN *** [9h 6s 9s] [8c]
+D‚‚Ç¨†est7oye‚‚Ç¨†R: bets $0.61
+marshallteem: folds 
+Uncalled bet ($0.61) returned to D‚‚Ç¨†est7oye‚‚Ç¨†R
+D‚‚Ç¨†est7oye‚‚Ç¨†R collected $1.19 from pot
+D‚‚Ç¨†est7oye‚‚Ç¨†R: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [9h 6s 9s 8c]
+Seat 1: cosmin198484 folded before Flop (didn't bet)
+Seat 3: marshallteem folded on the Turn (didn't bet)
+Seat 4: Popokluev (button) folded before Flop (didn't bet)
+Seat 5: Schillaci92 (small blind) folded before Flop
+Seat 6: D‚‚Ç¨†est7oye‚‚Ç¨†R (big blind) collected ($1.19)
+
+
+

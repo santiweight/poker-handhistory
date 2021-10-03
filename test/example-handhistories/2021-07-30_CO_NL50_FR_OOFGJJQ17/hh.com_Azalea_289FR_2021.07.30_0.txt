@@ -1,0 +1,5518 @@
+﻿PokerStars Hand #228688005413:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:10:33 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 1: PleBeY95 ($50 in chips) 
+Seat 2: dikanmax ($56.47 in chips) 
+Seat 4: Razum_BY ($51.50 in chips) 
+Seat 5: v.sting ($107.58 in chips) 
+Seat 6: lexon3 ($61.73 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: holdemamn ($54.23 in chips) 
+Razum_BY: posts small blind $0.25
+v.sting: posts big blind $0.50
+Pok3rfre4k: sits out 
+*** HOLE CARDS ***
+lexon3 has timed out
+lexon3: folds 
+MarsMiland: folds 
+holdemamn: raises $0.75 to $1.25
+PleBeY95: folds 
+dikanmax: folds 
+Razum_BY: folds 
+v.sting: calls $0.75
+*** FLOP *** [2s 6c 2h]
+v.sting: checks 
+holdemamn: bets $0.87
+v.sting: calls $0.87
+*** TURN *** [2s 6c 2h] [Kd]
+v.sting: checks 
+holdemamn: bets $3.20
+v.sting: folds 
+Uncalled bet ($3.20) returned to holdemamn
+holdemamn collected $4.27 from pot
+holdemamn: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.49 | Rake $0.22 
+Board [2s 6c 2h Kd]
+Seat 1: PleBeY95 folded before Flop (didn't bet)
+Seat 2: dikanmax (button) folded before Flop (didn't bet)
+Seat 4: Razum_BY (small blind) folded before Flop
+Seat 5: v.sting (big blind) folded on the Turn
+Seat 6: lexon3 folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: holdemamn collected ($4.27)
+
+
+
+PokerStars Hand #228688039449:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:11:43 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 1: PleBeY95 ($50 in chips) 
+Seat 2: dikanmax ($56.47 in chips) 
+Seat 4: Razum_BY ($51.25 in chips) 
+Seat 5: v.sting ($105.46 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: holdemamn ($56.38 in chips) 
+v.sting: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+Pok3rfre4k: sits out 
+*** HOLE CARDS ***
+holdemamn: folds 
+PleBeY95: folds 
+dikanmax: folds 
+Razum_BY: folds 
+v.sting: raises $1 to $1.50
+MarsMiland: calls $1
+*** FLOP *** [3h 9c Kh]
+v.sting: bets $0.94
+MarsMiland: folds 
+Uncalled bet ($0.94) returned to v.sting
+v.sting collected $2.85 from pot
+v.sting: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [3h 9c Kh]
+Seat 1: PleBeY95 folded before Flop (didn't bet)
+Seat 2: dikanmax folded before Flop (didn't bet)
+Seat 4: Razum_BY (button) folded before Flop (didn't bet)
+Seat 5: v.sting (small blind) collected ($2.85)
+Seat 7: MarsMiland (big blind) folded on the Flop
+Seat 8: holdemamn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688052094:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:12:11 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: PleBeY95 ($50 in chips) 
+Seat 2: dikanmax ($56.47 in chips) 
+Seat 3: pokerstarliam12 ($62.76 in chips) 
+Seat 4: Razum_BY ($51.25 in chips) 
+Seat 5: v.sting ($106.81 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: holdemamn ($56.38 in chips) 
+MarsMiland: posts small blind $0.25
+holdemamn: posts big blind $0.50
+Pok3rfre4k: sits out 
+pokerstarliam12: posts small & big blinds $0.75
+*** HOLE CARDS ***
+PleBeY95: folds 
+dikanmax: folds 
+pokerstarliam12: checks 
+Razum_BY: folds 
+v.sting: folds 
+MarsMiland: folds 
+holdemamn: checks 
+*** FLOP *** [9c Qc Ah]
+holdemamn: checks 
+pokerstarliam12: checks 
+*** TURN *** [9c Qc Ah] [4d]
+holdemamn: checks 
+pokerstarliam12: bets $1.42
+holdemamn: folds 
+Uncalled bet ($1.42) returned to pokerstarliam12
+pokerstarliam12 collected $1.42 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [9c Qc Ah 4d]
+Seat 1: PleBeY95 folded before Flop (didn't bet)
+Seat 2: dikanmax folded before Flop (didn't bet)
+Seat 3: pokerstarliam12 collected ($1.42)
+Seat 4: Razum_BY folded before Flop (didn't bet)
+Seat 5: v.sting (button) folded before Flop (didn't bet)
+Seat 7: MarsMiland (small blind) folded before Flop
+Seat 8: holdemamn (big blind) folded on the Turn
+
+
+
+PokerStars Hand #228688072048:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:12:54 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: PleBeY95 ($50 in chips) 
+Seat 2: dikanmax ($56.47 in chips) 
+Seat 3: pokerstarliam12 ($63.43 in chips) 
+Seat 4: Razum_BY ($51.25 in chips) 
+Seat 5: v.sting ($106.81 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: holdemamn ($55.88 in chips) 
+Seat 9: Pok3rfre4k ($50 in chips) 
+holdemamn: posts small blind $0.25
+Pok3rfre4k: posts big blind $0.50
+lexon3: sits out 
+*** HOLE CARDS ***
+PleBeY95: raises $1 to $1.50
+dikanmax: folds 
+pokerstarliam12: calls $1.50
+Razum_BY: folds 
+v.sting: folds 
+MarsMiland: calls $1.50
+holdemamn: folds 
+Pok3rfre4k: folds 
+*** FLOP *** [4c 3d 9s]
+PleBeY95: checks 
+pokerstarliam12: bets $2.50
+MarsMiland: folds 
+PleBeY95: calls $2.50
+*** TURN *** [4c 3d 9s] [Ah]
+PleBeY95: checks 
+pokerstarliam12: bets $4.87
+PleBeY95: folds 
+Uncalled bet ($4.87) returned to pokerstarliam12
+pokerstarliam12 collected $9.74 from pot
+*** SUMMARY ***
+Total pot $10.25 | Rake $0.51 
+Board [4c 3d 9s Ah]
+Seat 1: PleBeY95 folded on the Turn
+Seat 2: dikanmax folded before Flop (didn't bet)
+Seat 3: pokerstarliam12 collected ($9.74)
+Seat 4: Razum_BY folded before Flop (didn't bet)
+Seat 5: v.sting folded before Flop (didn't bet)
+Seat 7: MarsMiland (button) folded on the Flop
+Seat 8: holdemamn (small blind) folded before Flop
+Seat 9: Pok3rfre4k (big blind) folded before Flop
+
+
+
+PokerStars Hand #228688320175:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:21:20 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 1: PleBeY95 ($57.07 in chips) 
+Seat 2: dikanmax ($54.97 in chips) 
+Seat 3: pokerstarliam12 ($67.06 in chips) 
+Seat 4: Razum_BY ($50.50 in chips) 
+Seat 5: v.sting ($107.82 in chips) 
+Seat 6: lexon3 ($60.23 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: holdemamn ($61.88 in chips) 
+Seat 9: Pok3rfre4k ($45.35 in chips) 
+v.sting: posts small blind $0.25
+lexon3: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+holdemamn: folds 
+Pok3rfre4k: folds 
+PleBeY95: raises $1 to $1.50
+dikanmax: calls $1.50
+pokerstarliam12: folds 
+pokerstarliam12 leaves the table
+An1an1 joins the table at seat #3 
+Razum_BY: raises $4.75 to $6.25
+v.sting: folds 
+lexon3: folds 
+PleBeY95: folds 
+An1an1 leaves the table
+dikanmax: folds 
+Uncalled bet ($4.75) returned to Razum_BY
+Razum_BY collected $5.25 from pot
+Razum_BY: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0 
+Seat 1: PleBeY95 folded before Flop
+Seat 2: dikanmax folded before Flop
+Seat 3: pokerstarliam12 folded before Flop (didn't bet)
+Seat 4: Razum_BY (button) collected ($5.25)
+Seat 5: v.sting (small blind) folded before Flop
+Seat 6: lexon3 (big blind) folded before Flop
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: holdemamn folded before Flop (didn't bet)
+Seat 9: Pok3rfre4k folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688332349:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:21:45 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: PleBeY95 ($55.57 in chips) 
+Seat 2: dikanmax ($53.47 in chips) 
+Seat 4: Razum_BY ($54.25 in chips) 
+Seat 5: v.sting ($107.57 in chips) 
+Seat 6: lexon3 ($59.73 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: holdemamn ($61.88 in chips) 
+Seat 9: Pok3rfre4k ($45.35 in chips) 
+lexon3: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+holdemamn: raises $1 to $1.50
+Pok3rfre4k: folds 
+PleBeY95: folds 
+dikanmax: folds 
+Razum_BY: folds 
+v.sting: folds 
+lexon3: folds 
+MarsMiland: folds 
+Uncalled bet ($1) returned to holdemamn
+holdemamn collected $1.25 from pot
+holdemamn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: PleBeY95 folded before Flop (didn't bet)
+Seat 2: dikanmax folded before Flop (didn't bet)
+Seat 4: Razum_BY folded before Flop (didn't bet)
+Seat 5: v.sting (button) folded before Flop (didn't bet)
+Seat 6: lexon3 (small blind) folded before Flop
+Seat 7: MarsMiland (big blind) folded before Flop
+Seat 8: holdemamn collected ($1.25)
+Seat 9: Pok3rfre4k folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688342070:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:22:05 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 1: PleBeY95 ($55.57 in chips) 
+Seat 2: dikanmax ($53.47 in chips) 
+Seat 4: Razum_BY ($54.25 in chips) 
+Seat 5: v.sting ($107.57 in chips) 
+Seat 6: lexon3 ($59.48 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: holdemamn ($62.63 in chips) 
+Seat 9: Pok3rfre4k ($45.35 in chips) 
+MarsMiland: posts small blind $0.25
+holdemamn: posts big blind $0.50
+*** HOLE CARDS ***
+Pok3rfre4k: folds 
+PleBeY95: folds 
+dikanmax: folds 
+Razum_BY: folds 
+v.sting: raises $0.75 to $1.25
+lexon3: folds 
+MarsMiland: folds 
+holdemamn: folds 
+Uncalled bet ($0.75) returned to v.sting
+v.sting collected $1.25 from pot
+v.sting: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: PleBeY95 folded before Flop (didn't bet)
+Seat 2: dikanmax folded before Flop (didn't bet)
+Seat 4: Razum_BY folded before Flop (didn't bet)
+Seat 5: v.sting collected ($1.25)
+Seat 6: lexon3 (button) folded before Flop (didn't bet)
+Seat 7: MarsMiland (small blind) folded before Flop
+Seat 8: holdemamn (big blind) folded before Flop
+Seat 9: Pok3rfre4k folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688352148:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:22:25 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: PleBeY95 ($55.57 in chips) 
+Seat 2: dikanmax ($53.47 in chips) 
+Seat 4: Razum_BY ($54.25 in chips) 
+Seat 5: v.sting ($108.32 in chips) 
+Seat 6: lexon3 ($59.48 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: holdemamn ($62.13 in chips) 
+Seat 9: Pok3rfre4k ($45.35 in chips) 
+holdemamn: posts small blind $0.25
+Pok3rfre4k: posts big blind $0.50
+*** HOLE CARDS ***
+PleBeY95: folds 
+dikanmax: folds 
+Razum_BY: raises $0.75 to $1.25
+v.sting: folds 
+lexon3: folds 
+MarsMiland: folds 
+holdemamn: folds 
+Pok3rfre4k: folds 
+Uncalled bet ($0.75) returned to Razum_BY
+Razum_BY collected $1.25 from pot
+Razum_BY: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: PleBeY95 folded before Flop (didn't bet)
+Seat 2: dikanmax folded before Flop (didn't bet)
+Seat 4: Razum_BY collected ($1.25)
+Seat 5: v.sting folded before Flop (didn't bet)
+Seat 6: lexon3 folded before Flop (didn't bet)
+Seat 7: MarsMiland (button) folded before Flop (didn't bet)
+Seat 8: holdemamn (small blind) folded before Flop
+Seat 9: Pok3rfre4k (big blind) folded before Flop
+
+
+
+PokerStars Hand #228688361834:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:22:45 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: PleBeY95 ($55.57 in chips) 
+Seat 6: lexon3 ($59.48 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 9: Pok3rfre4k ($44.85 in chips) 
+PleBeY95: posts small blind $0.25
+dikanmax: is sitting out 
+Razum_BY: is sitting out 
+v.sting: is sitting out 
+lexon3: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+MarsMiland leaves the table
+Pok3rfre4k: folds 
+holdemamn leaves the table
+PleBeY95: folds 
+Uncalled bet ($0.25) returned to lexon3
+lexon3 collected $0.50 from pot
+lexon3: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: PleBeY95 (small blind) folded before Flop
+Seat 6: lexon3 (big blind) collected ($0.50)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 9: Pok3rfre4k (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688367519:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:22:57 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: PleBeY95 ($55.32 in chips) 
+Seat 6: lexon3 ($59.73 in chips) 
+Seat 9: Pok3rfre4k ($44.85 in chips) 
+lexon3: posts small blind $0.25
+Pok3rfre4k: posts big blind $0.50
+*** HOLE CARDS ***
+PleBeY95: folds 
+PleBeY95 leaves the table
+lexon3: raises $1 to $1.50
+phatom-z joins the table at seat #1 
+Pok3rfre4k: calls $1
+*** FLOP *** [7c 5s 5d]
+lexon3: checks 
+dikanmax leaves the table
+Pok3rfre4k: checks 
+*** TURN *** [7c 5s 5d] [Jc]
+v.sting leaves the table
+lexon3: checks 
+Pok3rfre4k: bets $1
+lexon3: folds 
+Uncalled bet ($1) returned to Pok3rfre4k
+Pok3rfre4k collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [7c 5s 5d Jc]
+Seat 1: PleBeY95 (button) folded before Flop (didn't bet)
+Seat 6: lexon3 (small blind) folded on the Turn
+Seat 9: Pok3rfre4k (big blind) collected ($2.85)
+
+
+
+PokerStars Hand #228688400613:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:24:05 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 1: phatom-z ($50 in chips) 
+Seat 6: lexon3 ($58.23 in chips) 
+Seat 9: Pok3rfre4k ($46.20 in chips) 
+Pok3rfre4k: posts small blind $0.25
+phatom-z: posts big blind $0.50
+*** HOLE CARDS ***
+lexon3: raises $0.75 to $1.25
+Pok3rfre4k: folds 
+phatom-z: folds 
+Uncalled bet ($0.75) returned to lexon3
+lexon3 collected $1.25 from pot
+lexon3: doesn't show hand 
+Squall33bdi joins the table at seat #3 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: phatom-z (big blind) folded before Flop
+Seat 6: lexon3 (button) collected ($1.25)
+Seat 9: Pok3rfre4k (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688405085:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:24:14 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: phatom-z ($50 in chips) 
+Seat 3: Squall33bdi ($50 in chips) 
+Seat 6: lexon3 ($58.98 in chips) 
+Seat 9: Pok3rfre4k ($45.95 in chips) 
+phatom-z: posts small blind $0.25
+Squall33bdi: posts big blind $0.50
+*** HOLE CARDS ***
+lexon3: folds 
+Pok3rfre4k: folds 
+phatom-z: folds 
+Uncalled bet ($0.25) returned to Squall33bdi
+Squall33bdi collected $0.50 from pot
+Squall33bdi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: phatom-z (small blind) folded before Flop
+Seat 3: Squall33bdi (big blind) collected ($0.50)
+Seat 6: lexon3 folded before Flop (didn't bet)
+Seat 9: Pok3rfre4k (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688410832:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:24:26 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: phatom-z ($50 in chips) 
+Seat 3: Squall33bdi ($50.25 in chips) 
+Seat 9: Pok3rfre4k ($45.95 in chips) 
+Squall33bdi: posts small blind $0.25
+lexon3: is sitting out 
+Pok3rfre4k: posts big blind $0.50
+*** HOLE CARDS ***
+phatom-z: raises $0.75 to $1.25
+Razum_BY leaves the table
+Squall33bdi: folds 
+Pok3rfre4k: raises $2.75 to $4
+phatom-z: calls $2.75
+*** FLOP *** [4d Ts 6d]
+Pok3rfre4k: bets $4
+phatom-z: folds 
+Uncalled bet ($4) returned to Pok3rfre4k
+Pok3rfre4k collected $7.84 from pot
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.41 
+Board [4d Ts 6d]
+Seat 1: phatom-z (button) folded on the Flop
+Seat 3: Squall33bdi (small blind) folded before Flop
+Seat 9: Pok3rfre4k (big blind) collected ($7.84)
+
+
+
+PokerStars Hand #228688430743:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:25:07 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 1: phatom-z ($50 in chips) 
+Seat 3: Squall33bdi ($50 in chips) 
+Seat 9: Pok3rfre4k ($49.79 in chips) 
+Pok3rfre4k: posts small blind $0.25
+phatom-z: posts big blind $0.50
+*** HOLE CARDS ***
+Squall33bdi: folds 
+Pok3rfre4k: calls $0.25
+phatom-z: checks 
+*** FLOP *** [Ts Qd 6h]
+Pok3rfre4k: checks 
+phatom-z: checks 
+*** TURN *** [Ts Qd 6h] [3c]
+Unsimple joins the table at seat #2 
+Pok3rfre4k: checks 
+phatom-z: checks 
+*** RIVER *** [Ts Qd 6h 3c] [Ah]
+Pok3rfre4k: bets $0.50
+phatom-z: folds 
+Uncalled bet ($0.50) returned to Pok3rfre4k
+Pok3rfre4k collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Ts Qd 6h 3c Ah]
+Seat 1: phatom-z (big blind) folded on the River
+Seat 3: Squall33bdi (button) folded before Flop (didn't bet)
+Seat 9: Pok3rfre4k (small blind) collected ($0.95)
+
+
+
+PokerStars Hand #228688452921:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:25:52 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: phatom-z ($50 in chips) 
+Seat 9: Pok3rfre4k ($50.24 in chips) 
+phatom-z: posts small blind $0.25
+Squall33bdi: is sitting out 
+Pok3rfre4k: posts big blind $0.50
+*** HOLE CARDS ***
+phatom-z: folds 
+Uncalled bet ($0.25) returned to Pok3rfre4k
+Pok3rfre4k collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: phatom-z (button) (small blind) folded before Flop
+Seat 9: Pok3rfre4k (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228688455337:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:25:57 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: phatom-z ($50 in chips) 
+Seat 9: Pok3rfre4k ($50.49 in chips) 
+Pok3rfre4k: posts small blind $0.25
+phatom-z: posts big blind $0.50
+*** HOLE CARDS ***
+Pok3rfre4k: calls $0.25
+phatom-z: checks 
+*** FLOP *** [3d 4c 8d]
+lexon3 leaves the table
+phatom-z: checks 
+Pok3rfre4k: checks 
+*** TURN *** [3d 4c 8d] [5c]
+phatom-z: checks 
+Pok3rfre4k: checks 
+*** RIVER *** [3d 4c 8d 5c] [6h]
+Squall33bdi leaves the table
+phatom-z: bets $1
+Pok3rfre4k: folds 
+Uncalled bet ($1) returned to phatom-z
+phatom-z collected $0.95 from pot
+phatom-z: doesn't show hand 
+Pok3rfre4k leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [3d 4c 8d 5c 6h]
+Seat 1: phatom-z (big blind) collected ($0.95)
+Seat 9: Pok3rfre4k (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #228688671513:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:33:21 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 6: Yanndydy ($50 in chips) 
+Seat 7: v.sting ($108.32 in chips) 
+Seat 8: suigetsy ($50 in chips) 
+Seat 9: An1an1 ($50 in chips) 
+v.sting: posts small blind $0.25
+suigetsy: posts big blind $0.50
+*** HOLE CARDS ***
+An1an1: raises $0.75 to $1.25
+phatom-z leaves the table
+Yanndydy: folds 
+v.sting: folds 
+DonLeon88 joins the table at seat #1 
+suigetsy: folds 
+Uncalled bet ($0.75) returned to An1an1
+An1an1 collected $1.25 from pot
+An1an1: doesn't show hand 
+Almaty2021 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 6: Yanndydy (button) folded before Flop (didn't bet)
+Seat 7: v.sting (small blind) folded before Flop
+Seat 8: suigetsy (big blind) folded before Flop
+Seat 9: An1an1 collected ($1.25)
+
+
+
+PokerStars Hand #228688676322:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:33:31 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 2: Almaty2021 ($20.02 in chips) 
+Seat 6: Yanndydy ($50 in chips) 
+Seat 7: v.sting ($108.07 in chips) 
+Seat 8: suigetsy ($49.50 in chips) 
+Seat 9: An1an1 ($50.75 in chips) 
+suigetsy: posts small blind $0.25
+An1an1: posts big blind $0.50
+DonLeon88: sits out 
+AndyLu)|(ynski joins the table at seat #3 
+Almaty2021 is connected 
+Almaty2021: posts big blind $0.50
+*** HOLE CARDS ***
+$lavik88 joins the table at seat #4 
+StudentRB joins the table at seat #5 
+Almaty2021: checks 
+Yanndydy: folds 
+v.sting: folds 
+suigetsy: folds 
+An1an1: checks 
+*** FLOP *** [Jc 3s Tc]
+An1an1: checks 
+Almaty2021: bets $1.19
+An1an1: folds 
+Uncalled bet ($1.19) returned to Almaty2021
+Almaty2021 collected $1.19 from pot
+Almaty2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Jc 3s Tc]
+Seat 2: Almaty2021 collected ($1.19)
+Seat 6: Yanndydy folded before Flop (didn't bet)
+Seat 7: v.sting (button) folded before Flop (didn't bet)
+Seat 8: suigetsy (small blind) folded before Flop
+Seat 9: An1an1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228688689907:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:33:59 ET
+Table 'Azalea III' 9-max Seat #8 is the button
+Seat 1: DonLeon88 ($20 in chips) 
+Seat 2: Almaty2021 ($20.71 in chips) 
+Seat 6: Yanndydy ($50 in chips) 
+Seat 7: v.sting ($108.07 in chips) 
+Seat 8: suigetsy ($49.25 in chips) 
+Seat 9: An1an1 ($50.25 in chips) 
+An1an1: posts small blind $0.25
+DonLeon88: posts big blind $0.50
+AndyLu)|(ynski: sits out 
+$lavik88: sits out 
+StudentRB: sits out 
+*** HOLE CARDS ***
+Almaty2021: folds 
+Yanndydy: folds 
+v.sting: folds 
+suigetsy: raises $0.75 to $1.25
+An1an1: folds 
+DonLeon88: folds 
+Uncalled bet ($0.75) returned to suigetsy
+suigetsy collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: DonLeon88 (big blind) folded before Flop
+Seat 2: Almaty2021 folded before Flop (didn't bet)
+Seat 6: Yanndydy folded before Flop (didn't bet)
+Seat 7: v.sting folded before Flop (didn't bet)
+Seat 8: suigetsy (button) collected ($1.25)
+Seat 9: An1an1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688697765:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:34:16 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: DonLeon88 ($19.50 in chips) 
+Seat 2: Almaty2021 ($20.71 in chips) 
+Seat 6: Yanndydy ($50 in chips) 
+Seat 7: v.sting ($108.07 in chips) 
+Seat 8: suigetsy ($50 in chips) 
+Seat 9: An1an1 ($50 in chips) 
+DonLeon88: posts small blind $0.25
+Almaty2021: posts big blind $0.50
+AndyLu)|(ynski: sits out 
+$lavik88: sits out 
+StudentRB: sits out 
+*** HOLE CARDS ***
+Yanndydy: folds 
+v.sting: raises $0.75 to $1.25
+suigetsy: folds 
+An1an1: folds 
+DonLeon88: folds 
+Almaty2021: calls $0.75
+*** FLOP *** [2s Jc 6s]
+Almaty2021: bets $1.30
+v.sting: raises $2.45 to $3.75
+Almaty2021: raises $2.45 to $6.20
+DonLeon88 leaves the table
+v.sting: folds 
+Uncalled bet ($2.45) returned to Almaty2021
+Almaty2021 collected $9.74 from pot
+Almaty2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.25 | Rake $0.51 
+Board [2s Jc 6s]
+Seat 1: DonLeon88 (small blind) folded before Flop
+Seat 2: Almaty2021 (big blind) collected ($9.74)
+Seat 6: Yanndydy folded before Flop (didn't bet)
+Seat 7: v.sting folded on the Flop
+Seat 8: suigetsy folded before Flop (didn't bet)
+Seat 9: An1an1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688721926:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:35:06 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 2: Almaty2021 ($25.45 in chips) 
+Seat 6: Yanndydy ($50 in chips) 
+Seat 7: v.sting ($103.07 in chips) 
+Seat 8: suigetsy ($50 in chips) 
+Seat 9: An1an1 ($50 in chips) 
+Yanndydy: posts small blind $0.25
+v.sting: posts big blind $0.50
+*** HOLE CARDS ***
+suigetsy: folds 
+An1an1: folds 
+Almaty2021: raises $1.25 to $1.75
+Yanndydy: calls $1.50
+JeansvomHaas joins the table at seat #1 
+v.sting: folds 
+*** FLOP *** [6h 7d 2s]
+Yanndydy: checks 
+Almaty2021: bets $1.90
+Yanndydy: folds 
+Uncalled bet ($1.90) returned to Almaty2021
+Almaty2021 collected $3.80 from pot
+Almaty2021: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [6h 7d 2s]
+Seat 2: Almaty2021 (button) collected ($3.80)
+Seat 6: Yanndydy (small blind) folded on the Flop
+Seat 7: v.sting (big blind) folded before Flop
+Seat 8: suigetsy folded before Flop (didn't bet)
+Seat 9: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688798399:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:37:47 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: JeansvomHaas ($47.67 in chips) 
+Seat 2: mazefaka007 ($79.39 in chips) 
+Seat 6: Yanndydy ($73.50 in chips) 
+Seat 7: v.sting ($102.32 in chips) 
+Seat 8: suigetsy ($49.25 in chips) 
+Seat 9: An1an1 ($51.35 in chips) 
+JeansvomHaas: posts small blind $0.25
+mazefaka007: posts big blind $0.50
+AndyLu)|(ynski: sits out 
+$lavik88: sits out 
+StudentRB: sits out 
+*** HOLE CARDS ***
+Yanndydy: raises $1 to $1.50
+v.sting: folds 
+suigetsy: folds 
+An1an1: folds 
+JeansvomHaas: calls $1.25
+mazefaka007: folds 
+*** FLOP *** [Qh 4c 7c]
+JeansvomHaas: checks 
+Yanndydy: checks 
+*** TURN *** [Qh 4c 7c] [9d]
+JeansvomHaas: bets $1.66
+Yanndydy: folds 
+Uncalled bet ($1.66) returned to JeansvomHaas
+JeansvomHaas collected $3.28 from pot
+JeansvomHaas: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.22 
+Board [Qh 4c 7c 9d]
+Seat 1: JeansvomHaas (small blind) collected ($3.28)
+Seat 2: mazefaka007 (big blind) folded before Flop
+Seat 6: Yanndydy folded on the Turn
+Seat 7: v.sting folded before Flop (didn't bet)
+Seat 8: suigetsy folded before Flop (didn't bet)
+Seat 9: An1an1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688825484:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:38:43 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: JeansvomHaas ($49.45 in chips) 
+Seat 2: mazefaka007 ($78.89 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 6: Yanndydy ($72 in chips) 
+Seat 7: v.sting ($102.32 in chips) 
+Seat 8: suigetsy ($49.25 in chips) 
+Seat 9: An1an1 ($51.35 in chips) 
+mazefaka007: posts small blind $0.25
+AndyLu)|(ynski: posts big blind $0.50
+$lavik88: sits out 
+StudentRB: sits out 
+*** HOLE CARDS ***
+Yanndydy has timed out
+Yanndydy: folds 
+v.sting: folds 
+suigetsy: folds 
+An1an1: folds 
+JeansvomHaas: raises $0.50 to $1
+mazefaka007: folds 
+AndyLu)|(ynski: calls $0.50
+*** FLOP *** [3h 5h Kh]
+AndyLu)|(ynski: checks 
+JeansvomHaas: checks 
+*** TURN *** [3h 5h Kh] [3c]
+AndyLu)|(ynski: checks 
+JeansvomHaas: bets $0.50
+AndyLu)|(ynski: folds 
+Uncalled bet ($0.50) returned to JeansvomHaas
+JeansvomHaas collected $2.11 from pot
+JeansvomHaas: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.14 
+Board [3h 5h Kh 3c]
+Seat 1: JeansvomHaas (button) collected ($2.11)
+Seat 2: mazefaka007 (small blind) folded before Flop
+Seat 3: AndyLu)|(ynski (big blind) folded on the Turn
+Seat 6: Yanndydy folded before Flop (didn't bet)
+Seat 7: v.sting folded before Flop (didn't bet)
+Seat 8: suigetsy folded before Flop (didn't bet)
+Seat 9: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688847816:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:39:29 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 1: JeansvomHaas ($50.56 in chips) 
+Seat 2: mazefaka007 ($78.64 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: $lavik88 ($50 in chips) 
+Seat 6: Yanndydy ($72 in chips) 
+Seat 7: v.sting ($102.32 in chips) 
+Seat 8: suigetsy ($49.25 in chips) 
+Seat 9: An1an1 ($51.35 in chips) 
+AndyLu)|(ynski: posts small blind $0.25
+$lavik88: posts big blind $0.50
+StudentRB: sits out 
+*** HOLE CARDS ***
+Yanndydy has timed out
+Yanndydy: folds 
+v.sting: folds 
+suigetsy: raises $0.75 to $1.25
+An1an1: folds 
+JeansvomHaas: calls $1.25
+mazefaka007: raises $5.25 to $6.50
+AndyLu)|(ynski: folds 
+$lavik88: folds 
+suigetsy: folds 
+JeansvomHaas: calls $5.25
+*** FLOP *** [Js Jc 5h]
+JeansvomHaas: checks 
+mazefaka007: checks 
+*** TURN *** [Js Jc 5h] [Jd]
+JeansvomHaas: checks 
+mazefaka007: checks 
+*** RIVER *** [Js Jc 5h Jd] [5c]
+JeansvomHaas: checks 
+mazefaka007: bets $9.98
+JeansvomHaas: calls $9.98
+*** SHOW DOWN ***
+mazefaka007: shows [Kc Ah] (a full house, Jacks full of Fives)
+JeansvomHaas: shows [6c 7d] (a full house, Jacks full of Fives)
+JeansvomHaas collected $16.39 from pot
+mazefaka007 collected $16.60 from pot
+*** SUMMARY ***
+Total pot $34.96 | Rake $1.97 
+Board [Js Jc 5h Jd 5c]
+Seat 1: JeansvomHaas showed [6c 7d] and won ($16.39) with a full house, Jacks full of Fives
+Seat 2: mazefaka007 (button) showed [Kc Ah] and won ($16.60) with a full house, Jacks full of Fives
+Seat 3: AndyLu)|(ynski (small blind) folded before Flop
+Seat 4: $lavik88 (big blind) folded before Flop
+Seat 6: Yanndydy folded before Flop (didn't bet)
+Seat 7: v.sting folded before Flop (didn't bet)
+Seat 8: suigetsy folded before Flop
+Seat 9: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688890232:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:40:51 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 1: JeansvomHaas ($50.47 in chips) 
+Seat 2: mazefaka007 ($78.76 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: $lavik88 ($50 in chips) 
+Seat 5: StudentRB ($56.64 in chips) 
+Seat 6: Yanndydy ($72 in chips) 
+Seat 7: v.sting ($102.32 in chips) 
+Seat 8: suigetsy ($48 in chips) 
+Seat 9: An1an1 ($51.35 in chips) 
+$lavik88: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+Yanndydy: raises $1 to $1.50
+v.sting: folds 
+suigetsy: folds 
+An1an1: folds 
+JeansvomHaas: calls $1.50
+mazefaka007: folds 
+AndyLu)|(ynski: folds 
+$lavik88: calls $1.25
+StudentRB: folds 
+*** FLOP *** [Th 9d 4h]
+$lavik88: checks 
+Yanndydy: checks 
+JeansvomHaas: bets $1
+$lavik88: calls $1
+Yanndydy: calls $1
+*** TURN *** [Th 9d 4h] [3c]
+$lavik88: checks 
+Yanndydy: checks 
+JeansvomHaas: bets $1
+$lavik88: calls $1
+Yanndydy: calls $1
+*** RIVER *** [Th 9d 4h 3c] [9s]
+$lavik88: checks 
+Yanndydy: checks 
+JeansvomHaas: checks 
+*** SHOW DOWN ***
+$lavik88: shows [6h 6c] (two pair, Nines and Sixes)
+Yanndydy: mucks hand 
+JeansvomHaas: mucks hand 
+$lavik88 collected $10.45 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [Th 9d 4h 3c 9s]
+Seat 1: JeansvomHaas mucked
+Seat 2: mazefaka007 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski (button) folded before Flop (didn't bet)
+Seat 4: $lavik88 (small blind) showed [6h 6c] and won ($10.45) with two pair, Nines and Sixes
+Seat 5: StudentRB (big blind) folded before Flop
+Seat 6: Yanndydy mucked
+Seat 7: v.sting folded before Flop (didn't bet)
+Seat 8: suigetsy folded before Flop (didn't bet)
+Seat 9: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688925240:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:42:05 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 1: JeansvomHaas ($46.97 in chips) 
+Seat 2: mazefaka007 ($78.76 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: $lavik88 ($56.95 in chips) 
+Seat 5: StudentRB ($56.14 in chips) 
+Seat 6: Yanndydy ($68.50 in chips) 
+Seat 7: v.sting ($102.32 in chips) 
+Seat 8: suigetsy ($48 in chips) 
+Seat 9: An1an1 ($51.35 in chips) 
+StudentRB: posts small blind $0.25
+Yanndydy: posts big blind $0.50
+*** HOLE CARDS ***
+v.sting: folds 
+suigetsy: folds 
+An1an1: folds 
+JeansvomHaas: raises $0.50 to $1
+mazefaka007: folds 
+AndyLu)|(ynski: folds 
+$lavik88: raises $3 to $4
+StudentRB: folds 
+Yanndydy: folds 
+JeansvomHaas: calls $3
+*** FLOP *** [As Kd 9d]
+JeansvomHaas: checks 
+$lavik88: bets $2.49
+JeansvomHaas: folds 
+Uncalled bet ($2.49) returned to $lavik88
+$lavik88 collected $8.31 from pot
+$lavik88: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.44 
+Board [As Kd 9d]
+Seat 1: JeansvomHaas folded on the Flop
+Seat 2: mazefaka007 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: $lavik88 (button) collected ($8.31)
+Seat 5: StudentRB (small blind) folded before Flop
+Seat 6: Yanndydy (big blind) folded before Flop
+Seat 7: v.sting folded before Flop (didn't bet)
+Seat 8: suigetsy folded before Flop (didn't bet)
+Seat 9: An1an1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690520781:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:39:25 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 1: alexrus18 ($50 in chips) 
+Seat 2: WilWinOnce.? ($61.50 in chips) 
+Seat 3: alex_matsuka ($51.07 in chips) 
+Seat 4: x_ROSH125_x ($74.66 in chips) 
+Seat 5: Popokluev ($50 in chips) 
+Seat 6: FrankDuxe1 ($21.19 in chips) 
+Seat 7: Pachebrash ($59.01 in chips) 
+Seat 8: An1an1 ($87.88 in chips) 
+Seat 9: oudine2 ($89.81 in chips) 
+x_ROSH125_x: posts small blind $0.25
+Popokluev: posts big blind $0.50
+*** HOLE CARDS ***
+FrankDuxe1 has timed out
+FrankDuxe1: folds 
+Pachebrash: folds 
+An1an1: folds 
+oudine2: folds 
+alexrus18: folds 
+WilWinOnce.?: folds 
+alex_matsuka: raises $1 to $1.50
+x_ROSH125_x: folds 
+Popokluev: calls $1
+*** FLOP *** [Jh Ac 6c]
+Popokluev: checks 
+alex_matsuka: bets $1.39
+Popokluev: calls $1.39
+*** TURN *** [Jh Ac 6c] [Tc]
+Popokluev: checks 
+alex_matsuka: bets $2.50
+Popokluev: calls $2.50
+*** RIVER *** [Jh Ac 6c Tc] [8c]
+Popokluev: checks 
+alex_matsuka: bets $7.34
+Popokluev: calls $7.34
+*** SHOW DOWN ***
+alex_matsuka: shows [Th 9d] (a pair of Tens)
+Popokluev: shows [Js Qc] (a flush, Ace high)
+Popokluev collected $24.42 from pot
+*** SUMMARY ***
+Total pot $25.71 | Rake $1.29 
+Board [Jh Ac 6c Tc 8c]
+Seat 1: alexrus18 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: alex_matsuka (button) showed [Th 9d] and lost with a pair of Tens
+Seat 4: x_ROSH125_x (small blind) folded before Flop
+Seat 5: Popokluev (big blind) showed [Js Qc] and won ($24.42) with a flush, Ace high
+Seat 6: FrankDuxe1 folded before Flop (didn't bet)
+Seat 7: Pachebrash folded before Flop (didn't bet)
+Seat 8: An1an1 folded before Flop (didn't bet)
+Seat 9: oudine2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690548792:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:40:28 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 1: alexrus18 ($50 in chips) 
+Seat 2: WilWinOnce.? ($61.50 in chips) 
+Seat 3: alex_matsuka ($50 in chips) 
+Seat 4: x_ROSH125_x ($74.41 in chips) 
+Seat 5: Popokluev ($61.69 in chips) 
+Seat 6: FrankDuxe1 ($21.19 in chips) 
+Seat 7: Pachebrash ($59.01 in chips) 
+Seat 8: An1an1 ($87.88 in chips) 
+Seat 9: oudine2 ($89.81 in chips) 
+Popokluev: posts small blind $0.25
+FrankDuxe1: posts big blind $0.50
+*** HOLE CARDS ***
+Pachebrash: raises $1 to $1.50
+An1an1: folds 
+oudine2: folds 
+alexrus18: folds 
+WilWinOnce.?: calls $1.50
+alex_matsuka: folds 
+x_ROSH125_x: folds 
+Popokluev: folds 
+FrankDuxe1: calls $1
+*** FLOP *** [Kc 2s 4h]
+FrankDuxe1: checks 
+Pachebrash: checks 
+WilWinOnce.?: bets $2.26
+FrankDuxe1: raises $3.74 to $6
+Pachebrash: folds 
+WilWinOnce.?: calls $3.74
+*** TURN *** [Kc 2s 4h] [5c]
+FrankDuxe1: checks 
+WilWinOnce.?: checks 
+*** RIVER *** [Kc 2s 4h 5c] [3s]
+FrankDuxe1: bets $13.69 and is all-in
+WilWinOnce.?: folds 
+Uncalled bet ($13.69) returned to FrankDuxe1
+FrankDuxe1 collected $15.91 from pot
+*** SUMMARY ***
+Total pot $16.75 | Rake $0.84 
+Board [Kc 2s 4h 5c 3s]
+Seat 1: alexrus18 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded on the River
+Seat 3: alex_matsuka folded before Flop (didn't bet)
+Seat 4: x_ROSH125_x (button) folded before Flop (didn't bet)
+Seat 5: Popokluev (small blind) folded before Flop
+Seat 6: FrankDuxe1 (big blind) collected ($15.91)
+Seat 7: Pachebrash folded on the Flop
+Seat 8: An1an1 folded before Flop (didn't bet)
+Seat 9: oudine2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690982969:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:57:43 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: alexrus18 ($50.75 in chips) 
+Seat 2: WilWinOnce.? ($56.52 in chips) 
+Seat 4: x_ROSH125_x ($67.91 in chips) 
+Seat 5: Popokluev ($50.08 in chips) 
+Seat 7: Pachebrash ($56.01 in chips) 
+Seat 8: An1an1 ($130.17 in chips) 
+Seat 9: oudine2 ($93.07 in chips) 
+Pachebrash: posts small blind $0.25
+An1an1: posts big blind $0.50
+dikanmax: sits out 
+*** HOLE CARDS ***
+oudine2: folds 
+alexrus18: folds 
+WilWinOnce.?: folds 
+x_ROSH125_x: folds 
+Popokluev: raises $0.75 to $1.25
+Pachebrash: folds 
+An1an1: raises $4 to $5.25
+Popokluev: calls $4
+*** FLOP *** [5c 5h 7d]
+An1an1: bets $3.06
+Popokluev: calls $3.06
+*** TURN *** [5c 5h 7d] [Ts]
+An1an1: checks 
+Popokluev: bets $10.69
+An1an1: calls $10.69
+*** RIVER *** [5c 5h 7d Ts] [Qh]
+An1an1: checks 
+Popokluev: checks 
+*** SHOW DOWN ***
+An1an1: shows [9c 9s] (two pair, Nines and Fives)
+Popokluev: shows [Td Kd] (two pair, Tens and Fives)
+Popokluev collected $36.34 from pot
+*** SUMMARY ***
+Total pot $38.25 | Rake $1.91 
+Board [5c 5h 7d Ts Qh]
+Seat 1: alexrus18 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: x_ROSH125_x folded before Flop (didn't bet)
+Seat 5: Popokluev (button) showed [Td Kd] and won ($36.34) with two pair, Tens and Fives
+Seat 7: Pachebrash (small blind) folded before Flop
+Seat 8: An1an1 (big blind) showed [9c 9s] and lost with two pair, Nines and Fives
+Seat 9: oudine2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691017384:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:58:42 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: alexrus18 ($50.75 in chips) 
+Seat 2: WilWinOnce.? ($56.52 in chips) 
+Seat 4: x_ROSH125_x ($67.91 in chips) 
+Seat 5: Popokluev ($67.42 in chips) 
+Seat 6: FrankDuxe1 ($26.43 in chips) 
+Seat 7: Pachebrash ($55.76 in chips) 
+Seat 8: An1an1 ($111.17 in chips) 
+Seat 9: oudine2 ($93.07 in chips) 
+An1an1: posts small blind $0.25
+oudine2: posts big blind $0.50
+dikanmax: sits out 
+FrankDuxe1: posts small & big blinds $0.75
+*** HOLE CARDS ***
+alexrus18: raises $1.50 to $2
+WilWinOnce.?: folds 
+x_ROSH125_x: calls $2
+Popokluev: folds 
+FrankDuxe1: folds 
+Pachebrash: raises $6 to $8
+An1an1: folds 
+oudine2: folds 
+alexrus18: folds 
+x_ROSH125_x: folds 
+Uncalled bet ($6) returned to Pachebrash
+Pachebrash collected $7.50 from pot
+Pachebrash: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: alexrus18 folded before Flop
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: x_ROSH125_x folded before Flop
+Seat 5: Popokluev folded before Flop (didn't bet)
+Seat 6: FrankDuxe1 folded before Flop (didn't bet)
+Seat 7: Pachebrash (button) collected ($7.50)
+Seat 8: An1an1 (small blind) folded before Flop
+Seat 9: oudine2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228691488809:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:17:44 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: alexrus18 ($57.56 in chips) 
+Seat 2: WilWinOnce.? ($51.46 in chips) 
+Seat 3: dikanmax ($67.42 in chips) 
+Seat 4: x_ROSH125_x ($75.78 in chips) 
+Seat 5: Popokluev ($71.87 in chips) 
+Seat 6: FrankDuxe1 ($13.39 in chips) 
+Seat 7: Pachebrash ($50 in chips) 
+Seat 8: An1an1 ($108.67 in chips) 
+Seat 9: oudine2 ($89.78 in chips) 
+WilWinOnce.?: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+x_ROSH125_x: folds 
+Popokluev: folds 
+FrankDuxe1: calls $0.50
+Pachebrash: raises $1.50 to $2
+An1an1: folds 
+oudine2: folds 
+alexrus18: folds 
+WilWinOnce.?: folds 
+dikanmax: folds 
+FrankDuxe1: raises $5 to $7
+Pachebrash: raises $14 to $21
+FrankDuxe1: calls $6.39 and is all-in
+Uncalled bet ($7.61) returned to Pachebrash
+*** FLOP *** [3s Ad Kc]
+*** TURN *** [3s Ad Kc] [8c]
+*** RIVER *** [3s Ad Kc 8c] [5d]
+*** SHOW DOWN ***
+FrankDuxe1: shows [Qc Qh] (a pair of Queens)
+Pachebrash: shows [9c Ac] (a pair of Aces)
+Pachebrash collected $26.15 from pot
+*** SUMMARY ***
+Total pot $27.53 | Rake $1.38 
+Board [3s Ad Kc 8c 5d]
+Seat 1: alexrus18 (button) folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (small blind) folded before Flop
+Seat 3: dikanmax (big blind) folded before Flop
+Seat 4: x_ROSH125_x folded before Flop (didn't bet)
+Seat 5: Popokluev folded before Flop (didn't bet)
+Seat 6: FrankDuxe1 showed [Qc Qh] and lost with a pair of Queens
+Seat 7: Pachebrash showed [9c Ac] and won ($26.15) with a pair of Aces
+Seat 8: An1an1 folded before Flop (didn't bet)
+Seat 9: oudine2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691502047:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:18:17 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 1: alexrus18 ($57.56 in chips) 
+Seat 2: WilWinOnce.? ($51.21 in chips) 
+Seat 3: dikanmax ($66.92 in chips) 
+Seat 4: x_ROSH125_x ($75.78 in chips) 
+Seat 5: Popokluev ($71.87 in chips) 
+Seat 7: Pachebrash ($62.76 in chips) 
+Seat 8: An1an1 ($108.67 in chips) 
+Seat 9: oudine2 ($89.78 in chips) 
+dikanmax: posts small blind $0.25
+x_ROSH125_x: posts big blind $0.50
+*** HOLE CARDS ***
+Popokluev: folds 
+Pachebrash: folds 
+An1an1: folds 
+oudine2: folds 
+alexrus18: folds 
+WilWinOnce.?: folds 
+FrankDuxe1 leaves the table
+dikanmax: calls $0.25
+el Fatto joins the table at seat #6 
+x_ROSH125_x: checks 
+*** FLOP *** [As 5c Ad]
+el Fatto leaves the table
+dikanmax: bets $0.50
+x_ROSH125_x: folds 
+Uncalled bet ($0.50) returned to dikanmax
+dikanmax collected $0.95 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [As 5c Ad]
+Seat 1: alexrus18 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (button) folded before Flop (didn't bet)
+Seat 3: dikanmax (small blind) collected ($0.95)
+Seat 4: x_ROSH125_x (big blind) folded on the Flop
+Seat 5: Popokluev folded before Flop (didn't bet)
+Seat 7: Pachebrash folded before Flop (didn't bet)
+Seat 8: An1an1 folded before Flop (didn't bet)
+Seat 9: oudine2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691510916:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:18:39 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 1: alexrus18 ($57.56 in chips) 
+Seat 2: WilWinOnce.? ($51.21 in chips) 
+Seat 3: dikanmax ($67.37 in chips) 
+Seat 4: x_ROSH125_x ($75.28 in chips) 
+Seat 5: Popokluev ($71.87 in chips) 
+Seat 7: Pachebrash ($62.76 in chips) 
+Seat 8: An1an1 ($108.67 in chips) 
+Seat 9: oudine2 ($89.78 in chips) 
+x_ROSH125_x: posts small blind $0.25
+Popokluev: posts big blind $0.50
+*** HOLE CARDS ***
+Pachebrash: folds 
+An1an1: folds 
+oudine2: folds 
+alexrus18: folds 
+WilWinOnce.?: folds 
+dikanmax: raises $1 to $1.50
+x_ROSH125_x: folds 
+Popokluev: calls $1
+*** FLOP *** [7h Kd Kc]
+Popokluev: checks 
+jheymz joins the table at seat #6 
+dikanmax: bets $0.77
+Popokluev: folds 
+Uncalled bet ($0.77) returned to dikanmax
+dikanmax collected $3.09 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [7h Kd Kc]
+Seat 1: alexrus18 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: dikanmax (button) collected ($3.09)
+Seat 4: x_ROSH125_x (small blind) folded before Flop
+Seat 5: Popokluev (big blind) folded on the Flop
+Seat 7: Pachebrash folded before Flop (didn't bet)
+Seat 8: An1an1 folded before Flop (didn't bet)
+Seat 9: oudine2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692396840:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:55:51 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 1: Pablo1405 ($58.60 in chips) 
+Seat 2: WilWinOnce.? ($37.06 in chips) 
+Seat 4: Haahaa13 ($51.66 in chips) 
+Seat 5: Pat Foxe ($19.28 in chips) 
+Seat 6: jheymz ($62.56 in chips) 
+Seat 7: WrongButton ($59.53 in chips) 
+WrongButton: posts small blind $0.25
+BoryaKGB: is sitting out 
+Pablo1405: posts big blind $0.50
+*** HOLE CARDS ***
+WilWinOnce.?: folds 
+Haahaa13: calls $0.50
+Pat Foxe: folds 
+jheymz has timed out
+jheymz: folds 
+WrongButton: folds 
+Pablo1405: checks 
+*** FLOP *** [5d 2d 9d]
+Pablo1405: checks 
+Haahaa13: bets $1.50
+Pablo1405: folds 
+Uncalled bet ($1.50) returned to Haahaa13
+Haahaa13 collected $1.19 from pot
+Haahaa13: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [5d 2d 9d]
+Seat 1: Pablo1405 (big blind) folded on the Flop
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 collected ($1.19)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz (button) folded before Flop (didn't bet)
+Seat 7: WrongButton (small blind) folded before Flop
+
+
+
+PokerStars Hand #228692406875:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:56:25 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: Pablo1405 ($58.10 in chips) 
+Seat 2: WilWinOnce.? ($37.06 in chips) 
+Seat 4: Haahaa13 ($52.35 in chips) 
+Seat 5: Pat Foxe ($19.28 in chips) 
+Seat 7: WrongButton ($59.28 in chips) 
+Pablo1405: posts small blind $0.25
+WilWinOnce.?: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland joins the table at seat #8 
+Haahaa13: folds 
+Pat Foxe: folds 
+WrongButton: folds 
+Pablo1405: raises $1 to $1.50
+WilWinOnce.?: calls $1
+*** FLOP *** [8d Qs Ah]
+Pablo1405: bets $1
+WilWinOnce.?: raises $1 to $2
+Pablo1405: folds 
+Uncalled bet ($1) returned to WilWinOnce.?
+WilWinOnce.? collected $4.75 from pot
+WilWinOnce.?: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [8d Qs Ah]
+Seat 1: Pablo1405 (small blind) folded on the Flop
+Seat 2: WilWinOnce.? (big blind) collected ($4.75)
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 7: WrongButton (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692420839:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:56:54 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: Pablo1405 ($55.60 in chips) 
+Seat 2: WilWinOnce.? ($39.31 in chips) 
+Seat 4: Haahaa13 ($52.35 in chips) 
+Seat 5: Pat Foxe ($19.28 in chips) 
+Seat 6: jheymz ($62.56 in chips) 
+Seat 7: WrongButton ($59.28 in chips) 
+WilWinOnce.?: posts small blind $0.25
+Haahaa13: posts big blind $0.50
+MarsMiland: sits out 
+*** HOLE CARDS ***
+Pat Foxe: folds 
+jheymz has timed out
+jheymz: folds 
+WrongButton: raises $0.50 to $1
+Pablo1405: folds 
+WilWinOnce.?: folds 
+Pablo1405 leaves the table
+Haahaa13: folds 
+Uncalled bet ($0.50) returned to WrongButton
+WrongButton collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Pablo1405 (button) folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (small blind) folded before Flop
+Seat 4: Haahaa13 (big blind) folded before Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton collected ($1.25)
+
+
+
+PokerStars Hand #228692433326:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:57:36 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 2: WilWinOnce.? ($39.06 in chips) 
+Seat 4: Haahaa13 ($51.85 in chips) 
+Seat 5: Pat Foxe ($19.28 in chips) 
+Seat 7: WrongButton ($60.03 in chips) 
+Haahaa13: posts small blind $0.25
+Pat Foxe: posts big blind $0.50
+MarsMiland: sits out 
+*** HOLE CARDS ***
+WrongButton: folds 
+WilWinOnce.?: raises $0.50 to $1
+Haahaa13: folds 
+Pat Foxe: calls $0.50
+*** FLOP *** [Kd 6s 6c]
+Pat Foxe: checks 
+WilWinOnce.?: bets $1.07
+Pat Foxe: calls $1.07
+*** TURN *** [Kd 6s 6c] [Qh]
+Pat Foxe: checks 
+WilWinOnce.?: checks 
+*** RIVER *** [Kd 6s 6c Qh] [Jc]
+Pat Foxe: checks 
+WilWinOnce.?: checks 
+*** SHOW DOWN ***
+Pat Foxe: shows [7s Kc] (two pair, Kings and Sixes)
+WilWinOnce.?: mucks hand 
+Pat Foxe collected $4.17 from pot
+*** SUMMARY ***
+Total pot $4.39 | Rake $0.22 
+Board [Kd 6s 6c Qh Jc]
+Seat 2: WilWinOnce.? (button) mucked
+Seat 4: Haahaa13 (small blind) folded before Flop
+Seat 5: Pat Foxe (big blind) showed [7s Kc] and won ($4.17) with two pair, Kings and Sixes
+Seat 7: WrongButton folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692452065:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:58:19 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 2: WilWinOnce.? ($36.99 in chips) 
+Seat 4: Haahaa13 ($51.60 in chips) 
+Seat 5: Pat Foxe ($21.38 in chips) 
+Seat 6: jheymz ($62.56 in chips) 
+Seat 7: WrongButton ($60.03 in chips) 
+Pat Foxe: posts small blind $0.25
+jheymz: posts big blind $0.50
+MarsMiland: sits out 
+*** HOLE CARDS ***
+WrongButton: folds 
+WilWinOnce.?: folds 
+Haahaa13: folds 
+An1an1 joins the table at seat #1 
+Pat Foxe: folds 
+Uncalled bet ($0.25) returned to jheymz
+jheymz collected $0.50 from pot
+jheymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 (button) folded before Flop (didn't bet)
+Seat 5: Pat Foxe (small blind) folded before Flop
+Seat 6: jheymz (big blind) collected ($0.50)
+Seat 7: WrongButton folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692456359:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:58:33 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 2: WilWinOnce.? ($36.99 in chips) 
+Seat 4: Haahaa13 ($51.60 in chips) 
+Seat 5: Pat Foxe ($21.13 in chips) 
+Seat 6: jheymz ($62.81 in chips) 
+Seat 7: WrongButton ($60.03 in chips) 
+jheymz: posts small blind $0.25
+WrongButton: posts big blind $0.50
+MarsMiland: sits out 
+An1an1: sits out 
+*** HOLE CARDS ***
+WilWinOnce.?: calls $0.50
+Haahaa13: folds 
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: checks 
+*** FLOP *** [Jc 2c Qd]
+WrongButton: checks 
+WilWinOnce.?: bets $1.19
+WrongButton: calls $1.19
+*** TURN *** [Jc 2c Qd] [9c]
+WrongButton: checks 
+WilWinOnce.?: bets $1.50
+WrongButton: calls $1.50
+*** RIVER *** [Jc 2c Qd 9c] [Ad]
+WrongButton: bets $2.25
+WilWinOnce.?: calls $2.25
+*** SHOW DOWN ***
+WrongButton: shows [Qc 5c] (a flush, Queen high)
+WilWinOnce.?: mucks hand 
+WrongButton collected $10.57 from pot
+*** SUMMARY ***
+Total pot $11.13 | Rake $0.56 
+Board [Jc 2c Qd 9c Ad]
+Seat 2: WilWinOnce.? mucked
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe (button) folded before Flop (didn't bet)
+Seat 6: jheymz (small blind) folded before Flop
+Seat 7: WrongButton (big blind) showed [Qc 5c] and won ($10.57) with a flush, Queen high
+
+
+
+PokerStars Hand #228692473861:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:59:33 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 2: WilWinOnce.? ($31.55 in chips) 
+Seat 4: Haahaa13 ($51.60 in chips) 
+Seat 5: Pat Foxe ($21.13 in chips) 
+Seat 6: jheymz ($62.56 in chips) 
+Seat 7: WrongButton ($65.16 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+WrongButton: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+An1an1: sits out 
+*** HOLE CARDS ***
+WilWinOnce.?: folds 
+Haahaa13: raises $0.50 to $1
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+MarsMiland: folds 
+Uncalled bet ($0.50) returned to Haahaa13
+Haahaa13 collected $1.25 from pot
+Haahaa13: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 collected ($1.25)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz (button) folded before Flop (didn't bet)
+Seat 7: WrongButton (small blind) folded before Flop
+Seat 8: MarsMiland (big blind) folded before Flop
+
+
+
+PokerStars Hand #228692483196:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:00:04 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: An1an1 ($108.67 in chips) 
+Seat 2: WilWinOnce.? ($31.55 in chips) 
+Seat 4: Haahaa13 ($52.35 in chips) 
+Seat 5: Pat Foxe ($21.13 in chips) 
+Seat 6: jheymz ($62.56 in chips) 
+Seat 7: WrongButton ($64.91 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+MarsMiland: posts small blind $0.25
+An1an1: posts big blind $0.50
+*** HOLE CARDS ***
+WilWinOnce.?: folds 
+Haahaa13: calls $0.50
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+MarsMiland: folds 
+An1an1: raises $1.50 to $2
+Haahaa13: calls $1.50
+*** FLOP *** [Qh Qs 8s]
+An1an1: bets $1.21
+Haahaa13: folds 
+Uncalled bet ($1.21) returned to An1an1
+An1an1 collected $4.04 from pot
+An1an1: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.21 
+Board [Qh Qs 8s]
+Seat 1: An1an1 (big blind) collected ($4.04)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 folded on the Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton (button) folded before Flop (didn't bet)
+Seat 8: MarsMiland (small blind) folded before Flop
+
+
+
+PokerStars Hand #228692503529:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:01:07 ET
+Table 'Azalea III' 9-max Seat #8 is the button
+Seat 1: An1an1 ($110.71 in chips) 
+Seat 2: WilWinOnce.? ($31.55 in chips) 
+Seat 4: Haahaa13 ($50.35 in chips) 
+Seat 5: Pat Foxe ($21.13 in chips) 
+Seat 6: jheymz ($62.56 in chips) 
+Seat 7: WrongButton ($64.91 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+An1an1: posts small blind $0.25
+WilWinOnce.?: posts big blind $0.50
+*** HOLE CARDS ***
+Haahaa13: folds 
+Pat Foxe: folds 
+jheymz: calls $0.50
+WrongButton: folds 
+MarsMiland: folds 
+An1an1: calls $0.25
+WilWinOnce.?: raises $2 to $2.50
+jheymz: folds 
+An1an1: folds 
+Uncalled bet ($2) returned to WilWinOnce.?
+WilWinOnce.? collected $1.50 from pot
+WilWinOnce.?: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: An1an1 (small blind) folded before Flop
+Seat 2: WilWinOnce.? (big blind) collected ($1.50)
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: MarsMiland (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692513263:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:01:35 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: An1an1 ($110.21 in chips) 
+Seat 2: WilWinOnce.? ($32.55 in chips) 
+Seat 4: Haahaa13 ($50.35 in chips) 
+Seat 5: Pat Foxe ($21.13 in chips) 
+Seat 6: jheymz ($62.06 in chips) 
+Seat 7: WrongButton ($64.91 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+WilWinOnce.?: posts small blind $0.25
+Haahaa13: posts big blind $0.50
+*** HOLE CARDS ***
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: raises $0.75 to $1.25
+MarsMiland: folds 
+An1an1: folds 
+WilWinOnce.?: folds 
+Haahaa13: folds 
+Uncalled bet ($0.75) returned to WrongButton
+WrongButton collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: An1an1 (button) folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (small blind) folded before Flop
+Seat 4: Haahaa13 (big blind) folded before Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton collected ($1.25)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692651599:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:07:35 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 1: Stingg ($50 in chips) 
+Seat 4: Haahaa13 ($54.76 in chips) 
+Seat 5: Pat Foxe ($18.43 in chips) 
+Seat 7: WrongButton ($67.16 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+Pat Foxe: posts small blind $0.25
+WrongButton: posts big blind $0.50
+Dragonclawss: sits out 
+*** HOLE CARDS ***
+FeersPoker: raises $0.75 to $1.25
+Stingg: folds 
+Haahaa13: folds 
+Pat Foxe: calls $1
+WrongButton: folds 
+*** FLOP *** [4s 6s Ad]
+Pat Foxe: checks 
+FeersPoker: bets $0.94
+Pat Foxe: calls $0.94
+*** TURN *** [4s 6s Ad] [2d]
+Pat Foxe: checks 
+FeersPoker: bets $3.11
+Pat Foxe: folds 
+Uncalled bet ($3.11) returned to FeersPoker
+FeersPoker collected $4.64 from pot
+FeersPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [4s 6s Ad 2d]
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 4: Haahaa13 (button) folded before Flop (didn't bet)
+Seat 5: Pat Foxe (small blind) folded on the Turn
+Seat 7: WrongButton (big blind) folded before Flop
+Seat 9: FeersPoker collected ($4.64)
+
+
+
+PokerStars Hand #228692674111:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:08:37 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: Stingg ($50 in chips) 
+Seat 4: Haahaa13 ($54.76 in chips) 
+Seat 5: Pat Foxe ($16.24 in chips) 
+Seat 7: WrongButton ($66.66 in chips) 
+Seat 8: Dragonclawss ($50 in chips) 
+Seat 9: FeersPoker ($52.45 in chips) 
+WrongButton: posts small blind $0.25
+Dragonclawss: posts big blind $0.50
+*** HOLE CARDS ***
+FeersPoker: folds 
+Stingg: folds 
+Haahaa13: raises $0.50 to $1
+Pat Foxe: folds 
+WrongButton: folds 
+Dragonclawss: folds 
+Uncalled bet ($0.50) returned to Haahaa13
+Haahaa13 collected $1.25 from pot
+Haahaa13: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 4: Haahaa13 collected ($1.25)
+Seat 5: Pat Foxe (button) folded before Flop (didn't bet)
+Seat 7: WrongButton (small blind) folded before Flop
+Seat 8: Dragonclawss (big blind) folded before Flop
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692715010:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:10:31 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: Stingg ($64.58 in chips) 
+Seat 2: WilWinOnce.? ($29.63 in chips) 
+Seat 4: Haahaa13 ($54.51 in chips) 
+Seat 5: Pat Foxe ($20 in chips) 
+Seat 6: jheymz ($62.31 in chips) 
+Seat 7: WrongButton ($68.16 in chips) 
+Seat 8: Dragonclawss ($50 in chips) 
+Seat 9: FeersPoker ($51.70 in chips) 
+WilWinOnce.?: posts small blind $0.25
+Haahaa13: posts big blind $0.50
+*** HOLE CARDS ***
+Pat Foxe: folds 
+jheymz: raises $1 to $1.50
+WrongButton: folds 
+Dragonclawss: folds 
+FeersPoker: calls $1.50
+Stingg: folds 
+WilWinOnce.?: calls $1.25
+Haahaa13: folds 
+*** FLOP *** [Kd Th 3d]
+WilWinOnce.?: checks 
+jheymz: checks 
+FeersPoker: checks 
+*** TURN *** [Kd Th 3d] [5s]
+WilWinOnce.?: bets $2
+jheymz: folds 
+FeersPoker: folds 
+Uncalled bet ($2) returned to WilWinOnce.?
+WilWinOnce.? collected $4.75 from pot
+WilWinOnce.?: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Kd Th 3d 5s]
+Seat 1: Stingg (button) folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (small blind) collected ($4.75)
+Seat 4: Haahaa13 (big blind) folded before Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded on the Turn
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: Dragonclawss folded before Flop (didn't bet)
+Seat 9: FeersPoker folded on the Turn
+
+
+
+PokerStars Hand #228692736156:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:11:30 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 1: Stingg ($64.58 in chips) 
+Seat 2: WilWinOnce.? ($32.88 in chips) 
+Seat 4: Haahaa13 ($54.01 in chips) 
+Seat 5: Pat Foxe ($20 in chips) 
+Seat 6: jheymz ($60.81 in chips) 
+Seat 7: WrongButton ($68.16 in chips) 
+Seat 8: Dragonclawss ($50 in chips) 
+Seat 9: FeersPoker ($50.20 in chips) 
+Haahaa13: posts small blind $0.25
+Pat Foxe: posts big blind $0.50
+*** HOLE CARDS ***
+jheymz: raises $1 to $1.50
+WrongButton: folds 
+Dragonclawss: folds 
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: folds 
+Haahaa13: folds 
+Pat Foxe: folds 
+Uncalled bet ($1) returned to jheymz
+jheymz collected $1.25 from pot
+jheymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (button) folded before Flop (didn't bet)
+Seat 4: Haahaa13 (small blind) folded before Flop
+Seat 5: Pat Foxe (big blind) folded before Flop
+Seat 6: jheymz collected ($1.25)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: Dragonclawss folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692742896:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:11:49 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 1: Stingg ($64.58 in chips) 
+Seat 2: WilWinOnce.? ($32.88 in chips) 
+Seat 4: Haahaa13 ($53.76 in chips) 
+Seat 5: Pat Foxe ($19.50 in chips) 
+Seat 6: jheymz ($61.56 in chips) 
+Seat 7: WrongButton ($68.16 in chips) 
+Seat 8: Dragonclawss ($50 in chips) 
+Seat 9: FeersPoker ($50.20 in chips) 
+Pat Foxe: posts small blind $0.25
+jheymz: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+Dragonclawss: folds 
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: folds 
+Haahaa13: raises $0.50 to $1
+Pat Foxe: folds 
+jheymz has timed out
+jheymz: folds 
+Uncalled bet ($0.50) returned to Haahaa13
+Haahaa13 collected $1.25 from pot
+Haahaa13: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 (button) collected ($1.25)
+Seat 5: Pat Foxe (small blind) folded before Flop
+Seat 6: jheymz (big blind) folded before Flop
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: Dragonclawss folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692755105:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:12:23 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: Stingg ($64.58 in chips) 
+Seat 2: WilWinOnce.? ($32.88 in chips) 
+Seat 4: Haahaa13 ($54.51 in chips) 
+Seat 5: Pat Foxe ($19.25 in chips) 
+Seat 7: WrongButton ($68.16 in chips) 
+Seat 9: FeersPoker ($50.20 in chips) 
+WrongButton: posts small blind $0.25
+Dragonclawss: is sitting out 
+FeersPoker: posts big blind $0.50
+*** HOLE CARDS ***
+Dragonclawss leaves the table
+Stingg: folds 
+WilWinOnce.?: raises $1 to $1.50
+wildermorph joins the table at seat #8 
+Haahaa13 has timed out
+Haahaa13: folds 
+Pat Foxe: folds 
+WrongButton: folds 
+FeersPoker: folds 
+Uncalled bet ($1) returned to WilWinOnce.?
+WilWinOnce.? collected $1.25 from pot
+WilWinOnce.?: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? collected ($1.25)
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe (button) folded before Flop (didn't bet)
+Seat 7: WrongButton (small blind) folded before Flop
+Seat 9: FeersPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #228692764598:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:12:50 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: Stingg ($64.58 in chips) 
+Seat 2: WilWinOnce.? ($33.63 in chips) 
+Seat 4: Haahaa13 ($54.51 in chips) 
+Seat 5: Pat Foxe ($19.25 in chips) 
+Seat 7: WrongButton ($67.91 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+FeersPoker: posts small blind $0.25
+Stingg: posts big blind $0.50
+*** HOLE CARDS ***
+WilWinOnce.?: calls $0.50
+Haahaa13: folds 
+Pat Foxe: folds 
+WrongButton: folds 
+FeersPoker: folds 
+Stingg: raises $1.50 to $2
+WilWinOnce.?: calls $1.50
+*** FLOP *** [Qc 4s 7d]
+Stingg: bets $1.29
+WilWinOnce.?: raises $1.29 to $2.58
+Stingg: folds 
+Uncalled bet ($1.29) returned to WilWinOnce.?
+WilWinOnce.? collected $6.49 from pot
+WilWinOnce.?: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.83 | Rake $0.34 
+Board [Qc 4s 7d]
+Seat 1: Stingg (big blind) folded on the Flop
+Seat 2: WilWinOnce.? collected ($6.49)
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 7: WrongButton (button) folded before Flop (didn't bet)
+Seat 9: FeersPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #228692778141:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:13:28 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: Stingg ($61.29 in chips) 
+Seat 2: WilWinOnce.? ($36.83 in chips) 
+Seat 4: Haahaa13 ($54.51 in chips) 
+Seat 5: Pat Foxe ($19.25 in chips) 
+Seat 7: WrongButton ($67.91 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+Stingg: posts small blind $0.25
+WilWinOnce.?: posts big blind $0.50
+wildermorph: sits out 
+*** HOLE CARDS ***
+Haahaa13 has timed out
+Haahaa13: folds 
+Pat Foxe: folds 
+WrongButton: folds 
+FeersPoker: raises $0.75 to $1.25
+Stingg: folds 
+WilWinOnce.?: folds 
+Uncalled bet ($0.75) returned to FeersPoker
+FeersPoker collected $1.25 from pot
+FeersPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg (small blind) folded before Flop
+Seat 2: WilWinOnce.? (big blind) folded before Flop
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 9: FeersPoker (button) collected ($1.25)
+
+
+
+PokerStars Hand #228692785232:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:13:48 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: Stingg ($61.04 in chips) 
+Seat 2: WilWinOnce.? ($36.33 in chips) 
+Seat 5: Pat Foxe ($19.25 in chips) 
+Seat 7: WrongButton ($67.91 in chips) 
+Seat 9: FeersPoker ($50.75 in chips) 
+WilWinOnce.?: posts small blind $0.25
+Pat Foxe: posts big blind $0.50
+jheymz: sits out 
+wildermorph: sits out 
+*** HOLE CARDS ***
+WrongButton: folds 
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: raises $0.50 to $1
+Pat Foxe: calls $0.50
+*** FLOP *** [Js 8s Qs]
+WilWinOnce.?: bets $0.50
+Pat Foxe: calls $0.50
+*** TURN *** [Js 8s Qs] [2h]
+WilWinOnce.?: bets $1
+Pat Foxe: calls $1
+*** RIVER *** [Js 8s Qs 2h] [As]
+WilWinOnce.?: bets $2.38
+Pat Foxe: calls $2.38
+*** SHOW DOWN ***
+WilWinOnce.?: shows [5s 5h] (a flush, Ace high)
+Pat Foxe: mucks hand 
+WilWinOnce.? collected $9.27 from pot
+Georgtheking was removed from the table for failing to post
+Georgtheking leaves the table
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [Js 8s Qs 2h As]
+Seat 1: Stingg (button) folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (small blind) showed [5s 5h] and won ($9.27) with a flush, Ace high
+Seat 5: Pat Foxe (big blind) mucked
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692794503:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:14:15 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 1: Stingg ($61.04 in chips) 
+Seat 2: WilWinOnce.? ($40.72 in chips) 
+Seat 5: Pat Foxe ($14.37 in chips) 
+Seat 6: jheymz ($61.06 in chips) 
+Seat 7: WrongButton ($67.91 in chips) 
+Seat 9: FeersPoker ($50.75 in chips) 
+Pat Foxe: posts small blind $0.25
+jheymz: posts big blind $0.50
+wildermorph: sits out 
+*** HOLE CARDS ***
+WrongButton: raises $0.50 to $1
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: folds 
+Pat Foxe: calls $0.75
+jheymz: folds 
+*** FLOP *** [8h Qc Kc]
+Pat Foxe: checks 
+WrongButton: bets $1.50
+Pat Foxe: calls $1.50
+*** TURN *** [8h Qc Kc] [8s]
+Pat Foxe: checks 
+WrongButton: checks 
+*** RIVER *** [8h Qc Kc 8s] [Ts]
+ssorinacho92 joins the table at seat #3 
+Pat Foxe: bets $3.65
+WrongButton: folds 
+Uncalled bet ($3.65) returned to Pat Foxe
+Pat Foxe collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [8h Qc Kc 8s Ts]
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (button) folded before Flop (didn't bet)
+Seat 5: Pat Foxe (small blind) collected ($5.22)
+Seat 6: jheymz (big blind) folded before Flop
+Seat 7: WrongButton folded on the River
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692818362:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:15:23 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: Stingg ($61.04 in chips) 
+Seat 2: WilWinOnce.? ($40.72 in chips) 
+Seat 4: Haahaa13 ($54.51 in chips) 
+Seat 5: Pat Foxe ($17.09 in chips) 
+Seat 6: jheymz ($60.56 in chips) 
+Seat 7: WrongButton ($65.41 in chips) 
+Seat 9: FeersPoker ($50.75 in chips) 
+jheymz: posts small blind $0.25
+WrongButton: posts big blind $0.50
+wildermorph: sits out 
+ssorinacho92: sits out 
+Haahaa13: posts small & big blinds $0.75
+*** HOLE CARDS ***
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: folds 
+Haahaa13: raises $1 to $1.50
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+Uncalled bet ($1) returned to Haahaa13
+Haahaa13 collected $1.50 from pot
+Haahaa13: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 collected ($1.50)
+Seat 5: Pat Foxe (button) folded before Flop (didn't bet)
+Seat 6: jheymz (small blind) folded before Flop
+Seat 7: WrongButton (big blind) folded before Flop
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692828626:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:15:52 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 1: Stingg ($61.04 in chips) 
+Seat 2: WilWinOnce.? ($40.72 in chips) 
+Seat 4: Haahaa13 ($55.26 in chips) 
+Seat 5: Pat Foxe ($17.09 in chips) 
+Seat 6: jheymz ($60.31 in chips) 
+Seat 7: WrongButton ($64.91 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($50.75 in chips) 
+WrongButton: posts small blind $0.25
+wildermorph: posts big blind $0.50
+ssorinacho92: sits out 
+*** HOLE CARDS ***
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: folds 
+Haahaa13: raises $0.50 to $1
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+wildermorph: folds 
+Uncalled bet ($0.50) returned to Haahaa13
+Haahaa13 collected $1.25 from pot
+Haahaa13: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 collected ($1.25)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz (button) folded before Flop (didn't bet)
+Seat 7: WrongButton (small blind) folded before Flop
+Seat 8: wildermorph (big blind) folded before Flop
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692836380:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:16:14 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: Stingg ($61.04 in chips) 
+Seat 2: WilWinOnce.? ($40.72 in chips) 
+Seat 4: Haahaa13 ($56.01 in chips) 
+Seat 5: Pat Foxe ($17.09 in chips) 
+Seat 6: jheymz ($60.31 in chips) 
+Seat 7: WrongButton ($64.66 in chips) 
+Seat 8: wildermorph ($49.50 in chips) 
+Seat 9: FeersPoker ($50.75 in chips) 
+wildermorph: posts small blind $0.25
+FeersPoker: posts big blind $0.50
+ssorinacho92: sits out 
+*** HOLE CARDS ***
+Stingg: folds 
+WilWinOnce.?: folds 
+Haahaa13: folds 
+Haahaa13 leaves the table
+Pat Foxe: raises $0.75 to $1.25
+jheymz: folds 
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: folds 
+Uncalled bet ($0.75) returned to Pat Foxe
+Pat Foxe collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe collected ($1.25)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton (button) folded before Flop (didn't bet)
+Seat 8: wildermorph (small blind) folded before Flop
+Seat 9: FeersPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #228692868836:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:17:47 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: Stingg ($60.54 in chips) 
+Seat 2: WilWinOnce.? ($40.72 in chips) 
+Seat 5: Pat Foxe ($17.84 in chips) 
+Seat 6: jheymz ($66.78 in chips) 
+Seat 7: WrongButton ($64.66 in chips) 
+Seat 8: wildermorph ($49.25 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+Stingg: posts small blind $0.25
+WilWinOnce.?: posts big blind $0.50
+ssorinacho92: sits out 
+chekita1965: sits out 
+*** HOLE CARDS ***
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: folds 
+Stingg: folds 
+Uncalled bet ($0.25) returned to WilWinOnce.?
+WilWinOnce.? collected $0.50 from pot
+WilWinOnce.?: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Stingg (small blind) folded before Flop
+Seat 2: WilWinOnce.? (big blind) collected ($0.50)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692873564:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:18:01 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: Stingg ($60.29 in chips) 
+Seat 2: WilWinOnce.? ($40.97 in chips) 
+Seat 3: ssorinacho92 ($50 in chips) 
+Seat 5: Pat Foxe ($17.84 in chips) 
+Seat 6: jheymz ($66.78 in chips) 
+Seat 7: WrongButton ($64.66 in chips) 
+Seat 8: wildermorph ($49.25 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+WilWinOnce.?: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+chekita1965: sits out 
+*** HOLE CARDS ***
+Pat Foxe: folds 
+jheymz: raises $1 to $1.50
+WrongButton: folds 
+wildermorph: calls $1.50
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: calls $1.25
+ssorinacho92: folds 
+*** FLOP *** [Ks 7h 6d]
+WilWinOnce.?: checks 
+jheymz: checks 
+wildermorph: checks 
+*** TURN *** [Ks 7h 6d] [4c]
+WilWinOnce.?: bets $1.50
+jheymz: folds 
+wildermorph: folds 
+Uncalled bet ($1.50) returned to WilWinOnce.?
+WilWinOnce.? collected $4.75 from pot
+WilWinOnce.?: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Ks 7h 6d 4c]
+Seat 1: Stingg (button) folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (small blind) collected ($4.75)
+Seat 3: ssorinacho92 (big blind) folded before Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded on the Turn
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph folded on the Turn
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692887724:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:18:42 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 1: Stingg ($60.29 in chips) 
+Seat 2: WilWinOnce.? ($44.22 in chips) 
+Seat 3: ssorinacho92 ($49.50 in chips) 
+Seat 4: chekita1965 ($50 in chips) 
+Seat 5: Pat Foxe ($17.84 in chips) 
+Seat 6: jheymz ($65.28 in chips) 
+Seat 7: WrongButton ($64.66 in chips) 
+Seat 8: wildermorph ($47.75 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+ssorinacho92: posts small blind $0.25
+chekita1965: posts big blind $0.50
+*** HOLE CARDS ***
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: raises $0.50 to $1
+ssorinacho92: folds 
+chekita1965: calls $0.50
+*** FLOP *** [Tc 2s 5c]
+chekita1965: checks 
+WilWinOnce.?: bets $1.50
+chekita1965: calls $1.50
+*** TURN *** [Tc 2s 5c] [2h]
+chekita1965: bets $3.49
+WilWinOnce.?: calls $3.49
+*** RIVER *** [Tc 2s 5c 2h] [Jd]
+chekita1965: bets $5.81
+WilWinOnce.?: calls $5.81
+*** SHOW DOWN ***
+chekita1965: shows [Js 4c] (two pair, Jacks and Deuces)
+WilWinOnce.?: shows [Ac Jh] (two pair, Jacks and Deuces - Ace kicker)
+WilWinOnce.? collected $22.66 from pot
+*** SUMMARY ***
+Total pot $23.85 | Rake $1.19 
+Board [Tc 2s 5c 2h Jd]
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (button) showed [Ac Jh] and won ($22.66) with two pair, Jacks and Deuces
+Seat 3: ssorinacho92 (small blind) folded before Flop
+Seat 4: chekita1965 (big blind) showed [Js 4c] and lost with two pair, Jacks and Deuces
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692912053:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:19:52 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 1: Stingg ($60.29 in chips) 
+Seat 2: WilWinOnce.? ($55.08 in chips) 
+Seat 3: ssorinacho92 ($49.25 in chips) 
+Seat 4: chekita1965 ($38.20 in chips) 
+Seat 5: Pat Foxe ($17.84 in chips) 
+Seat 6: jheymz ($65.28 in chips) 
+Seat 7: WrongButton ($64.66 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+chekita1965: posts small blind $0.25
+Pat Foxe: posts big blind $0.50
+*** HOLE CARDS ***
+jheymz: folds 
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: folds 
+ssorinacho92: folds 
+chekita1965: folds 
+Uncalled bet ($0.25) returned to Pat Foxe
+Pat Foxe collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: ssorinacho92 (button) folded before Flop (didn't bet)
+Seat 4: chekita1965 (small blind) folded before Flop
+Seat 5: Pat Foxe (big blind) collected ($0.50)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692920664:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:20:16 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 1: Stingg ($60.29 in chips) 
+Seat 2: WilWinOnce.? ($55.08 in chips) 
+Seat 3: ssorinacho92 ($49.25 in chips) 
+Seat 4: chekita1965 ($37.95 in chips) 
+Seat 5: Pat Foxe ($18.09 in chips) 
+Seat 6: jheymz ($65.28 in chips) 
+Seat 7: WrongButton ($64.66 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+Pat Foxe: posts small blind $0.25
+jheymz: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: folds 
+ssorinacho92: folds 
+chekita1965: raises $37.45 to $37.95 and is all-in
+Pat Foxe: folds 
+jheymz: folds 
+Uncalled bet ($37.45) returned to chekita1965
+chekita1965 collected $1.25 from pot
+chekita1965: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 4: chekita1965 (button) collected ($1.25)
+Seat 5: Pat Foxe (small blind) folded before Flop
+Seat 6: jheymz (big blind) folded before Flop
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692926063:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:20:32 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: Stingg ($60.29 in chips) 
+Seat 2: WilWinOnce.? ($55.08 in chips) 
+Seat 3: ssorinacho92 ($49.25 in chips) 
+Seat 4: chekita1965 ($38.70 in chips) 
+Seat 5: Pat Foxe ($17.84 in chips) 
+Seat 6: jheymz ($64.78 in chips) 
+Seat 7: WrongButton ($64.66 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+jheymz: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+wildermorph: folds 
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: folds 
+ssorinacho92: folds 
+chekita1965: folds 
+Pat Foxe: raises $0.75 to $1.25
+jheymz: folds 
+WrongButton: folds 
+Uncalled bet ($0.75) returned to Pat Foxe
+Pat Foxe collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 4: chekita1965 folded before Flop (didn't bet)
+Seat 5: Pat Foxe (button) collected ($1.25)
+Seat 6: jheymz (small blind) folded before Flop
+Seat 7: WrongButton (big blind) folded before Flop
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692932767:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:20:51 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 1: Stingg ($60.29 in chips) 
+Seat 2: WilWinOnce.? ($55.08 in chips) 
+Seat 3: ssorinacho92 ($49.25 in chips) 
+Seat 4: chekita1965 ($38.70 in chips) 
+Seat 5: Pat Foxe ($18.59 in chips) 
+Seat 6: jheymz ($64.53 in chips) 
+Seat 7: WrongButton ($64.16 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+WrongButton: posts small blind $0.25
+wildermorph: posts big blind $0.50
+*** HOLE CARDS ***
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: raises $0.50 to $1
+ssorinacho92: folds 
+chekita1965: calls $1
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+wildermorph: calls $0.50
+*** FLOP *** [Ts Kd 5c]
+wildermorph: checks 
+WilWinOnce.?: checks 
+chekita1965: checks 
+*** TURN *** [Ts Kd 5c] [Qs]
+wildermorph: checks 
+WilWinOnce.?: checks 
+chekita1965: checks 
+*** RIVER *** [Ts Kd 5c Qs] [2h]
+wildermorph: checks 
+WilWinOnce.?: checks 
+chekita1965: checks 
+*** SHOW DOWN ***
+wildermorph: shows [8c 8d] (a pair of Eights)
+WilWinOnce.?: mucks hand 
+chekita1965: shows [Js Qh] (a pair of Queens)
+chekita1965 collected $3.09 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [Ts Kd 5c Qs 2h]
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? mucked
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 4: chekita1965 showed [Js Qh] and won ($3.09) with a pair of Queens
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz (button) folded before Flop (didn't bet)
+Seat 7: WrongButton (small blind) folded before Flop
+Seat 8: wildermorph (big blind) showed [8c 8d] and lost with a pair of Eights
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692958420:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:22:05 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: Stingg ($60.29 in chips) 
+Seat 2: WilWinOnce.? ($54.08 in chips) 
+Seat 3: ssorinacho92 ($49.25 in chips) 
+Seat 4: chekita1965 ($40.79 in chips) 
+Seat 5: Pat Foxe ($18.59 in chips) 
+Seat 6: jheymz ($64.53 in chips) 
+Seat 7: WrongButton ($63.91 in chips) 
+Seat 8: wildermorph ($49 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+wildermorph: posts small blind $0.25
+FeersPoker: posts big blind $0.50
+*** HOLE CARDS ***
+Stingg: folds 
+WilWinOnce.?: folds 
+ssorinacho92: folds 
+chekita1965: folds 
+Pat Foxe: folds 
+jheymz: raises $0.50 to $1
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: folds 
+Uncalled bet ($0.50) returned to jheymz
+jheymz collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 4: chekita1965 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz collected ($1.25)
+Seat 7: WrongButton (button) folded before Flop (didn't bet)
+Seat 8: wildermorph (small blind) folded before Flop
+Seat 9: FeersPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #228692970033:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:22:26 ET
+Table 'Azalea III' 9-max Seat #8 is the button
+Seat 1: Stingg ($60.29 in chips) 
+Seat 2: WilWinOnce.? ($54.08 in chips) 
+Seat 3: ssorinacho92 ($49.25 in chips) 
+Seat 4: chekita1965 ($40.79 in chips) 
+Seat 5: Pat Foxe ($18.59 in chips) 
+Seat 6: jheymz ($65.28 in chips) 
+Seat 7: WrongButton ($63.91 in chips) 
+Seat 8: wildermorph ($48.75 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+FeersPoker: posts small blind $0.25
+Stingg: posts big blind $0.50
+*** HOLE CARDS ***
+WilWinOnce.?: folds 
+ssorinacho92: raises $0.75 to $1.25
+chekita1965: folds 
+WilWinOnce.? leaves the table
+Pat Foxe: folds 
+jheymz: calls $1.25
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: folds 
+Stingg: folds 
+*** FLOP *** [8s 9h As]
+ssorinacho92: checks 
+jheymz: checks 
+*** TURN *** [8s 9h As] [Jc]
+ssorinacho92: bets $2.47
+jheymz: calls $2.47
+*** RIVER *** [8s 9h As Jc] [Kd]
+joromega169 joins the table at seat #2 
+ssorinacho92: bets $6.22
+chekita1965 is disconnected 
+jheymz: folds 
+Uncalled bet ($6.22) returned to ssorinacho92
+ssorinacho92 collected $7.78 from pot
+ssorinacho92: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.19 | Rake $0.41 
+Board [8s 9h As Jc Kd]
+Seat 1: Stingg (big blind) folded before Flop
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: ssorinacho92 collected ($7.78)
+Seat 4: chekita1965 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded on the River
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph (button) folded before Flop (didn't bet)
+Seat 9: FeersPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #228692999032:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:23:50 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: Stingg ($59.79 in chips) 
+Seat 2: joromega169 ($20 in chips) 
+Seat 3: ssorinacho92 ($53.31 in chips) 
+Seat 4: chekita1965 ($40.79 in chips) 
+Seat 5: Pat Foxe ($18.59 in chips) 
+Seat 6: jheymz ($61.56 in chips) 
+Seat 7: WrongButton ($63.91 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+Stingg: posts small blind $0.25
+joromega169: posts big blind $0.50
+*** HOLE CARDS ***
+ssorinacho92: folds 
+chekita1965 has timed out while disconnected
+chekita1965: folds 
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: raises $0.75 to $1.25
+Stingg: folds 
+joromega169: folds 
+Uncalled bet ($0.75) returned to FeersPoker
+FeersPoker collected $1.25 from pot
+FeersPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg (small blind) folded before Flop
+Seat 2: joromega169 (big blind) folded before Flop
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 4: chekita1965 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker (button) collected ($1.25)
+
+
+
+PokerStars Hand #228693009783:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:24:21 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: Stingg ($59.54 in chips) 
+Seat 2: joromega169 ($19.50 in chips) 
+Seat 3: ssorinacho92 ($53.31 in chips) 
+Seat 5: Pat Foxe ($18.59 in chips) 
+Seat 6: jheymz ($61.56 in chips) 
+Seat 7: WrongButton ($63.91 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($50.75 in chips) 
+joromega169: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+*** HOLE CARDS ***
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+wildermorph: raises $0.50 to $1
+FeersPoker: folds 
+Stingg: folds 
+joromega169: folds 
+ssorinacho92: folds 
+Uncalled bet ($0.50) returned to wildermorph
+wildermorph collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg (button) folded before Flop (didn't bet)
+Seat 2: joromega169 (small blind) folded before Flop
+Seat 3: ssorinacho92 (big blind) folded before Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph collected ($1.25)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691861504:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:33:07 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 3: Georgtheking ($40 in chips) 
+Seat 4: Haahaa13 ($40 in chips) 
+Seat 5: Pat Foxe ($9.94 in chips) 
+Seat 6: jheymz ($75.17 in chips) 
+Seat 7: WrongButton ($50 in chips) 
+Seat 8: monkeypokerdirt ($44.85 in chips) 
+Seat 9: BoryaKGB ($53.03 in chips) 
+jheymz: posts small blind $0.25
+WrongButton: posts big blind $0.50
+Georgtheking: posts big blind $0.50
+Haahaa13: posts big blind $0.50
+*** HOLE CARDS ***
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+Pablo1405: folds 
+Georgtheking: checks 
+Haahaa13: checks 
+Pat Foxe: folds 
+jheymz: raises $1 to $1.50
+WrongButton: folds 
+Georgtheking: calls $1
+Haahaa13: calls $1
+*** FLOP *** [5h 3d 5c]
+jheymz: checks 
+Georgtheking: bets $4.75
+Haahaa13: calls $4.75
+jheymz: folds 
+*** TURN *** [5h 3d 5c] [Kd]
+Georgtheking: bets $6.89
+Haahaa13: calls $6.89
+*** RIVER *** [5h 3d 5c Kd] [4c]
+Georgtheking: checks 
+Haahaa13: bets $13.43
+Georgtheking: calls $13.43
+*** SHOW DOWN ***
+Haahaa13: shows [5d Jd] (three of a kind, Fives)
+Georgtheking: mucks hand 
+Haahaa13 collected $53.14 from pot
+*** SUMMARY ***
+Total pot $55.14 | Rake $2 
+Board [5h 3d 5c Kd 4c]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 3: Georgtheking mucked
+Seat 4: Haahaa13 showed [5d Jd] and won ($53.14) with three of a kind, Fives
+Seat 5: Pat Foxe (button) folded before Flop (didn't bet)
+Seat 6: jheymz (small blind) folded on the Flop
+Seat 7: WrongButton (big blind) folded before Flop
+Seat 8: monkeypokerdirt folded before Flop (didn't bet)
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691890928:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:34:08 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 3: Georgtheking ($13.43 in chips) 
+Seat 4: Haahaa13 ($66.57 in chips) 
+Seat 5: Pat Foxe ($9.94 in chips) 
+Seat 6: jheymz ($73.67 in chips) 
+Seat 7: WrongButton ($50 in chips) 
+Seat 8: monkeypokerdirt ($44.85 in chips) 
+Seat 9: BoryaKGB ($53.03 in chips) 
+WrongButton: posts small blind $0.25
+monkeypokerdirt: posts big blind $0.50
+*** HOLE CARDS ***
+BoryaKGB: folds 
+Pablo1405: folds 
+Georgtheking: folds 
+Haahaa13: raises $0.50 to $1
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: folds 
+Uncalled bet ($0.50) returned to Haahaa13
+Haahaa13 collected $1.25 from pot
+Haahaa13: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 3: Georgtheking folded before Flop (didn't bet)
+Seat 4: Haahaa13 collected ($1.25)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz (button) folded before Flop (didn't bet)
+Seat 7: WrongButton (small blind) folded before Flop
+Seat 8: monkeypokerdirt (big blind) folded before Flop
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691898700:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:34:28 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 3: Georgtheking ($13.43 in chips) 
+Seat 4: Haahaa13 ($67.32 in chips) 
+Seat 5: Pat Foxe ($9.94 in chips) 
+Seat 6: jheymz ($73.67 in chips) 
+Seat 7: WrongButton ($50 in chips) 
+Seat 8: monkeypokerdirt ($44.35 in chips) 
+Seat 9: BoryaKGB ($53.03 in chips) 
+monkeypokerdirt: posts small blind $0.25
+BoryaKGB: posts big blind $0.50
+*** HOLE CARDS ***
+Pablo1405: folds 
+Georgtheking: folds 
+Haahaa13: calls $0.50
+Pat Foxe: folds 
+jheymz has timed out
+jheymz: folds 
+WrongButton: raises $1 to $1.50
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+Haahaa13: calls $1
+*** FLOP *** [Js 9s 5s]
+Haahaa13: checks 
+WrongButton: bets $1.75
+Haahaa13: folds 
+Uncalled bet ($1.75) returned to WrongButton
+WrongButton collected $3.56 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [Js 9s 5s]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 3: Georgtheking folded before Flop (didn't bet)
+Seat 4: Haahaa13 folded on the Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton (button) collected ($3.56)
+Seat 8: monkeypokerdirt (small blind) folded before Flop
+Seat 9: BoryaKGB (big blind) folded before Flop
+
+
+
+PokerStars Hand #228691919916:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:35:21 ET
+Table 'Azalea III' 9-max Seat #8 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 2: WilWinOnce.? ($31.87 in chips) 
+Seat 3: Georgtheking ($13.43 in chips) 
+Seat 4: Haahaa13 ($65.82 in chips) 
+Seat 5: Pat Foxe ($9.94 in chips) 
+Seat 6: jheymz ($73.67 in chips) 
+Seat 7: WrongButton ($52.06 in chips) 
+Seat 8: monkeypokerdirt ($44.10 in chips) 
+Seat 9: BoryaKGB ($52.53 in chips) 
+BoryaKGB: posts small blind $0.25
+Pablo1405: posts big blind $0.50
+*** HOLE CARDS ***
+WilWinOnce.?: folds 
+Georgtheking: raises $12.93 to $13.43 and is all-in
+Haahaa13: folds 
+Pat Foxe: calls $9.94 and is all-in
+jheymz has timed out
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+Pablo1405: folds 
+Uncalled bet ($3.49) returned to Georgtheking
+*** FLOP *** [Ad 7c Jh]
+*** TURN *** [Ad 7c Jh] [9h]
+*** RIVER *** [Ad 7c Jh 9h] [8d]
+*** SHOW DOWN ***
+Georgtheking: shows [6s Kh] (high card Ace)
+Pat Foxe: shows [5d 5s] (a pair of Fives)
+Pat Foxe collected $19.60 from pot
+*** SUMMARY ***
+Total pot $20.63 | Rake $1.03 
+Board [Ad 7c Jh 9h 8d]
+Seat 1: Pablo1405 (big blind) folded before Flop
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: Georgtheking showed [6s Kh] and lost with high card Ace
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe showed [5d 5s] and won ($19.60) with a pair of Fives
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt (button) folded before Flop (didn't bet)
+Seat 9: BoryaKGB (small blind) folded before Flop
+
+
+
+PokerStars Hand #228691938846:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:36:09 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 2: WilWinOnce.? ($31.87 in chips) 
+Seat 3: Georgtheking ($3.49 in chips) 
+Seat 4: Haahaa13 ($65.82 in chips) 
+Seat 5: Pat Foxe ($19.60 in chips) 
+Seat 6: jheymz ($73.67 in chips) 
+Seat 7: WrongButton ($52.06 in chips) 
+Seat 8: monkeypokerdirt ($44.10 in chips) 
+Seat 9: BoryaKGB ($52.28 in chips) 
+Pablo1405: posts small blind $0.25
+WilWinOnce.?: posts big blind $0.50
+*** HOLE CARDS ***
+Georgtheking: raises $2.99 to $3.49 and is all-in
+Haahaa13: folds 
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: folds 
+BoryaKGB: calls $3.49
+Pablo1405: folds 
+WilWinOnce.?: folds 
+*** FLOP *** [6d 4h 7c]
+*** TURN *** [6d 4h 7c] [Th]
+*** RIVER *** [6d 4h 7c Th] [5c]
+*** SHOW DOWN ***
+Georgtheking: shows [Tc As] (a pair of Tens)
+BoryaKGB: shows [Kc Ah] (high card Ace)
+Georgtheking collected $7.34 from pot
+*** SUMMARY ***
+Total pot $7.73 | Rake $0.39 
+Board [6d 4h 7c Th 5c]
+Seat 1: Pablo1405 (small blind) folded before Flop
+Seat 2: WilWinOnce.? (big blind) folded before Flop
+Seat 3: Georgtheking showed [Tc As] and won ($7.34) with a pair of Tens
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt folded before Flop (didn't bet)
+Seat 9: BoryaKGB (button) showed [Kc Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #228691951361:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:36:41 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 2: WilWinOnce.? ($31.37 in chips) 
+Seat 3: Georgtheking ($7.34 in chips) 
+Seat 4: Haahaa13 ($65.82 in chips) 
+Seat 5: Pat Foxe ($19.60 in chips) 
+Seat 6: jheymz ($73.67 in chips) 
+Seat 7: WrongButton ($52.06 in chips) 
+Seat 8: monkeypokerdirt ($44.10 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+WilWinOnce.?: posts small blind $0.25
+Georgtheking: posts big blind $0.50
+*** HOLE CARDS ***
+Haahaa13: folds 
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: raises $1 to $1.50
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: folds 
+Georgtheking: calls $1
+*** FLOP *** [9s 3h 2d]
+Georgtheking: checks 
+monkeypokerdirt: checks 
+*** TURN *** [9s 3h 2d] [6c]
+Georgtheking: bets $1.54
+monkeypokerdirt: folds 
+Uncalled bet ($1.54) returned to Georgtheking
+Georgtheking collected $3.09 from pot
+Georgtheking: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [9s 3h 2d 6c]
+Seat 1: Pablo1405 (button) folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (small blind) folded before Flop
+Seat 3: Georgtheking (big blind) collected ($3.09)
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt folded on the Turn
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691966494:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:37:18 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 2: WilWinOnce.? ($31.12 in chips) 
+Seat 3: Georgtheking ($8.93 in chips) 
+Seat 4: Haahaa13 ($65.82 in chips) 
+Seat 5: Pat Foxe ($19.60 in chips) 
+Seat 6: jheymz ($73.67 in chips) 
+Seat 7: WrongButton ($52.06 in chips) 
+Seat 8: monkeypokerdirt ($42.60 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+Georgtheking: posts small blind $0.25
+Haahaa13: posts big blind $0.50
+*** HOLE CARDS ***
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: calls $0.50
+Georgtheking: raises $1.50 to $2
+Haahaa13: folds 
+WilWinOnce.?: calls $1.50
+*** FLOP *** [Qs Ks Ah]
+Georgtheking: bets $2.14
+WilWinOnce.?: folds 
+Uncalled bet ($2.14) returned to Georgtheking
+Georgtheking collected $4.28 from pot
+Georgtheking: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Qs Ks Ah]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (button) folded on the Flop
+Seat 3: Georgtheking (small blind) collected ($4.28)
+Seat 4: Haahaa13 (big blind) folded before Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt folded before Flop (didn't bet)
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691985664:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:38:07 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 2: WilWinOnce.? ($29.12 in chips) 
+Seat 3: Georgtheking ($11.21 in chips) 
+Seat 4: Haahaa13 ($65.32 in chips) 
+Seat 5: Pat Foxe ($19.60 in chips) 
+Seat 6: jheymz ($73.67 in chips) 
+Seat 7: WrongButton ($52.06 in chips) 
+Seat 8: monkeypokerdirt ($42.60 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+Haahaa13: posts small blind $0.25
+Pat Foxe: posts big blind $0.50
+*** HOLE CARDS ***
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: calls $0.50
+BoryaKGB: folds 
+Pablo1405: raises $1.50 to $2
+WilWinOnce.?: folds 
+Georgtheking: raises $9.21 to $11.21 and is all-in
+Haahaa13: folds 
+Pat Foxe: folds 
+monkeypokerdirt: folds 
+Pablo1405: calls $9.21
+*** FLOP *** [8s As Ac]
+*** TURN *** [8s As Ac] [5h]
+*** RIVER *** [8s As Ac 5h] [8d]
+*** SHOW DOWN ***
+Pablo1405: shows [Jh Js] (two pair, Aces and Jacks)
+Georgtheking: shows [Ah 5d] (a full house, Aces full of Eights)
+Georgtheking collected $22.49 from pot
+*** SUMMARY ***
+Total pot $23.67 | Rake $1.18 
+Board [8s As Ac 5h 8d]
+Seat 1: Pablo1405 showed [Jh Js] and lost with two pair, Aces and Jacks
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: Georgtheking (button) showed [Ah 5d] and won ($22.49) with a full house, Aces full of Eights
+Seat 4: Haahaa13 (small blind) folded before Flop
+Seat 5: Pat Foxe (big blind) folded before Flop
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt folded before Flop
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691999857:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:38:42 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 2: WilWinOnce.? ($29.12 in chips) 
+Seat 3: Georgtheking ($22.49 in chips) 
+Seat 4: Haahaa13 ($65.07 in chips) 
+Seat 5: Pat Foxe ($19.10 in chips) 
+Seat 6: jheymz ($73.67 in chips) 
+Seat 7: WrongButton ($52.06 in chips) 
+Seat 8: monkeypokerdirt ($42.10 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+Pat Foxe: posts small blind $0.25
+jheymz: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+monkeypokerdirt: folds 
+BoryaKGB: raises $0.60 to $1.10
+Pablo1405: folds 
+WilWinOnce.?: folds 
+Georgtheking: folds 
+Haahaa13: folds 
+Pat Foxe: raises $2.06 to $3.16
+jheymz: folds 
+BoryaKGB: folds 
+Uncalled bet ($2.06) returned to Pat Foxe
+Pat Foxe collected $2.70 from pot
+*** SUMMARY ***
+Total pot $2.70 | Rake $0 
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: Georgtheking folded before Flop (didn't bet)
+Seat 4: Haahaa13 (button) folded before Flop (didn't bet)
+Seat 5: Pat Foxe (small blind) collected ($2.70)
+Seat 6: jheymz (big blind) folded before Flop
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt folded before Flop (didn't bet)
+Seat 9: BoryaKGB folded before Flop
+
+
+
+PokerStars Hand #228692023271:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:39:42 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 2: WilWinOnce.? ($29.12 in chips) 
+Seat 3: Georgtheking ($22.49 in chips) 
+Seat 4: Haahaa13 ($65.07 in chips) 
+Seat 5: Pat Foxe ($20.70 in chips) 
+Seat 6: jheymz ($73.17 in chips) 
+Seat 7: WrongButton ($52.06 in chips) 
+Seat 8: monkeypokerdirt ($42.10 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+jheymz: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: folds 
+Georgtheking: raises $1.25 to $1.75
+Haahaa13: calls $1.75
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+*** FLOP *** [2h 7d 2d]
+Georgtheking: bets $2.02
+Haahaa13: calls $2.02
+*** TURN *** [2h 7d 2d] [2s]
+Georgtheking: bets $3.94
+Haahaa13: folds 
+Uncalled bet ($3.94) returned to Georgtheking
+Georgtheking collected $7.88 from pot
+Georgtheking: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.29 | Rake $0.41 
+Board [2h 7d 2d 2s]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: Georgtheking collected ($7.88)
+Seat 4: Haahaa13 folded on the Turn
+Seat 5: Pat Foxe (button) folded before Flop (didn't bet)
+Seat 6: jheymz (small blind) folded before Flop
+Seat 7: WrongButton (big blind) folded before Flop
+Seat 8: monkeypokerdirt folded before Flop (didn't bet)
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692040597:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:40:26 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 2: WilWinOnce.? ($29.12 in chips) 
+Seat 3: Georgtheking ($26.60 in chips) 
+Seat 4: Haahaa13 ($61.30 in chips) 
+Seat 5: Pat Foxe ($20.70 in chips) 
+Seat 6: jheymz ($72.92 in chips) 
+Seat 7: WrongButton ($51.56 in chips) 
+Seat 8: monkeypokerdirt ($42.10 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+WrongButton: posts small blind $0.25
+monkeypokerdirt: posts big blind $0.50
+*** HOLE CARDS ***
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: folds 
+Georgtheking: raises $1 to $1.50
+Haahaa13: calls $1.50
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: calls $1
+*** FLOP *** [7c 4s 4d]
+monkeypokerdirt: checks 
+Georgtheking: bets $4.51
+Haahaa13: folds 
+monkeypokerdirt: folds 
+Uncalled bet ($4.51) returned to Georgtheking
+Georgtheking collected $4.51 from pot
+Georgtheking: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [7c 4s 4d]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: Georgtheking collected ($4.51)
+Seat 4: Haahaa13 folded on the Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz (button) folded before Flop (didn't bet)
+Seat 7: WrongButton (small blind) folded before Flop
+Seat 8: monkeypokerdirt (big blind) folded on the Flop
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692055459:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:41:03 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 2: WilWinOnce.? ($29.12 in chips) 
+Seat 3: Georgtheking ($29.61 in chips) 
+Seat 4: Haahaa13 ($59.80 in chips) 
+Seat 5: Pat Foxe ($20.70 in chips) 
+Seat 6: jheymz ($72.92 in chips) 
+Seat 7: WrongButton ($51.31 in chips) 
+Seat 8: monkeypokerdirt ($40.60 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+monkeypokerdirt: posts small blind $0.25
+BoryaKGB: posts big blind $0.50
+*** HOLE CARDS ***
+Pablo1405: folds 
+WilWinOnce.?: calls $0.50
+Georgtheking: folds 
+Haahaa13: folds 
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: folds 
+BoryaKGB: checks 
+*** FLOP *** [Qh Qc 8c]
+BoryaKGB: checks 
+WilWinOnce.?: bets $1.19
+BoryaKGB: folds 
+Uncalled bet ($1.19) returned to WilWinOnce.?
+WilWinOnce.? collected $1.19 from pot
+WilWinOnce.?: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Qh Qc 8c]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? collected ($1.19)
+Seat 3: Georgtheking folded before Flop (didn't bet)
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton (button) folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt (small blind) folded before Flop
+Seat 9: BoryaKGB (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228692065027:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:41:28 ET
+Table 'Azalea III' 9-max Seat #8 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 2: WilWinOnce.? ($29.81 in chips) 
+Seat 3: Georgtheking ($29.61 in chips) 
+Seat 4: Haahaa13 ($59.80 in chips) 
+Seat 5: Pat Foxe ($20.70 in chips) 
+Seat 6: jheymz ($72.92 in chips) 
+Seat 7: WrongButton ($51.31 in chips) 
+Seat 8: monkeypokerdirt ($40.35 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+BoryaKGB: posts small blind $0.25
+Pablo1405: posts big blind $0.50
+*** HOLE CARDS ***
+WilWinOnce.?: folds 
+Georgtheking: raises $1 to $1.50
+Haahaa13: folds 
+Pat Foxe: folds 
+jheymz: calls $1.50
+WrongButton: calls $1.50
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+Pablo1405: calls $1
+*** FLOP *** [Ad Qc 4s]
+Pablo1405: checks 
+Georgtheking: bets $2.72
+jheymz: calls $2.72
+WrongButton: calls $2.72
+Pablo1405: folds 
+*** TURN *** [Ad Qc 4s] [Ts]
+Georgtheking: checks 
+jheymz: checks 
+WrongButton: bets $9
+Georgtheking: folds 
+jheymz: folds 
+Uncalled bet ($9) returned to WrongButton
+WrongButton collected $13.69 from pot
+*** SUMMARY ***
+Total pot $14.41 | Rake $0.72 
+Board [Ad Qc 4s Ts]
+Seat 1: Pablo1405 (big blind) folded on the Flop
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: Georgtheking folded on the Turn
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded on the Turn
+Seat 7: WrongButton collected ($13.69)
+Seat 8: monkeypokerdirt (button) folded before Flop (didn't bet)
+Seat 9: BoryaKGB (small blind) folded before Flop
+
+
+
+PokerStars Hand #228692093088:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:42:40 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: Pablo1405 ($50 in chips) 
+Seat 2: WilWinOnce.? ($29.81 in chips) 
+Seat 3: Georgtheking ($25.39 in chips) 
+Seat 4: Haahaa13 ($59.80 in chips) 
+Seat 5: Pat Foxe ($20.70 in chips) 
+Seat 6: jheymz ($68.70 in chips) 
+Seat 7: WrongButton ($60.78 in chips) 
+Seat 8: monkeypokerdirt ($40.35 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+Pablo1405: posts small blind $0.25
+WilWinOnce.?: posts big blind $0.50
+*** HOLE CARDS ***
+Georgtheking: folds 
+Haahaa13: raises $0.50 to $1
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: calls $1
+BoryaKGB: folds 
+Pablo1405: raises $5.25 to $6.25
+WilWinOnce.?: folds 
+Haahaa13: folds 
+monkeypokerdirt: folds 
+Uncalled bet ($5.25) returned to Pablo1405
+Pablo1405 collected $3.50 from pot
+Pablo1405: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: Pablo1405 (small blind) collected ($3.50)
+Seat 2: WilWinOnce.? (big blind) folded before Flop
+Seat 3: Georgtheking folded before Flop (didn't bet)
+Seat 4: Haahaa13 folded before Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt folded before Flop
+Seat 9: BoryaKGB (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692103798:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:43:07 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: Pablo1405 ($52.50 in chips) 
+Seat 2: WilWinOnce.? ($29.31 in chips) 
+Seat 3: Georgtheking ($25.39 in chips) 
+Seat 4: Haahaa13 ($58.80 in chips) 
+Seat 5: Pat Foxe ($20.70 in chips) 
+Seat 6: jheymz ($68.70 in chips) 
+Seat 7: WrongButton ($60.78 in chips) 
+Seat 8: monkeypokerdirt ($39.35 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+WilWinOnce.?: posts small blind $0.25
+Georgtheking: posts big blind $0.50
+*** HOLE CARDS ***
+Haahaa13: calls $0.50
+Pat Foxe: folds 
+jheymz has timed out
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: folds 
+BoryaKGB: raises $1.50 to $2
+Pablo1405: folds 
+WilWinOnce.?: folds 
+Georgtheking: calls $1.50
+Haahaa13: calls $1.50
+*** FLOP *** [4c 5d 7s]
+Georgtheking: checks 
+Haahaa13: checks 
+BoryaKGB: checks 
+*** TURN *** [4c 5d 7s] [8s]
+Georgtheking: bets $2.97
+Haahaa13: folds 
+BoryaKGB: folds 
+Uncalled bet ($2.97) returned to Georgtheking
+Georgtheking collected $5.94 from pot
+Georgtheking: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.31 
+Board [4c 5d 7s 8s]
+Seat 1: Pablo1405 (button) folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (small blind) folded before Flop
+Seat 3: Georgtheking (big blind) collected ($5.94)
+Seat 4: Haahaa13 folded on the Turn
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt folded before Flop (didn't bet)
+Seat 9: BoryaKGB folded on the Turn
+
+
+
+PokerStars Hand #228692139490:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:44:39 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 1: Pablo1405 ($52.50 in chips) 
+Seat 2: WilWinOnce.? ($29.06 in chips) 
+Seat 3: Georgtheking ($29.33 in chips) 
+Seat 4: Haahaa13 ($56.80 in chips) 
+Seat 5: Pat Foxe ($20.70 in chips) 
+Seat 7: WrongButton ($60.78 in chips) 
+Seat 8: monkeypokerdirt ($39.35 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+Georgtheking: posts small blind $0.25
+Haahaa13: posts big blind $0.50
+*** HOLE CARDS ***
+Pat Foxe: folds 
+WrongButton: folds 
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: folds 
+Georgtheking: raises $1 to $1.50
+Haahaa13: folds 
+Uncalled bet ($1) returned to Georgtheking
+Georgtheking collected $1 from pot
+Georgtheking: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (button) folded before Flop (didn't bet)
+Seat 3: Georgtheking (small blind) collected ($1)
+Seat 4: Haahaa13 (big blind) folded before Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt folded before Flop (didn't bet)
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692146594:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:44:58 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 1: Pablo1405 ($52.50 in chips) 
+Seat 2: WilWinOnce.? ($29.06 in chips) 
+Seat 3: Georgtheking ($29.83 in chips) 
+Seat 4: Haahaa13 ($56.30 in chips) 
+Seat 5: Pat Foxe ($20.70 in chips) 
+Seat 7: WrongButton ($60.78 in chips) 
+Seat 8: monkeypokerdirt ($39.35 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+Haahaa13: posts small blind $0.25
+Pat Foxe: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: calls $0.50
+Georgtheking: calls $0.50
+Haahaa13: folds 
+Pat Foxe: checks 
+*** FLOP *** [2h 8s Kc]
+Pat Foxe: checks 
+WilWinOnce.?: checks 
+jheymz is disconnected 
+Georgtheking: bets $1.08
+Pat Foxe: folds 
+WilWinOnce.?: folds 
+Uncalled bet ($1.08) returned to Georgtheking
+Georgtheking collected $1.66 from pot
+Georgtheking: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.09 
+Board [2h 8s Kc]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded on the Flop
+Seat 3: Georgtheking (button) collected ($1.66)
+Seat 4: Haahaa13 (small blind) folded before Flop
+Seat 5: Pat Foxe (big blind) folded on the Flop
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt folded before Flop (didn't bet)
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692165516:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:45:46 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 1: Pablo1405 ($52.50 in chips) 
+Seat 2: WilWinOnce.? ($28.56 in chips) 
+Seat 3: Georgtheking ($30.99 in chips) 
+Seat 4: Haahaa13 ($56.05 in chips) 
+Seat 5: Pat Foxe ($20.20 in chips) 
+Seat 7: WrongButton ($60.78 in chips) 
+Seat 8: monkeypokerdirt ($39.35 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+Pat Foxe: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: folds 
+Georgtheking: raises $1.25 to $1.75
+Haahaa13: calls $1.75
+Pat Foxe: folds 
+WrongButton: folds 
+*** FLOP *** [6d Qh 8c]
+Georgtheking: bets $2.02
+Haahaa13: calls $2.02
+*** TURN *** [6d Qh 8c] [Ac]
+Georgtheking: bets $7.88
+Haahaa13: folds 
+Uncalled bet ($7.88) returned to Georgtheking
+Georgtheking collected $7.88 from pot
+Georgtheking: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.29 | Rake $0.41 
+Board [6d Qh 8c Ac]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: Georgtheking collected ($7.88)
+Seat 4: Haahaa13 (button) folded on the Turn
+Seat 5: Pat Foxe (small blind) folded before Flop
+Seat 7: WrongButton (big blind) folded before Flop
+Seat 8: monkeypokerdirt folded before Flop (didn't bet)
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692182075:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:46:29 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: Pablo1405 ($52.50 in chips) 
+Seat 2: WilWinOnce.? ($28.56 in chips) 
+Seat 3: Georgtheking ($35.10 in chips) 
+Seat 4: Haahaa13 ($52.28 in chips) 
+Seat 5: Pat Foxe ($19.95 in chips) 
+Seat 7: WrongButton ($60.28 in chips) 
+Seat 8: monkeypokerdirt ($39.35 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+WrongButton: posts small blind $0.25
+monkeypokerdirt: posts big blind $0.50
+*** HOLE CARDS ***
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: calls $0.50
+Georgtheking: folds 
+Haahaa13 has timed out
+Haahaa13: folds 
+Pat Foxe: calls $0.50
+WrongButton: folds 
+monkeypokerdirt: checks 
+*** FLOP *** [Js Qs 6h]
+monkeypokerdirt: checks 
+WilWinOnce.?: checks 
+Pat Foxe: checks 
+*** TURN *** [Js Qs 6h] [2d]
+monkeypokerdirt: checks 
+WilWinOnce.?: checks 
+Pat Foxe: checks 
+*** RIVER *** [Js Qs 6h 2d] [2s]
+monkeypokerdirt: checks 
+WilWinOnce.?: checks 
+Pat Foxe: checks 
+*** SHOW DOWN ***
+monkeypokerdirt: shows [Ad 4c] (a pair of Deuces)
+WilWinOnce.?: mucks hand 
+Pat Foxe: shows [Ah 5h] (a pair of Deuces)
+monkeypokerdirt collected $0.83 from pot
+Pat Foxe collected $0.83 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.09 
+Board [Js Qs 6h 2d 2s]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? mucked
+Seat 3: Georgtheking folded before Flop (didn't bet)
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe (button) showed [Ah 5h] and won ($0.83) with a pair of Deuces
+Seat 7: WrongButton (small blind) folded before Flop
+Seat 8: monkeypokerdirt (big blind) showed [Ad 4c] and won ($0.83) with a pair of Deuces
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692204964:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:47:28 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: Pablo1405 ($52.50 in chips) 
+Seat 2: WilWinOnce.? ($28.06 in chips) 
+Seat 3: Georgtheking ($35.10 in chips) 
+Seat 4: Haahaa13 ($52.28 in chips) 
+Seat 5: Pat Foxe ($20.28 in chips) 
+Seat 7: WrongButton ($60.03 in chips) 
+Seat 8: monkeypokerdirt ($39.68 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+monkeypokerdirt: posts small blind $0.25
+BoryaKGB: posts big blind $0.50
+*** HOLE CARDS ***
+Pablo1405: raises $1 to $1.50
+WilWinOnce.?: folds 
+Georgtheking: calls $1.50
+Haahaa13: calls $1.50
+Pat Foxe: folds 
+WrongButton: folds 
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+*** FLOP *** [Qd 9s Kd]
+Pablo1405: bets $3.74
+Georgtheking: folds 
+Haahaa13: calls $3.74
+*** TURN *** [Qd 9s Kd] [8h]
+Pablo1405: bets $9.07
+Haahaa13: folds 
+Uncalled bet ($9.07) returned to Pablo1405
+Pablo1405 collected $12.09 from pot
+Pablo1405: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.73 | Rake $0.64 
+Board [Qd 9s Kd 8h]
+Seat 1: Pablo1405 collected ($12.09)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: Georgtheking folded on the Flop
+Seat 4: Haahaa13 folded on the Turn
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 7: WrongButton (button) folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt (small blind) folded before Flop
+Seat 9: BoryaKGB (big blind) folded before Flop
+
+
+
+PokerStars Hand #228692224967:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:48:21 ET
+Table 'Azalea III' 9-max Seat #8 is the button
+Seat 1: Pablo1405 ($59.35 in chips) 
+Seat 2: WilWinOnce.? ($28.06 in chips) 
+Seat 3: Georgtheking ($33.60 in chips) 
+Seat 4: Haahaa13 ($47.04 in chips) 
+Seat 5: Pat Foxe ($20.28 in chips) 
+Seat 6: jheymz ($68.70 in chips) 
+Seat 7: WrongButton ($60.03 in chips) 
+Seat 8: monkeypokerdirt ($39.43 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+BoryaKGB: posts small blind $0.25
+Pablo1405: posts big blind $0.50
+jheymz: posts small & big blinds $0.75
+*** HOLE CARDS ***
+WilWinOnce.?: folds 
+Georgtheking: raises $2 to $2.50
+Haahaa13: folds 
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: calls $2.50
+BoryaKGB: folds 
+Pablo1405: folds 
+*** FLOP *** [9s Tc Ah]
+Georgtheking: checks 
+monkeypokerdirt: bets $5
+Georgtheking: folds 
+Uncalled bet ($5) returned to monkeypokerdirt
+monkeypokerdirt collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [9s Tc Ah]
+Seat 1: Pablo1405 (big blind) folded before Flop
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: Georgtheking folded on the Flop
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt (button) collected ($6.18)
+Seat 9: BoryaKGB (small blind) folded before Flop
+
+
+
+PokerStars Hand #228692247569:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:49:20 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: Pablo1405 ($58.85 in chips) 
+Seat 2: WilWinOnce.? ($28.06 in chips) 
+Seat 3: Georgtheking ($31.10 in chips) 
+Seat 4: Haahaa13 ($47.04 in chips) 
+Seat 5: Pat Foxe ($20.28 in chips) 
+Seat 6: jheymz ($67.95 in chips) 
+Seat 7: WrongButton ($60.03 in chips) 
+Seat 8: monkeypokerdirt ($43.11 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+Pablo1405: posts small blind $0.25
+WilWinOnce.?: posts big blind $0.50
+*** HOLE CARDS ***
+Georgtheking: raises $1 to $1.50
+Haahaa13: folds 
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: folds 
+Uncalled bet ($1) returned to Georgtheking
+Georgtheking collected $1.25 from pot
+Georgtheking: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Pablo1405 (small blind) folded before Flop
+Seat 2: WilWinOnce.? (big blind) folded before Flop
+Seat 3: Georgtheking collected ($1.25)
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt folded before Flop (didn't bet)
+Seat 9: BoryaKGB (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692254926:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:49:40 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: Pablo1405 ($58.60 in chips) 
+Seat 2: WilWinOnce.? ($27.56 in chips) 
+Seat 3: Georgtheking ($31.85 in chips) 
+Seat 4: Haahaa13 ($47.04 in chips) 
+Seat 5: Pat Foxe ($20.28 in chips) 
+Seat 6: jheymz ($67.95 in chips) 
+Seat 7: WrongButton ($60.03 in chips) 
+Seat 8: monkeypokerdirt ($43.11 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+WilWinOnce.?: posts small blind $0.25
+Georgtheking: posts big blind $0.50
+*** HOLE CARDS ***
+Haahaa13: folds 
+Pat Foxe: folds 
+jheymz: raises $1 to $1.50
+WrongButton: folds 
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: calls $1.25
+Georgtheking: calls $1
+*** FLOP *** [8c 9d 3d]
+WilWinOnce.?: checks 
+Georgtheking: bets $0.50
+jheymz: raises $2.64 to $3.14
+WilWinOnce.?: calls $3.14
+Georgtheking: calls $2.64
+*** TURN *** [8c 9d 3d] [6h]
+WilWinOnce.?: checks 
+Georgtheking: checks 
+jheymz: checks 
+*** RIVER *** [8c 9d 3d 6h] [Th]
+WilWinOnce.?: bets $6.61
+Georgtheking: folds 
+jheymz: folds 
+Uncalled bet ($6.61) returned to WilWinOnce.?
+WilWinOnce.? collected $13.22 from pot
+WilWinOnce.?: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.92 | Rake $0.70 
+Board [8c 9d 3d 6h Th]
+Seat 1: Pablo1405 (button) folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (small blind) collected ($13.22)
+Seat 3: Georgtheking (big blind) folded on the River
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded on the River
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt folded before Flop (didn't bet)
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692288270:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:50:59 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 1: Pablo1405 ($58.60 in chips) 
+Seat 2: WilWinOnce.? ($36.14 in chips) 
+Seat 3: Georgtheking ($27.21 in chips) 
+Seat 4: Haahaa13 ($47.04 in chips) 
+Seat 5: Pat Foxe ($20.28 in chips) 
+Seat 6: jheymz ($63.31 in chips) 
+Seat 7: WrongButton ($60.03 in chips) 
+Seat 8: monkeypokerdirt ($43.11 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+Georgtheking: posts small blind $0.25
+Haahaa13: posts big blind $0.50
+*** HOLE CARDS ***
+Pat Foxe: folds 
+jheymz has timed out
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: folds 
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: calls $0.50
+Georgtheking: calls $0.25
+Haahaa13: checks 
+*** FLOP *** [4c Jh Qc]
+Georgtheking: checks 
+Haahaa13: checks 
+WilWinOnce.?: bets $1.42
+Georgtheking has timed out
+Georgtheking: folds 
+Haahaa13: folds 
+Uncalled bet ($1.42) returned to WilWinOnce.?
+WilWinOnce.? collected $1.42 from pot
+WilWinOnce.?: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [4c Jh Qc]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (button) collected ($1.42)
+Seat 3: Georgtheking (small blind) folded on the Flop
+Seat 4: Haahaa13 (big blind) folded on the Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt folded before Flop (didn't bet)
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692331810:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:52:54 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 1: Pablo1405 ($58.60 in chips) 
+Seat 2: WilWinOnce.? ($37.06 in chips) 
+Seat 3: Georgtheking ($26.71 in chips) 
+Seat 4: Haahaa13 ($46.54 in chips) 
+Seat 5: Pat Foxe ($20.28 in chips) 
+Seat 6: jheymz ($63.31 in chips) 
+Seat 7: WrongButton ($60.03 in chips) 
+Seat 8: monkeypokerdirt ($43.11 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+Haahaa13: posts small blind $0.25
+Pat Foxe: posts big blind $0.50
+*** HOLE CARDS ***
+jheymz has timed out
+jheymz: folds 
+WrongButton: folds 
+monkeypokerdirt: calls $0.50
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: folds 
+Georgtheking has timed out
+Georgtheking: folds 
+Haahaa13: calls $0.25
+Pat Foxe: checks 
+*** FLOP *** [3c Ks 9s]
+Haahaa13: bets $1
+Pat Foxe: folds 
+monkeypokerdirt: raises $1 to $2
+Haahaa13: calls $1
+*** TURN *** [3c Ks 9s] [6c]
+Haahaa13: checks 
+monkeypokerdirt: checks 
+*** RIVER *** [3c Ks 9s 6c] [8s]
+Haahaa13: checks 
+monkeypokerdirt: checks 
+*** SHOW DOWN ***
+Haahaa13: shows [Kh Jd] (a pair of Kings)
+monkeypokerdirt: mucks hand 
+Haahaa13 collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [3c Ks 9s 6c 8s]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 3: Georgtheking (button) folded before Flop (didn't bet)
+Seat 4: Haahaa13 (small blind) showed [Kh Jd] and won ($5.22) with a pair of Kings
+Seat 5: Pat Foxe (big blind) folded on the Flop
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt mucked
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692355226:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:53:57 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 1: Pablo1405 ($58.60 in chips) 
+Seat 2: WilWinOnce.? ($37.06 in chips) 
+Seat 4: Haahaa13 ($49.26 in chips) 
+Seat 5: Pat Foxe ($19.78 in chips) 
+Seat 6: jheymz ($63.31 in chips) 
+Seat 7: WrongButton ($60.03 in chips) 
+Seat 8: monkeypokerdirt ($40.61 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+Pat Foxe: posts small blind $0.25
+jheymz: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+monkeypokerdirt: calls $0.50
+BoryaKGB: folds 
+Pablo1405: folds 
+WilWinOnce.?: folds 
+Haahaa13: folds 
+Pat Foxe: calls $0.25
+jheymz: checks 
+*** FLOP *** [6c 3h 4h]
+Pat Foxe: checks 
+jheymz: checks 
+monkeypokerdirt: bets $1
+Pat Foxe: folds 
+jheymz: folds 
+Uncalled bet ($1) returned to monkeypokerdirt
+monkeypokerdirt collected $1.42 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [6c 3h 4h]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 (button) folded before Flop (didn't bet)
+Seat 5: Pat Foxe (small blind) folded on the Flop
+Seat 6: jheymz (big blind) folded on the Flop
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: monkeypokerdirt collected ($1.42)
+Seat 9: BoryaKGB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692383082:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:55:06 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: Pablo1405 ($58.60 in chips) 
+Seat 2: WilWinOnce.? ($37.06 in chips) 
+Seat 4: Haahaa13 ($49.26 in chips) 
+Seat 5: Pat Foxe ($19.28 in chips) 
+Seat 6: jheymz ($62.81 in chips) 
+Seat 7: WrongButton ($60.03 in chips) 
+Seat 9: BoryaKGB ($50 in chips) 
+jheymz: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+monkeypokerdirt leaves the table
+BoryaKGB: raises $0.60 to $1.10
+Pablo1405: folds 
+WilWinOnce.?: folds 
+Haahaa13: calls $1.10
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+*** FLOP *** [2h 4c Kh]
+BoryaKGB: bets $0.78
+Haahaa13: calls $0.78
+*** TURN *** [2h 4c Kh] [4d]
+BoryaKGB: checks 
+Haahaa13: bets $2.14
+BoryaKGB: folds 
+Uncalled bet ($2.14) returned to Haahaa13
+Haahaa13 collected $4.28 from pot
+Haahaa13: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.51 | Rake $0.23 
+Board [2h 4c Kh 4d]
+Seat 1: Pablo1405 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 collected ($4.28)
+Seat 5: Pat Foxe (button) folded before Flop (didn't bet)
+Seat 6: jheymz (small blind) folded before Flop
+Seat 7: WrongButton (big blind) folded before Flop
+Seat 9: BoryaKGB folded on the Turn
+
+
+
+PokerStars Hand #228692519046:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:01:50 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 1: An1an1 ($110.21 in chips) 
+Seat 2: WilWinOnce.? ($32.30 in chips) 
+Seat 4: Haahaa13 ($49.85 in chips) 
+Seat 5: Pat Foxe ($21.13 in chips) 
+Seat 6: jheymz ($62.06 in chips) 
+Seat 7: WrongButton ($65.66 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Haahaa13: posts small blind $0.25
+Pat Foxe: posts big blind $0.50
+*** HOLE CARDS ***
+BoryaKGB leaves the table
+FeersPoker joins the table at seat #9 
+jheymz: folds 
+WrongButton: folds 
+MarsMiland: folds 
+An1an1: folds 
+WilWinOnce.?: folds 
+Haahaa13: calls $0.25
+Pat Foxe: checks 
+*** FLOP *** [9d Jc 4s]
+Haahaa13: checks 
+Pat Foxe: checks 
+*** TURN *** [9d Jc 4s] [3s]
+Haahaa13: bets $0.95
+Pat Foxe: calls $0.95
+*** RIVER *** [9d Jc 4s 3s] [7s]
+Haahaa13: bets $2.76
+Pat Foxe: folds 
+Uncalled bet ($2.76) returned to Haahaa13
+Haahaa13 collected $2.76 from pot
+Haahaa13: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.90 | Rake $0.14 
+Board [9d Jc 4s 3s 7s]
+Seat 1: An1an1 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (button) folded before Flop (didn't bet)
+Seat 4: Haahaa13 (small blind) collected ($2.76)
+Seat 5: Pat Foxe (big blind) folded on the River
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692556088:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:03:10 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 1: An1an1 ($110.21 in chips) 
+Seat 2: WilWinOnce.? ($32.30 in chips) 
+Seat 4: Haahaa13 ($51.16 in chips) 
+Seat 5: Pat Foxe ($19.68 in chips) 
+Seat 6: jheymz ($62.06 in chips) 
+Seat 7: WrongButton ($65.66 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Pat Foxe: posts small blind $0.25
+jheymz: posts big blind $0.50
+FeersPoker: sits out 
+*** HOLE CARDS ***
+WrongButton: folds 
+MarsMiland: folds 
+An1an1: folds 
+WilWinOnce.?: folds 
+Haahaa13: calls $0.50
+Pat Foxe: calls $0.25
+jheymz has timed out
+jheymz: checks 
+*** FLOP *** [Kd 5d 7d]
+Pat Foxe: checks 
+jheymz has timed out
+jheymz: checks 
+Haahaa13: bets $0.50
+Pat Foxe: calls $0.50
+jheymz has timed out
+jheymz: folds 
+*** TURN *** [Kd 5d 7d] [Js]
+Pat Foxe: checks 
+Haahaa13: checks 
+*** RIVER *** [Kd 5d 7d Js] [5h]
+Pat Foxe: checks 
+Haahaa13: bets $1.69
+Pat Foxe: calls $1.69
+*** SHOW DOWN ***
+Haahaa13: shows [5c As] (three of a kind, Fives)
+Pat Foxe: mucks hand 
+Haahaa13 collected $5.59 from pot
+*** SUMMARY ***
+Total pot $5.88 | Rake $0.29 
+Board [Kd 5d 7d Js 5h]
+Seat 1: An1an1 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 (button) showed [5c As] and won ($5.59) with three of a kind, Fives
+Seat 5: Pat Foxe (small blind) mucked
+Seat 6: jheymz (big blind) folded on the Flop
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692608903:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:05:36 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: An1an1 ($110.21 in chips) 
+Seat 2: WilWinOnce.? ($32.30 in chips) 
+Seat 4: Haahaa13 ($54.06 in chips) 
+Seat 5: Pat Foxe ($16.99 in chips) 
+Seat 7: WrongButton ($65.66 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+WrongButton: posts small blind $0.25
+MarsMiland: is sitting out 
+FeersPoker: posts big blind $0.50
+*** HOLE CARDS ***
+An1an1: folds 
+WilWinOnce.?: folds 
+An1an1 leaves the table
+Stingg joins the table at seat #1 
+MarsMiland leaves the table
+Haahaa13: folds 
+Pat Foxe: raises $0.50 to $1
+WrongButton: folds 
+FeersPoker: folds 
+Uncalled bet ($0.50) returned to Pat Foxe
+Pat Foxe collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: An1an1 folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe (button) collected ($1.25)
+Seat 7: WrongButton (small blind) folded before Flop
+Seat 9: FeersPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #228692615668:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:05:55 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: Stingg ($50 in chips) 
+Seat 2: WilWinOnce.? ($32.30 in chips) 
+Seat 4: Haahaa13 ($54.06 in chips) 
+Seat 5: Pat Foxe ($17.74 in chips) 
+Seat 7: WrongButton ($65.41 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+FeersPoker: posts small blind $0.25
+Stingg: posts big blind $0.50
+*** HOLE CARDS ***
+WilWinOnce.?: folds 
+Haahaa13: raises $0.50 to $1
+Pat Foxe: folds 
+Dragonclawss joins the table at seat #8 
+WrongButton: raises $2.50 to $3.50
+FeersPoker: folds 
+Stingg: folds 
+Haahaa13: folds 
+Uncalled bet ($2.50) returned to WrongButton
+WrongButton collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0 
+Seat 1: Stingg (big blind) folded before Flop
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 folded before Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 7: WrongButton (button) collected ($2.75)
+Seat 9: FeersPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #228692623587:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:06:18 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: Stingg ($50 in chips) 
+Seat 2: WilWinOnce.? ($32.30 in chips) 
+Seat 4: Haahaa13 ($53.06 in chips) 
+Seat 5: Pat Foxe ($17.74 in chips) 
+Seat 7: WrongButton ($67.16 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+Stingg: posts small blind $0.25
+WilWinOnce.?: posts big blind $0.50
+Dragonclawss: sits out 
+*** HOLE CARDS ***
+Haahaa13: calls $0.50
+Pat Foxe: folds 
+WrongButton: folds 
+FeersPoker: folds 
+Stingg: calls $0.25
+WilWinOnce.?: checks 
+*** FLOP *** [3c 3d 4c]
+Stingg: checks 
+WilWinOnce.?: checks 
+Haahaa13: checks 
+*** TURN *** [3c 3d 4c] [5d]
+Stingg: checks 
+WilWinOnce.?: checks 
+Haahaa13: checks 
+*** RIVER *** [3c 3d 4c 5d] [7c]
+Stingg: checks 
+WilWinOnce.?: bets $1.42
+Haahaa13: calls $1.42
+Stingg: folds 
+*** SHOW DOWN ***
+WilWinOnce.?: shows [Qs 6c] (a straight, Three to Seven)
+Haahaa13: shows [8h 6h] (a straight, Four to Eight)
+Haahaa13 collected $4.12 from pot
+*** SUMMARY ***
+Total pot $4.34 | Rake $0.22 
+Board [3c 3d 4c 5d 7c]
+Seat 1: Stingg (small blind) folded on the River
+Seat 2: WilWinOnce.? (big blind) showed [Qs 6c] and lost with a straight, Three to Seven
+Seat 4: Haahaa13 showed [8h 6h] and won ($4.12) with a straight, Four to Eight
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 9: FeersPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692635052:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:06:49 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: Stingg ($50 in chips) 
+Seat 2: WilWinOnce.? ($30.38 in chips) 
+Seat 4: Haahaa13 ($55.26 in chips) 
+Seat 5: Pat Foxe ($17.74 in chips) 
+Seat 7: WrongButton ($67.16 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+WilWinOnce.?: posts small blind $0.25
+Haahaa13: posts big blind $0.50
+Dragonclawss: sits out 
+*** HOLE CARDS ***
+Pat Foxe: calls $0.50
+WrongButton: folds 
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: folds 
+Haahaa13: checks 
+*** FLOP *** [9d 5d Th]
+Haahaa13: checks 
+Pat Foxe: checks 
+*** TURN *** [9d 5d Th] [Js]
+Haahaa13: checks 
+Pat Foxe: checks 
+*** RIVER *** [9d 5d Th Js] [Tc]
+Haahaa13: checks 
+Pat Foxe: bets $0.71
+Haahaa13: folds 
+Uncalled bet ($0.71) returned to Pat Foxe
+Pat Foxe collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [9d 5d Th Js Tc]
+Seat 1: Stingg (button) folded before Flop (didn't bet)
+Seat 2: WilWinOnce.? (small blind) folded before Flop
+Seat 4: Haahaa13 (big blind) folded on the River
+Seat 5: Pat Foxe collected ($1.19)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692677572:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:08:47 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: Stingg ($50 in chips) 
+Seat 4: Haahaa13 ($55.51 in chips) 
+Seat 5: Pat Foxe ($16.24 in chips) 
+Seat 7: WrongButton ($66.41 in chips) 
+Seat 8: Dragonclawss ($50 in chips) 
+Seat 9: FeersPoker ($52.45 in chips) 
+Dragonclawss: posts small blind $0.25
+FeersPoker: posts big blind $0.50
+*** HOLE CARDS ***
+Stingg: raises $0.75 to $1.25
+Haahaa13: folds 
+Pat Foxe: calls $1.25
+WrongButton: folds 
+Dragonclawss: folds 
+FeersPoker: folds 
+*** FLOP *** [Qs 8h Ks]
+Stingg: bets $2.19
+Pat Foxe: calls $2.19
+*** TURN *** [Qs 8h Ks] [3h]
+Stingg: bets $3.84
+Pat Foxe: raises $8.96 to $12.80 and is all-in
+Stingg: calls $8.96
+*** RIVER *** [Qs 8h Ks 3h] [Qd]
+*** SHOW DOWN ***
+Stingg: shows [Qh Kh] (a full house, Queens full of Kings)
+Pat Foxe: shows [Kd Ad] (two pair, Kings and Queens)
+Stingg collected $31.57 from pot
+*** SUMMARY ***
+Total pot $33.23 | Rake $1.66 
+Board [Qs 8h Ks 3h Qd]
+Seat 1: Stingg showed [Qh Kh] and won ($31.57) with a full house, Queens full of Kings
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 5: Pat Foxe showed [Kd Ad] and lost with two pair, Kings and Queens
+Seat 7: WrongButton (button) folded before Flop (didn't bet)
+Seat 8: Dragonclawss (small blind) folded before Flop
+Seat 9: FeersPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #228692697769:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:09:43 ET
+Table 'Azalea III' 9-max Seat #8 is the button
+Seat 1: Stingg ($65.33 in chips) 
+Seat 2: WilWinOnce.? ($30.13 in chips) 
+Seat 4: Haahaa13 ($55.51 in chips) 
+Seat 6: jheymz ($61.56 in chips) 
+Seat 7: WrongButton ($66.41 in chips) 
+Seat 8: Dragonclawss ($50 in chips) 
+Seat 9: FeersPoker ($51.95 in chips) 
+FeersPoker: posts small blind $0.25
+Stingg: posts big blind $0.50
+jheymz: posts small & big blinds $0.75
+*** HOLE CARDS ***
+WilWinOnce.?: folds 
+Haahaa13: folds 
+jheymz: raises $1 to $1.50
+WrongButton: folds 
+Dragonclawss: folds 
+FeersPoker: folds 
+Stingg: folds 
+Uncalled bet ($1) returned to jheymz
+jheymz collected $1.50 from pot
+jheymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: Stingg (big blind) folded before Flop
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 4: Haahaa13 folded before Flop (didn't bet)
+Seat 6: jheymz collected ($1.50)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: Dragonclawss (button) folded before Flop (didn't bet)
+Seat 9: FeersPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #228692703909:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:10:00 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: Stingg ($64.83 in chips) 
+Seat 2: WilWinOnce.? ($30.13 in chips) 
+Seat 4: Haahaa13 ($55.51 in chips) 
+Seat 6: jheymz ($62.31 in chips) 
+Seat 7: WrongButton ($66.41 in chips) 
+Seat 8: Dragonclawss ($50 in chips) 
+Seat 9: FeersPoker ($51.70 in chips) 
+Stingg: posts small blind $0.25
+WilWinOnce.?: posts big blind $0.50
+*** HOLE CARDS ***
+Haahaa13: raises $0.50 to $1
+jheymz has timed out
+jheymz: folds 
+WrongButton: raises $2.75 to $3.75
+Dragonclawss: folds 
+FeersPoker: folds 
+Stingg: folds 
+WilWinOnce.?: folds 
+Haahaa13: folds 
+Uncalled bet ($2.75) returned to WrongButton
+WrongButton collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0 
+Seat 1: Stingg (small blind) folded before Flop
+Seat 2: WilWinOnce.? (big blind) folded before Flop
+Seat 4: Haahaa13 folded before Flop
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton collected ($2.75)
+Seat 8: Dragonclawss folded before Flop (didn't bet)
+Seat 9: FeersPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692842639:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:16:32 ET
+Table 'Azalea III' 9-max Seat #8 is the button
+Seat 1: Stingg ($61.04 in chips) 
+Seat 2: WilWinOnce.? ($40.72 in chips) 
+Seat 5: Pat Foxe ($17.84 in chips) 
+Seat 6: jheymz ($60.31 in chips) 
+Seat 7: WrongButton ($64.66 in chips) 
+Seat 8: wildermorph ($49.25 in chips) 
+Seat 9: FeersPoker ($50.25 in chips) 
+FeersPoker: posts small blind $0.25
+Stingg: posts big blind $0.50
+ssorinacho92: sits out 
+*** HOLE CARDS ***
+SwimmingPooI joins the table at seat #4 
+WilWinOnce.?: folds 
+Pat Foxe: folds 
+SwimmingPooI leaves the table
+jheymz: raises $1 to $1.50
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: calls $1.25
+Stingg: folds 
+*** FLOP *** [Kc 8s Ah]
+FeersPoker: checks 
+jheymz: checks 
+*** TURN *** [Kc 8s Ah] [3c]
+chekita1965 joins the table at seat #4 
+FeersPoker: bets $1.66
+jheymz: calls $1.66
+*** RIVER *** [Kc 8s Ah 3c] [4c]
+FeersPoker: bets $3.50
+jheymz: raises $6.74 to $10.24
+FeersPoker: folds 
+Uncalled bet ($6.74) returned to jheymz
+jheymz collected $13.13 from pot
+jheymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.82 | Rake $0.69 
+Board [Kc 8s Ah 3c 4c]
+Seat 1: Stingg (big blind) folded before Flop
+Seat 2: WilWinOnce.? folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz collected ($13.13)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph (button) folded before Flop (didn't bet)
+Seat 9: FeersPoker (small blind) folded on the River
+
+
+
+PokerStars Hand #228693021232:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:24:54 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 1: Stingg ($59.54 in chips) 
+Seat 2: joromega169 ($19.25 in chips) 
+Seat 3: ssorinacho92 ($52.81 in chips) 
+Seat 5: Pat Foxe ($18.59 in chips) 
+Seat 6: jheymz ($61.56 in chips) 
+Seat 7: WrongButton ($63.91 in chips) 
+Seat 8: wildermorph ($50.75 in chips) 
+Seat 9: FeersPoker ($50.75 in chips) 
+ssorinacho92: posts small blind $0.25
+Pat Foxe: posts big blind $0.50
+*** HOLE CARDS ***
+jheymz: folds 
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: folds 
+Stingg: folds 
+joromega169: raises $1.75 to $2.25
+ssorinacho92: calls $2
+Pat Foxe: folds 
+*** FLOP *** [9d Kd 2d]
+ssorinacho92: checks 
+joromega169: bets $17 and is all-in
+ssorinacho92: calls $17
+*** TURN *** [9d Kd 2d] [6s]
+*** RIVER *** [9d Kd 2d 6s] [6d]
+*** SHOW DOWN ***
+ssorinacho92: shows [Ks Jh] (two pair, Kings and Sixes)
+joromega169: shows [Qc Qs] (two pair, Queens and Sixes)
+ssorinacho92 collected $37.05 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.95 
+Board [9d Kd 2d 6s 6d]
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: joromega169 (button) showed [Qc Qs] and lost with two pair, Queens and Sixes
+Seat 3: ssorinacho92 (small blind) showed [Ks Jh] and won ($37.05) with two pair, Kings and Sixes
+Seat 5: Pat Foxe (big blind) folded before Flop
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693034762:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:25:34 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 1: Stingg ($59.54 in chips) 
+Seat 3: ssorinacho92 ($70.61 in chips) 
+Seat 5: Pat Foxe ($18.09 in chips) 
+Seat 6: jheymz ($61.56 in chips) 
+Seat 7: WrongButton ($63.91 in chips) 
+Seat 8: wildermorph ($50.75 in chips) 
+Seat 9: FeersPoker ($50.75 in chips) 
+Pat Foxe: posts small blind $0.25
+jheymz: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+wildermorph: folds 
+joromega169 leaves the table
+FeersPoker: folds 
+Stingg: raises $0.75 to $1.25
+ssorinacho92: folds 
+Pat Foxe: folds 
+jheymz: calls $0.75
+*** FLOP *** [2h 7h 5c]
+jheymz: checks 
+Stingg: checks 
+*** TURN *** [2h 7h 5c] [8s]
+jheymz: checks 
+Stingg: checks 
+*** RIVER *** [2h 7h 5c 8s] [Kh]
+jheymz: checks 
+Stingg: bets $1.38
+jheymz: folds 
+Uncalled bet ($1.38) returned to Stingg
+Stingg collected $2.61 from pot
+Stingg: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [2h 7h 5c 8s Kh]
+Seat 1: Stingg collected ($2.61)
+Seat 3: ssorinacho92 (button) folded before Flop (didn't bet)
+Seat 5: Pat Foxe (small blind) folded before Flop
+Seat 6: jheymz (big blind) folded on the River
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693059876:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:26:47 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: Stingg ($60.90 in chips) 
+Seat 3: ssorinacho92 ($70.61 in chips) 
+Seat 5: Pat Foxe ($17.84 in chips) 
+Seat 6: jheymz ($60.31 in chips) 
+Seat 7: WrongButton ($63.91 in chips) 
+Seat 8: wildermorph ($50.75 in chips) 
+Seat 9: FeersPoker ($50.75 in chips) 
+jheymz: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+wildermorph: folds 
+FeersPoker: raises $0.75 to $1.25
+Stingg: raises $3.25 to $4.50
+ssorinacho92: folds 
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+FeersPoker: folds 
+Uncalled bet ($3.25) returned to Stingg
+Stingg collected $3.25 from pot
+Stingg: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 1: Stingg collected ($3.25)
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 5: Pat Foxe (button) folded before Flop (didn't bet)
+Seat 6: jheymz (small blind) folded before Flop
+Seat 7: WrongButton (big blind) folded before Flop
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop
+
+
+
+PokerStars Hand #228693074693:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:27:05 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 1: Stingg ($62.90 in chips) 
+Seat 3: ssorinacho92 ($70.61 in chips) 
+Seat 5: Pat Foxe ($17.84 in chips) 
+Seat 6: jheymz ($60.06 in chips) 
+Seat 7: WrongButton ($63.41 in chips) 
+Seat 8: wildermorph ($50.75 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+WrongButton: posts small blind $0.25
+wildermorph: posts big blind $0.50
+*** HOLE CARDS ***
+FeersPoker: raises $0.75 to $1.25
+Stingg: folds 
+ssorinacho92: folds 
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+wildermorph: folds 
+Uncalled bet ($0.75) returned to FeersPoker
+FeersPoker collected $1.25 from pot
+FeersPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz (button) folded before Flop (didn't bet)
+Seat 7: WrongButton (small blind) folded before Flop
+Seat 8: wildermorph (big blind) folded before Flop
+Seat 9: FeersPoker collected ($1.25)
+
+
+
+PokerStars Hand #228693206988:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:33:33 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 1: Stingg ($61.90 in chips) 
+Seat 2: fragonik ($50 in chips) 
+Seat 3: ssorinacho92 ($75.92 in chips) 
+Seat 5: Pat Foxe ($7.39 in chips) 
+Seat 6: jheymz ($62.81 in chips) 
+Seat 7: WrongButton ($66.75 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($51.25 in chips) 
+jheymz: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+wildermorph: folds 
+FeersPoker: raises $0.75 to $1.25
+chekita1965 was removed from the table for failing to post
+chekita1965 leaves the table
+Stingg: folds 
+fragonik: folds 
+ssorinacho92: calls $1.25
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+*** FLOP *** [Ks 7h 2s]
+FeersPoker: checks 
+ssorinacho92: checks 
+*** TURN *** [Ks 7h 2s] [Th]
+FeersPoker: checks 
+ssorinacho92: checks 
+*** RIVER *** [Ks 7h 2s Th] [Jh]
+FeersPoker: checks 
+ssorinacho92: bets $1.85
+FeersPoker: folds 
+Uncalled bet ($1.85) returned to ssorinacho92
+ssorinacho92 collected $3.09 from pot
+ssorinacho92: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [Ks 7h 2s Th Jh]
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: fragonik folded before Flop (didn't bet)
+Seat 3: ssorinacho92 collected ($3.09)
+Seat 5: Pat Foxe (button) folded before Flop (didn't bet)
+Seat 6: jheymz (small blind) folded before Flop
+Seat 7: WrongButton (big blind) folded before Flop
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker folded on the River
+
+
+
+PokerStars Hand #228693234509:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:34:55 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 1: Stingg ($61.90 in chips) 
+Seat 2: fragonik ($50 in chips) 
+Seat 3: ssorinacho92 ($77.76 in chips) 
+Seat 5: Pat Foxe ($7.39 in chips) 
+Seat 6: jheymz ($62.56 in chips) 
+Seat 7: WrongButton ($66.25 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+WrongButton: posts small blind $0.25
+wildermorph: posts big blind $0.50
+*** HOLE CARDS ***
+FeersPoker: folds 
+Stingg: folds 
+fragonik: folds 
+ssorinacho92: folds 
+Pat Foxe: folds 
+jheymz: raises $1 to $1.50
+WrongButton: folds 
+wildermorph: folds 
+Uncalled bet ($1) returned to jheymz
+jheymz collected $1.25 from pot
+jheymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: fragonik folded before Flop (didn't bet)
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz (button) collected ($1.25)
+Seat 7: WrongButton (small blind) folded before Flop
+Seat 8: wildermorph (big blind) folded before Flop
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693241755:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:35:17 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: Stingg ($61.90 in chips) 
+Seat 2: fragonik ($50 in chips) 
+Seat 3: ssorinacho92 ($77.76 in chips) 
+Seat 5: Pat Foxe ($7.39 in chips) 
+Seat 6: jheymz ($63.31 in chips) 
+Seat 7: WrongButton ($66 in chips) 
+Seat 8: wildermorph ($49.50 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+wildermorph: posts small blind $0.25
+FeersPoker: posts big blind $0.50
+*** HOLE CARDS ***
+Stingg: raises $0.75 to $1.25
+fragonik: folds 
+ssorinacho92: folds 
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: folds 
+Uncalled bet ($0.75) returned to Stingg
+Stingg collected $1.25 from pot
+Stingg: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg collected ($1.25)
+Seat 2: fragonik folded before Flop (didn't bet)
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton (button) folded before Flop (didn't bet)
+Seat 8: wildermorph (small blind) folded before Flop
+Seat 9: FeersPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #228693249053:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:35:38 ET
+Table 'Azalea III' 9-max Seat #8 is the button
+Seat 2: fragonik ($50 in chips) 
+Seat 3: ssorinacho92 ($77.76 in chips) 
+Seat 5: Pat Foxe ($7.39 in chips) 
+Seat 6: jheymz ($63.31 in chips) 
+Seat 7: WrongButton ($66 in chips) 
+Seat 8: wildermorph ($49.25 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+FeersPoker: posts small blind $0.25
+Stingg: is sitting out 
+fragonik: posts big blind $0.50
+*** HOLE CARDS ***
+Stingg leaves the table
+ssorinacho92: folds 
+Pat Foxe: folds 
+jheymz: raises $1 to $1.50
+WrongButton: folds 
+wildermorph: folds 
+wildermorph leaves the table
+FeersPoker: folds 
+fragonik: calls $1
+*** FLOP *** [Kh Ks Ac]
+fragonik: checks 
+jheymz: bets $2
+fragonik: calls $2
+*** TURN *** [Kh Ks Ac] [3c]
+fragonik: checks 
+jheymz: bets $0.50
+fragonik: calls $0.50
+*** RIVER *** [Kh Ks Ac 3c] [Ad]
+fragonik: checks 
+jheymz: bets $0.50
+fragonik: calls $0.50
+*** SHOW DOWN ***
+jheymz: shows [4c 4s] (two pair, Aces and Kings)
+fragonik: shows [Qc Js] (two pair, Aces and Kings - Queen kicker)
+fragonik collected $8.79 from pot
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.46 
+Board [Kh Ks Ac 3c Ad]
+Seat 2: fragonik (big blind) showed [Qc Js] and won ($8.79) with two pair, Aces and Kings
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz showed [4c 4s] and lost with two pair, Aces and Kings
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph (button) folded before Flop (didn't bet)
+Seat 9: FeersPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693271921:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:36:45 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 2: fragonik ($54.29 in chips) 
+Seat 3: ssorinacho92 ($77.76 in chips) 
+Seat 5: Pat Foxe ($7.39 in chips) 
+Seat 6: jheymz ($58.81 in chips) 
+Seat 7: WrongButton ($66 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+fragonik: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+*** HOLE CARDS ***
+Pat Foxe: calls $0.50
+jheymz: folds 
+WrongButton: folds 
+FeersPoker: folds 
+fragonik: folds 
+ssorinacho92: checks 
+*** FLOP *** [8c 4s 5h]
+ssorinacho92: checks 
+Pat Foxe: checks 
+*** TURN *** [8c 4s 5h] [Th]
+ssorinacho92: checks 
+Pat Foxe: checks 
+*** RIVER *** [8c 4s 5h Th] [Jh]
+ssorinacho92: checks 
+Pat Foxe: checks 
+*** SHOW DOWN ***
+ssorinacho92: shows [4h 2c] (a pair of Fours)
+Pat Foxe: mucks hand 
+ssorinacho92 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [8c 4s 5h Th Jh]
+Seat 2: fragonik (small blind) folded before Flop
+Seat 3: ssorinacho92 (big blind) showed [4h 2c] and won ($1.19) with a pair of Fours
+Seat 5: Pat Foxe mucked
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 9: FeersPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693281464:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:37:14 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 2: fragonik ($54.04 in chips) 
+Seat 3: ssorinacho92 ($78.45 in chips) 
+Seat 5: Pat Foxe ($6.89 in chips) 
+Seat 6: jheymz ($58.81 in chips) 
+Seat 7: WrongButton ($66 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+ssorinacho92: posts small blind $0.25
+Pat Foxe: posts big blind $0.50
+*** HOLE CARDS ***
+jheymz: raises $1 to $1.50
+WrongButton: folds 
+FeersPoker: folds 
+fragonik: raises $3 to $4.50
+ssorinacho92: folds 
+Pat Foxe: folds 
+jheymz: calls $3
+*** FLOP *** [Js 7h 8c]
+jheymz: checks 
+fragonik: bets $4.25
+jheymz: calls $4.25
+*** TURN *** [Js 7h 8c] [5s]
+jheymz: checks 
+fragonik: bets $12.75
+jheymz: calls $12.75
+*** RIVER *** [Js 7h 8c 5s] [3s]
+jheymz: checks 
+fragonik: bets $32.54 and is all-in
+jheymz: calls $32.54
+*** SHOW DOWN ***
+fragonik: shows [Kh Ks] (a pair of Kings)
+jheymz: shows [Tc Th] (a pair of Tens)
+fragonik collected $106.83 from pot
+*** SUMMARY ***
+Total pot $108.83 | Rake $2 
+Board [Js 7h 8c 5s 3s]
+Seat 2: fragonik (button) showed [Kh Ks] and won ($106.83) with a pair of Kings
+Seat 3: ssorinacho92 (small blind) folded before Flop
+Seat 5: Pat Foxe (big blind) folded before Flop
+Seat 6: jheymz showed [Tc Th] and lost with a pair of Tens
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693366503:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:41:13 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 2: fragonik ($106.08 in chips) 
+Seat 3: ssorinacho92 ($71.56 in chips) 
+Seat 5: Pat Foxe ($12.38 in chips) 
+Seat 6: jheymz ($48.25 in chips) 
+Seat 7: WrongButton ($63.48 in chips) 
+ssorinacho92: posts small blind $0.25
+Pat Foxe: posts big blind $0.50
+*** HOLE CARDS ***
+jheymz: folds 
+WrongButton: folds 
+fragonik: raises $0.75 to $1.25
+ssorinacho92: folds 
+Pat Foxe: calls $0.75
+*** FLOP *** [2d 8c 3d]
+Pat Foxe: checks 
+fragonik: bets $0.86
+Pat Foxe: calls $0.86
+*** TURN *** [2d 8c 3d] [Jd]
+Pat Foxe: checks 
+fragonik: bets $3.19
+Pat Foxe: calls $3.19
+*** RIVER *** [2d 8c 3d Jd] [2s]
+Pat Foxe: checks 
+fragonik: checks 
+*** SHOW DOWN ***
+Pat Foxe: shows [9d Jc] (two pair, Jacks and Deuces)
+fragonik: mucks hand 
+Pat Foxe collected $10.31 from pot
+*** SUMMARY ***
+Total pot $10.85 | Rake $0.54 
+Board [2d 8c 3d Jd 2s]
+Seat 2: fragonik (button) mucked
+Seat 3: ssorinacho92 (small blind) folded before Flop
+Seat 5: Pat Foxe (big blind) showed [9d Jc] and won ($10.31) with two pair, Jacks and Deuces
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693429133:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:43:55 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 2: fragonik ($96.32 in chips) 
+Seat 3: ssorinacho92 ($71.31 in chips) 
+Seat 5: Pat Foxe ($22.63 in chips) 
+Seat 6: jheymz ($47.50 in chips) 
+Seat 7: WrongButton ($62.98 in chips) 
+WrongButton: posts small blind $0.25
+fragonik: posts big blind $0.50
+*** HOLE CARDS ***
+ssorinacho92: folds 
+Pat Foxe: calls $0.50
+jheymz: folds 
+dontbetme27 joins the table at seat #4 
+WrongButton: folds 
+fragonik: raises $1.75 to $2.25
+Pat Foxe: calls $1.75
+*** FLOP *** [7s Kc 6d]
+fragonik: bets $2.21
+Pat Foxe: folds 
+Uncalled bet ($2.21) returned to fragonik
+Pat Foxe leaves the table
+fragonik collected $4.51 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [7s Kc 6d]
+Seat 2: fragonik (big blind) collected ($4.51)
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded on the Flop
+Seat 6: jheymz (button) folded before Flop (didn't bet)
+Seat 7: WrongButton (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693445910:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:44:47 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 2: fragonik ($98.58 in chips) 
+Seat 3: ssorinacho92 ($71.31 in chips) 
+Seat 6: jheymz ($47.50 in chips) 
+Seat 7: WrongButton ($62.73 in chips) 
+fragonik: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+dontbetme27: sits out 
+*** HOLE CARDS ***
+jheymz: folds 
+WrongButton: raises $0.75 to $1.25
+fragonik: folds 
+ssorinacho92: folds 
+Uncalled bet ($0.75) returned to WrongButton
+WrongButton collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: fragonik (small blind) folded before Flop
+Seat 3: ssorinacho92 (big blind) folded before Flop
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton (button) collected ($1.25)
+
+
+
+PokerStars Hand #228693451068:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:45:04 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 2: fragonik ($98.33 in chips) 
+Seat 3: ssorinacho92 ($70.81 in chips) 
+Seat 4: dontbetme27 ($50 in chips) 
+Seat 6: jheymz ($47.50 in chips) 
+Seat 7: WrongButton ($63.48 in chips) 
+ssorinacho92: posts small blind $0.25
+dontbetme27: posts big blind $0.50
+*** HOLE CARDS ***
+jheymz: folds 
+WrongButton: raises $0.75 to $1.25
+fragonik: folds 
+ssorinacho92: folds 
+dontbetme27: folds 
+Uncalled bet ($0.75) returned to WrongButton
+WrongButton collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: fragonik (button) folded before Flop (didn't bet)
+Seat 3: ssorinacho92 (small blind) folded before Flop
+Seat 4: dontbetme27 (big blind) folded before Flop
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton collected ($1.25)
+
+
+
+PokerStars Hand #228693455347:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:45:17 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 2: fragonik ($98.33 in chips) 
+Seat 3: ssorinacho92 ($70.56 in chips) 
+Seat 4: dontbetme27 ($50 in chips) 
+Seat 6: jheymz ($47.50 in chips) 
+Seat 7: WrongButton ($64.23 in chips) 
+dontbetme27: posts small blind $0.25
+jheymz: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+fragonik: folds 
+fragonik leaves the table
+ssorinacho92: folds 
+dontbetme27: raises $1 to $1.50
+jheymz: folds 
+Uncalled bet ($1) returned to dontbetme27
+dontbetme27 collected $1 from pot
+dontbetme27: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: fragonik folded before Flop (didn't bet)
+Seat 3: ssorinacho92 (button) folded before Flop (didn't bet)
+Seat 4: dontbetme27 (small blind) collected ($1)
+Seat 6: jheymz (big blind) folded before Flop
+Seat 7: WrongButton folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693460580:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:45:33 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 3: ssorinacho92 ($70.56 in chips) 
+Seat 4: dontbetme27 ($50.50 in chips) 
+Seat 6: jheymz ($47 in chips) 
+Seat 7: WrongButton ($64.23 in chips) 
+jheymz: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+ssorinacho92: raises $0.75 to $1.25
+dontbetme27: calls $1.25
+jheymz: folds 
+WrongButton: folds 
+*** FLOP *** [4d Kd Jd]
+ssorinacho92: checks 
+dontbetme27: bets $1.55
+ssorinacho92: raises $4.95 to $6.50
+dontbetme27: folds 
+Uncalled bet ($4.95) returned to ssorinacho92
+ssorinacho92 collected $6.03 from pot
+ssorinacho92: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.32 
+Board [4d Kd Jd]
+Seat 3: ssorinacho92 collected ($6.03)
+Seat 4: dontbetme27 (button) folded on the Flop
+Seat 6: jheymz (small blind) folded before Flop
+Seat 7: WrongButton (big blind) folded before Flop
+
+
+
+PokerStars Hand #228693470817:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:46:05 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 3: ssorinacho92 ($73.79 in chips) 
+Seat 4: dontbetme27 ($50 in chips) 
+Seat 6: jheymz ($46.75 in chips) 
+Seat 7: WrongButton ($63.73 in chips) 
+WrongButton: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+*** HOLE CARDS ***
+dontbetme27: raises $0.75 to $1.25
+jheymz: calls $1.25
+WrongButton: folds 
+ssorinacho92: calls $0.75
+*** FLOP *** [3c Ac 7c]
+ssorinacho92: checks 
+dontbetme27: checks 
+jheymz: checks 
+*** TURN *** [3c Ac 7c] [2s]
+ssorinacho92: checks 
+dontbetme27: checks 
+jheymz: checks 
+*** RIVER *** [3c Ac 7c 2s] [Jd]
+ssorinacho92: checks 
+dontbetme27: checks 
+jheymz: checks 
+*** SHOW DOWN ***
+ssorinacho92: shows [8d 9d] (high card Ace)
+dontbetme27: shows [Kd 7d] (a pair of Sevens)
+jheymz: mucks hand 
+dontbetme27 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [3c Ac 7c 2s Jd]
+Seat 3: ssorinacho92 (big blind) showed [8d 9d] and lost with high card Ace
+Seat 4: dontbetme27 showed [Kd 7d] and won ($3.80) with a pair of Sevens
+Seat 6: jheymz (button) mucked
+Seat 7: WrongButton (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693479288:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:46:31 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 3: ssorinacho92 ($72.54 in chips) 
+Seat 4: dontbetme27 ($52.55 in chips) 
+Seat 6: jheymz ($45.50 in chips) 
+Seat 7: WrongButton ($63.48 in chips) 
+ssorinacho92: posts small blind $0.25
+dontbetme27: posts big blind $0.50
+*** HOLE CARDS ***
+jheymz: folds 
+WrongButton: raises $0.75 to $1.25
+ssorinacho92: folds 
+dontbetme27: calls $0.75
+*** FLOP *** [9s Ks Kd]
+dontbetme27: checks 
+WrongButton: checks 
+*** TURN *** [9s Ks Kd] [3h]
+dontbetme27: checks 
+WrongButton: checks 
+*** RIVER *** [9s Ks Kd 3h] [4d]
+dontbetme27: checks 
+WrongButton: checks 
+*** SHOW DOWN ***
+dontbetme27: shows [Qh Tc] (a pair of Kings)
+WrongButton: shows [6s Ah] (a pair of Kings - Ace kicker)
+WrongButton collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [9s Ks Kd 3h 4d]
+Seat 3: ssorinacho92 (small blind) folded before Flop
+Seat 4: dontbetme27 (big blind) showed [Qh Tc] and lost with a pair of Kings
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton (button) showed [6s Ah] and won ($2.61) with a pair of Kings
+
+
+
+PokerStars Hand #228693489204:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:47:02 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 3: ssorinacho92 ($72.29 in chips) 
+Seat 4: dontbetme27 ($51.30 in chips) 
+Seat 6: jheymz ($45.50 in chips) 
+Seat 7: WrongButton ($64.84 in chips) 
+dontbetme27: posts small blind $0.25
+jheymz: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+ssorinacho92: folds 
+dontbetme27: folds 
+Uncalled bet ($0.25) returned to jheymz
+jheymz collected $0.50 from pot
+jheymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: ssorinacho92 (button) folded before Flop (didn't bet)
+Seat 4: dontbetme27 (small blind) folded before Flop
+Seat 6: jheymz (big blind) collected ($0.50)
+Seat 7: WrongButton folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693490749:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:47:07 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 3: ssorinacho92 ($72.29 in chips) 
+Seat 4: dontbetme27 ($51.05 in chips) 
+Seat 6: jheymz ($45.75 in chips) 
+Seat 7: WrongButton ($64.84 in chips) 
+jheymz: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+ssorinacho92: folds 
+dontbetme27: raises $0.75 to $1.25
+jheymz: folds 
+WrongButton: folds 
+Uncalled bet ($0.75) returned to dontbetme27
+dontbetme27 collected $1.25 from pot
+dontbetme27: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 4: dontbetme27 (button) collected ($1.25)
+Seat 6: jheymz (small blind) folded before Flop
+Seat 7: WrongButton (big blind) folded before Flop
+
+
+
+PokerStars Hand #228693493611:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:47:16 ET
+Table 'Azalea III' 9-max Seat #6 is the button
+Seat 4: dontbetme27 ($51.80 in chips) 
+Seat 6: jheymz ($45.50 in chips) 
+Seat 7: WrongButton ($64.34 in chips) 
+WrongButton: posts small blind $0.25
+ssorinacho92: is sitting out 
+dontbetme27: posts big blind $0.50
+*** HOLE CARDS ***
+jheymz: raises $1 to $1.50
+WrongButton: folds 
+dontbetme27: calls $1
+*** FLOP *** [Td 5d 4s]
+ssorinacho92 leaves the table
+dontbetme27: checks 
+jheymz: bets $2
+dontbetme27: folds 
+Uncalled bet ($2) returned to jheymz
+jheymz collected $3.09 from pot
+jheymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [Td 5d 4s]
+Seat 4: dontbetme27 (big blind) folded on the Flop
+Seat 6: jheymz (button) collected ($3.09)
+Seat 7: WrongButton (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693498620:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:47:32 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 4: dontbetme27 ($50.30 in chips) 
+Seat 6: jheymz ($47.09 in chips) 
+Seat 7: WrongButton ($64.09 in chips) 
+dontbetme27: posts small blind $0.25
+jheymz: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: raises $0.75 to $1.25
+dontbetme27: folds 
+jheymz: folds 
+Uncalled bet ($0.75) returned to WrongButton
+jheymz leaves the table
+WrongButton collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 4: dontbetme27 (small blind) folded before Flop
+Seat 6: jheymz (big blind) folded before Flop
+Seat 7: WrongButton (button) collected ($1.25)
+
+
+
+PokerStars Hand #228693501454:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:47:41 ET
+Table 'Azalea III' 9-max Seat #4 is the button
+Seat 4: dontbetme27 ($50.05 in chips) 
+Seat 7: WrongButton ($64.84 in chips) 
+dontbetme27: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+dontbetme27: folds 
+Uncalled bet ($0.25) returned to WrongButton
+WrongButton collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 4: dontbetme27 (button) (small blind) folded before Flop
+Seat 7: WrongButton (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228693078853:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:27:17 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 1: Stingg ($62.90 in chips) 
+Seat 3: ssorinacho92 ($70.61 in chips) 
+Seat 5: Pat Foxe ($17.84 in chips) 
+Seat 6: jheymz ($60.06 in chips) 
+Seat 7: WrongButton ($63.16 in chips) 
+Seat 8: wildermorph ($50.25 in chips) 
+Seat 9: FeersPoker ($50.75 in chips) 
+wildermorph: posts small blind $0.25
+FeersPoker: posts big blind $0.50
+*** HOLE CARDS ***
+Stingg: folds 
+ssorinacho92: folds 
+Pat Foxe: raises $0.75 to $1.25
+jheymz: folds 
+WrongButton: raises $2.50 to $3.75
+wildermorph: folds 
+FeersPoker: folds 
+Pat Foxe: calls $2.50
+*** FLOP *** [6c 4d 4h]
+Pat Foxe: checks 
+WrongButton: checks 
+*** TURN *** [6c 4d 4h] [Js]
+Pat Foxe: checks 
+fragonik joins the table at seat #2 
+WrongButton: checks 
+*** RIVER *** [6c 4d 4h Js] [2c]
+Pat Foxe: checks 
+WrongButton: checks 
+*** SHOW DOWN ***
+Pat Foxe: shows [Ac 3c] (a pair of Fours)
+WrongButton: shows [As Ks] (a pair of Fours - Ace+King kicker)
+WrongButton collected $7.84 from pot
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.41 
+Board [6c 4d 4h Js 2c]
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 5: Pat Foxe showed [Ac 3c] and lost with a pair of Fours
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton (button) showed [As Ks] and won ($7.84) with a pair of Fours
+Seat 8: wildermorph (small blind) folded before Flop
+Seat 9: FeersPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #228693104593:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:28:32 ET
+Table 'Azalea III' 9-max Seat #8 is the button
+Seat 1: Stingg ($62.90 in chips) 
+Seat 3: ssorinacho92 ($70.61 in chips) 
+Seat 5: Pat Foxe ($14.09 in chips) 
+Seat 6: jheymz ($60.06 in chips) 
+Seat 7: WrongButton ($67.25 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($50.25 in chips) 
+FeersPoker: posts small blind $0.25
+Stingg: posts big blind $0.50
+fragonik: sits out 
+*** HOLE CARDS ***
+ssorinacho92: folds 
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: raises $0.75 to $1.25
+wildermorph: folds 
+FeersPoker: raises $3.50 to $4.75
+Stingg: folds 
+WrongButton: folds 
+Uncalled bet ($3.50) returned to FeersPoker
+FeersPoker collected $3 from pot
+FeersPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: Stingg (big blind) folded before Flop
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop
+Seat 8: wildermorph (button) folded before Flop (didn't bet)
+Seat 9: FeersPoker (small blind) collected ($3)
+
+
+
+PokerStars Hand #228693121279:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:29:21 ET
+Table 'Azalea III' 9-max Seat #9 is the button
+Seat 1: Stingg ($62.40 in chips) 
+Seat 2: fragonik ($50 in chips) 
+Seat 3: ssorinacho92 ($70.61 in chips) 
+Seat 5: Pat Foxe ($14.09 in chips) 
+Seat 6: jheymz ($60.06 in chips) 
+Seat 7: WrongButton ($66 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($52 in chips) 
+Stingg: posts small blind $0.25
+fragonik: posts big blind $0.50
+*** HOLE CARDS ***
+ssorinacho92: folds 
+Pat Foxe: folds 
+jheymz: calls $0.50
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: calls $0.50
+Stingg: calls $0.25
+fragonik: checks 
+*** FLOP *** [3c 8s As]
+Stingg: checks 
+fragonik: checks 
+jheymz: checks 
+FeersPoker: checks 
+*** TURN *** [3c 8s As] [4s]
+Stingg: checks 
+fragonik: checks 
+jheymz: bets $1
+FeersPoker: calls $1
+Stingg: folds 
+fragonik: calls $1
+*** RIVER *** [3c 8s As 4s] [7h]
+fragonik: checks 
+jheymz: bets $3
+FeersPoker: folds 
+fragonik: folds 
+Uncalled bet ($3) returned to jheymz
+jheymz collected $4.75 from pot
+jheymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [3c 8s As 4s 7h]
+Seat 1: Stingg (small blind) folded on the Turn
+Seat 2: fragonik (big blind) folded on the River
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz collected ($4.75)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker (button) folded on the River
+
+
+
+PokerStars Hand #228693163201:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:31:24 ET
+Table 'Azalea III' 9-max Seat #1 is the button
+Seat 1: Stingg ($61.90 in chips) 
+Seat 2: fragonik ($50 in chips) 
+Seat 3: ssorinacho92 ($70.61 in chips) 
+Seat 5: Pat Foxe ($14.09 in chips) 
+Seat 6: jheymz ($63.31 in chips) 
+Seat 7: WrongButton ($66 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($50.50 in chips) 
+fragonik: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+*** HOLE CARDS ***
+Pat Foxe: folds 
+jheymz: folds 
+WrongButton: raises $0.75 to $1.25
+wildermorph: folds 
+FeersPoker: folds 
+Stingg: folds 
+fragonik: folds 
+ssorinacho92: folds 
+Uncalled bet ($0.75) returned to WrongButton
+WrongButton collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg (button) folded before Flop (didn't bet)
+Seat 2: fragonik (small blind) folded before Flop
+Seat 3: ssorinacho92 (big blind) folded before Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton collected ($1.25)
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693175858:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:32:01 ET
+Table 'Azalea III' 9-max Seat #2 is the button
+Seat 1: Stingg ($61.90 in chips) 
+Seat 2: fragonik ($50 in chips) 
+Seat 3: ssorinacho92 ($70.11 in chips) 
+Seat 5: Pat Foxe ($14.09 in chips) 
+Seat 6: jheymz ($63.31 in chips) 
+Seat 7: WrongButton ($66.75 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($50.50 in chips) 
+ssorinacho92: posts small blind $0.25
+Pat Foxe: posts big blind $0.50
+*** HOLE CARDS ***
+jheymz: folds 
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: raises $0.75 to $1.25
+Stingg: folds 
+fragonik: folds 
+ssorinacho92: folds 
+Pat Foxe: folds 
+Uncalled bet ($0.75) returned to FeersPoker
+FeersPoker collected $1.25 from pot
+FeersPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: fragonik (button) folded before Flop (didn't bet)
+Seat 3: ssorinacho92 (small blind) folded before Flop
+Seat 5: Pat Foxe (big blind) folded before Flop
+Seat 6: jheymz folded before Flop (didn't bet)
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker collected ($1.25)
+
+
+
+PokerStars Hand #228693183205:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:32:23 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 1: Stingg ($61.90 in chips) 
+Seat 2: fragonik ($50 in chips) 
+Seat 3: ssorinacho92 ($69.86 in chips) 
+Seat 5: Pat Foxe ($13.59 in chips) 
+Seat 6: jheymz ($63.31 in chips) 
+Seat 7: WrongButton ($66.75 in chips) 
+Seat 8: wildermorph ($50 in chips) 
+Seat 9: FeersPoker ($51.25 in chips) 
+Pat Foxe: posts small blind $0.25
+jheymz: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+wildermorph: folds 
+FeersPoker: folds 
+Stingg: folds 
+fragonik: folds 
+ssorinacho92: raises $0.75 to $1.25
+Pat Foxe: calls $1
+jheymz: folds 
+*** FLOP *** [6h Qd 2h]
+Pat Foxe: checks 
+ssorinacho92: bets $1.71
+Pat Foxe: calls $1.71
+*** TURN *** [6h Qd 2h] [Qc]
+Pat Foxe: checks 
+ssorinacho92: checks 
+*** RIVER *** [6h Qd 2h Qc] [3d]
+Pat Foxe: bets $3.24
+ssorinacho92: calls $3.24
+*** SHOW DOWN ***
+Pat Foxe: shows [6s 5s] (two pair, Queens and Sixes)
+ssorinacho92: shows [6d 9d] (two pair, Queens and Sixes - Nine kicker)
+ssorinacho92 collected $12.26 from pot
+*** SUMMARY ***
+Total pot $12.90 | Rake $0.64 
+Board [6h Qd 2h Qc 3d]
+Seat 1: Stingg folded before Flop (didn't bet)
+Seat 2: fragonik folded before Flop (didn't bet)
+Seat 3: ssorinacho92 (button) showed [6d 9d] and won ($12.26) with two pair, Queens and Sixes
+Seat 5: Pat Foxe (small blind) showed [6s 5s] and lost with two pair, Queens and Sixes
+Seat 6: jheymz (big blind) folded before Flop
+Seat 7: WrongButton folded before Flop (didn't bet)
+Seat 8: wildermorph folded before Flop (didn't bet)
+Seat 9: FeersPoker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693319128:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:38:49 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 2: fragonik ($106.83 in chips) 
+Seat 3: ssorinacho92 ($78.20 in chips) 
+Seat 5: Pat Foxe ($6.39 in chips) 
+Seat 6: jheymz ($4.77 in chips) 
+Seat 7: WrongButton ($66 in chips) 
+Seat 9: FeersPoker ($50 in chips) 
+Pat Foxe: posts small blind $0.25
+jheymz: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: raises $0.75 to $1.25
+FeersPoker: raises $3 to $4.25
+fragonik: folds 
+ssorinacho92: folds 
+Pat Foxe: folds 
+jheymz: raises $0.52 to $4.77 and is all-in
+WrongButton: calls $3.52
+FeersPoker: calls $0.52
+*** FLOP *** [7s 5h Kc]
+WrongButton: checks 
+FeersPoker: bets $3.46
+WrongButton: folds 
+Uncalled bet ($3.46) returned to FeersPoker
+*** TURN *** [7s 5h Kc] [8c]
+*** RIVER *** [7s 5h Kc 8c] [5d]
+*** SHOW DOWN ***
+jheymz: shows [Qh Ad] (a pair of Fives)
+FeersPoker: shows [Ks Kh] (a full house, Kings full of Fives)
+FeersPoker collected $13.83 from pot
+*** SUMMARY ***
+Total pot $14.56 | Rake $0.73 
+Board [7s 5h Kc 8c 5d]
+Seat 2: fragonik folded before Flop (didn't bet)
+Seat 3: ssorinacho92 (button) folded before Flop (didn't bet)
+Seat 5: Pat Foxe (small blind) folded before Flop
+Seat 6: jheymz (big blind) showed [Qh Ad] and lost with a pair of Fives
+Seat 7: WrongButton folded on the Flop
+Seat 9: FeersPoker showed [Ks Kh] and won ($13.83) with a full house, Kings full of Fives
+
+
+
+PokerStars Hand #228693342125:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:39:58 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 2: fragonik ($106.83 in chips) 
+Seat 3: ssorinacho92 ($78.20 in chips) 
+Seat 5: Pat Foxe ($6.14 in chips) 
+Seat 7: WrongButton ($61.23 in chips) 
+WrongButton: posts small blind $0.25
+FeersPoker: is sitting out 
+fragonik: posts big blind $0.50
+*** HOLE CARDS ***
+ssorinacho92: raises $0.75 to $1.25
+FeersPoker leaves the table
+Pat Foxe: calls $1.25
+WrongButton: folds 
+fragonik: folds 
+*** FLOP *** [Td Jh Ks]
+ssorinacho92: bets $2.47
+Pat Foxe: raises $2.42 to $4.89 and is all-in
+ssorinacho92: calls $2.42
+*** TURN *** [Td Jh Ks] [Ac]
+*** RIVER *** [Td Jh Ks Ac] [3h]
+*** SHOW DOWN ***
+ssorinacho92: shows [As Kc] (two pair, Aces and Kings)
+Pat Foxe: shows [Qh Qd] (a straight, Ten to Ace)
+Pat Foxe collected $12.38 from pot
+*** SUMMARY ***
+Total pot $13.03 | Rake $0.65 
+Board [Td Jh Ks Ac 3h]
+Seat 2: fragonik (big blind) folded before Flop
+Seat 3: ssorinacho92 showed [As Kc] and lost with two pair, Aces and Kings
+Seat 5: Pat Foxe (button) showed [Qh Qd] and won ($12.38) with a straight, Ten to Ace
+Seat 7: WrongButton (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693355238:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:40:38 ET
+Table 'Azalea III' 9-max Seat #7 is the button
+Seat 2: fragonik ($106.33 in chips) 
+Seat 3: ssorinacho92 ($72.06 in chips) 
+Seat 5: Pat Foxe ($12.38 in chips) 
+Seat 6: jheymz ($50 in chips) 
+Seat 7: WrongButton ($60.98 in chips) 
+fragonik: posts small blind $0.25
+ssorinacho92: posts big blind $0.50
+jheymz: posts small blind $0.25
+*** HOLE CARDS ***
+Pat Foxe: folds 
+jheymz: raises $1 to $1.50
+WrongButton: raises $2.50 to $4
+fragonik: folds 
+ssorinacho92: folds 
+jheymz: folds 
+Uncalled bet ($2.50) returned to WrongButton
+WrongButton collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: fragonik (small blind) folded before Flop
+Seat 3: ssorinacho92 (big blind) folded before Flop
+Seat 5: Pat Foxe folded before Flop (didn't bet)
+Seat 6: jheymz folded before Flop
+Seat 7: WrongButton (button) collected ($4)
+
+
+
+PokerStars Hand #228693398346:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:42:20 ET
+Table 'Azalea III' 9-max Seat #3 is the button
+Seat 2: fragonik ($100.78 in chips) 
+Seat 3: ssorinacho92 ($71.31 in chips) 
+Seat 5: Pat Foxe ($17.39 in chips) 
+Seat 6: jheymz ($48.25 in chips) 
+Seat 7: WrongButton ($63.48 in chips) 
+Pat Foxe: posts small blind $0.25
+jheymz: posts big blind $0.50
+*** HOLE CARDS ***
+WrongButton: folds 
+fragonik: raises $0.75 to $1.25
+ssorinacho92: folds 
+Pat Foxe: calls $1
+jheymz: folds 
+*** FLOP *** [5d 4d Jd]
+Pat Foxe: checks 
+fragonik: bets $0.94
+Pat Foxe: calls $0.94
+*** TURN *** [5d 4d Jd] [9s]
+Pat Foxe: checks 
+fragonik: bets $2.27
+Pat Foxe: calls $2.27
+*** RIVER *** [5d 4d Jd 9s] [Tc]
+Pat Foxe: checks 
+fragonik: checks 
+*** SHOW DOWN ***
+Pat Foxe: shows [Kc Jc] (a pair of Jacks)
+fragonik: mucks hand 
+Pat Foxe collected $8.95 from pot
+*** SUMMARY ***
+Total pot $9.42 | Rake $0.47 
+Board [5d 4d Jd 9s Tc]
+Seat 2: fragonik mucked
+Seat 3: ssorinacho92 (button) folded before Flop (didn't bet)
+Seat 5: Pat Foxe (small blind) showed [Kc Jc] and won ($8.95) with a pair of Jacks
+Seat 6: jheymz (big blind) folded before Flop
+Seat 7: WrongButton folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693421624:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:43:32 ET
+Table 'Azalea III' 9-max Seat #5 is the button
+Seat 2: fragonik ($96.32 in chips) 
+Seat 3: ssorinacho92 ($71.31 in chips) 
+Seat 5: Pat Foxe ($21.88 in chips) 
+Seat 6: jheymz ($47.75 in chips) 
+Seat 7: WrongButton ($63.48 in chips) 
+jheymz: posts small blind $0.25
+WrongButton: posts big blind $0.50
+*** HOLE CARDS ***
+fragonik: folds 
+ssorinacho92: folds 
+Pat Foxe: raises $0.50 to $1
+jheymz: folds 
+WrongButton: folds 
+Uncalled bet ($0.50) returned to Pat Foxe
+Pat Foxe collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: fragonik folded before Flop (didn't bet)
+Seat 3: ssorinacho92 folded before Flop (didn't bet)
+Seat 5: Pat Foxe (button) collected ($1.25)
+Seat 6: jheymz (small blind) folded before Flop
+Seat 7: WrongButton (big blind) folded before Flop
+
+
+

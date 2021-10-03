@@ -1,0 +1,103 @@
+﻿PokerStars Hand #228681935711:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:07:22 ET
+Table 'Alrai II' 9-max Seat #9 is the button
+Seat 1: Popokluev ($50 in chips) 
+Seat 2: CStrongPKR ($29.67 in chips) 
+Seat 3: xandr67 ($50.15 in chips) 
+Seat 4: BB_dont_cry ($53.60 in chips) 
+Seat 5: ludemix ($55.47 in chips) 
+Seat 6: sreepak ($36.48 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 8: Obormid ($48.99 in chips) 
+Seat 9: Pachebrash ($50 in chips) 
+Popokluev: posts small blind $0.25
+CStrongPKR: posts big blind $0.50
+*** HOLE CARDS ***
+xandr67: folds 
+BB_dont_cry: folds 
+ludemix: folds 
+sreepak: calls $0.50
+CocoAlexMix: folds 
+Obormid: folds 
+Pachebrash: folds 
+Popokluev: folds 
+CStrongPKR: checks 
+*** FLOP *** [6h 8d 9h]
+CStrongPKR: bets $0.59
+sreepak: calls $0.59
+*** TURN *** [6h 8d 9h] [Jd]
+CStrongPKR: bets $1.15
+sreepak: calls $1.15
+*** RIVER *** [6h 8d 9h Jd] [Ks]
+CStrongPKR: checks 
+sreepak: checks 
+*** SHOW DOWN ***
+CStrongPKR: shows [Ad 9d] (a pair of Nines)
+sreepak: mucks hand 
+CStrongPKR collected $4.49 from pot
+*** SUMMARY ***
+Total pot $4.73 | Rake $0.24 
+Board [6h 8d 9h Jd Ks]
+Seat 1: Popokluev (small blind) folded before Flop
+Seat 2: CStrongPKR (big blind) showed [Ad 9d] and won ($4.49) with a pair of Nines
+Seat 3: xandr67 folded before Flop (didn't bet)
+Seat 4: BB_dont_cry folded before Flop (didn't bet)
+Seat 5: ludemix folded before Flop (didn't bet)
+Seat 6: sreepak mucked
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 8: Obormid folded before Flop (didn't bet)
+Seat 9: Pachebrash (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682026220:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:11:48 ET
+Table 'Alrai II' 9-max Seat #8 is the button
+Seat 1: Popokluev ($50 in chips) 
+Seat 2: CStrongPKR ($36.46 in chips) 
+Seat 3: xandr67 ($52.55 in chips) 
+Seat 4: BB_dont_cry ($46.40 in chips) 
+Seat 5: ludemix ($53.22 in chips) 
+Seat 6: sreepak ($38.98 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 8: Obormid ($47.49 in chips) 
+Seat 9: Pachebrash ($50 in chips) 
+Pachebrash: posts small blind $0.25
+Popokluev: posts big blind $0.50
+*** HOLE CARDS ***
+CStrongPKR: folds 
+xandr67: folds 
+BB_dont_cry: raises $1.25 to $1.75
+ludemix: folds 
+sreepak: folds 
+CocoAlexMix: folds 
+Obormid: folds 
+Pachebrash: folds 
+Popokluev: calls $1.25
+*** FLOP *** [Ks As 4d]
+Popokluev: checks 
+BB_dont_cry: bets $1.78
+Popokluev: calls $1.78
+*** TURN *** [Ks As 4d] [3c]
+Popokluev: checks 
+BB_dont_cry: checks 
+*** RIVER *** [Ks As 4d 3c] [8s]
+Popokluev: checks 
+BB_dont_cry: checks 
+*** SHOW DOWN ***
+Popokluev: shows [Ac 9c] (a pair of Aces)
+BB_dont_cry: mucks hand 
+Popokluev collected $6.94 from pot
+*** SUMMARY ***
+Total pot $7.31 | Rake $0.37 
+Board [Ks As 4d 3c 8s]
+Seat 1: Popokluev (big blind) showed [Ac 9c] and won ($6.94) with a pair of Aces
+Seat 2: CStrongPKR folded before Flop (didn't bet)
+Seat 3: xandr67 folded before Flop (didn't bet)
+Seat 4: BB_dont_cry mucked
+Seat 5: ludemix folded before Flop (didn't bet)
+Seat 6: sreepak folded before Flop (didn't bet)
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 8: Obormid (button) folded before Flop (didn't bet)
+Seat 9: Pachebrash (small blind) folded before Flop
+
+
+

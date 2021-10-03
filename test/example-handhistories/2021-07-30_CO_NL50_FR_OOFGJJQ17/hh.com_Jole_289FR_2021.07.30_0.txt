@@ -1,0 +1,3650 @@
+﻿PokerStars Hand #228682685511:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:41:46 ET
+Table 'Jole III' 9-max Seat #4 is the button
+Seat 1: podumci ($50.19 in chips) 
+Seat 2: goldenpig666 ($50.75 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($50.92 in chips) 
+Seat 5: 11omsk11 ($50 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+11omsk11: posts small blind $0.25
+SpeeLy: posts big blind $0.50
+MarsMiland: sits out 
+SENSAS1AN: sits out 
+vegas999789: sits out 
+*** HOLE CARDS ***
+podumci: folds 
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: raises $1 to $1.50
+11omsk11: calls $1.25
+SpeeLy: folds 
+*** FLOP *** [As Ad Kd]
+11omsk11: checks 
+dikanmax: bets $0.83
+11omsk11: raises $1.49 to $2.32
+dikanmax: calls $1.49
+*** TURN *** [As Ad Kd] [Jd]
+11omsk11: checks 
+dikanmax: bets $2.32
+11omsk11: calls $2.32
+*** RIVER *** [As Ad Kd Jd] [2c]
+11omsk11: checks 
+dikanmax: bets $7.75
+11omsk11: calls $7.75
+*** SHOW DOWN ***
+dikanmax: shows [Ks Ac] (a full house, Aces full of Kings)
+11omsk11: mucks hand 
+dikanmax collected $26.87 from pot
+*** SUMMARY ***
+Total pot $28.28 | Rake $1.41 
+Board [As Ad Kd Jd 2c]
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax (button) showed [Ks Ac] and won ($26.87) with a full house, Aces full of Kings
+Seat 5: 11omsk11 (small blind) mucked
+Seat 6: SpeeLy (big blind) folded before Flop
+
+
+
+PokerStars Hand #228682719180:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:43:17 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 1: podumci ($50.19 in chips) 
+Seat 2: goldenpig666 ($50.75 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($63.90 in chips) 
+Seat 5: 11omsk11 ($50 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+SpeeLy: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+SENSAS1AN: sits out 
+vegas999789: sits out 
+*** HOLE CARDS ***
+podumci: folds 
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: raises $1 to $1.50
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+Uncalled bet ($1) returned to dikanmax
+dikanmax collected $1.25 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax collected ($1.25)
+Seat 5: 11omsk11 (button) folded before Flop (didn't bet)
+Seat 6: SpeeLy (small blind) folded before Flop
+Seat 7: MarsMiland (big blind) folded before Flop
+
+
+
+PokerStars Hand #228682724342:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:43:30 ET
+Table 'Jole III' 9-max Seat #6 is the button
+Seat 1: podumci ($50.19 in chips) 
+Seat 2: goldenpig666 ($50.75 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($64.65 in chips) 
+Seat 5: 11omsk11 ($50 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+MarsMiland: posts small blind $0.25
+SENSAS1AN: posts big blind $0.50
+vegas999789: sits out 
+*** HOLE CARDS ***
+podumci: folds 
+goldenpig666: raises $1 to $1.50
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+SENSAS1AN: folds 
+Uncalled bet ($1) returned to goldenpig666
+goldenpig666 collected $1.25 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 collected ($1.25)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy (button) folded before Flop (didn't bet)
+Seat 7: MarsMiland (small blind) folded before Flop
+Seat 8: SENSAS1AN (big blind) folded before Flop
+
+
+
+PokerStars Hand #228682730674:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:43:47 ET
+Table 'Jole III' 9-max Seat #7 is the button
+Seat 1: podumci ($50.19 in chips) 
+Seat 2: goldenpig666 ($51.50 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($64.65 in chips) 
+Seat 5: 11omsk11 ($50 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($35.82 in chips) 
+SENSAS1AN: posts small blind $0.25
+vegas999789: posts big blind $0.50
+*** HOLE CARDS ***
+podumci: calls $0.50
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+SENSAS1AN: calls $0.25
+vegas999789: checks 
+*** FLOP *** [Js Kd 2d]
+SENSAS1AN: checks 
+vegas999789: checks 
+podumci: bets $0.50
+SENSAS1AN: calls $0.50
+vegas999789: folds 
+*** TURN *** [Js Kd 2d] [4s]
+SENSAS1AN: checks 
+podumci: bets $2.50
+SENSAS1AN: folds 
+Uncalled bet ($2.50) returned to podumci
+podumci collected $2.38 from pot
+podumci: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Js Kd 2d 4s]
+Seat 1: podumci collected ($2.38)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland (button) folded before Flop (didn't bet)
+Seat 8: SENSAS1AN (small blind) folded on the Turn
+Seat 9: vegas999789 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228682744135:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:44:23 ET
+Table 'Jole III' 9-max Seat #8 is the button
+Seat 1: podumci ($51.57 in chips) 
+Seat 2: goldenpig666 ($51.50 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($64.65 in chips) 
+Seat 5: 11omsk11 ($50 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($50 in chips) 
+vegas999789: posts small blind $0.25
+podumci: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: folds 
+Uncalled bet ($0.25) returned to podumci
+podumci collected $0.50 from pot
+podumci: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: podumci (big blind) collected ($0.50)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN (button) folded before Flop (didn't bet)
+Seat 9: vegas999789 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228682753295:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:44:48 ET
+Table 'Jole III' 9-max Seat #9 is the button
+Seat 1: podumci ($51.82 in chips) 
+Seat 2: goldenpig666 ($51.50 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($64.65 in chips) 
+Seat 5: 11omsk11 ($50 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($49.75 in chips) 
+podumci: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: calls $0.25
+goldenpig666: raises $1.50 to $2
+podumci: calls $1.50
+*** FLOP *** [6s Qd Kd]
+podumci: checks 
+goldenpig666: bets $2.47
+podumci: folds 
+Uncalled bet ($2.47) returned to goldenpig666
+goldenpig666 collected $3.75 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.25 
+Board [6s Qd Kd]
+Seat 1: podumci (small blind) folded on the Flop
+Seat 2: goldenpig666 (big blind) collected ($3.75)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682762661:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:45:13 ET
+Table 'Jole III' 9-max Seat #1 is the button
+Seat 1: podumci ($49.82 in chips) 
+Seat 2: goldenpig666 ($53.25 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($64.65 in chips) 
+Seat 5: 11omsk11 ($50 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($49.75 in chips) 
+goldenpig666: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: raises $0.80 to $1.30
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: calls $1.30
+goldenpig666: folds 
+StudentRB: folds 
+*** FLOP *** [3s 9s Qc]
+MarsMiland: bets $1.25
+podumci: raises $1.25 to $2.50
+MarsMiland: calls $1.25
+*** TURN *** [3s 9s Qc] [Ac]
+MarsMiland: checks 
+podumci: checks 
+*** RIVER *** [3s 9s Qc Ac] [Th]
+MarsMiland: bets $7.50
+podumci: folds 
+Uncalled bet ($7.50) returned to MarsMiland
+MarsMiland collected $7.93 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.35 | Rake $0.42 
+Board [3s 9s Qc Ac Th]
+Seat 1: podumci (button) folded on the River
+Seat 2: goldenpig666 (small blind) folded before Flop
+Seat 3: StudentRB (big blind) folded before Flop
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland collected ($7.93)
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682783261:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:46:01 ET
+Table 'Jole III' 9-max Seat #2 is the button
+Seat 1: podumci ($46.02 in chips) 
+Seat 2: goldenpig666 ($53 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($64.65 in chips) 
+Seat 5: 11omsk11 ($50 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($54.13 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($49.75 in chips) 
+StudentRB: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+11omsk11: folds 
+SpeeLy: raises $0.75 to $1.25
+MarsMiland: raises $3.25 to $4.50
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: folds 
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+SpeeLy: folds 
+Uncalled bet ($3.25) returned to MarsMiland
+MarsMiland collected $3.25 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 (button) folded before Flop (didn't bet)
+Seat 3: StudentRB (small blind) folded before Flop
+Seat 4: dikanmax (big blind) folded before Flop
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop
+Seat 7: MarsMiland collected ($3.25)
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682794526:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:46:31 ET
+Table 'Jole III' 9-max Seat #3 is the button
+Seat 1: podumci ($46.02 in chips) 
+Seat 2: goldenpig666 ($53 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($64.15 in chips) 
+Seat 5: 11omsk11 ($50 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($56.13 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($49.75 in chips) 
+dikanmax: posts small blind $0.25
+11omsk11: posts big blind $0.50
+*** HOLE CARDS ***
+SpeeLy: folds 
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: calls $0.50
+goldenpig666: folds 
+StudentRB: raises $1 to $1.50
+dikanmax: folds 
+11omsk11: folds 
+podumci: calls $1
+*** FLOP *** [Qc 9s 9d]
+podumci: checks 
+StudentRB: bets $1.17
+podumci: calls $1.17
+*** TURN *** [Qc 9s 9d] [Ad]
+podumci: checks 
+StudentRB: checks 
+*** RIVER *** [Qc 9s 9d Ad] [Qs]
+podumci: checks 
+StudentRB: bets $2.50
+podumci: calls $2.50
+*** SHOW DOWN ***
+StudentRB: shows [4d 4h] (two pair, Queens and Nines)
+podumci: shows [Td As] (two pair, Aces and Queens)
+podumci collected $10.54 from pot
+*** SUMMARY ***
+Total pot $11.09 | Rake $0.55 
+Board [Qc 9s 9d Ad Qs]
+Seat 1: podumci showed [Td As] and won ($10.54) with two pair, Aces and Queens
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB (button) showed [4d 4h] and lost with two pair, Queens and Nines
+Seat 4: dikanmax (small blind) folded before Flop
+Seat 5: 11omsk11 (big blind) folded before Flop
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682811191:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:47:16 ET
+Table 'Jole III' 9-max Seat #4 is the button
+Seat 1: podumci ($51.39 in chips) 
+Seat 2: goldenpig666 ($53 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($63.90 in chips) 
+Seat 5: 11omsk11 ($50 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($56.13 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($49.75 in chips) 
+11omsk11: posts small blind $0.25
+SpeeLy: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: calls $0.50
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: checks 
+*** FLOP *** [Ad 2h Th]
+SpeeLy: checks 
+podumci: checks 
+*** TURN *** [Ad 2h Th] [7d]
+SpeeLy: bets $0.61
+podumci: folds 
+Uncalled bet ($0.61) returned to SpeeLy
+SpeeLy collected $1.19 from pot
+SpeeLy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Ad 2h Th 7d]
+Seat 1: podumci folded on the Turn
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax (button) folded before Flop (didn't bet)
+Seat 5: 11omsk11 (small blind) folded before Flop
+Seat 6: SpeeLy (big blind) collected ($1.19)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682818666:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:47:35 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 1: podumci ($50.89 in chips) 
+Seat 2: goldenpig666 ($53 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($63.90 in chips) 
+Seat 5: 11omsk11 ($50 in chips) 
+Seat 6: SpeeLy ($50.69 in chips) 
+Seat 7: MarsMiland ($56.13 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($49.75 in chips) 
+SpeeLy: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: calls $0.50
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: raises $1.50 to $2
+SpeeLy: folds 
+MarsMiland: folds 
+podumci: calls $1.50
+*** FLOP *** [5h 8d 6s]
+podumci: checks 
+11omsk11: bets $1.35
+podumci: calls $1.35
+*** TURN *** [5h 8d 6s] [Qc]
+podumci: checks 
+11omsk11: bets $4.25
+podumci: folds 
+Uncalled bet ($4.25) returned to 11omsk11
+11omsk11 collected $7.08 from pot
+11omsk11: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.45 | Rake $0.37 
+Board [5h 8d 6s Qc]
+Seat 1: podumci folded on the Turn
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 (button) collected ($7.08)
+Seat 6: SpeeLy (small blind) folded before Flop
+Seat 7: MarsMiland (big blind) folded before Flop
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682830989:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:48:08 ET
+Table 'Jole III' 9-max Seat #6 is the button
+Seat 1: podumci ($47.54 in chips) 
+Seat 2: goldenpig666 ($53 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($63.90 in chips) 
+Seat 5: 11omsk11 ($53.73 in chips) 
+Seat 6: SpeeLy ($50.44 in chips) 
+Seat 7: MarsMiland ($55.63 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($49.75 in chips) 
+MarsMiland: posts small blind $0.25
+SENSAS1AN: posts big blind $0.50
+*** HOLE CARDS ***
+vegas999789: folds 
+podumci: folds 
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: raises $0.75 to $1.25
+MarsMiland: folds 
+SENSAS1AN: folds 
+Uncalled bet ($0.75) returned to SpeeLy
+SpeeLy collected $1.25 from pot
+SpeeLy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy (button) collected ($1.25)
+Seat 7: MarsMiland (small blind) folded before Flop
+Seat 8: SENSAS1AN (big blind) folded before Flop
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682836776:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:48:23 ET
+Table 'Jole III' 9-max Seat #7 is the button
+Seat 1: podumci ($47.54 in chips) 
+Seat 2: goldenpig666 ($53 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($63.90 in chips) 
+Seat 5: 11omsk11 ($53.73 in chips) 
+Seat 6: SpeeLy ($51.19 in chips) 
+Seat 7: MarsMiland ($55.38 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($49.75 in chips) 
+SENSAS1AN: posts small blind $0.25
+vegas999789: posts big blind $0.50
+*** HOLE CARDS ***
+podumci: calls $0.50
+goldenpig666: raises $1.50 to $2
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: calls $1.50
+*** FLOP *** [Js Qc Ad]
+podumci: checks 
+goldenpig666: bets $1.50
+podumci: calls $1.50
+*** TURN *** [Js Qc Ad] [4h]
+podumci: checks 
+goldenpig666: checks 
+*** RIVER *** [Js Qc Ad 4h] [Ts]
+podumci: checks 
+goldenpig666: bets $2.50
+podumci: calls $2.50
+*** SHOW DOWN ***
+goldenpig666: shows [Tc Jc] (two pair, Jacks and Tens)
+podumci: mucks hand 
+goldenpig666 collected $11.95 from pot
+*** SUMMARY ***
+Total pot $12.75 | Rake $0.80 
+Board [Js Qc Ad 4h Ts]
+Seat 1: podumci mucked
+Seat 2: goldenpig666 showed [Tc Jc] and won ($11.95) with two pair, Jacks and Tens
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland (button) folded before Flop (didn't bet)
+Seat 8: SENSAS1AN (small blind) folded before Flop
+Seat 9: vegas999789 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228682860832:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:49:27 ET
+Table 'Jole III' 9-max Seat #8 is the button
+Seat 1: podumci ($41.54 in chips) 
+Seat 2: goldenpig666 ($58.95 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($63.90 in chips) 
+Seat 5: 11omsk11 ($53.73 in chips) 
+Seat 6: SpeeLy ($51.19 in chips) 
+Seat 7: MarsMiland ($55.38 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($49.25 in chips) 
+vegas999789: posts small blind $0.25
+podumci: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: folds 
+Uncalled bet ($0.25) returned to podumci
+podumci collected $0.50 from pot
+podumci: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: podumci (big blind) collected ($0.50)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN (button) folded before Flop (didn't bet)
+Seat 9: vegas999789 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228682865723:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:49:40 ET
+Table 'Jole III' 9-max Seat #9 is the button
+Seat 1: podumci ($41.79 in chips) 
+Seat 2: goldenpig666 ($58.95 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($63.90 in chips) 
+Seat 5: 11omsk11 ($53.73 in chips) 
+Seat 6: SpeeLy ($51.19 in chips) 
+Seat 7: MarsMiland ($55.38 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($49 in chips) 
+podumci: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: raises $0.75 to $1.25
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: calls $1.25
+podumci: calls $1
+goldenpig666: folds 
+*** FLOP *** [4c 6h 8s]
+podumci: checks 
+SpeeLy: checks 
+vegas999789: bets $2.02
+podumci: folds 
+SpeeLy: folds 
+Uncalled bet ($2.02) returned to vegas999789
+vegas999789 collected $4.04 from pot
+vegas999789: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.21 
+Board [4c 6h 8s]
+Seat 1: podumci (small blind) folded on the Flop
+Seat 2: goldenpig666 (big blind) folded before Flop
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded on the Flop
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 (button) collected ($4.04)
+
+
+
+PokerStars Hand #228682883762:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:50:28 ET
+Table 'Jole III' 9-max Seat #1 is the button
+Seat 1: podumci ($40.54 in chips) 
+Seat 2: goldenpig666 ($58.45 in chips) 
+Seat 3: StudentRB ($50 in chips) 
+Seat 4: dikanmax ($63.90 in chips) 
+Seat 5: 11omsk11 ($53.73 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($55.38 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.79 in chips) 
+goldenpig666: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: calls $0.50
+goldenpig666: folds 
+StudentRB: raises $2 to $2.50
+podumci: calls $2
+*** FLOP *** [6c Ad 8h]
+StudentRB: bets $1.65
+podumci: folds 
+Uncalled bet ($1.65) returned to StudentRB
+StudentRB collected $4.99 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.26 
+Board [6c Ad 8h]
+Seat 1: podumci (button) folded on the Flop
+Seat 2: goldenpig666 (small blind) folded before Flop
+Seat 3: StudentRB (big blind) collected ($4.99)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682895609:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:50:59 ET
+Table 'Jole III' 9-max Seat #2 is the button
+Seat 1: podumci ($38.04 in chips) 
+Seat 2: goldenpig666 ($58.20 in chips) 
+Seat 3: StudentRB ($52.49 in chips) 
+Seat 4: dikanmax ($63.90 in chips) 
+Seat 5: 11omsk11 ($53.73 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($55.38 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.79 in chips) 
+StudentRB: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+SENSAS1AN: calls $0.50
+vegas999789: folds 
+podumci: folds 
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: checks 
+*** FLOP *** [4h 9c Qc]
+dikanmax: bets $0.50
+SENSAS1AN: folds 
+Uncalled bet ($0.50) returned to dikanmax
+dikanmax collected $1.19 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [4h 9c Qc]
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 (button) folded before Flop (didn't bet)
+Seat 3: StudentRB (small blind) folded before Flop
+Seat 4: dikanmax (big blind) collected ($1.19)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN folded on the Flop
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682909355:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:51:35 ET
+Table 'Jole III' 9-max Seat #3 is the button
+Seat 1: podumci ($50 in chips) 
+Seat 2: goldenpig666 ($58.20 in chips) 
+Seat 3: StudentRB ($52.24 in chips) 
+Seat 4: dikanmax ($64.59 in chips) 
+Seat 5: 11omsk11 ($53.73 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($55.38 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.79 in chips) 
+dikanmax: posts small blind $0.25
+11omsk11: posts big blind $0.50
+*** HOLE CARDS ***
+SpeeLy: raises $0.75 to $1.25
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: folds 
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+Uncalled bet ($0.75) returned to SpeeLy
+SpeeLy collected $1.25 from pot
+SpeeLy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB (button) folded before Flop (didn't bet)
+Seat 4: dikanmax (small blind) folded before Flop
+Seat 5: 11omsk11 (big blind) folded before Flop
+Seat 6: SpeeLy collected ($1.25)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682917266:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:51:56 ET
+Table 'Jole III' 9-max Seat #4 is the button
+Seat 1: podumci ($50 in chips) 
+Seat 2: goldenpig666 ($58.20 in chips) 
+Seat 3: StudentRB ($52.24 in chips) 
+Seat 4: dikanmax ($64.34 in chips) 
+Seat 5: 11omsk11 ($53.23 in chips) 
+Seat 6: SpeeLy ($50.75 in chips) 
+Seat 7: MarsMiland ($55.38 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.79 in chips) 
+11omsk11: posts small blind $0.25
+SpeeLy: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+SENSAS1AN: calls $0.50
+vegas999789: folds 
+podumci: folds 
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: raises $1.75 to $2.25
+11omsk11: folds 
+SpeeLy: folds 
+SENSAS1AN: folds 
+Uncalled bet ($1.75) returned to dikanmax
+dikanmax collected $1.75 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax (button) collected ($1.75)
+Seat 5: 11omsk11 (small blind) folded before Flop
+Seat 6: SpeeLy (big blind) folded before Flop
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN folded before Flop
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682925019:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:52:16 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 1: podumci ($50 in chips) 
+Seat 2: goldenpig666 ($58.20 in chips) 
+Seat 3: StudentRB ($52.24 in chips) 
+Seat 4: dikanmax ($65.59 in chips) 
+Seat 5: 11omsk11 ($52.98 in chips) 
+Seat 6: SpeeLy ($50.25 in chips) 
+Seat 7: MarsMiland ($55.38 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.79 in chips) 
+SpeeLy: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: calls $0.50
+goldenpig666: folds 
+StudentRB: raises $2 to $2.50
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+podumci: calls $2
+*** FLOP *** [9d 3d 6d]
+podumci: checks 
+StudentRB: bets $1.80
+podumci: folds 
+Uncalled bet ($1.80) returned to StudentRB
+StudentRB collected $5.46 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.29 
+Board [9d 3d 6d]
+Seat 1: podumci folded on the Flop
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB collected ($5.46)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 (button) folded before Flop (didn't bet)
+Seat 6: SpeeLy (small blind) folded before Flop
+Seat 7: MarsMiland (big blind) folded before Flop
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682935203:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:52:43 ET
+Table 'Jole III' 9-max Seat #6 is the button
+Seat 1: podumci ($47.50 in chips) 
+Seat 2: goldenpig666 ($58.20 in chips) 
+Seat 3: StudentRB ($55.20 in chips) 
+Seat 4: dikanmax ($65.59 in chips) 
+Seat 5: 11omsk11 ($52.98 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($54.88 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.79 in chips) 
+MarsMiland: posts small blind $0.25
+SENSAS1AN: posts big blind $0.50
+*** HOLE CARDS ***
+vegas999789: folds 
+podumci: calls $0.50
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: raises $2 to $2.50
+MarsMiland: folds 
+SENSAS1AN: folds 
+podumci: calls $2
+*** FLOP *** [2s Ad 5c]
+podumci: checks 
+SpeeLy: bets $1.50
+podumci: folds 
+Uncalled bet ($1.50) returned to SpeeLy
+SpeeLy collected $5.46 from pot
+SpeeLy: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.29 
+Board [2s Ad 5c]
+Seat 1: podumci folded on the Flop
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy (button) collected ($5.46)
+Seat 7: MarsMiland (small blind) folded before Flop
+Seat 8: SENSAS1AN (big blind) folded before Flop
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682950168:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:53:22 ET
+Table 'Jole III' 9-max Seat #7 is the button
+Seat 1: podumci ($45 in chips) 
+Seat 2: goldenpig666 ($58.20 in chips) 
+Seat 3: StudentRB ($55.20 in chips) 
+Seat 4: dikanmax ($65.59 in chips) 
+Seat 5: 11omsk11 ($52.98 in chips) 
+Seat 6: SpeeLy ($52.96 in chips) 
+Seat 7: MarsMiland ($54.63 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.79 in chips) 
+SENSAS1AN: posts small blind $0.25
+vegas999789: posts big blind $0.50
+*** HOLE CARDS ***
+podumci: folds 
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+SENSAS1AN: calls $0.25
+vegas999789: checks 
+*** FLOP *** [Jd Qs 5h]
+SENSAS1AN: checks 
+vegas999789: checks 
+*** TURN *** [Jd Qs 5h] [8s]
+SENSAS1AN: checks 
+vegas999789: checks 
+*** RIVER *** [Jd Qs 5h 8s] [Ts]
+SENSAS1AN: checks 
+vegas999789: checks 
+*** SHOW DOWN ***
+SENSAS1AN: shows [Kc 6h] (high card King)
+vegas999789: shows [3h Th] (a pair of Tens)
+vegas999789 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Jd Qs 5h 8s Ts]
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland (button) folded before Flop (didn't bet)
+Seat 8: SENSAS1AN (small blind) showed [Kc 6h] and lost with high card King
+Seat 9: vegas999789 (big blind) showed [3h Th] and won ($0.95) with a pair of Tens
+
+
+
+PokerStars Hand #228682966191:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:54:04 ET
+Table 'Jole III' 9-max Seat #8 is the button
+Seat 1: podumci ($45 in chips) 
+Seat 2: goldenpig666 ($58.20 in chips) 
+Seat 3: StudentRB ($55.20 in chips) 
+Seat 4: dikanmax ($65.59 in chips) 
+Seat 5: 11omsk11 ($52.98 in chips) 
+Seat 6: SpeeLy ($52.96 in chips) 
+Seat 7: MarsMiland ($54.63 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($52.24 in chips) 
+vegas999789: posts small blind $0.25
+podumci: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: folds 
+Uncalled bet ($0.25) returned to podumci
+podumci collected $0.50 from pot
+podumci: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: podumci (big blind) collected ($0.50)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN (button) folded before Flop (didn't bet)
+Seat 9: vegas999789 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228682971510:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:54:19 ET
+Table 'Jole III' 9-max Seat #9 is the button
+Seat 1: podumci ($45.25 in chips) 
+Seat 2: goldenpig666 ($58.20 in chips) 
+Seat 3: StudentRB ($55.20 in chips) 
+Seat 4: dikanmax ($65.59 in chips) 
+Seat 5: 11omsk11 ($52.98 in chips) 
+Seat 6: SpeeLy ($52.96 in chips) 
+Seat 7: MarsMiland ($54.63 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.99 in chips) 
+podumci: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: raises $0.75 to $1.25
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: calls $1
+goldenpig666: folds 
+*** FLOP *** [Kc Qc 4h]
+podumci: checks 
+StudentRB: bets $0.94
+podumci: calls $0.94
+*** TURN *** [Kc Qc 4h] [2d]
+podumci: checks 
+StudentRB: checks 
+*** RIVER *** [Kc Qc 4h 2d] [9s]
+podumci: checks 
+StudentRB: checks 
+*** SHOW DOWN ***
+podumci: shows [6s 4s] (a pair of Fours)
+StudentRB: shows [Td Tc] (a pair of Tens)
+StudentRB collected $4.64 from pot
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [Kc Qc 4h 2d 9s]
+Seat 1: podumci (small blind) showed [6s 4s] and lost with a pair of Fours
+Seat 2: goldenpig666 (big blind) folded before Flop
+Seat 3: StudentRB showed [Td Tc] and won ($4.64) with a pair of Tens
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682979725:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:54:40 ET
+Table 'Jole III' 9-max Seat #1 is the button
+Seat 1: podumci ($43.06 in chips) 
+Seat 2: goldenpig666 ($57.70 in chips) 
+Seat 3: StudentRB ($57.65 in chips) 
+Seat 4: dikanmax ($65.59 in chips) 
+Seat 5: 11omsk11 ($52.98 in chips) 
+Seat 6: SpeeLy ($52.96 in chips) 
+Seat 7: MarsMiland ($54.63 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.99 in chips) 
+goldenpig666: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: raises $0.75 to $1.25
+MarsMiland: folds 
+SENSAS1AN: calls $1.25
+vegas999789: folds 
+podumci: calls $1.25
+goldenpig666: folds 
+StudentRB: folds 
+*** FLOP *** [9h 7s 7d]
+SpeeLy: bets $2.18
+SENSAS1AN: folds 
+podumci: calls $2.18
+*** TURN *** [9h 7s 7d] [8c]
+SpeeLy: bets $5
+podumci: calls $5
+*** RIVER *** [9h 7s 7d 8c] [Th]
+SpeeLy: bets $44.53 and is all-in
+podumci: calls $34.63 and is all-in
+Uncalled bet ($9.90) returned to SpeeLy
+*** SHOW DOWN ***
+SpeeLy: shows [Td Tc] (a full house, Tens full of Sevens)
+podumci: shows [9d Js] (a straight, Seven to Jack)
+SpeeLy collected $86.12 from pot
+*** SUMMARY ***
+Total pot $88.12 | Rake $2 
+Board [9h 7s 7d 8c Th]
+Seat 1: podumci (button) showed [9d Js] and lost with a straight, Seven to Jack
+Seat 2: goldenpig666 (small blind) folded before Flop
+Seat 3: StudentRB (big blind) folded before Flop
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy showed [Td Tc] and won ($86.12) with a full house, Tens full of Sevens
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN folded on the Flop
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228682993933:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:55:21 ET
+Table 'Jole III' 9-max Seat #2 is the button
+Seat 2: goldenpig666 ($57.45 in chips) 
+Seat 3: StudentRB ($57.15 in chips) 
+Seat 4: dikanmax ($65.59 in chips) 
+Seat 5: 11omsk11 ($52.98 in chips) 
+Seat 6: SpeeLy ($96.02 in chips) 
+Seat 7: MarsMiland ($54.63 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.99 in chips) 
+StudentRB: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+11omsk11: folds 
+SpeeLy: raises $0.75 to $1.25
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: folds 
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+Uncalled bet ($0.75) returned to SpeeLy
+SpeeLy collected $1.25 from pot
+SpeeLy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: goldenpig666 (button) folded before Flop (didn't bet)
+Seat 3: StudentRB (small blind) folded before Flop
+Seat 4: dikanmax (big blind) folded before Flop
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy collected ($1.25)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683000410:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:55:44 ET
+Table 'Jole III' 9-max Seat #3 is the button
+Seat 1: podumci ($50 in chips) 
+Seat 2: goldenpig666 ($57.45 in chips) 
+Seat 3: StudentRB ($56.90 in chips) 
+Seat 4: dikanmax ($65.09 in chips) 
+Seat 5: 11omsk11 ($52.98 in chips) 
+Seat 6: SpeeLy ($96.77 in chips) 
+Seat 7: MarsMiland ($54.63 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.99 in chips) 
+dikanmax: posts small blind $0.25
+11omsk11: posts big blind $0.50
+*** HOLE CARDS ***
+SpeeLy: folds 
+MarsMiland: raises $0.90 to $1.40
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: folds 
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: calls $0.90
+*** FLOP *** [8s 7s 3s]
+11omsk11: checks 
+MarsMiland: bets $0.96
+11omsk11: folds 
+Uncalled bet ($0.96) returned to MarsMiland
+MarsMiland collected $2.90 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.05 | Rake $0.15 
+Board [8s 7s 3s]
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB (button) folded before Flop (didn't bet)
+Seat 4: dikanmax (small blind) folded before Flop
+Seat 5: 11omsk11 (big blind) folded on the Flop
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland collected ($2.90)
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683012233:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:56:25 ET
+Table 'Jole III' 9-max Seat #4 is the button
+Seat 1: podumci ($50 in chips) 
+Seat 2: goldenpig666 ($57.45 in chips) 
+Seat 3: StudentRB ($56.90 in chips) 
+Seat 4: dikanmax ($64.84 in chips) 
+Seat 5: 11omsk11 ($51.58 in chips) 
+Seat 6: SpeeLy ($96.77 in chips) 
+Seat 7: MarsMiland ($56.13 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.99 in chips) 
+11omsk11: posts small blind $0.25
+SpeeLy: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+SENSAS1AN: folds 
+vegas999789: folds 
+podumci: calls $0.50
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: checks 
+*** FLOP *** [9c Ts Td]
+SpeeLy: checks 
+podumci: checks 
+*** TURN *** [9c Ts Td] [7d]
+SpeeLy: checks 
+podumci: checks 
+*** RIVER *** [9c Ts Td 7d] [Ac]
+SpeeLy: checks 
+podumci: checks 
+*** SHOW DOWN ***
+SpeeLy: shows [3d 2s] (a pair of Tens)
+podumci: shows [Kd Qs] (a pair of Tens - Ace+King kicker)
+podumci collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [9c Ts Td 7d Ac]
+Seat 1: podumci showed [Kd Qs] and won ($1.19) with a pair of Tens
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax (button) folded before Flop (didn't bet)
+Seat 5: 11omsk11 (small blind) folded before Flop
+Seat 6: SpeeLy (big blind) showed [3d 2s] and lost with a pair of Tens
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683018768:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:56:48 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 1: podumci ($50.69 in chips) 
+Seat 2: goldenpig666 ($57.45 in chips) 
+Seat 3: StudentRB ($56.90 in chips) 
+Seat 4: dikanmax ($64.84 in chips) 
+Seat 5: 11omsk11 ($51.33 in chips) 
+Seat 6: SpeeLy ($96.27 in chips) 
+Seat 7: MarsMiland ($56.13 in chips) 
+Seat 8: SENSAS1AN ($50 in chips) 
+Seat 9: vegas999789 ($51.99 in chips) 
+SpeeLy: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+SENSAS1AN: folds 
+SENSAS1AN leaves the table
+Tverdinya joins the table at seat #8 
+vegas999789 has timed out
+vegas999789: folds 
+podumci: calls $0.50
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: raises $1.75 to $2.25
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+podumci: calls $1.75
+*** FLOP *** [9d 5c Qc]
+podumci: checks 
+dikanmax: bets $3.25
+podumci: calls $3.25
+*** TURN *** [9d 5c Qc] [2c]
+podumci: checks 
+dikanmax: checks 
+*** RIVER *** [9d 5c Qc 2c] [8h]
+podumci: checks 
+dikanmax: checks 
+*** SHOW DOWN ***
+podumci: shows [Ah 9s] (a pair of Nines)
+dikanmax: shows [Td Qs] (a pair of Queens)
+dikanmax collected $11.16 from pot
+*** SUMMARY ***
+Total pot $11.75 | Rake $0.59 
+Board [9d 5c Qc 2c 8h]
+Seat 1: podumci showed [Ah 9s] and lost with a pair of Nines
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax showed [Td Qs] and won ($11.16) with a pair of Queens
+Seat 5: 11omsk11 (button) folded before Flop (didn't bet)
+Seat 6: SpeeLy (small blind) folded before Flop
+Seat 7: MarsMiland (big blind) folded before Flop
+Seat 8: SENSAS1AN folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683031706:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:57:33 ET
+Table 'Jole III' 9-max Seat #6 is the button
+Seat 1: podumci ($45.19 in chips) 
+Seat 2: goldenpig666 ($57.45 in chips) 
+Seat 3: StudentRB ($56.90 in chips) 
+Seat 4: dikanmax ($70.50 in chips) 
+Seat 5: 11omsk11 ($51.33 in chips) 
+Seat 6: SpeeLy ($96.02 in chips) 
+Seat 7: MarsMiland ($55.63 in chips) 
+Seat 8: Tverdinya ($50 in chips) 
+Seat 9: vegas999789 ($51.99 in chips) 
+MarsMiland: posts small blind $0.25
+Tverdinya: posts big blind $0.50
+*** HOLE CARDS ***
+vegas999789: folds 
+podumci: calls $0.50
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: calls $0.25
+Tverdinya: checks 
+*** FLOP *** [Jd Qd 3d]
+MarsMiland: checks 
+Tverdinya: checks 
+podumci: checks 
+*** TURN *** [Jd Qd 3d] [7s]
+MarsMiland: checks 
+Tverdinya: checks 
+podumci: checks 
+*** RIVER *** [Jd Qd 3d 7s] [2s]
+MarsMiland: checks 
+Tverdinya: checks 
+podumci: checks 
+*** SHOW DOWN ***
+MarsMiland: shows [5c 4c] (high card Queen)
+Tverdinya: shows [8d 3s] (a pair of Threes)
+podumci: mucks hand 
+Tverdinya collected $1.42 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [Jd Qd 3d 7s 2s]
+Seat 1: podumci mucked
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy (button) folded before Flop (didn't bet)
+Seat 7: MarsMiland (small blind) showed [5c 4c] and lost with high card Queen
+Seat 8: Tverdinya (big blind) showed [8d 3s] and won ($1.42) with a pair of Threes
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683041771:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:58:07 ET
+Table 'Jole III' 9-max Seat #7 is the button
+Seat 1: podumci ($44.69 in chips) 
+Seat 2: goldenpig666 ($57.45 in chips) 
+Seat 3: StudentRB ($56.90 in chips) 
+Seat 4: dikanmax ($70.50 in chips) 
+Seat 5: 11omsk11 ($51.33 in chips) 
+Seat 6: SpeeLy ($96.02 in chips) 
+Seat 7: MarsMiland ($55.13 in chips) 
+Seat 8: Tverdinya ($50.92 in chips) 
+Seat 9: vegas999789 ($51.99 in chips) 
+Tverdinya: posts small blind $0.25
+vegas999789: posts big blind $0.50
+*** HOLE CARDS ***
+podumci: calls $0.50
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: raises $2 to $2.50
+MarsMiland: folds 
+Tverdinya: folds 
+vegas999789: folds 
+podumci: calls $2
+*** FLOP *** [Qc 2s 3s]
+podumci: checks 
+SpeeLy: bets $1.80
+podumci: folds 
+Uncalled bet ($1.80) returned to SpeeLy
+SpeeLy collected $5.46 from pot
+SpeeLy: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.29 
+Board [Qc 2s 3s]
+Seat 1: podumci folded on the Flop
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy collected ($5.46)
+Seat 7: MarsMiland (button) folded before Flop (didn't bet)
+Seat 8: Tverdinya (small blind) folded before Flop
+Seat 9: vegas999789 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228683052044:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:58:43 ET
+Table 'Jole III' 9-max Seat #8 is the button
+Seat 1: podumci ($42.19 in chips) 
+Seat 2: goldenpig666 ($57.45 in chips) 
+Seat 3: StudentRB ($56.90 in chips) 
+Seat 4: dikanmax ($70.50 in chips) 
+Seat 5: 11omsk11 ($51.33 in chips) 
+Seat 6: SpeeLy ($98.98 in chips) 
+Seat 7: MarsMiland ($55.13 in chips) 
+Seat 8: Tverdinya ($50.67 in chips) 
+Seat 9: vegas999789 ($51.49 in chips) 
+vegas999789: posts small blind $0.25
+podumci: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+StudentRB: raises $0.75 to $1.25
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: calls $1.25
+MarsMiland: folds 
+Tverdinya: folds 
+vegas999789: folds 
+podumci: calls $0.75
+*** FLOP *** [3d Js Ad]
+podumci: checks 
+StudentRB: checks 
+SpeeLy: checks 
+*** TURN *** [3d Js Ad] [7s]
+podumci: checks 
+StudentRB: bets $2.85
+SpeeLy: folds 
+podumci: calls $2.85
+*** RIVER *** [3d Js Ad 7s] [Jc]
+podumci: checks 
+StudentRB: bets $8.50
+podumci: folds 
+Uncalled bet ($8.50) returned to StudentRB
+StudentRB collected $9.22 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.70 | Rake $0.48 
+Board [3d Js Ad 7s Jc]
+Seat 1: podumci (big blind) folded on the River
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB collected ($9.22)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded on the Turn
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: Tverdinya (button) folded before Flop (didn't bet)
+Seat 9: vegas999789 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683073609:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 12:59:57 ET
+Table 'Jole III' 9-max Seat #9 is the button
+Seat 1: podumci ($38.09 in chips) 
+Seat 2: goldenpig666 ($57.45 in chips) 
+Seat 3: StudentRB ($62.02 in chips) 
+Seat 4: dikanmax ($70.50 in chips) 
+Seat 5: 11omsk11 ($51.33 in chips) 
+Seat 6: SpeeLy ($97.73 in chips) 
+Seat 7: MarsMiland ($55.13 in chips) 
+Seat 8: Tverdinya ($50.67 in chips) 
+Seat 9: vegas999789 ($51.24 in chips) 
+podumci: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+Tverdinya: folds 
+vegas999789: calls $0.50
+podumci: calls $0.25
+goldenpig666: checks 
+*** FLOP *** [4d 4c Ad]
+podumci: checks 
+goldenpig666: checks 
+vegas999789: checks 
+*** TURN *** [4d 4c Ad] [3c]
+podumci: checks 
+goldenpig666: checks 
+vegas999789: checks 
+*** RIVER *** [4d 4c Ad 3c] [9d]
+podumci: bets $0.50
+goldenpig666: folds 
+vegas999789: folds 
+Uncalled bet ($0.50) returned to podumci
+podumci collected $1.42 from pot
+podumci: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [4d 4c Ad 3c 9d]
+Seat 1: podumci (small blind) collected ($1.42)
+Seat 2: goldenpig666 (big blind) folded on the River
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: Tverdinya folded before Flop (didn't bet)
+Seat 9: vegas999789 (button) folded on the River
+
+
+
+PokerStars Hand #228683085520:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:00:35 ET
+Table 'Jole III' 9-max Seat #1 is the button
+Seat 1: podumci ($39.01 in chips) 
+Seat 2: goldenpig666 ($56.95 in chips) 
+Seat 3: StudentRB ($62.02 in chips) 
+Seat 4: dikanmax ($70.50 in chips) 
+Seat 5: 11omsk11 ($51.33 in chips) 
+Seat 6: SpeeLy ($97.73 in chips) 
+Seat 7: MarsMiland ($55.13 in chips) 
+Seat 8: Tverdinya ($50.67 in chips) 
+Seat 9: vegas999789 ($50.74 in chips) 
+goldenpig666: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+11omsk11: raises $1 to $1.50
+SpeeLy: folds 
+MarsMiland: folds 
+Tverdinya: folds 
+vegas999789: folds 
+podumci: calls $1.50
+goldenpig666: folds 
+StudentRB: folds 
+*** FLOP *** [8d 6s Qs]
+11omsk11: bets $2.49
+podumci: calls $2.49
+*** TURN *** [8d 6s Qs] [3s]
+11omsk11: bets $5.80
+podumci: calls $5.80
+*** RIVER *** [8d 6s Qs 3s] [3d]
+11omsk11: bets $41.54 and is all-in
+podumci: folds 
+Uncalled bet ($41.54) returned to 11omsk11
+11omsk11 collected $19.31 from pot
+11omsk11: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.33 | Rake $1.02 
+Board [8d 6s Qs 3s 3d]
+Seat 1: podumci (button) folded on the River
+Seat 2: goldenpig666 (small blind) folded before Flop
+Seat 3: StudentRB (big blind) folded before Flop
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 collected ($19.31)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: Tverdinya folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683100891:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:01:22 ET
+Table 'Jole III' 9-max Seat #2 is the button
+Seat 1: podumci ($29.22 in chips) 
+Seat 2: goldenpig666 ($56.70 in chips) 
+Seat 3: StudentRB ($61.52 in chips) 
+Seat 4: dikanmax ($70.50 in chips) 
+Seat 5: 11omsk11 ($60.85 in chips) 
+Seat 6: SpeeLy ($97.73 in chips) 
+Seat 7: MarsMiland ($55.13 in chips) 
+Seat 8: Tverdinya ($50.67 in chips) 
+Seat 9: vegas999789 ($50.74 in chips) 
+StudentRB: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: raises $0.80 to $1.30
+Tverdinya: folds 
+vegas999789: calls $1.30
+podumci: folds 
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+*** FLOP *** [Kd 6d 9c]
+MarsMiland: bets $1.59
+vegas999789: calls $1.59
+*** TURN *** [Kd 6d 9c] [Jd]
+MarsMiland: checks 
+vegas999789: bets $3.10
+MarsMiland: folds 
+Uncalled bet ($3.10) returned to vegas999789
+vegas999789 collected $6.20 from pot
+vegas999789: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.53 | Rake $0.33 
+Board [Kd 6d 9c Jd]
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 (button) folded before Flop (didn't bet)
+Seat 3: StudentRB (small blind) folded before Flop
+Seat 4: dikanmax (big blind) folded before Flop
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded on the Turn
+Seat 8: Tverdinya folded before Flop (didn't bet)
+Seat 9: vegas999789 collected ($6.20)
+
+
+
+PokerStars Hand #228683112381:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:01:53 ET
+Table 'Jole III' 9-max Seat #3 is the button
+Seat 1: podumci ($29.22 in chips) 
+Seat 2: goldenpig666 ($56.70 in chips) 
+Seat 3: StudentRB ($61.27 in chips) 
+Seat 4: dikanmax ($70 in chips) 
+Seat 5: 11omsk11 ($60.85 in chips) 
+Seat 6: SpeeLy ($97.73 in chips) 
+Seat 7: MarsMiland ($52.24 in chips) 
+Seat 8: Tverdinya ($50.67 in chips) 
+Seat 9: vegas999789 ($54.05 in chips) 
+dikanmax: posts small blind $0.25
+11omsk11: posts big blind $0.50
+*** HOLE CARDS ***
+SpeeLy: folds 
+MarsMiland: folds 
+Tverdinya: folds 
+vegas999789: folds 
+podumci: folds 
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: raises $1 to $1.50
+11omsk11: raises $3 to $4.50
+dikanmax: calls $3
+*** FLOP *** [Qd Ac 6s]
+dikanmax: checks 
+11omsk11: bets $4
+dikanmax: folds 
+Uncalled bet ($4) returned to 11omsk11
+11omsk11 collected $8.55 from pot
+11omsk11: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Qd Ac 6s]
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB (button) folded before Flop (didn't bet)
+Seat 4: dikanmax (small blind) folded on the Flop
+Seat 5: 11omsk11 (big blind) collected ($8.55)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: Tverdinya folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683132700:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:02:46 ET
+Table 'Jole III' 9-max Seat #4 is the button
+Seat 1: podumci ($50 in chips) 
+Seat 2: goldenpig666 ($56.70 in chips) 
+Seat 3: StudentRB ($61.27 in chips) 
+Seat 4: dikanmax ($65.50 in chips) 
+Seat 5: 11omsk11 ($64.90 in chips) 
+Seat 6: SpeeLy ($97.73 in chips) 
+Seat 7: MarsMiland ($52.24 in chips) 
+Seat 8: Tverdinya ($50.67 in chips) 
+Seat 9: vegas999789 ($54.05 in chips) 
+11omsk11: posts small blind $0.25
+SpeeLy: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+Tverdinya: folds 
+vegas999789: folds 
+podumci: calls $0.50
+goldenpig666: raises $1.50 to $2
+StudentRB: folds 
+dikanmax: calls $2
+11omsk11: folds 
+SpeeLy: folds 
+podumci: calls $1.50
+*** FLOP *** [2h Th Ah]
+podumci: checks 
+goldenpig666: bets $4.17
+dikanmax: folds 
+podumci: folds 
+Uncalled bet ($4.17) returned to goldenpig666
+goldenpig666 collected $6.33 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.42 
+Board [2h Th Ah]
+Seat 1: podumci folded on the Flop
+Seat 2: goldenpig666 collected ($6.33)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax (button) folded on the Flop
+Seat 5: 11omsk11 (small blind) folded before Flop
+Seat 6: SpeeLy (big blind) folded before Flop
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: Tverdinya folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683145588:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:03:19 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 1: podumci ($48 in chips) 
+Seat 2: goldenpig666 ($61.03 in chips) 
+Seat 3: StudentRB ($61.27 in chips) 
+Seat 4: dikanmax ($63.50 in chips) 
+Seat 5: 11omsk11 ($64.65 in chips) 
+Seat 6: SpeeLy ($97.23 in chips) 
+Seat 7: MarsMiland ($52.24 in chips) 
+Seat 8: Tverdinya ($50.67 in chips) 
+Seat 9: vegas999789 ($54.05 in chips) 
+SpeeLy: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+Tverdinya: folds 
+vegas999789: folds 
+podumci: calls $0.50
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: raises $2 to $2.50
+MarsMiland: folds 
+podumci: calls $2
+*** FLOP *** [3c Kc 5d]
+SpeeLy: bets $3.92
+podumci: raises $3.92 to $7.84
+SpeeLy: calls $3.92
+*** TURN *** [3c Kc 5d] [Ac]
+SpeeLy: checks 
+podumci: bets $37.66 and is all-in
+SpeeLy: calls $37.66
+*** RIVER *** [3c Kc 5d Ac] [4s]
+*** SHOW DOWN ***
+SpeeLy: shows [Ah Ks] (two pair, Aces and Kings)
+podumci: shows [8c 7c] (a flush, Ace high)
+podumci collected $94.50 from pot
+*** SUMMARY ***
+Total pot $96.50 | Rake $2 
+Board [3c Kc 5d Ac 4s]
+Seat 1: podumci showed [8c 7c] and won ($94.50) with a flush, Ace high
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 (button) folded before Flop (didn't bet)
+Seat 6: SpeeLy (small blind) showed [Ah Ks] and lost with two pair, Aces and Kings
+Seat 7: MarsMiland (big blind) folded before Flop
+Seat 8: Tverdinya folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683166118:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:04:11 ET
+Table 'Jole III' 9-max Seat #6 is the button
+Seat 1: podumci ($94.50 in chips) 
+Seat 2: goldenpig666 ($61.03 in chips) 
+Seat 3: StudentRB ($61.27 in chips) 
+Seat 4: dikanmax ($63.50 in chips) 
+Seat 5: 11omsk11 ($64.65 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($51.74 in chips) 
+Seat 8: Tverdinya ($50.67 in chips) 
+Seat 9: vegas999789 ($54.05 in chips) 
+MarsMiland: posts small blind $0.25
+Tverdinya: posts big blind $0.50
+*** HOLE CARDS ***
+vegas999789: calls $0.50
+podumci: folds 
+goldenpig666: raises $2 to $2.50
+StudentRB: folds 
+dikanmax: folds 
+podumci leaves the table
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+Tverdinya: folds 
+vegas999789: folds 
+Uncalled bet ($2) returned to goldenpig666
+goldenpig666 collected $1.75 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: podumci folded before Flop (didn't bet)
+Seat 2: goldenpig666 collected ($1.75)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy (button) folded before Flop (didn't bet)
+Seat 7: MarsMiland (small blind) folded before Flop
+Seat 8: Tverdinya (big blind) folded before Flop
+Seat 9: vegas999789 folded before Flop
+
+
+
+PokerStars Hand #228683178893:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:04:43 ET
+Table 'Jole III' 9-max Seat #7 is the button
+Seat 2: goldenpig666 ($62.28 in chips) 
+Seat 3: StudentRB ($61.27 in chips) 
+Seat 4: dikanmax ($63.50 in chips) 
+Seat 5: 11omsk11 ($64.65 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($51.49 in chips) 
+Seat 8: Tverdinya ($50.17 in chips) 
+Seat 9: vegas999789 ($53.55 in chips) 
+Tverdinya: posts small blind $0.25
+vegas999789: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+StudentRB: folds 
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: raises $0.60 to $1.10
+Tverdinya: folds 
+vegas999789: calls $0.60
+*** FLOP *** [Ad Ts 9s]
+vegas999789: checks 
+MarsMiland: bets $1.25
+vegas999789: calls $1.25
+*** TURN *** [Ad Ts 9s] [Js]
+vegas999789: checks 
+MarsMiland: bets $3.25
+vegas999789: folds 
+Uncalled bet ($3.25) returned to MarsMiland
+MarsMiland collected $4.70 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.95 | Rake $0.25 
+Board [Ad Ts 9s Js]
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: StudentRB folded before Flop (didn't bet)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland (button) collected ($4.70)
+Seat 8: Tverdinya (small blind) folded before Flop
+Seat 9: vegas999789 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #228683197949:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:05:30 ET
+Table 'Jole III' 9-max Seat #8 is the button
+Seat 3: StudentRB ($61.27 in chips) 
+Seat 4: dikanmax ($63.50 in chips) 
+Seat 5: 11omsk11 ($64.65 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Seat 7: MarsMiland ($53.84 in chips) 
+Seat 8: Tverdinya ($50 in chips) 
+Seat 9: vegas999789 ($51.20 in chips) 
+vegas999789: posts small blind $0.25
+goldenpig666: is sitting out 
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+11omsk11: folds 
+SpeeLy: folds 
+MarsMiland: folds 
+Tverdinya: folds 
+vegas999789: folds 
+Uncalled bet ($0.25) returned to StudentRB
+StudentRB collected $0.50 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: StudentRB (big blind) collected ($0.50)
+Seat 4: dikanmax folded before Flop (didn't bet)
+Seat 5: 11omsk11 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: MarsMiland folded before Flop (didn't bet)
+Seat 8: Tverdinya (button) folded before Flop (didn't bet)
+Seat 9: vegas999789 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683205858:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:05:50 ET
+Table 'Jole III' 9-max Seat #9 is the button
+Seat 3: StudentRB ($61.52 in chips) 
+Seat 7: MarsMiland ($53.84 in chips) 
+Seat 8: Tverdinya ($50 in chips) 
+Seat 9: vegas999789 ($50.95 in chips) 
+StudentRB: posts small blind $0.25
+dikanmax: is sitting out 
+11omsk11: is sitting out 
+SpeeLy: is sitting out 
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+SpeeLy leaves the table
+Tverdinya: folds 
+11omsk11 leaves the table
+vegas999789: folds 
+StudentRB: folds 
+Uncalled bet ($0.25) returned to MarsMiland
+MarsMiland collected $0.50 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: StudentRB (small blind) folded before Flop
+Seat 7: MarsMiland (big blind) collected ($0.50)
+Seat 8: Tverdinya folded before Flop (didn't bet)
+Seat 9: vegas999789 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683209454:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:05:59 ET
+Table 'Jole III' 9-max Seat #3 is the button
+Seat 3: StudentRB ($61.27 in chips) 
+Seat 7: MarsMiland ($54.09 in chips) 
+Seat 9: vegas999789 ($50.95 in chips) 
+MarsMiland: posts small blind $0.25
+vegas999789: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: folds 
+MarsMiland: raises $1 to $1.50
+goldenpig666 leaves the table
+vegas999789: folds 
+Uncalled bet ($1) returned to MarsMiland
+MarsMiland collected $1 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: StudentRB (button) folded before Flop (didn't bet)
+Seat 7: MarsMiland (small blind) collected ($1)
+Seat 9: vegas999789 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228683268357:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:08:16 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 1: Mmago24 ($50 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Mmago24: posts small blind $0.25
+AlexEliseev7: posts big blind $0.50
+*** HOLE CARDS ***
+BeLoveAlex: raises $0.60 to $1.10
+Mmago24: folds 
+AlexEliseev7: folds 
+Uncalled bet ($0.60) returned to BeLoveAlex
+BeLoveAlex collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mmago24 (small blind) folded before Flop
+Seat 2: AlexEliseev7 (big blind) folded before Flop
+Seat 5: BeLoveAlex (button) collected ($1.25)
+
+
+
+PokerStars Hand #228683274492:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:08:31 ET
+Table 'Jole III' 9-max Seat #1 is the button
+Seat 1: Mmago24 ($50 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($50.75 in chips) 
+AlexEliseev7: posts small blind $0.25
+BeLoveAlex: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+AlexEliseev7: folds 
+Uncalled bet ($0.25) returned to BeLoveAlex
+BeLoveAlex collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Mmago24 (button) folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 (small blind) folded before Flop
+Seat 5: BeLoveAlex (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228683278587:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:08:41 ET
+Table 'Jole III' 9-max Seat #2 is the button
+Seat 1: Mmago24 ($50 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($51 in chips) 
+BeLoveAlex: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+BeLoveAlex: folds 
+Uncalled bet ($0.25) returned to Mmago24
+Mmago24 collected $0.50 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Mmago24 (big blind) collected ($0.50)
+Seat 2: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 5: BeLoveAlex (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683281946:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:08:49 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 1: Mmago24 ($50.25 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($50.75 in chips) 
+Mmago24: posts small blind $0.25
+AlexEliseev7: posts big blind $0.50
+*** HOLE CARDS ***
+BeLoveAlex: folds 
+Mmago24: folds 
+Uncalled bet ($0.25) returned to AlexEliseev7
+AlexEliseev7 collected $0.50 from pot
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Mmago24 (small blind) folded before Flop
+Seat 2: AlexEliseev7 (big blind) collected ($0.50)
+Seat 5: BeLoveAlex (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683286567:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:09:01 ET
+Table 'Jole III' 9-max Seat #1 is the button
+Seat 1: Mmago24 ($50 in chips) 
+Seat 2: AlexEliseev7 ($50.25 in chips) 
+Seat 5: BeLoveAlex ($50.75 in chips) 
+AlexEliseev7: posts small blind $0.25
+BeLoveAlex: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24 has timed out
+Mmago24: folds 
+AlexEliseev7: raises $1 to $1.50
+BeLoveAlex: folds 
+Uncalled bet ($1) returned to AlexEliseev7
+AlexEliseev7 collected $1 from pot
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Mmago24 (button) folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 (small blind) collected ($1)
+Seat 5: BeLoveAlex (big blind) folded before Flop
+
+
+
+PokerStars Hand #228683293910:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:09:19 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 2: AlexEliseev7 ($50.75 in chips) 
+Seat 5: BeLoveAlex ($50.25 in chips) 
+BeLoveAlex: posts small blind $0.25
+AlexEliseev7: posts big blind $0.50
+*** HOLE CARDS ***
+Vierc joins the table at seat #6 
+BeLoveAlex: folds 
+Uncalled bet ($0.25) returned to AlexEliseev7
+Rulet345 joins the table at seat #7 
+AlexEliseev7 collected $0.50 from pot
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: AlexEliseev7 (big blind) collected ($0.50)
+Seat 5: BeLoveAlex (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683300372:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:09:24 ET
+Table 'Jole III' 9-max Seat #2 is the button
+Seat 2: AlexEliseev7 ($51 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($50 in chips) 
+BeLoveAlex: posts small blind $0.25
+Vierc: posts big blind $0.50
+Rulet345: sits out 
+Mmago24: sits out 
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+BeLoveAlex: folds 
+Uncalled bet ($0.25) returned to Vierc
+Vierc collected $0.50 from pot
+Vierc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 5: BeLoveAlex (small blind) folded before Flop
+Seat 6: Vierc (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228683302728:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:09:30 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 2: AlexEliseev7 ($51 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($50.25 in chips) 
+Seat 7: Rulet345 ($50 in chips) 
+Vierc: posts small blind $0.25
+Rulet345: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+Gluck35 joins the table at seat #8 
+AlexEliseev7: folds 
+BeLoveAlex: folds 
+Vierc: folds 
+Uncalled bet ($0.25) returned to Rulet345
+Rulet345 collected $0.50 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 5: BeLoveAlex (button) folded before Flop (didn't bet)
+Seat 6: Vierc (small blind) folded before Flop
+Seat 7: Rulet345 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228683306234:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:09:39 ET
+Table 'Jole III' 9-max Seat #6 is the button
+Seat 2: AlexEliseev7 ($51 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($50 in chips) 
+Seat 7: Rulet345 ($50.25 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Rulet345: posts small blind $0.25
+Gluck35: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+AlexEliseev7: raises $0.75 to $1.25
+BeLoveAlex: folds 
+Vierc: calls $1.25
+Rulet345: folds 
+Gluck35: folds 
+*** FLOP *** [4c 5d 5c]
+AlexEliseev7: bets $1.02
+Vierc: calls $1.02
+*** TURN *** [4c 5d 5c] [6h]
+AlexEliseev7: bets $4.02
+Vierc: calls $4.02
+*** RIVER *** [4c 5d 5c 6h] [Td]
+AlexEliseev7: checks 
+Vierc: bets $6.33
+AlexEliseev7: folds 
+Uncalled bet ($6.33) returned to Vierc
+Vierc collected $12.66 from pot
+Vierc: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.33 | Rake $0.67 
+Board [4c 5d 5c 6h Td]
+Seat 2: AlexEliseev7 folded on the River
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Vierc (button) collected ($12.66)
+Seat 7: Rulet345 (small blind) folded before Flop
+Seat 8: Gluck35 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228683322105:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:10:19 ET
+Table 'Jole III' 9-max Seat #7 is the button
+Seat 1: Mmago24 ($50 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($56.37 in chips) 
+Seat 7: Rulet345 ($50 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Gluck35: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+BeLoveAlex: folds 
+Vierc: folds 
+Rulet345: raises $0.75 to $1.25
+Gluck35: folds 
+Mmago24: folds 
+Uncalled bet ($0.75) returned to Rulet345
+Rulet345 collected $1.25 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mmago24 (big blind) folded before Flop
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Vierc folded before Flop (didn't bet)
+Seat 7: Rulet345 (button) collected ($1.25)
+Seat 8: Gluck35 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683329469:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:10:37 ET
+Table 'Jole III' 9-max Seat #8 is the button
+Seat 1: Mmago24 ($50 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($56.37 in chips) 
+Seat 7: Rulet345 ($50.75 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Mmago24: posts small blind $0.25
+AlexEliseev7: posts big blind $0.50
+*** HOLE CARDS ***
+BeLoveAlex: folds 
+Vierc: folds 
+Rulet345: raises $0.75 to $1.25
+Gluck35: folds 
+Mmago24: folds 
+AlexEliseev7: calls $0.75
+*** FLOP *** [2s 5c Ac]
+AlexEliseev7: checks 
+MarsMiland joins the table at seat #4 
+Rulet345: bets $1.31
+AlexEliseev7: folds 
+Uncalled bet ($1.31) returned to Rulet345
+Rulet345 collected $2.61 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [2s 5c Ac]
+Seat 1: Mmago24 (small blind) folded before Flop
+Seat 2: AlexEliseev7 (big blind) folded on the Flop
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Vierc folded before Flop (didn't bet)
+Seat 7: Rulet345 collected ($2.61)
+Seat 8: Gluck35 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683343338:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:11:12 ET
+Table 'Jole III' 9-max Seat #1 is the button
+Seat 1: Mmago24 ($50 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($56.37 in chips) 
+Seat 7: Rulet345 ($52.11 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+AlexEliseev7: posts small blind $0.25
+BeLoveAlex: posts big blind $0.50
+*** HOLE CARDS ***
+Vierc: raises $0.50 to $1
+Rulet345: folds 
+juwnas joins the table at seat #3 
+Gluck35: folds 
+Mmago24: folds 
+AlexEliseev7: folds 
+BeLoveAlex: calls $0.50
+*** FLOP *** [6h Qd 6c]
+BeLoveAlex: checks 
+Vierc: bets $2.14
+BeLoveAlex: folds 
+Uncalled bet ($2.14) returned to Vierc
+Vierc collected $2.14 from pot
+Vierc: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [6h Qd 6c]
+Seat 1: Mmago24 (button) folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 (small blind) folded before Flop
+Seat 5: BeLoveAlex (big blind) folded on the Flop
+Seat 6: Vierc collected ($2.14)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683351531:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:11:32 ET
+Table 'Jole III' 9-max Seat #2 is the button
+Seat 1: Mmago24 ($50 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($57.51 in chips) 
+Seat 7: Rulet345 ($52.11 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+BeLoveAlex: posts small blind $0.25
+Vierc: posts big blind $0.50
+*** HOLE CARDS ***
+Lago Madjore joins the table at seat #9 
+juwnas leaves the table
+Rulet345: folds 
+Lago Madjore leaves the table
+Gluck35: folds 
+Mmago24: folds 
+juwnas joins the table at seat #3 
+AlexEliseev7: folds 
+BeLoveAlex: folds 
+Uncalled bet ($0.25) returned to Vierc
+Vierc collected $0.50 from pot
+Vierc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 5: BeLoveAlex (small blind) folded before Flop
+Seat 6: Vierc (big blind) collected ($0.50)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683356591:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:11:45 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 1: Mmago24 ($50 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($57.76 in chips) 
+Seat 7: Rulet345 ($52.11 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Vierc: posts small blind $0.25
+Rulet345: posts big blind $0.50
+juwnas: sits out 
+*** HOLE CARDS ***
+Meenoutaure joins the table at seat #9 
+Gluck35: folds 
+Mmago24: folds 
+AlexEliseev7: raises $0.75 to $1.25
+BeLoveAlex: folds 
+Vierc: folds 
+Rulet345: calls $0.75
+*** FLOP *** [6h Jd 4d]
+Rulet345: checks 
+AlexEliseev7: checks 
+*** TURN *** [6h Jd 4d] [2h]
+Rulet345: bets $1.31
+AlexEliseev7: folds 
+Uncalled bet ($1.31) returned to Rulet345
+Rulet345 collected $2.61 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [6h Jd 4d 2h]
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 folded on the Turn
+Seat 5: BeLoveAlex (button) folded before Flop (didn't bet)
+Seat 6: Vierc (small blind) folded before Flop
+Seat 7: Rulet345 (big blind) collected ($2.61)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683374366:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:12:29 ET
+Table 'Jole III' 9-max Seat #6 is the button
+Seat 1: Mmago24 ($50 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($57.51 in chips) 
+Seat 7: Rulet345 ($53.47 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($50 in chips) 
+Rulet345: posts small blind $0.25
+Gluck35: posts big blind $0.50
+Meenoutaure: posts big blind $0.50
+juwnas: sits out 
+*** HOLE CARDS ***
+Meenoutaure: checks 
+Mmago24: raises $1.50 to $2
+AlexEliseev7: folds 
+BeLoveAlex: calls $2
+Vierc: folds 
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure: calls $1.50
+*** FLOP *** [3d Ks Ah]
+Meenoutaure: checks 
+Mmago24: checks 
+BeLoveAlex: checks 
+*** TURN *** [3d Ks Ah] [8d]
+Meenoutaure: bets $3.21
+Mmago24: calls $3.21
+BeLoveAlex: folds 
+*** RIVER *** [3d Ks Ah 8d] [2s]
+Meenoutaure: checks 
+Mmago24: checks 
+*** SHOW DOWN ***
+Meenoutaure: shows [Qs 3s] (a pair of Threes)
+Mmago24: shows [Ts Td] (a pair of Tens)
+Mmago24 collected $12.51 from pot
+*** SUMMARY ***
+Total pot $13.17 | Rake $0.66 
+Board [3d Ks Ah 8d 2s]
+Seat 1: Mmago24 showed [Ts Td] and won ($12.51) with a pair of Tens
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 5: BeLoveAlex folded on the Turn
+Seat 6: Vierc (button) folded before Flop (didn't bet)
+Seat 7: Rulet345 (small blind) folded before Flop
+Seat 8: Gluck35 (big blind) folded before Flop
+Seat 9: Meenoutaure showed [Qs 3s] and lost with a pair of Threes
+
+
+
+PokerStars Hand #228683395576:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:13:23 ET
+Table 'Jole III' 9-max Seat #7 is the button
+Seat 1: Mmago24 ($57.30 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($57.51 in chips) 
+Seat 7: Rulet345 ($53.22 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($44.79 in chips) 
+Gluck35: posts small blind $0.25
+Meenoutaure: posts big blind $0.50
+juwnas: sits out 
+*** HOLE CARDS ***
+Mmago24: folds 
+juwnas leaves the table
+dikanmax joins the table at seat #3 
+AlexEliseev7: folds 
+BeLoveAlex: folds 
+Vierc: folds 
+Rulet345: folds 
+Gluck35: folds 
+Uncalled bet ($0.25) returned to Meenoutaure
+Meenoutaure collected $0.50 from pot
+Meenoutaure: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Vierc folded before Flop (didn't bet)
+Seat 7: Rulet345 (button) folded before Flop (didn't bet)
+Seat 8: Gluck35 (small blind) folded before Flop
+Seat 9: Meenoutaure (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228683402263:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:13:39 ET
+Table 'Jole III' 9-max Seat #8 is the button
+Seat 1: Mmago24 ($57.30 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($57.51 in chips) 
+Seat 7: Rulet345 ($53.22 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($45.04 in chips) 
+Meenoutaure: posts small blind $0.25
+Mmago24: posts big blind $0.50
+dikanmax: sits out 
+*** HOLE CARDS ***
+AlexEliseev7: raises $0.75 to $1.25
+BeLoveAlex: folds 
+Vierc: folds 
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure: folds 
+Mmago24: calls $0.75
+*** FLOP *** [9d Jh 9s]
+Mmago24: checks 
+AlexEliseev7: checks 
+*** TURN *** [9d Jh 9s] [3s]
+Mmago24: checks 
+AlexEliseev7: checks 
+*** RIVER *** [9d Jh 9s 3s] [Ts]
+Mmago24: checks 
+AlexEliseev7: checks 
+*** SHOW DOWN ***
+Mmago24: shows [7h 7s] (two pair, Nines and Sevens)
+AlexEliseev7: mucks hand 
+Mmago24 collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [9d Jh 9s 3s Ts]
+Seat 1: Mmago24 (big blind) showed [7h 7s] and won ($2.61) with two pair, Nines and Sevens
+Seat 2: AlexEliseev7 mucked
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Vierc folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 (button) folded before Flop (didn't bet)
+Seat 9: Meenoutaure (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683428098:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:14:44 ET
+Table 'Jole III' 9-max Seat #9 is the button
+Seat 1: Mmago24 ($58.66 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($57.51 in chips) 
+Seat 7: Rulet345 ($53.22 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($44.79 in chips) 
+Mmago24: posts small blind $0.25
+AlexEliseev7: posts big blind $0.50
+dikanmax: sits out 
+*** HOLE CARDS ***
+BeLoveAlex: folds 
+Vierc: folds 
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure: folds 
+Mmago24: raises $1 to $1.50
+AlexEliseev7: folds 
+Uncalled bet ($1) returned to Mmago24
+Mmago24 collected $1 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Mmago24 (small blind) collected ($1)
+Seat 2: AlexEliseev7 (big blind) folded before Flop
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Vierc folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683437207:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:15:06 ET
+Table 'Jole III' 9-max Seat #1 is the button
+Seat 1: Mmago24 ($59.16 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($63.50 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($57.51 in chips) 
+Seat 7: Rulet345 ($53.22 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($44.79 in chips) 
+AlexEliseev7: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+BeLoveAlex: folds 
+Vierc: raises $1 to $1.50
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure: calls $1.50
+Mmago24: folds 
+AlexEliseev7: folds 
+dikanmax: folds 
+*** FLOP *** [2s Tc 8d]
+Vierc: checks 
+Meenoutaure: bets $1.78
+Vierc: calls $1.78
+*** TURN *** [2s Tc 8d] [Kd]
+Vierc: checks 
+Meenoutaure: bets $3.47
+Vierc: calls $3.47
+*** RIVER *** [2s Tc 8d Kd] [7s]
+Vierc: checks 
+Meenoutaure: bets $13.54
+Vierc: calls $13.54
+*** SHOW DOWN ***
+Meenoutaure: shows [Kc 5s] (a pair of Kings)
+Vierc: mucks hand 
+Meenoutaure collected $39.33 from pot
+*** SUMMARY ***
+Total pot $41.33 | Rake $2 
+Board [2s Tc 8d Kd 7s]
+Seat 1: Mmago24 (button) folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 (small blind) folded before Flop
+Seat 3: dikanmax (big blind) folded before Flop
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Vierc mucked
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure showed [Kc 5s] and won ($39.33) with a pair of Kings
+
+
+
+PokerStars Hand #228683461012:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:16:04 ET
+Table 'Jole III' 9-max Seat #2 is the button
+Seat 1: Mmago24 ($59.16 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($63 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($37.22 in chips) 
+Seat 7: Rulet345 ($53.22 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($63.83 in chips) 
+dikanmax: posts small blind $0.25
+BeLoveAlex: posts big blind $0.50
+*** HOLE CARDS ***
+Vierc: folds 
+Rulet345: raises $1 to $1.50
+Gluck35: folds 
+Meenoutaure: calls $1.50
+Mmago24: calls $1.50
+AlexEliseev7: folds 
+dikanmax: folds 
+BeLoveAlex: folds 
+*** FLOP *** [8s 9h Qs]
+Rulet345: checks 
+Meenoutaure: checks 
+Mmago24: bets $3.33
+Rulet345: folds 
+Meenoutaure: folds 
+Uncalled bet ($3.33) returned to Mmago24
+Mmago24 collected $4.99 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.26 
+Board [8s 9h Qs]
+Seat 1: Mmago24 collected ($4.99)
+Seat 2: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 3: dikanmax (small blind) folded before Flop
+Seat 5: BeLoveAlex (big blind) folded before Flop
+Seat 6: Vierc folded before Flop (didn't bet)
+Seat 7: Rulet345 folded on the Flop
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure folded on the Flop
+
+
+
+PokerStars Hand #228683476204:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:16:41 ET
+Table 'Jole III' 9-max Seat #3 is the button
+Seat 1: Mmago24 ($62.65 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($62.75 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($37.22 in chips) 
+Seat 7: Rulet345 ($51.72 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($62.33 in chips) 
+BeLoveAlex: posts small blind $0.25
+Vierc: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure: raises $2 to $2.50
+Mmago24: folds 
+AlexEliseev7: folds 
+dikanmax: folds 
+BeLoveAlex: folds 
+Vierc: folds 
+Uncalled bet ($2) returned to Meenoutaure
+Meenoutaure collected $1.25 from pot
+Meenoutaure: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax (button) folded before Flop (didn't bet)
+Seat 5: BeLoveAlex (small blind) folded before Flop
+Seat 6: Vierc (big blind) folded before Flop
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure collected ($1.25)
+
+
+
+PokerStars Hand #228683487886:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:17:10 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 1: Mmago24 ($62.65 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($62.75 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($36.72 in chips) 
+Seat 7: Rulet345 ($51.72 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($63.08 in chips) 
+Vierc: posts small blind $0.25
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+Gluck35: folds 
+Meenoutaure: folds 
+Mmago24: folds 
+AlexEliseev7: folds 
+dikanmax: raises $1 to $1.50
+BeLoveAlex: folds 
+Vierc: calls $1.25
+Rulet345: folds 
+*** FLOP *** [Jc 2c 9h]
+Vierc: checks 
+dikanmax: bets $2.25
+Vierc: folds 
+Uncalled bet ($2.25) returned to dikanmax
+dikanmax collected $3.32 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [Jc 2c 9h]
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax collected ($3.32)
+Seat 5: BeLoveAlex (button) folded before Flop (didn't bet)
+Seat 6: Vierc (small blind) folded on the Flop
+Seat 7: Rulet345 (big blind) folded before Flop
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683507029:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:17:57 ET
+Table 'Jole III' 9-max Seat #6 is the button
+Seat 1: Mmago24 ($62.65 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($64.57 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 6: Vierc ($35.22 in chips) 
+Seat 7: Rulet345 ($51.22 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($63.08 in chips) 
+Rulet345: posts small blind $0.25
+Gluck35: posts big blind $0.50
+*** HOLE CARDS ***
+Meenoutaure: folds 
+Mmago24: folds 
+AlexEliseev7: folds 
+dikanmax: folds 
+BeLoveAlex: raises $0.60 to $1.10
+Vierc: folds 
+Vierc leaves the table
+Rulet345: folds 
+Gluck35: folds 
+Uncalled bet ($0.60) returned to BeLoveAlex
+BeLoveAlex collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 5: BeLoveAlex collected ($1.25)
+Seat 6: Vierc (button) folded before Flop (didn't bet)
+Seat 7: Rulet345 (small blind) folded before Flop
+Seat 8: Gluck35 (big blind) folded before Flop
+Seat 9: Meenoutaure folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683518348:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:18:25 ET
+Table 'Jole III' 9-max Seat #7 is the button
+Seat 1: Mmago24 ($62.65 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($64.57 in chips) 
+Seat 5: BeLoveAlex ($50.75 in chips) 
+Seat 7: Rulet345 ($50.97 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($63.08 in chips) 
+Gluck35: posts small blind $0.25
+Meenoutaure: posts big blind $0.50
+*** HOLE CARDS ***
+Egor142NVKZ joins the table at seat #6 
+Egor142NVKZ leaves the table
+Mmago24: folds 
+AlexEliseev7: folds 
+dikanmax: folds 
+BeLoveAlex: folds 
+Rulet345: folds 
+Gluck35: folds 
+Uncalled bet ($0.25) returned to Meenoutaure
+Meenoutaure collected $0.50 from pot
+Meenoutaure: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 7: Rulet345 (button) folded before Flop (didn't bet)
+Seat 8: Gluck35 (small blind) folded before Flop
+Seat 9: Meenoutaure (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228683527991:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:18:49 ET
+Table 'Jole III' 9-max Seat #8 is the button
+Seat 1: Mmago24 ($62.65 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($64.57 in chips) 
+Seat 5: BeLoveAlex ($50.75 in chips) 
+Seat 7: Rulet345 ($50.97 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($63.33 in chips) 
+Meenoutaure: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+dikanmax: folds 
+BeLoveAlex: raises $0.60 to $1.10
+Rulet345: calls $1.10
+Gluck35: folds 
+Meenoutaure: raises $3.80 to $4.90
+ReZo1utioN joins the table at seat #6 
+Mmago24: folds 
+BeLoveAlex: calls $3.80
+Rulet345: calls $3.80
+*** FLOP *** [Ks 2d Js]
+Meenoutaure: checks 
+BeLoveAlex: checks 
+Rulet345: checks 
+*** TURN *** [Ks 2d Js] [5d]
+Meenoutaure: bets $7.50
+BeLoveAlex: calls $7.50
+Rulet345: raises $18.47 to $25.97
+Meenoutaure: raises $32.46 to $58.43 and is all-in
+BeLoveAlex: folds 
+Rulet345: calls $20.10 and is all-in
+Uncalled bet ($12.36) returned to Meenoutaure
+*** RIVER *** [Ks 2d Js 5d] [3h]
+*** SHOW DOWN ***
+Meenoutaure: shows [Kh Td] (a pair of Kings)
+Rulet345: shows [5h 5c] (three of a kind, Fives)
+Rulet345 collected $112.84 from pot
+*** SUMMARY ***
+Total pot $114.84 | Rake $2 
+Board [Ks 2d Js 5d 3h]
+Seat 1: Mmago24 (big blind) folded before Flop
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 5: BeLoveAlex folded on the Turn
+Seat 7: Rulet345 showed [5h 5c] and won ($112.84) with three of a kind, Fives
+Seat 8: Gluck35 (button) folded before Flop (didn't bet)
+Seat 9: Meenoutaure (small blind) showed [Kh Td] and lost with a pair of Kings
+
+
+
+PokerStars Hand #228683560611:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:20:09 ET
+Table 'Jole III' 9-max Seat #9 is the button
+Seat 1: Mmago24 ($62.15 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($64.57 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 7: Rulet345 ($112.84 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($12.36 in chips) 
+Mmago24: posts small blind $0.25
+AlexEliseev7: posts big blind $0.50
+ReZo1utioN: sits out 
+*** HOLE CARDS ***
+dikanmax: folds 
+BeLoveAlex: folds 
+Rulet345: folds 
+ReZo1utioN leaves the table
+Gluck35: folds 
+Meenoutaure: raises $0.50 to $1
+Mmago24: folds 
+Cross44444 joins the table at seat #6 
+AlexEliseev7: folds 
+Uncalled bet ($0.50) returned to Meenoutaure
+Meenoutaure collected $1.25 from pot
+Meenoutaure: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mmago24 (small blind) folded before Flop
+Seat 2: AlexEliseev7 (big blind) folded before Flop
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure (button) collected ($1.25)
+
+
+
+PokerStars Hand #228683571127:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:20:36 ET
+Table 'Jole III' 9-max Seat #1 is the button
+Seat 1: Mmago24 ($61.90 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($64.57 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 7: Rulet345 ($112.84 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($13.11 in chips) 
+AlexEliseev7: posts small blind $0.25
+dikanmax: posts big blind $0.50
+Cross44444: sits out 
+*** HOLE CARDS ***
+BeLoveAlex: folds 
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure: raises $0.50 to $1
+Mmago24: folds 
+AlexEliseev7: folds 
+dikanmax: calls $0.50
+*** FLOP *** [4s Ac Qc]
+dikanmax: checks 
+Meenoutaure: checks 
+*** TURN *** [4s Ac Qc] [Jd]
+dikanmax: bets $1.43
+Meenoutaure: folds 
+Uncalled bet ($1.43) returned to dikanmax
+dikanmax collected $2.14 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [4s Ac Qc Jd]
+Seat 1: Mmago24 (button) folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 (small blind) folded before Flop
+Seat 3: dikanmax (big blind) collected ($2.14)
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure folded on the Turn
+
+
+
+PokerStars Hand #228683590482:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:21:23 ET
+Table 'Jole III' 9-max Seat #2 is the button
+Seat 1: Mmago24 ($61.90 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($65.71 in chips) 
+Seat 4: MarsMiland ($54.59 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 7: Rulet345 ($112.84 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($12.11 in chips) 
+dikanmax: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+Cross44444: sits out 
+*** HOLE CARDS ***
+BeLoveAlex: folds 
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure: raises $1.25 to $1.75
+Mmago24: calls $1.75
+AlexEliseev7: folds 
+dikanmax: folds 
+MarsMiland: folds 
+*** FLOP *** [4c 6s 2c]
+Meenoutaure: bets $4.04
+Mmago24: folds 
+Uncalled bet ($4.04) returned to Meenoutaure
+Meenoutaure collected $4.04 from pot
+Meenoutaure: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.21 
+Board [4c 6s 2c]
+Seat 1: Mmago24 folded on the Flop
+Seat 2: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 3: dikanmax (small blind) folded before Flop
+Seat 4: MarsMiland (big blind) folded before Flop
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure collected ($4.04)
+
+
+
+PokerStars Hand #228683607131:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:22:04 ET
+Table 'Jole III' 9-max Seat #3 is the button
+Seat 1: Mmago24 ($60.15 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($65.46 in chips) 
+Seat 4: MarsMiland ($54.09 in chips) 
+Seat 5: BeLoveAlex ($50 in chips) 
+Seat 7: Rulet345 ($112.84 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($14.40 in chips) 
+MarsMiland: posts small blind $0.25
+BeLoveAlex: posts big blind $0.50
+Cross44444: sits out 
+*** HOLE CARDS ***
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure: raises $1.50 to $2
+Mmago24: folds 
+AlexEliseev7: folds 
+dikanmax: folds 
+MarsMiland: folds 
+BeLoveAlex: calls $1.50
+*** FLOP *** [6c 9h 8d]
+BeLoveAlex: checks 
+Meenoutaure: bets $3
+BeLoveAlex: raises $9.50 to $12.50
+Meenoutaure: calls $9.40 and is all-in
+Uncalled bet ($0.10) returned to BeLoveAlex
+*** TURN *** [6c 9h 8d] [Th]
+*** RIVER *** [6c 9h 8d Th] [6d]
+*** SHOW DOWN ***
+BeLoveAlex: shows [Kh 7h] (a straight, Six to Ten)
+Meenoutaure: shows [6h Ah] (three of a kind, Sixes)
+BeLoveAlex collected $27.60 from pot
+*** SUMMARY ***
+Total pot $29.05 | Rake $1.45 
+Board [6c 9h 8d Th 6d]
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax (button) folded before Flop (didn't bet)
+Seat 4: MarsMiland (small blind) folded before Flop
+Seat 5: BeLoveAlex (big blind) showed [Kh 7h] and won ($27.60) with a straight, Six to Ten
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure showed [6h Ah] and lost with three of a kind, Sixes
+
+
+
+PokerStars Hand #228683623746:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:22:44 ET
+Table 'Jole III' 9-max Seat #4 is the button
+Seat 1: Mmago24 ($60.15 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($65.46 in chips) 
+Seat 4: MarsMiland ($53.84 in chips) 
+Seat 5: BeLoveAlex ($63.20 in chips) 
+Seat 6: Cross44444 ($20 in chips) 
+Seat 7: Rulet345 ($112.84 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+BeLoveAlex: posts small blind $0.25
+Cross44444: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure leaves the table
+Mmago24: folds 
+AlexEliseev7: folds 
+dikanmax: folds 
+MarsMiland: folds 
+BeLoveAlex: folds 
+Uncalled bet ($0.25) returned to Cross44444
+Cross44444 collected $0.50 from pot
+Cross44444: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 4: MarsMiland (button) folded before Flop (didn't bet)
+Seat 5: BeLoveAlex (small blind) folded before Flop
+Seat 6: Cross44444 (big blind) collected ($0.50)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683633729:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:23:04 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 1: Mmago24 ($60.15 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($65.46 in chips) 
+Seat 4: MarsMiland ($53.84 in chips) 
+Seat 5: BeLoveAlex ($62.95 in chips) 
+Seat 6: Cross44444 ($20.25 in chips) 
+Seat 7: Rulet345 ($112.84 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Cross44444: posts small blind $0.25
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+Gluck35: folds 
+Mmago24: folds 
+AlexEliseev7: folds 
+dikanmax: folds 
+MarsMiland: folds 
+BeLoveAlex: raises $0.60 to $1.10
+Cross44444: folds 
+Rulet345: calls $0.60
+*** FLOP *** [5d 7h 3d]
+Rulet345: checks 
+BeLoveAlex: checks 
+*** TURN *** [5d 7h 3d] [4s]
+Rulet345: bets $1.55
+BeLoveAlex: folds 
+Uncalled bet ($1.55) returned to Rulet345
+Rulet345 collected $2.33 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.12 
+Board [5d 7h 3d 4s]
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: BeLoveAlex (button) folded on the Turn
+Seat 6: Cross44444 (small blind) folded before Flop
+Seat 7: Rulet345 (big blind) collected ($2.33)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683651748:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:23:49 ET
+Table 'Jole III' 9-max Seat #6 is the button
+Seat 1: Mmago24 ($60.15 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($65.46 in chips) 
+Seat 4: MarsMiland ($53.84 in chips) 
+Seat 5: BeLoveAlex ($61.85 in chips) 
+Seat 6: Cross44444 ($20 in chips) 
+Seat 7: Rulet345 ($114.07 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Rulet345: posts small blind $0.25
+Gluck35: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+AlexEliseev7: folds 
+dikanmax: folds 
+Meenoutaure joins the table at seat #9 
+MarsMiland: raises $0.80 to $1.30
+BeLoveAlex: folds 
+Cross44444: raises $3.20 to $4.50
+Rulet345: folds 
+Gluck35: folds 
+MarsMiland: folds 
+Uncalled bet ($3.20) returned to Cross44444
+Cross44444 collected $3.35 from pot
+Cross44444: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0 
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Cross44444 (button) collected ($3.35)
+Seat 7: Rulet345 (small blind) folded before Flop
+Seat 8: Gluck35 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228683671500:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:24:38 ET
+Table 'Jole III' 9-max Seat #7 is the button
+Seat 1: Mmago24 ($60.15 in chips) 
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($65.46 in chips) 
+Seat 4: MarsMiland ($52.54 in chips) 
+Seat 5: BeLoveAlex ($61.85 in chips) 
+Seat 6: Cross44444 ($22.05 in chips) 
+Seat 7: Rulet345 ($113.82 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($50 in chips) 
+Gluck35: posts small blind $0.25
+Meenoutaure: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+AlexEliseev7: raises $0.75 to $1.25
+dikanmax: folds 
+MarsMiland: folds 
+BeLoveAlex: folds 
+Cross44444: folds 
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure: folds 
+Uncalled bet ($0.75) returned to AlexEliseev7
+AlexEliseev7 collected $1.25 from pot
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 collected ($1.25)
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Cross44444 folded before Flop (didn't bet)
+Seat 7: Rulet345 (button) folded before Flop (didn't bet)
+Seat 8: Gluck35 (small blind) folded before Flop
+Seat 9: Meenoutaure (big blind) folded before Flop
+
+
+
+PokerStars Hand #228683691507:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:25:09 ET
+Table 'Jole III' 9-max Seat #8 is the button
+Seat 2: AlexEliseev7 ($50.75 in chips) 
+Seat 3: dikanmax ($65.46 in chips) 
+Seat 4: MarsMiland ($52.54 in chips) 
+Seat 5: BeLoveAlex ($61.85 in chips) 
+Seat 6: Cross44444 ($22.05 in chips) 
+Seat 7: Rulet345 ($113.82 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($49.50 in chips) 
+Meenoutaure: posts small blind $0.25
+Mmago24: is sitting out 
+AlexEliseev7: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+MarsMiland: folds 
+BeLoveAlex: folds 
+Cross44444: folds 
+Rulet345: raises $0.75 to $1.25
+Gluck35: folds 
+Meenoutaure: calls $1
+AlexEliseev7: calls $0.75
+*** FLOP *** [6s 9s 7s]
+Meenoutaure: bets $1.78
+AlexEliseev7: folds 
+Rulet345: folds 
+Uncalled bet ($1.78) returned to Meenoutaure
+Meenoutaure collected $3.56 from pot
+Meenoutaure: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [6s 9s 7s]
+Seat 2: AlexEliseev7 (big blind) folded on the Flop
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Cross44444 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded on the Flop
+Seat 8: Gluck35 (button) folded before Flop (didn't bet)
+Seat 9: Meenoutaure (small blind) collected ($3.56)
+
+
+
+PokerStars Hand #228683710725:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:25:58 ET
+Table 'Jole III' 9-max Seat #9 is the button
+Seat 2: AlexEliseev7 ($50 in chips) 
+Seat 3: dikanmax ($65.46 in chips) 
+Seat 4: MarsMiland ($52.54 in chips) 
+Seat 5: BeLoveAlex ($61.85 in chips) 
+Seat 6: Cross44444 ($22.05 in chips) 
+Seat 7: Rulet345 ($112.57 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($51.81 in chips) 
+AlexEliseev7: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+BeLoveAlex: folds 
+Cross44444: folds 
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure: folds 
+AlexEliseev7: raises $1 to $1.50
+dikanmax: calls $1
+*** FLOP *** [3d Ad 3c]
+AlexEliseev7: bets $0.94
+dikanmax: folds 
+Uncalled bet ($0.94) returned to AlexEliseev7
+AlexEliseev7 collected $2.85 from pot
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [3d Ad 3c]
+Seat 2: AlexEliseev7 (small blind) collected ($2.85)
+Seat 3: dikanmax (big blind) folded on the Flop
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Cross44444 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683722275:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:26:26 ET
+Table 'Jole III' 9-max Seat #2 is the button
+Seat 2: AlexEliseev7 ($51.35 in chips) 
+Seat 3: dikanmax ($63.96 in chips) 
+Seat 4: MarsMiland ($52.54 in chips) 
+Seat 5: BeLoveAlex ($61.85 in chips) 
+Seat 6: Cross44444 ($22.05 in chips) 
+Seat 7: Rulet345 ($112.57 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($51.81 in chips) 
+dikanmax: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+BeLoveAlex: raises $0.60 to $1.10
+Cross44444: raises $3.15 to $4.25
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure: folds 
+AlexEliseev7: folds 
+dikanmax: folds 
+MarsMiland: folds 
+BeLoveAlex: folds 
+Uncalled bet ($3.15) returned to Cross44444
+Cross44444 collected $2.95 from pot
+Cross44444: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.95 | Rake $0 
+Seat 2: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 3: dikanmax (small blind) folded before Flop
+Seat 4: MarsMiland (big blind) folded before Flop
+Seat 5: BeLoveAlex folded before Flop
+Seat 6: Cross44444 collected ($2.95)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683735286:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:26:58 ET
+Table 'Jole III' 9-max Seat #3 is the button
+Seat 2: AlexEliseev7 ($51.35 in chips) 
+Seat 3: dikanmax ($63.71 in chips) 
+Seat 4: MarsMiland ($52.04 in chips) 
+Seat 5: BeLoveAlex ($60.75 in chips) 
+Seat 6: Cross44444 ($23.90 in chips) 
+Seat 7: Rulet345 ($112.57 in chips) 
+Seat 8: Gluck35 ($50 in chips) 
+Seat 9: Meenoutaure ($51.81 in chips) 
+MarsMiland: posts small blind $0.25
+BeLoveAlex: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+Cross44444: folds 
+Rulet345: folds 
+Gluck35: raises $0.75 to $1.25
+Meenoutaure: raises $0.75 to $2
+AlexEliseev7: folds 
+dikanmax: folds 
+MarsMiland: folds 
+BeLoveAlex: folds 
+Gluck35: raises $6 to $8
+Meenoutaure: calls $6
+*** FLOP *** [Jc 4c 9s]
+Gluck35: bets $7.75
+Meenoutaure: folds 
+Uncalled bet ($7.75) returned to Gluck35
+Gluck35 collected $15.91 from pot
+Gluck35: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.75 | Rake $0.84 
+Board [Jc 4c 9s]
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax (button) folded before Flop (didn't bet)
+Seat 4: MarsMiland (small blind) folded before Flop
+Seat 5: BeLoveAlex (big blind) folded before Flop
+Seat 6: Cross44444 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 collected ($15.91)
+Seat 9: Meenoutaure folded on the Flop
+
+
+
+PokerStars Hand #228683759673:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:27:58 ET
+Table 'Jole III' 9-max Seat #4 is the button
+Seat 2: AlexEliseev7 ($51.35 in chips) 
+Seat 3: dikanmax ($63.71 in chips) 
+Seat 4: MarsMiland ($51.79 in chips) 
+Seat 5: BeLoveAlex ($60.25 in chips) 
+Seat 6: Cross44444 ($23.90 in chips) 
+Seat 7: Rulet345 ($112.57 in chips) 
+Seat 8: Gluck35 ($57.91 in chips) 
+Seat 9: Meenoutaure ($43.81 in chips) 
+BeLoveAlex: posts small blind $0.25
+Cross44444: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+Rulet345: folds 
+Gluck35: folds 
+Meenoutaure: folds 
+AlexEliseev7: folds 
+dikanmax: folds 
+MarsMiland: raises $0.60 to $1.10
+BeLoveAlex: folds 
+Cross44444: calls $0.60
+*** FLOP *** [Jd Jc Ac]
+Cross44444: checks 
+MarsMiland: checks 
+*** TURN *** [Jd Jc Ac] [4s]
+Cross44444: checks 
+MarsMiland: bets $0.77
+Cross44444: folds 
+Uncalled bet ($0.77) returned to MarsMiland
+MarsMiland collected $2.33 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.12 
+Board [Jd Jc Ac 4s]
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 4: MarsMiland (button) collected ($2.33)
+Seat 5: BeLoveAlex (small blind) folded before Flop
+Seat 6: Cross44444 (big blind) folded on the Turn
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683780027:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:28:48 ET
+Table 'Jole III' 9-max Seat #5 is the button
+Seat 2: AlexEliseev7 ($51.35 in chips) 
+Seat 3: dikanmax ($63.71 in chips) 
+Seat 4: MarsMiland ($53.02 in chips) 
+Seat 5: BeLoveAlex ($60 in chips) 
+Seat 6: Cross44444 ($22.80 in chips) 
+Seat 7: Rulet345 ($112.57 in chips) 
+Seat 8: Gluck35 ($57.91 in chips) 
+Seat 9: Meenoutaure ($43.81 in chips) 
+Cross44444: posts small blind $0.25
+Rulet345: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+Gluck35: folds 
+Meenoutaure: raises $2 to $2.50
+AlexEliseev7: folds 
+dikanmax: folds 
+MarsMiland: folds 
+BeLoveAlex: calls $2.50
+Cross44444: folds 
+Rulet345: folds 
+*** FLOP *** [Kd 9s Ad]
+Meenoutaure: checks 
+BeLoveAlex: checks 
+*** TURN *** [Kd 9s Ad] [6h]
+Meenoutaure: bets $3
+BeLoveAlex: raises $7 to $10
+Meenoutaure: calls $7
+*** RIVER *** [Kd 9s Ad 6h] [7h]
+Meenoutaure: bets $24.46
+BeLoveAlex: raises $23.04 to $47.50 and is all-in
+Meenoutaure: calls $6.85 and is all-in
+Uncalled bet ($16.19) returned to BeLoveAlex
+*** SHOW DOWN ***
+BeLoveAlex: shows [6c 6d] (three of a kind, Sixes)
+Meenoutaure: shows [Th Ah] (a pair of Aces)
+BeLoveAlex collected $86.37 from pot
+*** SUMMARY ***
+Total pot $88.37 | Rake $2 
+Board [Kd 9s Ad 6h 7h]
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: BeLoveAlex (button) showed [6c 6d] and won ($86.37) with three of a kind, Sixes
+Seat 6: Cross44444 (small blind) folded before Flop
+Seat 7: Rulet345 (big blind) folded before Flop
+Seat 8: Gluck35 folded before Flop (didn't bet)
+Seat 9: Meenoutaure showed [Th Ah] and lost with a pair of Aces
+
+
+
+PokerStars Hand #228683801110:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:29:39 ET
+Table 'Jole III' 9-max Seat #6 is the button
+Seat 2: AlexEliseev7 ($51.35 in chips) 
+Seat 3: dikanmax ($63.71 in chips) 
+Seat 4: MarsMiland ($53.02 in chips) 
+Seat 5: BeLoveAlex ($102.56 in chips) 
+Seat 6: Cross44444 ($22.55 in chips) 
+Seat 7: Rulet345 ($112.07 in chips) 
+Seat 8: Gluck35 ($57.91 in chips) 
+Rulet345: posts small blind $0.25
+Gluck35: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+AlexEliseev7: raises $0.75 to $1.25
+dikanmax: folds 
+Meenoutaure leaves the table
+MarsMiland: folds 
+BeLoveAlex: folds 
+Cross44444: folds 
+Rulet345: folds 
+Gluck35: folds 
+Uncalled bet ($0.75) returned to AlexEliseev7
+AlexEliseev7 collected $1.25 from pot
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: AlexEliseev7 collected ($1.25)
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Cross44444 (button) folded before Flop (didn't bet)
+Seat 7: Rulet345 (small blind) folded before Flop
+Seat 8: Gluck35 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228683810135:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:30:02 ET
+Table 'Jole III' 9-max Seat #7 is the button
+Seat 1: Mmago24 ($60.15 in chips) 
+Seat 2: AlexEliseev7 ($52.10 in chips) 
+Seat 3: dikanmax ($63.71 in chips) 
+Seat 4: MarsMiland ($53.02 in chips) 
+Seat 5: BeLoveAlex ($102.56 in chips) 
+Seat 6: Cross44444 ($22.55 in chips) 
+Seat 7: Rulet345 ($111.82 in chips) 
+Seat 8: Gluck35 ($57.41 in chips) 
+Gluck35: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+AlexEliseev7: folds 
+dikanmax: folds 
+MarsMiland: folds 
+BeLoveAlex: folds 
+Cross44444: raises $1 to $1.50
+Rulet345: folds 
+Gluck35: folds 
+Mmago24: folds 
+Uncalled bet ($1) returned to Cross44444
+Cross44444 collected $1.25 from pot
+Cross44444: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mmago24 (big blind) folded before Flop
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Cross44444 collected ($1.25)
+Seat 7: Rulet345 (button) folded before Flop (didn't bet)
+Seat 8: Gluck35 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683825003:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:30:37 ET
+Table 'Jole III' 9-max Seat #8 is the button
+Seat 1: Mmago24 ($59.65 in chips) 
+Seat 2: AlexEliseev7 ($52.10 in chips) 
+Seat 3: dikanmax ($63.71 in chips) 
+Seat 4: MarsMiland ($53.02 in chips) 
+Seat 5: BeLoveAlex ($102.56 in chips) 
+Seat 6: Cross44444 ($23.30 in chips) 
+Seat 7: Rulet345 ($111.82 in chips) 
+Seat 8: Gluck35 ($57.16 in chips) 
+Mmago24: posts small blind $0.25
+AlexEliseev7: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+MarsMiland: folds 
+BeLoveAlex: folds 
+Cross44444: folds 
+Rulet345: raises $0.75 to $1.25
+Gluck35: raises $3 to $4.25
+Mmago24: folds 
+AlexEliseev7: folds 
+Cross44444 leaves the table
+Rulet345: folds 
+Uncalled bet ($3) returned to Gluck35
+Gluck35 collected $3.25 from pot
+Gluck35: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 1: Mmago24 (small blind) folded before Flop
+Seat 2: AlexEliseev7 (big blind) folded before Flop
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: BeLoveAlex folded before Flop (didn't bet)
+Seat 6: Cross44444 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop
+Seat 8: Gluck35 (button) collected ($3.25)
+
+
+
+PokerStars Hand #228683845162:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:31:25 ET
+Table 'Jole III' 9-max Seat #1 is the button
+Seat 1: Mmago24 ($59.40 in chips) 
+Seat 2: AlexEliseev7 ($51.60 in chips) 
+Seat 4: MarsMiland ($53.02 in chips) 
+Seat 5: BeLoveAlex ($102.56 in chips) 
+Seat 7: Rulet345 ($110.57 in chips) 
+Seat 8: Gluck35 ($59.16 in chips) 
+AlexEliseev7: posts small blind $0.25
+dikanmax: is sitting out 
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+BeLoveAlex: raises $0.60 to $1.10
+Rulet345: folds 
+Gluck35: folds 
+Mmago24: folds 
+AlexEliseev7: folds 
+MarsMiland: folds 
+Uncalled bet ($0.60) returned to BeLoveAlex
+BeLoveAlex collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mmago24 (button) folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 (small blind) folded before Flop
+Seat 4: MarsMiland (big blind) folded before Flop
+Seat 5: BeLoveAlex collected ($1.25)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: Gluck35 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683854286:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:31:46 ET
+Table 'Jole III' 9-max Seat #2 is the button
+Seat 1: Mmago24 ($59.40 in chips) 
+Seat 2: AlexEliseev7 ($51.35 in chips) 
+Seat 4: MarsMiland ($52.52 in chips) 
+Seat 8: Gluck35 ($59.16 in chips) 
+MarsMiland: posts small blind $0.25
+BeLoveAlex: is sitting out 
+Rulet345: is sitting out 
+Gluck35: posts big blind $0.50
+*** HOLE CARDS ***
+BeLoveAlex leaves the table
+dikanmax leaves the table
+Mmago24: raises $0.72 to $1.22
+AlexEliseev7: folds 
+MarsMiland: folds 
+Rulet345 leaves the table
+Pietah1989 joins the table at seat #9 
+Gluck35: folds 
+Uncalled bet ($0.72) returned to Mmago24
+Mmago24 collected $1.25 from pot
+Dragonclawss joins the table at seat #5 
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mmago24 collected ($1.25)
+Seat 2: AlexEliseev7 (button) folded before Flop (didn't bet)
+Seat 4: MarsMiland (small blind) folded before Flop
+Seat 8: Gluck35 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228683860248:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:32:00 ET
+Table 'Jole III' 9-max Seat #4 is the button
+Seat 1: Mmago24 ($60.15 in chips) 
+Seat 2: AlexEliseev7 ($51.35 in chips) 
+Seat 4: MarsMiland ($52.27 in chips) 
+Seat 8: Gluck35 ($58.66 in chips) 
+Seat 9: Pietah1989 ($50 in chips) 
+Gluck35: posts small blind $0.25
+Pietah1989: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+AlexEliseev7: folds 
+MarsMiland: folds 
+Gluck35: folds 
+Uncalled bet ($0.25) returned to Pietah1989
+Pietah1989 collected $0.50 from pot
+Pietah1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Mmago24 folded before Flop (didn't bet)
+Seat 2: AlexEliseev7 folded before Flop (didn't bet)
+Seat 4: MarsMiland (button) folded before Flop (didn't bet)
+Seat 8: Gluck35 (small blind) folded before Flop
+Seat 9: Pietah1989 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228683864911:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:32:11 ET
+Table 'Jole III' 9-max Seat #9 is the button
+Seat 8: Gluck35 ($58.41 in chips) 
+Seat 9: Pietah1989 ($50.25 in chips) 
+Pietah1989: posts small blind $0.25
+Mmago24: is sitting out 
+AlexEliseev7: is sitting out 
+MarsMiland: is sitting out 
+Gluck35: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland leaves the table
+AlexEliseev7 leaves the table
+Pietah1989: folds 
+Uncalled bet ($0.25) returned to Gluck35
+Gluck35 collected $0.50 from pot
+Gluck35: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 8: Gluck35 (big blind) collected ($0.50)
+Seat 9: Pietah1989 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683868039:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:32:19 ET
+Table 'Jole III' 9-max Seat #8 is the button
+Seat 8: Gluck35 ($58.66 in chips) 
+Seat 9: Pietah1989 ($50 in chips) 
+Gluck35: posts small blind $0.25
+Pietah1989: posts big blind $0.50
+*** HOLE CARDS ***
+Gluck35: raises $0.75 to $1.25
+Pietah1989: folds 
+Uncalled bet ($0.75) returned to Gluck35
+Gluck35 collected $1 from pot
+Gluck35: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 8: Gluck35 (button) (small blind) collected ($1)
+Seat 9: Pietah1989 (big blind) folded before Flop
+
+
+

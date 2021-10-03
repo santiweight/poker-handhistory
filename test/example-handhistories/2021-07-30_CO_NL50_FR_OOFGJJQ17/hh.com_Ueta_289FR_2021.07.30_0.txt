@@ -1,0 +1,1735 @@
+﻿PokerStars Hand #228690349904:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:33:10 ET
+Table 'Ueta III' 9-max Seat #7 is the button
+Seat 1: MarsMiland ($50.75 in chips) 
+Seat 2: leooooon79 ($24.40 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($53.59 in chips) 
+Seat 5: DonLeon88 ($19.35 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($50 in chips) 
+Seat 8: UPERAD ($49.50 in chips) 
+Seat 9: b03n13DE ($40 in chips) 
+UPERAD: posts small blind $0.25
+b03n13DE: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+leooooon79: calls $0.50
+coolkook: folds 
+Dspn: folds 
+DonLeon88: calls $0.50
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: checks 
+*** FLOP *** [As 9s Tc]
+b03n13DE: checks 
+leooooon79: checks 
+DonLeon88: bets $1
+b03n13DE: calls $1
+leooooon79: folds 
+*** TURN *** [As 9s Tc] [7c]
+b03n13DE: checks 
+DonLeon88: bets $1.78
+b03n13DE: folds 
+Uncalled bet ($1.78) returned to DonLeon88
+DonLeon88 collected $3.56 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [As 9s Tc 7c]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 folded on the Flop
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 collected ($3.56)
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 (button) folded before Flop (didn't bet)
+Seat 8: UPERAD (small blind) folded before Flop
+Seat 9: b03n13DE (big blind) folded on the Turn
+
+
+
+PokerStars Hand #228690375141:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:34:06 ET
+Table 'Ueta III' 9-max Seat #8 is the button
+Seat 1: MarsMiland ($50.75 in chips) 
+Seat 2: leooooon79 ($23.90 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($53.59 in chips) 
+Seat 5: DonLeon88 ($21.41 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($50 in chips) 
+Seat 8: UPERAD ($49.25 in chips) 
+Seat 9: b03n13DE ($38.50 in chips) 
+b03n13DE: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+leooooon79: calls $0.50
+coolkook: raises $1.25 to $1.75
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: raises $5.25 to $7
+leooooon79: folds 
+coolkook: folds 
+Uncalled bet ($5.25) returned to MarsMiland
+MarsMiland collected $4.25 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0 
+Seat 1: MarsMiland (big blind) collected ($4.25)
+Seat 2: leooooon79 folded before Flop
+Seat 3: coolkook folded before Flop
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD (button) folded before Flop (didn't bet)
+Seat 9: b03n13DE (small blind) folded before Flop
+
+
+
+PokerStars Hand #228690389065:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:34:36 ET
+Table 'Ueta III' 9-max Seat #9 is the button
+Seat 1: MarsMiland ($53.25 in chips) 
+Seat 2: leooooon79 ($23.40 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($53.59 in chips) 
+Seat 5: DonLeon88 ($21.41 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($50 in chips) 
+Seat 8: UPERAD ($49.25 in chips) 
+Seat 9: b03n13DE ($38.25 in chips) 
+MarsMiland: posts small blind $0.25
+leooooon79: posts big blind $0.50
+*** HOLE CARDS ***
+coolkook: folds 
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: folds 
+Uncalled bet ($0.25) returned to leooooon79
+leooooon79 collected $0.50 from pot
+leooooon79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: MarsMiland (small blind) folded before Flop
+Seat 2: leooooon79 (big blind) collected ($0.50)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690397177:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:34:54 ET
+Table 'Ueta III' 9-max Seat #1 is the button
+Seat 1: MarsMiland ($53 in chips) 
+Seat 2: leooooon79 ($23.65 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($53.59 in chips) 
+Seat 5: DonLeon88 ($21.41 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($50 in chips) 
+Seat 8: UPERAD ($49.25 in chips) 
+Seat 9: b03n13DE ($38.25 in chips) 
+leooooon79: posts small blind $0.25
+coolkook: posts big blind $0.50
+*** HOLE CARDS ***
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: raises $0.81 to $1.31
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: folds 
+leooooon79: calls $1.06
+coolkook: folds 
+*** FLOP *** [Tc 7d Kd]
+leooooon79: checks 
+MonplDCmax: bets $1.90
+leooooon79: folds 
+Uncalled bet ($1.90) returned to MonplDCmax
+MonplDCmax collected $2.96 from pot
+MonplDCmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.12 | Rake $0.16 
+Board [Tc 7d Kd]
+Seat 1: MarsMiland (button) folded before Flop (didn't bet)
+Seat 2: leooooon79 (small blind) folded on the Flop
+Seat 3: coolkook (big blind) folded before Flop
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax collected ($2.96)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690419541:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:35:44 ET
+Table 'Ueta III' 9-max Seat #2 is the button
+Seat 1: MarsMiland ($53 in chips) 
+Seat 2: leooooon79 ($22.34 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($53.59 in chips) 
+Seat 5: DonLeon88 ($21.41 in chips) 
+Seat 6: MonplDCmax ($51.65 in chips) 
+Seat 7: Seduisant365 ($50 in chips) 
+Seat 8: UPERAD ($49.25 in chips) 
+Seat 9: b03n13DE ($38.25 in chips) 
+coolkook: posts small blind $0.25
+Dspn: posts big blind $0.50
+*** HOLE CARDS ***
+DonLeon88: folds 
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: folds 
+leooooon79: calls $0.50
+coolkook: folds 
+Dspn: checks 
+*** FLOP *** [Kd 3s Ah]
+Dspn: checks 
+leooooon79: checks 
+*** TURN *** [Kd 3s Ah] [Ad]
+Dspn: bets $0.60
+leooooon79: folds 
+Uncalled bet ($0.60) returned to Dspn
+Dspn collected $1.19 from pot
+Dspn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Kd 3s Ah Ad]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 (button) folded on the Turn
+Seat 3: coolkook (small blind) folded before Flop
+Seat 4: Dspn (big blind) collected ($1.19)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690437380:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:36:24 ET
+Table 'Ueta III' 9-max Seat #3 is the button
+Seat 1: MarsMiland ($53 in chips) 
+Seat 2: leooooon79 ($21.84 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($54.28 in chips) 
+Seat 5: DonLeon88 ($21.41 in chips) 
+Seat 6: MonplDCmax ($51.65 in chips) 
+Seat 7: Seduisant365 ($50 in chips) 
+Seat 8: UPERAD ($49.25 in chips) 
+Seat 9: b03n13DE ($38.25 in chips) 
+Dspn: posts small blind $0.25
+DonLeon88: posts big blind $0.50
+*** HOLE CARDS ***
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: raises $0.80 to $1.30
+leooooon79: folds 
+coolkook: calls $1.30
+Dspn: folds 
+DonLeon88: calls $0.80
+*** FLOP *** [As 5d Ts]
+DonLeon88: checks 
+MarsMiland: checks 
+coolkook: checks 
+*** TURN *** [As 5d Ts] [3d]
+DonLeon88: checks 
+MarsMiland: bets $2.50
+coolkook: folds 
+DonLeon88: folds 
+Uncalled bet ($2.50) returned to MarsMiland
+MarsMiland collected $3.94 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.15 | Rake $0.21 
+Board [As 5d Ts 3d]
+Seat 1: MarsMiland collected ($3.94)
+Seat 2: leooooon79 folded before Flop (didn't bet)
+Seat 3: coolkook (button) folded on the Turn
+Seat 4: Dspn (small blind) folded before Flop
+Seat 5: DonLeon88 (big blind) folded on the Turn
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690457655:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:37:09 ET
+Table 'Ueta III' 9-max Seat #4 is the button
+Seat 1: MarsMiland ($55.64 in chips) 
+Seat 2: leooooon79 ($21.84 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($54.03 in chips) 
+Seat 5: DonLeon88 ($20.11 in chips) 
+Seat 6: MonplDCmax ($51.65 in chips) 
+Seat 7: Seduisant365 ($50 in chips) 
+Seat 8: UPERAD ($49.25 in chips) 
+Seat 9: b03n13DE ($38.25 in chips) 
+DonLeon88: posts small blind $0.25
+MonplDCmax: posts big blind $0.50
+*** HOLE CARDS ***
+Seduisant365: folds 
+UPERAD: raises $1 to $1.50
+b03n13DE: folds 
+MarsMiland: folds 
+leooooon79: folds 
+coolkook: folds 
+Dspn: folds 
+DonLeon88: calls $1.25
+MonplDCmax: folds 
+*** FLOP *** [4d 2s 3h]
+DonLeon88: checks 
+UPERAD: bets $1.10
+DonLeon88: folds 
+Uncalled bet ($1.10) returned to UPERAD
+UPERAD collected $3.32 from pot
+UPERAD: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [4d 2s 3h]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 folded before Flop (didn't bet)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn (button) folded before Flop (didn't bet)
+Seat 5: DonLeon88 (small blind) folded on the Flop
+Seat 6: MonplDCmax (big blind) folded before Flop
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD collected ($3.32)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690473565:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:37:45 ET
+Table 'Ueta III' 9-max Seat #5 is the button
+Seat 1: MarsMiland ($55.64 in chips) 
+Seat 2: leooooon79 ($21.84 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($54.03 in chips) 
+Seat 5: DonLeon88 ($18.61 in chips) 
+Seat 6: MonplDCmax ($51.15 in chips) 
+Seat 7: Seduisant365 ($50 in chips) 
+Seat 8: UPERAD ($51.07 in chips) 
+Seat 9: b03n13DE ($38.25 in chips) 
+MonplDCmax: posts small blind $0.25
+Seduisant365: posts big blind $0.50
+*** HOLE CARDS ***
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: folds 
+leooooon79: calls $0.50
+coolkook: folds 
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: folds 
+Seduisant365: raises $1.50 to $2
+leooooon79: folds 
+Uncalled bet ($1.50) returned to Seduisant365
+Seduisant365 collected $1.25 from pot
+Seduisant365: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 folded before Flop
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 (button) folded before Flop (didn't bet)
+Seat 6: MonplDCmax (small blind) folded before Flop
+Seat 7: Seduisant365 (big blind) collected ($1.25)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690763653:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:48:40 ET
+Table 'Ueta III' 9-max Seat #8 is the button
+Seat 1: MarsMiland ($54.29 in chips) 
+Seat 2: leooooon79 ($46.10 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($56.20 in chips) 
+Seat 5: DonLeon88 ($21.28 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($51.81 in chips) 
+Seat 8: UPERAD ($50.80 in chips) 
+Seat 9: b03n13DE ($25.95 in chips) 
+b03n13DE: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+leooooon79: folds 
+coolkook: folds 
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: raises $0.74 to $1.24
+MarsMiland: calls $0.74
+*** FLOP *** [Qd Kh Jh]
+b03n13DE: bets $1
+MarsMiland: calls $1
+*** TURN *** [Qd Kh Jh] [Qc]
+b03n13DE: bets $2.34
+MarsMiland: raises $5.16 to $7.50
+b03n13DE: calls $5.16
+*** RIVER *** [Qd Kh Jh Qc] [5d]
+leooooon79 leaves the table
+b03n13DE: checks 
+MarsMiland: bets $17
+b03n13DE: calls $16.21 and is all-in
+Uncalled bet ($0.79) returned to MarsMiland
+*** SHOW DOWN ***
+MarsMiland: shows [5s Ad] (two pair, Queens and Fives)
+b03n13DE: shows [Ah Qs] (three of a kind, Queens)
+b03n13DE collected $49.40 from pot
+*** SUMMARY ***
+Total pot $51.90 | Rake $2.50 
+Board [Qd Kh Jh Qc 5d]
+Seat 1: MarsMiland (big blind) showed [5s Ad] and lost with two pair, Queens and Fives
+Seat 2: leooooon79 folded before Flop (didn't bet)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD (button) folded before Flop (didn't bet)
+Seat 9: b03n13DE (small blind) showed [Ah Qs] and won ($49.40) with three of a kind, Queens
+
+
+
+PokerStars Hand #228690799488:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:50:04 ET
+Table 'Ueta III' 9-max Seat #9 is the button
+Seat 1: MarsMiland ($50 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($56.20 in chips) 
+Seat 5: DonLeon88 ($21.28 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($51.81 in chips) 
+Seat 8: UPERAD ($50.80 in chips) 
+Seat 9: b03n13DE ($49.40 in chips) 
+MarsMiland: posts small blind $0.25
+coolkook: posts big blind $0.50
+*** HOLE CARDS ***
+Dspn: folds 
+Dspn leaves the table
+DonLeon88: raises $1 to $1.50
+galina8383 joins the table at seat #4 
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: calls $1.25
+HugoSPT1985 joins the table at seat #2 
+coolkook: raises $4.50 to $6
+DonLeon88: folds 
+MarsMiland: folds 
+Uncalled bet ($4.50) returned to coolkook
+coolkook collected $4.50 from pot
+coolkook: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0 
+Seat 1: MarsMiland (small blind) folded before Flop
+Seat 3: coolkook (big blind) collected ($4.50)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690811131:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:50:31 ET
+Table 'Ueta III' 9-max Seat #1 is the button
+Seat 1: MarsMiland ($50 in chips) 
+Seat 3: coolkook ($53 in chips) 
+Seat 4: galina8383 ($50 in chips) 
+Seat 5: DonLeon88 ($19.78 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($51.81 in chips) 
+Seat 8: UPERAD ($50.80 in chips) 
+Seat 9: b03n13DE ($49.40 in chips) 
+coolkook: posts small blind $0.25
+galina8383: posts big blind $0.50
+*** HOLE CARDS ***
+DonLeon88: calls $0.50
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: folds 
+coolkook: folds 
+galina8383: raises $2 to $2.50
+DonLeon88: folds 
+Uncalled bet ($2) returned to galina8383
+galina8383 collected $1.25 from pot
+galina8383: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: MarsMiland (button) folded before Flop (didn't bet)
+Seat 3: coolkook (small blind) folded before Flop
+Seat 4: galina8383 (big blind) collected ($1.25)
+Seat 5: DonLeon88 folded before Flop
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690308162:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:31:38 ET
+Table 'Ueta III' 9-max Seat #4 is the button
+Seat 1: MarsMiland ($50.75 in chips) 
+Seat 2: leooooon79 ($24.21 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($53.59 in chips) 
+Seat 5: DonLeon88 ($18.43 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+DonLeon88: posts small blind $0.25
+MonplDCmax: posts big blind $0.50
+Seduisant365: sits out 
+UPERAD: sits out 
+b03n13DE: sits out 
+*** HOLE CARDS ***
+MarsMiland: folds 
+leooooon79: calls $0.50
+coolkook: folds 
+Dspn: folds 
+DonLeon88: calls $0.25
+MonplDCmax: checks 
+*** FLOP *** [8h 7c 9c]
+DonLeon88: checks 
+MonplDCmax: checks 
+leooooon79: checks 
+*** TURN *** [8h 7c 9c] [9s]
+DonLeon88: checks 
+MonplDCmax: checks 
+leooooon79: checks 
+*** RIVER *** [8h 7c 9c 9s] [2c]
+DonLeon88: checks 
+MonplDCmax: checks 
+leooooon79: checks 
+*** SHOW DOWN ***
+DonLeon88: shows [8s Ah] (two pair, Nines and Eights)
+MonplDCmax: mucks hand 
+leooooon79: mucks hand 
+DonLeon88 collected $1.42 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [8h 7c 9c 9s 2c]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 mucked
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn (button) folded before Flop (didn't bet)
+Seat 5: DonLeon88 (small blind) showed [8s Ah] and won ($1.42) with two pair, Nines and Eights
+Seat 6: MonplDCmax (big blind) mucked
+
+
+
+PokerStars Hand #228690328153:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:32:22 ET
+Table 'Ueta III' 9-max Seat #5 is the button
+Seat 1: MarsMiland ($50.75 in chips) 
+Seat 2: leooooon79 ($23.71 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($53.59 in chips) 
+Seat 5: DonLeon88 ($19.35 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($50 in chips) 
+MonplDCmax: posts small blind $0.25
+Seduisant365: posts big blind $0.50
+UPERAD: sits out 
+b03n13DE: sits out 
+*** HOLE CARDS ***
+MarsMiland: folds 
+leooooon79: folds 
+coolkook: folds 
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: folds 
+Uncalled bet ($0.25) returned to Seduisant365
+Seduisant365 collected $0.50 from pot
+Seduisant365: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 folded before Flop (didn't bet)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 (button) folded before Flop (didn't bet)
+Seat 6: MonplDCmax (small blind) folded before Flop
+Seat 7: Seduisant365 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228690334851:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:32:37 ET
+Table 'Ueta III' 9-max Seat #6 is the button
+Seat 1: MarsMiland ($50.75 in chips) 
+Seat 2: leooooon79 ($23.71 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($53.59 in chips) 
+Seat 5: DonLeon88 ($19.35 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($50.25 in chips) 
+Seat 8: UPERAD ($50 in chips) 
+Seduisant365: posts small blind $0.25
+UPERAD: posts big blind $0.50
+b03n13DE: sits out 
+*** HOLE CARDS ***
+MarsMiland: folds 
+leooooon79: calls $0.50
+coolkook: folds 
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: checks 
+*** FLOP *** [Kc Qd 4c]
+UPERAD: checks 
+leooooon79: checks 
+*** TURN *** [Kc Qd 4c] [8c]
+UPERAD: checks 
+leooooon79: checks 
+*** RIVER *** [Kc Qd 4c 8c] [7s]
+UPERAD: checks 
+leooooon79: checks 
+*** SHOW DOWN ***
+UPERAD: shows [3c 5h] (high card King)
+leooooon79: shows [7c As] (a pair of Sevens)
+leooooon79 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Kc Qd 4c 8c 7s]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 showed [7c As] and won ($1.19) with a pair of Sevens
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax (button) folded before Flop (didn't bet)
+Seat 7: Seduisant365 (small blind) folded before Flop
+Seat 8: UPERAD (big blind) showed [3c 5h] and lost with high card King
+
+
+
+PokerStars Hand #228690489036:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:38:13 ET
+Table 'Ueta III' 9-max Seat #6 is the button
+Seat 1: MarsMiland ($55.64 in chips) 
+Seat 2: leooooon79 ($21.34 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($54.03 in chips) 
+Seat 5: DonLeon88 ($18.61 in chips) 
+Seat 6: MonplDCmax ($50.90 in chips) 
+Seat 7: Seduisant365 ($50.75 in chips) 
+Seat 8: UPERAD ($51.07 in chips) 
+Seat 9: b03n13DE ($38.25 in chips) 
+Seduisant365: posts small blind $0.25
+UPERAD: posts big blind $0.50
+*** HOLE CARDS ***
+b03n13DE: folds 
+MarsMiland: folds 
+leooooon79: calls $0.50
+coolkook: folds 
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: raises $1.50 to $2
+Seduisant365: folds 
+UPERAD: folds 
+leooooon79: calls $1.50
+*** FLOP *** [Th 4c 5c]
+leooooon79: checks 
+MonplDCmax: bets $1.70
+leooooon79: raises $1.70 to $3.40
+MonplDCmax: calls $1.70
+*** TURN *** [Th 4c 5c] [4h]
+leooooon79: bets $7.48
+MonplDCmax: folds 
+Uncalled bet ($7.48) returned to leooooon79
+leooooon79 collected $10.97 from pot
+leooooon79: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.55 | Rake $0.58 
+Board [Th 4c 5c 4h]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 collected ($10.97)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax (button) folded on the Turn
+Seat 7: Seduisant365 (small blind) folded before Flop
+Seat 8: UPERAD (big blind) folded before Flop
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690522725:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:39:29 ET
+Table 'Ueta III' 9-max Seat #7 is the button
+Seat 1: MarsMiland ($55.64 in chips) 
+Seat 2: leooooon79 ($26.91 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($54.03 in chips) 
+Seat 5: DonLeon88 ($18.61 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($50.50 in chips) 
+Seat 8: UPERAD ($50.57 in chips) 
+Seat 9: b03n13DE ($38.25 in chips) 
+UPERAD: posts small blind $0.25
+b03n13DE: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+leooooon79: calls $0.50
+coolkook: folds 
+Dspn: folds 
+DonLeon88: raises $1 to $1.50
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+leooooon79: calls $1
+*** FLOP *** [4c Jc 9h]
+leooooon79: checks 
+DonLeon88: checks 
+*** TURN *** [4c Jc 9h] [4s]
+leooooon79: bets $1.78
+DonLeon88: raises $1.78 to $3.56
+leooooon79: calls $1.78
+*** RIVER *** [4c Jc 9h 4s] [Qd]
+leooooon79: checks 
+DonLeon88: bets $3.50
+leooooon79: raises $3.50 to $7
+DonLeon88: calls $3.50
+*** SHOW DOWN ***
+leooooon79: shows [Ad 9s] (two pair, Nines and Fours)
+DonLeon88: shows [Ah Jh] (two pair, Jacks and Fours)
+DonLeon88 collected $23.63 from pot
+*** SUMMARY ***
+Total pot $24.87 | Rake $1.24 
+Board [4c Jc 9h 4s Qd]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 showed [Ad 9s] and lost with two pair, Nines and Fours
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 showed [Ah Jh] and won ($23.63) with two pair, Jacks and Fours
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 (button) folded before Flop (didn't bet)
+Seat 8: UPERAD (small blind) folded before Flop
+Seat 9: b03n13DE (big blind) folded before Flop
+
+
+
+PokerStars Hand #228690544502:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:40:19 ET
+Table 'Ueta III' 9-max Seat #8 is the button
+Seat 1: MarsMiland ($55.64 in chips) 
+Seat 2: leooooon79 ($14.85 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($54.03 in chips) 
+Seat 5: DonLeon88 ($30.18 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($50.50 in chips) 
+Seat 8: UPERAD ($50.32 in chips) 
+Seat 9: b03n13DE ($37.75 in chips) 
+b03n13DE: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+leooooon79: folds 
+coolkook: folds 
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: raises $0.60 to $1.10
+b03n13DE: folds 
+MarsMiland: calls $0.60
+*** FLOP *** [7c 2c Tc]
+MarsMiland: checks 
+UPERAD: bets $0.77
+MarsMiland: folds 
+Uncalled bet ($0.77) returned to UPERAD
+UPERAD collected $2.33 from pot
+UPERAD: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.12 
+Board [7c 2c Tc]
+Seat 1: MarsMiland (big blind) folded on the Flop
+Seat 2: leooooon79 folded before Flop (didn't bet)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD (button) collected ($2.33)
+Seat 9: b03n13DE (small blind) folded before Flop
+
+
+
+PokerStars Hand #228690554142:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:40:40 ET
+Table 'Ueta III' 9-max Seat #9 is the button
+Seat 1: MarsMiland ($54.54 in chips) 
+Seat 2: leooooon79 ($14.85 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($54.03 in chips) 
+Seat 5: DonLeon88 ($30.18 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($50.50 in chips) 
+Seat 8: UPERAD ($51.55 in chips) 
+Seat 9: b03n13DE ($37.50 in chips) 
+MarsMiland: posts small blind $0.25
+leooooon79: posts big blind $0.50
+*** HOLE CARDS ***
+coolkook: folds 
+Dspn has timed out
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: raises $0.81 to $1.31
+Seduisant365: raises $3.19 to $4.50
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: folds 
+leooooon79: folds 
+MonplDCmax: folds 
+Uncalled bet ($3.19) returned to Seduisant365
+Seduisant365 collected $3.37 from pot
+Seduisant365: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.37 | Rake $0 
+Seat 1: MarsMiland (small blind) folded before Flop
+Seat 2: leooooon79 (big blind) folded before Flop
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax folded before Flop
+Seat 7: Seduisant365 collected ($3.37)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690580733:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:41:40 ET
+Table 'Ueta III' 9-max Seat #1 is the button
+Seat 1: MarsMiland ($54.29 in chips) 
+Seat 2: leooooon79 ($14.35 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($54.03 in chips) 
+Seat 5: DonLeon88 ($30.18 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($52.56 in chips) 
+Seat 8: UPERAD ($51.55 in chips) 
+Seat 9: b03n13DE ($37.50 in chips) 
+leooooon79: posts small blind $0.25
+coolkook: posts big blind $0.50
+*** HOLE CARDS ***
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: folds 
+leooooon79: calls $0.25
+coolkook: checks 
+*** FLOP *** [3c 2h Qc]
+leooooon79: checks 
+coolkook: bets $1
+leooooon79: calls $1
+*** TURN *** [3c 2h Qc] [2s]
+leooooon79: checks 
+coolkook: bets $2.15
+leooooon79: calls $2.15
+*** RIVER *** [3c 2h Qc 2s] [7h]
+leooooon79: checks 
+coolkook: bets $46.35 and is all-in
+leooooon79: calls $10.70 and is all-in
+Uncalled bet ($35.65) returned to coolkook
+*** SHOW DOWN ***
+coolkook: shows [2d 3s] (a full house, Deuces full of Threes)
+leooooon79: shows [2c Qh] (a full house, Deuces full of Queens)
+leooooon79 collected $27.26 from pot
+*** SUMMARY ***
+Total pot $28.70 | Rake $1.44 
+Board [3c 2h Qc 2s 7h]
+Seat 1: MarsMiland (button) folded before Flop (didn't bet)
+Seat 2: leooooon79 (small blind) showed [2c Qh] and won ($27.26) with a full house, Deuces full of Queens
+Seat 3: coolkook (big blind) showed [2d 3s] and lost with a full house, Deuces full of Threes
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690609778:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:42:46 ET
+Table 'Ueta III' 9-max Seat #2 is the button
+Seat 1: MarsMiland ($54.29 in chips) 
+Seat 2: leooooon79 ($27.26 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($54.03 in chips) 
+Seat 5: DonLeon88 ($30.18 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($52.56 in chips) 
+Seat 8: UPERAD ($51.55 in chips) 
+Seat 9: b03n13DE ($37.50 in chips) 
+coolkook: posts small blind $0.25
+Dspn: posts big blind $0.50
+*** HOLE CARDS ***
+DonLeon88: folds 
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: folds 
+leooooon79 has timed out
+leooooon79: folds 
+coolkook: folds 
+Uncalled bet ($0.25) returned to Dspn
+Dspn collected $0.50 from pot
+Dspn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 (button) folded before Flop (didn't bet)
+Seat 3: coolkook (small blind) folded before Flop
+Seat 4: Dspn (big blind) collected ($0.50)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690620889:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:43:11 ET
+Table 'Ueta III' 9-max Seat #3 is the button
+Seat 1: MarsMiland ($54.29 in chips) 
+Seat 2: leooooon79 ($27.26 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($54.28 in chips) 
+Seat 5: DonLeon88 ($30.18 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($52.56 in chips) 
+Seat 8: UPERAD ($51.55 in chips) 
+Seat 9: b03n13DE ($37.50 in chips) 
+Dspn: posts small blind $0.25
+DonLeon88: posts big blind $0.50
+*** HOLE CARDS ***
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: folds 
+leooooon79: calls $0.50
+coolkook: calls $0.50
+Dspn: calls $0.25
+DonLeon88: checks 
+*** FLOP *** [Tc 6d Ad]
+Dspn: checks 
+DonLeon88: checks 
+leooooon79: bets $0.95
+coolkook: folds 
+Dspn: calls $0.95
+DonLeon88: folds 
+*** TURN *** [Tc 6d Ad] [2d]
+Dspn: checks 
+leooooon79: bets $1.85
+Dspn: calls $1.85
+*** RIVER *** [Tc 6d Ad 2d] [8s]
+Dspn: checks 
+leooooon79: checks 
+*** SHOW DOWN ***
+Dspn: shows [7s Ac] (a pair of Aces)
+leooooon79: mucks hand 
+Dspn collected $7.22 from pot
+*** SUMMARY ***
+Total pot $7.60 | Rake $0.38 
+Board [Tc 6d Ad 2d 8s]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 mucked
+Seat 3: coolkook (button) folded on the Flop
+Seat 4: Dspn (small blind) showed [7s Ac] and won ($7.22) with a pair of Aces
+Seat 5: DonLeon88 (big blind) folded on the Flop
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690647043:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:44:11 ET
+Table 'Ueta III' 9-max Seat #4 is the button
+Seat 1: MarsMiland ($54.29 in chips) 
+Seat 2: leooooon79 ($23.96 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($58.20 in chips) 
+Seat 5: DonLeon88 ($29.68 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($52.56 in chips) 
+Seat 8: UPERAD ($51.55 in chips) 
+Seat 9: b03n13DE ($37.50 in chips) 
+DonLeon88: posts small blind $0.25
+MonplDCmax: posts big blind $0.50
+*** HOLE CARDS ***
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: folds 
+leooooon79: calls $0.50
+coolkook: folds 
+Dspn: raises $1.50 to $2
+DonLeon88: folds 
+MonplDCmax: folds 
+leooooon79: calls $1.50
+*** FLOP *** [Js 8c Jc]
+leooooon79: checks 
+Dspn: checks 
+*** TURN *** [Js 8c Jc] [8s]
+leooooon79: bets $2.25
+Dspn: folds 
+Uncalled bet ($2.25) returned to leooooon79
+leooooon79 collected $4.51 from pot
+leooooon79: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [Js 8c Jc 8s]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 collected ($4.51)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn (button) folded on the Turn
+Seat 5: DonLeon88 (small blind) folded before Flop
+Seat 6: MonplDCmax (big blind) folded before Flop
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690663881:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:44:49 ET
+Table 'Ueta III' 9-max Seat #5 is the button
+Seat 1: MarsMiland ($54.29 in chips) 
+Seat 2: leooooon79 ($26.47 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($56.20 in chips) 
+Seat 5: DonLeon88 ($29.43 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($52.56 in chips) 
+Seat 8: UPERAD ($51.55 in chips) 
+Seat 9: b03n13DE ($37.50 in chips) 
+MonplDCmax: posts small blind $0.25
+Seduisant365: posts big blind $0.50
+*** HOLE CARDS ***
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: folds 
+leooooon79: calls $0.50
+coolkook: folds 
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: calls $0.25
+Seduisant365: checks 
+*** FLOP *** [Ac As Qs]
+MonplDCmax: checks 
+Seduisant365: checks 
+leooooon79: bets $0.71
+MonplDCmax: folds 
+Seduisant365: folds 
+Uncalled bet ($0.71) returned to leooooon79
+leooooon79 collected $1.42 from pot
+leooooon79: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [Ac As Qs]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 collected ($1.42)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 (button) folded before Flop (didn't bet)
+Seat 6: MonplDCmax (small blind) folded on the Flop
+Seat 7: Seduisant365 (big blind) folded on the Flop
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690689807:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:45:49 ET
+Table 'Ueta III' 9-max Seat #6 is the button
+Seat 1: MarsMiland ($54.29 in chips) 
+Seat 2: leooooon79 ($27.39 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($56.20 in chips) 
+Seat 5: DonLeon88 ($29.43 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($52.06 in chips) 
+Seat 8: UPERAD ($51.55 in chips) 
+Seat 9: b03n13DE ($37.50 in chips) 
+Seduisant365: posts small blind $0.25
+UPERAD: posts big blind $0.50
+*** HOLE CARDS ***
+b03n13DE: raises $0.96 to $1.46
+MarsMiland: folds 
+leooooon79: calls $1.46
+coolkook: folds 
+Dspn: folds 
+DonLeon88: folds 
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: folds 
+*** FLOP *** [6h Jh Js]
+b03n13DE: bets $1.25
+leooooon79: calls $1.25
+*** TURN *** [6h Jh Js] [7d]
+b03n13DE: bets $2.50
+leooooon79: calls $2.50
+*** RIVER *** [6h Jh Js 7d] [6s]
+b03n13DE: bets $5.84
+leooooon79: raises $5.84 to $11.68
+Seduisant365 is disconnected 
+b03n13DE: folds 
+Uncalled bet ($5.84) returned to leooooon79
+leooooon79 collected $21.71 from pot
+leooooon79: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.85 | Rake $1.14 
+Board [6h Jh Js 7d 6s]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 collected ($21.71)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax (button) folded before Flop (didn't bet)
+Seat 7: Seduisant365 (small blind) folded before Flop
+Seat 8: UPERAD (big blind) folded before Flop
+Seat 9: b03n13DE folded on the River
+
+
+
+PokerStars Hand #228690727318:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:47:15 ET
+Table 'Ueta III' 9-max Seat #7 is the button
+Seat 1: MarsMiland ($54.29 in chips) 
+Seat 2: leooooon79 ($38.05 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: Dspn ($56.20 in chips) 
+Seat 5: DonLeon88 ($29.43 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($51.81 in chips) 
+Seat 8: UPERAD ($51.05 in chips) 
+Seat 9: b03n13DE ($26.45 in chips) 
+UPERAD: posts small blind $0.25
+b03n13DE: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+leooooon79: calls $0.50
+coolkook: folds 
+Dspn: folds 
+DonLeon88: raises $1.50 to $2
+MonplDCmax: folds 
+Seduisant365 is connected 
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+leooooon79: calls $1.50
+*** FLOP *** [Kd 4d 4s]
+leooooon79: checks 
+DonLeon88: bets $2
+leooooon79: calls $2
+*** TURN *** [Kd 4d 4s] [9d]
+leooooon79: checks 
+DonLeon88: checks 
+*** RIVER *** [Kd 4d 4s 9d] [7s]
+leooooon79: bets $4.15
+DonLeon88: calls $4.15
+*** SHOW DOWN ***
+leooooon79: shows [Kh 6s] (two pair, Kings and Fours)
+DonLeon88: mucks hand 
+leooooon79 collected $16.20 from pot
+*** SUMMARY ***
+Total pot $17.05 | Rake $0.85 
+Board [Kd 4d 4s 9d 7s]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: leooooon79 showed [Kh 6s] and won ($16.20) with two pair, Kings and Fours
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: Dspn folded before Flop (didn't bet)
+Seat 5: DonLeon88 mucked
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 (button) folded before Flop (didn't bet)
+Seat 8: UPERAD (small blind) folded before Flop
+Seat 9: b03n13DE (big blind) folded before Flop
+
+
+
+PokerStars Hand #228690819403:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:50:51 ET
+Table 'Ueta III' 9-max Seat #3 is the button
+Seat 1: MarsMiland ($50 in chips) 
+Seat 2: HugoSPT1985 ($50 in chips) 
+Seat 3: coolkook ($52.75 in chips) 
+Seat 4: galina8383 ($50.75 in chips) 
+Seat 5: DonLeon88 ($19.28 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($51.81 in chips) 
+Seat 8: UPERAD ($50.80 in chips) 
+Seat 9: b03n13DE ($49.40 in chips) 
+galina8383: posts small blind $0.25
+DonLeon88: posts big blind $0.50
+HugoSPT1985: posts big blind $0.50
+*** HOLE CARDS ***
+MonplDCmax: folds 
+Seduisant365: folds 
+UPERAD: raises $1.50 to $2
+b03n13DE: folds 
+MarsMiland: folds 
+HugoSPT1985: folds 
+coolkook: raises $3.50 to $5.50
+galina8383: folds 
+DonLeon88: folds 
+UPERAD: raises $7 to $12.50
+coolkook: folds 
+Uncalled bet ($7) returned to UPERAD
+UPERAD collected $12.25 from pot
+UPERAD: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.25 | Rake $0 
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: HugoSPT1985 folded before Flop (didn't bet)
+Seat 3: coolkook (button) folded before Flop
+Seat 4: galina8383 (small blind) folded before Flop
+Seat 5: DonLeon88 (big blind) folded before Flop
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD collected ($12.25)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690840675:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:51:34 ET
+Table 'Ueta III' 9-max Seat #4 is the button
+Seat 1: MarsMiland ($50 in chips) 
+Seat 2: HugoSPT1985 ($49.50 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: galina8383 ($50.50 in chips) 
+Seat 5: DonLeon88 ($18.78 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 7: Seduisant365 ($51.81 in chips) 
+Seat 8: UPERAD ($57.55 in chips) 
+Seat 9: b03n13DE ($49.40 in chips) 
+DonLeon88: posts small blind $0.25
+MonplDCmax: posts big blind $0.50
+*** HOLE CARDS ***
+Seduisant365: folds 
+UPERAD: folds 
+b03n13DE: folds 
+MarsMiland: folds 
+HugoSPT1985: raises $1 to $1.50
+coolkook: folds 
+galina8383: folds 
+DonLeon88: folds 
+MonplDCmax: calls $1
+*** FLOP *** [2s 8d 9c]
+MonplDCmax: checks 
+Seduisant365 leaves the table
+HugoSPT1985: checks 
+*** TURN *** [2s 8d 9c] [Ac]
+MarsMiland leaves the table
+MonplDCmax: checks 
+HugoSPT1985: bets $1.50
+MonplDCmax: calls $1.50
+*** RIVER *** [2s 8d 9c Ac] [5d]
+MonplDCmax: checks 
+HugoSPT1985: checks 
+*** SHOW DOWN ***
+MonplDCmax: shows [Jh Th] (high card Ace)
+HugoSPT1985: shows [Kh Ah] (a pair of Aces)
+HugoSPT1985 collected $5.94 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.31 
+Board [2s 8d 9c Ac 5d]
+Seat 1: MarsMiland folded before Flop (didn't bet)
+Seat 2: HugoSPT1985 showed [Kh Ah] and won ($5.94) with a pair of Aces
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: galina8383 (button) folded before Flop (didn't bet)
+Seat 5: DonLeon88 (small blind) folded before Flop
+Seat 6: MonplDCmax (big blind) showed [Jh Th] and lost with high card Ace
+Seat 7: Seduisant365 folded before Flop (didn't bet)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690860764:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:52:21 ET
+Table 'Ueta III' 9-max Seat #5 is the button
+Seat 2: HugoSPT1985 ($52.44 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: galina8383 ($50.50 in chips) 
+Seat 5: DonLeon88 ($18.53 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 9: b03n13DE ($49.40 in chips) 
+MonplDCmax: posts small blind $0.25
+UPERAD: is sitting out 
+b03n13DE: posts big blind $0.50
+*** HOLE CARDS ***
+HugoSPT1985: folds 
+Wartankjp joins the table at seat #1 
+coolkook: folds 
+galina8383: folds 
+DonLeon88: raises $1 to $1.50
+Dspn joins the table at seat #7 
+MonplDCmax: folds 
+b03n13DE: raises $3.25 to $4.75
+DonLeon88: folds 
+Uncalled bet ($3.25) returned to b03n13DE
+b03n13DE collected $3.25 from pot
+b03n13DE: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 2: HugoSPT1985 folded before Flop (didn't bet)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: galina8383 folded before Flop (didn't bet)
+Seat 5: DonLeon88 (button) folded before Flop
+Seat 6: MonplDCmax (small blind) folded before Flop
+Seat 9: b03n13DE (big blind) collected ($3.25)
+
+
+
+PokerStars Hand #228690872278:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:52:45 ET
+Table 'Ueta III' 9-max Seat #6 is the button
+Seat 1: Wartankjp ($20 in chips) 
+Seat 2: HugoSPT1985 ($52.44 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: galina8383 ($50.50 in chips) 
+Seat 5: DonLeon88 ($17.03 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 9: b03n13DE ($51.15 in chips) 
+b03n13DE: posts small blind $0.25
+Wartankjp: posts big blind $0.50
+*** HOLE CARDS ***
+HugoSPT1985: folds 
+coolkook: folds 
+galina8383: folds 
+DonLeon88: folds 
+MonplDCmax: folds 
+b03n13DE: folds 
+Uncalled bet ($0.25) returned to Wartankjp
+Wartankjp collected $0.50 from pot
+Wartankjp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Wartankjp (big blind) collected ($0.50)
+Seat 2: HugoSPT1985 folded before Flop (didn't bet)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: galina8383 folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax (button) folded before Flop (didn't bet)
+Seat 9: b03n13DE (small blind) folded before Flop
+
+
+
+PokerStars Hand #228690875654:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:52:53 ET
+Table 'Ueta III' 9-max Seat #9 is the button
+Seat 1: Wartankjp ($20.25 in chips) 
+Seat 2: HugoSPT1985 ($52.44 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: galina8383 ($50.50 in chips) 
+Seat 5: DonLeon88 ($17.03 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 9: b03n13DE ($50.90 in chips) 
+Wartankjp: posts small blind $0.25
+HugoSPT1985: posts big blind $0.50
+Dspn: sits out 
+UPERAD: sits out 
+*** HOLE CARDS ***
+coolkook: folds 
+galina8383: folds 
+DonLeon88: folds 
+MonplDCmax: folds 
+b03n13DE: folds 
+Wartankjp: calls $0.25
+HugoSPT1985: checks 
+*** FLOP *** [9d Tc 9s]
+Wartankjp: checks 
+HugoSPT1985: checks 
+*** TURN *** [9d Tc 9s] [3c]
+Wartankjp: bets $0.50
+HugoSPT1985: folds 
+Uncalled bet ($0.50) returned to Wartankjp
+Wartankjp collected $0.95 from pot
+Wartankjp: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [9d Tc 9s 3c]
+Seat 1: Wartankjp (small blind) collected ($0.95)
+Seat 2: HugoSPT1985 (big blind) folded on the Turn
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: galina8383 folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 9: b03n13DE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690887521:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:53:21 ET
+Table 'Ueta III' 9-max Seat #1 is the button
+Seat 1: Wartankjp ($20.70 in chips) 
+Seat 2: HugoSPT1985 ($51.94 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: galina8383 ($50.50 in chips) 
+Seat 5: DonLeon88 ($17.03 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 9: b03n13DE ($50.90 in chips) 
+HugoSPT1985: posts small blind $0.25
+coolkook: posts big blind $0.50
+Dspn: sits out 
+UPERAD: sits out 
+*** HOLE CARDS ***
+galina8383: folds 
+DonLeon88: folds 
+MonplDCmax: folds 
+b03n13DE: raises $0.96 to $1.46
+Wartankjp: calls $1.46
+HugoSPT1985: folds 
+coolkook: folds 
+*** FLOP *** [Ks 6h 7h]
+b03n13DE: checks 
+Wartankjp: bets $1.50
+b03n13DE: raises $3.57 to $5.07
+Wartankjp: calls $3.57
+*** TURN *** [Ks 6h 7h] [4s]
+b03n13DE: bets $6.09
+Wartankjp: calls $6.09
+*** RIVER *** [Ks 6h 7h 4s] [5d]
+b03n13DE: bets $10.75
+Wartankjp: calls $8.08 and is all-in
+Uncalled bet ($2.67) returned to b03n13DE
+*** SHOW DOWN ***
+b03n13DE: shows [Kc Kd] (three of a kind, Kings)
+Wartankjp: shows [7d 2c] (a pair of Sevens)
+b03n13DE collected $39.65 from pot
+*** SUMMARY ***
+Total pot $42.15 | Rake $2.50 
+Board [Ks 6h 7h 4s 5d]
+Seat 1: Wartankjp (button) showed [7d 2c] and lost with a pair of Sevens
+Seat 2: HugoSPT1985 (small blind) folded before Flop
+Seat 3: coolkook (big blind) folded before Flop
+Seat 4: galina8383 folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 9: b03n13DE showed [Kc Kd] and won ($39.65) with three of a kind, Kings
+
+
+
+PokerStars Hand #228690912073:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:54:19 ET
+Table 'Ueta III' 9-max Seat #2 is the button
+Seat 2: HugoSPT1985 ($51.69 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: galina8383 ($50.50 in chips) 
+Seat 5: DonLeon88 ($17.03 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 9: b03n13DE ($69.85 in chips) 
+coolkook: posts small blind $0.25
+galina8383: posts big blind $0.50
+Dspn: sits out 
+UPERAD: sits out 
+*** HOLE CARDS ***
+DonLeon88: folds 
+MonplDCmax: folds 
+Wartankjp leaves the table
+b03n13DE: raises $0.96 to $1.46
+HugoSPT1985: folds 
+coolkook: folds 
+galina8383: folds 
+Uncalled bet ($0.96) returned to b03n13DE
+b03n13DE collected $1.25 from pot
+b03n13DE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: HugoSPT1985 (button) folded before Flop (didn't bet)
+Seat 3: coolkook (small blind) folded before Flop
+Seat 4: galina8383 (big blind) folded before Flop
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 9: b03n13DE collected ($1.25)
+
+
+
+PokerStars Hand #228690918436:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:54:34 ET
+Table 'Ueta III' 9-max Seat #3 is the button
+Seat 2: HugoSPT1985 ($51.69 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: galina8383 ($50 in chips) 
+Seat 5: DonLeon88 ($17.03 in chips) 
+Seat 6: MonplDCmax ($50 in chips) 
+Seat 9: b03n13DE ($70.60 in chips) 
+galina8383: posts small blind $0.25
+DonLeon88: posts big blind $0.50
+Dspn: sits out 
+UPERAD: sits out 
+*** HOLE CARDS ***
+MonplDCmax: folds 
+b03n13DE: folds 
+HugoSPT1985: raises $1 to $1.50
+coolkook: folds 
+Dspn leaves the table
+galina8383: folds 
+DonLeon88: folds 
+Uncalled bet ($1) returned to HugoSPT1985
+HugoSPT1985 collected $1.25 from pot
+HugoSPT1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: HugoSPT1985 collected ($1.25)
+Seat 3: coolkook (button) folded before Flop (didn't bet)
+Seat 4: galina8383 (small blind) folded before Flop
+Seat 5: DonLeon88 (big blind) folded before Flop
+Seat 6: MonplDCmax folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690925347:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:54:50 ET
+Table 'Ueta III' 9-max Seat #4 is the button
+Seat 2: HugoSPT1985 ($52.44 in chips) 
+Seat 3: coolkook ($50 in chips) 
+Seat 4: galina8383 ($50 in chips) 
+Seat 5: DonLeon88 ($16.53 in chips) 
+Seat 8: UPERAD ($57.55 in chips) 
+Seat 9: b03n13DE ($70.60 in chips) 
+DonLeon88: posts small blind $0.25
+MonplDCmax: is sitting out 
+UPERAD: posts big blind $0.50
+*** HOLE CARDS ***
+b03n13DE: folds 
+HugoSPT1985: folds 
+coolkook: raises $0.56 to $1.06
+galina8383: folds 
+DonLeon88: raises $1.44 to $2.50
+UPERAD: folds 
+coolkook: calls $1.44
+*** FLOP *** [6s 2c 5c]
+DonLeon88: checks 
+coolkook: bets $3.39
+DonLeon88: folds 
+Uncalled bet ($3.39) returned to coolkook
+coolkook collected $5.22 from pot
+coolkook: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [6s 2c 5c]
+Seat 2: HugoSPT1985 folded before Flop (didn't bet)
+Seat 3: coolkook collected ($5.22)
+Seat 4: galina8383 (button) folded before Flop (didn't bet)
+Seat 5: DonLeon88 (small blind) folded on the Flop
+Seat 8: UPERAD (big blind) folded before Flop
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690939508:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:55:28 ET
+Table 'Ueta III' 9-max Seat #5 is the button
+Seat 2: HugoSPT1985 ($52.44 in chips) 
+Seat 3: coolkook ($52.72 in chips) 
+Seat 4: galina8383 ($50 in chips) 
+Seat 5: DonLeon88 ($14.03 in chips) 
+Seat 8: UPERAD ($57.05 in chips) 
+Seat 9: b03n13DE ($70.60 in chips) 
+UPERAD: posts small blind $0.25
+b03n13DE: posts big blind $0.50
+*** HOLE CARDS ***
+HugoSPT1985: folds 
+coolkook: folds 
+galina8383: raises $0.75 to $1.25
+DonLeon88: folds 
+UPERAD: folds 
+b03n13DE: raises $3.50 to $4.75
+galina8383: folds 
+Uncalled bet ($3.50) returned to b03n13DE
+b03n13DE collected $2.75 from pot
+b03n13DE: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0 
+Seat 2: HugoSPT1985 folded before Flop (didn't bet)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: galina8383 folded before Flop
+Seat 5: DonLeon88 (button) folded before Flop (didn't bet)
+Seat 8: UPERAD (small blind) folded before Flop
+Seat 9: b03n13DE (big blind) collected ($2.75)
+
+
+
+PokerStars Hand #228690948518:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:55:57 ET
+Table 'Ueta III' 9-max Seat #8 is the button
+Seat 2: HugoSPT1985 ($52.44 in chips) 
+Seat 3: coolkook ($52.72 in chips) 
+Seat 4: galina8383 ($50 in chips) 
+Seat 5: DonLeon88 ($14.03 in chips) 
+Seat 8: UPERAD ($56.80 in chips) 
+Seat 9: b03n13DE ($72.10 in chips) 
+b03n13DE: posts small blind $0.25
+HugoSPT1985: posts big blind $0.50
+*** HOLE CARDS ***
+coolkook: folds 
+galina8383: folds 
+DonLeon88: folds 
+UPERAD: folds 
+b03n13DE: folds 
+Uncalled bet ($0.25) returned to HugoSPT1985
+HugoSPT1985 collected $0.50 from pot
+HugoSPT1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: HugoSPT1985 (big blind) collected ($0.50)
+Seat 3: coolkook folded before Flop (didn't bet)
+Seat 4: galina8383 folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 8: UPERAD (button) folded before Flop (didn't bet)
+Seat 9: b03n13DE (small blind) folded before Flop
+
+
+
+PokerStars Hand #228690951900:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:56:07 ET
+Table 'Ueta III' 9-max Seat #9 is the button
+Seat 2: HugoSPT1985 ($52.69 in chips) 
+Seat 3: coolkook ($52.72 in chips) 
+Seat 4: galina8383 ($50 in chips) 
+Seat 5: DonLeon88 ($14.03 in chips) 
+Seat 8: UPERAD ($56.80 in chips) 
+Seat 9: b03n13DE ($71.85 in chips) 
+HugoSPT1985: posts small blind $0.25
+coolkook: posts big blind $0.50
+*** HOLE CARDS ***
+galina8383: folds 
+MonplDCmax leaves the table
+DonLeon88: folds 
+UPERAD: folds 
+b03n13DE: folds 
+HugoSPT1985: raises $1 to $1.50
+coolkook: folds 
+Uncalled bet ($1) returned to HugoSPT1985
+HugoSPT1985 collected $1 from pot
+HugoSPT1985: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: HugoSPT1985 (small blind) collected ($1)
+Seat 3: coolkook (big blind) folded before Flop
+Seat 4: galina8383 folded before Flop (didn't bet)
+Seat 5: DonLeon88 folded before Flop (didn't bet)
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690955625:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:56:18 ET
+Table 'Ueta III' 9-max Seat #2 is the button
+Seat 2: HugoSPT1985 ($53.19 in chips) 
+Seat 3: coolkook ($52.22 in chips) 
+Seat 5: DonLeon88 ($14.03 in chips) 
+Seat 8: UPERAD ($56.80 in chips) 
+Seat 9: b03n13DE ($71.85 in chips) 
+coolkook: posts small blind $0.25
+galina8383: is sitting out 
+DonLeon88: posts big blind $0.50
+*** HOLE CARDS ***
+UPERAD: folds 
+b03n13DE: folds 
+HugoSPT1985: folds 
+coolkook: raises $0.69 to $1.19
+DonLeon88: folds 
+Uncalled bet ($0.69) returned to coolkook
+b03n13DE leaves the table
+coolkook collected $1 from pot
+coolkook: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: HugoSPT1985 (button) folded before Flop (didn't bet)
+Seat 3: coolkook (small blind) collected ($1)
+Seat 5: DonLeon88 (big blind) folded before Flop
+Seat 8: UPERAD folded before Flop (didn't bet)
+Seat 9: b03n13DE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690958913:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:56:28 ET
+Table 'Ueta III' 9-max Seat #5 is the button
+Seat 3: coolkook ($52.72 in chips) 
+Seat 5: DonLeon88 ($13.53 in chips) 
+DonLeon88: posts small blind $0.25
+UPERAD: is sitting out 
+HugoSPT1985: is sitting out 
+coolkook: posts big blind $0.50
+*** HOLE CARDS ***
+DonLeon88: folds 
+Uncalled bet ($0.25) returned to coolkook
+coolkook collected $0.50 from pot
+coolkook: doesn't show hand 
+HugoSPT1985 leaves the table
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: coolkook (big blind) collected ($0.50)
+Seat 5: DonLeon88 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228690961008:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:56:35 ET
+Table 'Ueta III' 9-max Seat #5 is the button
+Seat 3: coolkook ($52.97 in chips) 
+Seat 4: galina8383 ($50 in chips) 
+Seat 5: DonLeon88 ($13.28 in chips) 
+coolkook: posts small blind $0.25
+galina8383: posts big blind $0.50
+*** HOLE CARDS ***
+DonLeon88: raises $1 to $1.50
+coolkook: folds 
+galina8383: calls $1
+*** FLOP *** [3d 9s 8d]
+galina8383: checks 
+DonLeon88: checks 
+*** TURN *** [3d 9s 8d] [Jd]
+galina8383: bets $2.06
+UPERAD leaves the table
+DonLeon88: calls $2.06
+*** RIVER *** [3d 9s 8d Jd] [9h]
+galina8383: bets $2.31
+DonLeon88: raises $3.19 to $5.50
+galina8383: calls $3.19
+*** SHOW DOWN ***
+DonLeon88: shows [Kd Tc] (a pair of Nines)
+galina8383: shows [Qd Jh] (two pair, Jacks and Nines)
+galina8383 collected $17.62 from pot
+*** SUMMARY ***
+Total pot $18.37 | Rake $0.75 
+Board [3d 9s 8d Jd 9h]
+Seat 3: coolkook (small blind) folded before Flop
+Seat 4: galina8383 (big blind) showed [Qd Jh] and won ($17.62) with two pair, Jacks and Nines
+Seat 5: DonLeon88 (button) showed [Kd Tc] and lost with a pair of Nines
+
+
+
+PokerStars Hand #228690981469:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:57:38 ET
+Table 'Ueta III' 9-max Seat #4 is the button
+Seat 3: coolkook ($52.72 in chips) 
+Seat 4: galina8383 ($58.56 in chips) 
+galina8383: posts small blind $0.25
+coolkook: posts big blind $0.50
+*** HOLE CARDS ***
+galina8383: raises $0.75 to $1.25
+DonLeon88 leaves the table
+coolkook: folds 
+Uncalled bet ($0.75) returned to galina8383
+galina8383 collected $1 from pot
+galina8383: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: coolkook (big blind) folded before Flop
+Seat 4: galina8383 (button) (small blind) collected ($1)
+
+
+

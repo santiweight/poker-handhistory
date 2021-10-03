@@ -1,0 +1,1701 @@
+﻿PokerStars Hand #228696809704:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:18:23 ET
+Table 'Ostenia II' 9-max Seat #9 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($26.43 in chips) 
+Seat 3: AndyLu)|(ynski ($21.25 in chips) 
+Seat 4: JBJ68 ($50 in chips) 
+Seat 5: lexon3 ($51.25 in chips) 
+Seat 6: cartman177 ($55.36 in chips) 
+Seat 7: chunholam ($40 in chips) 
+Seat 8: SparkYLive ($50 in chips) 
+Seat 9: "diamondave7 ($37.22 in chips) 
+Alim.A.Tur: posts small blind $0.25
+jasonh17: posts big blind $0.50
+*** HOLE CARDS ***
+AndyLu)|(ynski: folds 
+JBJ68: folds 
+lexon3: folds 
+cartman177: raises $0.75 to $1.25
+chunholam: calls $1.25
+SparkYLive: folds 
+"diamondave7: folds 
+Alim.A.Tur: folds 
+jasonh17: folds 
+*** FLOP *** [Kd Td 4s]
+cartman177: bets $1.55
+chunholam: calls $1.55
+*** TURN *** [Kd Td 4s] [3c]
+cartman177: bets $3.02
+chunholam: calls $3.02
+*** RIVER *** [Kd Td 4s 3c] [Tc]
+cartman177: bets $10
+chunholam: folds 
+Uncalled bet ($10) returned to cartman177
+cartman177 collected $11.77 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.39 | Rake $0.62 
+Board [Kd Td 4s 3c Tc]
+Seat 1: Alim.A.Tur (small blind) folded before Flop
+Seat 2: jasonh17 (big blind) folded before Flop
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: JBJ68 folded before Flop (didn't bet)
+Seat 5: lexon3 folded before Flop (didn't bet)
+Seat 6: cartman177 collected ($11.77)
+Seat 7: chunholam folded on the River
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696820812:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:19:19 ET
+Table 'Ostenia II' 9-max Seat #1 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($25.93 in chips) 
+Seat 3: AndyLu)|(ynski ($21.25 in chips) 
+Seat 4: JBJ68 ($50 in chips) 
+Seat 5: lexon3 ($51.25 in chips) 
+Seat 6: cartman177 ($61.31 in chips) 
+Seat 7: chunholam ($34.18 in chips) 
+Seat 8: SparkYLive ($50 in chips) 
+Seat 9: "diamondave7 ($37.22 in chips) 
+jasonh17: posts small blind $0.25
+AndyLu)|(ynski: posts big blind $0.50
+*** HOLE CARDS ***
+JBJ68: folds 
+JBJ68 leaves the table
+SuneSt joins the table at seat #4 
+lexon3: folds 
+cartman177: folds 
+chunholam: folds 
+SparkYLive: folds 
+"diamondave7 has timed out
+"diamondave7: folds 
+Alim.A.Tur: folds 
+jasonh17: calls $0.25
+AndyLu)|(ynski: checks 
+*** FLOP *** [9s 6d Th]
+jasonh17: bets $0.50
+AndyLu)|(ynski: folds 
+Uncalled bet ($0.50) returned to jasonh17
+jasonh17 collected $0.95 from pot
+jasonh17: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [9s 6d Th]
+Seat 1: Alim.A.Tur (button) folded before Flop (didn't bet)
+Seat 2: jasonh17 (small blind) collected ($0.95)
+Seat 3: AndyLu)|(ynski (big blind) folded on the Flop
+Seat 4: JBJ68 folded before Flop (didn't bet)
+Seat 5: lexon3 folded before Flop (didn't bet)
+Seat 6: cartman177 folded before Flop (didn't bet)
+Seat 7: chunholam folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696833045:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:20:19 ET
+Table 'Ostenia II' 9-max Seat #3 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($26.38 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($50 in chips) 
+Seat 5: lexon3 ($51.25 in chips) 
+Seat 6: cartman177 ($61.31 in chips) 
+Seat 7: chunholam ($34.93 in chips) 
+Seat 8: SparkYLive ($50 in chips) 
+Seat 9: "diamondave7 ($37.22 in chips) 
+SuneSt: posts small blind $0.25
+lexon3: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177: folds 
+chunholam: folds 
+SparkYLive: folds 
+"diamondave7: raises $1 to $1.50
+Alim.A.Tur: folds 
+jasonh17: folds 
+AndyLu)|(ynski: folds 
+SuneSt: folds 
+lexon3: folds 
+Uncalled bet ($1) returned to "diamondave7
+"diamondave7 collected $1.25 from pot
+"diamondave7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alim.A.Tur folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski (button) folded before Flop (didn't bet)
+Seat 4: SuneSt (small blind) folded before Flop
+Seat 5: lexon3 (big blind) folded before Flop
+Seat 6: cartman177 folded before Flop (didn't bet)
+Seat 7: chunholam folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 collected ($1.25)
+
+
+
+PokerStars Hand #228696836776:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:20:37 ET
+Table 'Ostenia II' 9-max Seat #4 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($26.38 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($50 in chips) 
+Seat 5: lexon3 ($50.75 in chips) 
+Seat 6: cartman177 ($61.31 in chips) 
+Seat 7: chunholam ($34.93 in chips) 
+Seat 8: SparkYLive ($50 in chips) 
+Seat 9: "diamondave7 ($37.97 in chips) 
+lexon3: posts small blind $0.25
+cartman177: posts big blind $0.50
+*** HOLE CARDS ***
+chunholam: folds 
+SparkYLive: folds 
+"diamondave7: folds 
+Alim.A.Tur: folds 
+jasonh17: folds 
+AndyLu)|(ynski: folds 
+SuneSt: folds 
+lexon3 has timed out
+lexon3: folds 
+Uncalled bet ($0.25) returned to cartman177
+cartman177 collected $0.50 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Alim.A.Tur folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: SuneSt (button) folded before Flop (didn't bet)
+Seat 5: lexon3 (small blind) folded before Flop
+Seat 6: cartman177 (big blind) collected ($0.50)
+Seat 7: chunholam folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696843887:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:21:13 ET
+Table 'Ostenia II' 9-max Seat #6 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($26.38 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($50 in chips) 
+Seat 6: cartman177 ($61.56 in chips) 
+Seat 7: chunholam ($34.93 in chips) 
+Seat 8: SparkYLive ($50 in chips) 
+Seat 9: "diamondave7 ($37.97 in chips) 
+chunholam: posts small blind $0.25
+SparkYLive: posts big blind $0.50
+*** HOLE CARDS ***
+"diamondave7: folds 
+Alim.A.Tur: folds 
+jasonh17: calls $0.50
+AndyLu)|(ynski: folds 
+SuneSt: folds 
+cartman177: folds 
+chunholam: raises $1 to $1.50
+SparkYLive: folds 
+jasonh17: calls $1
+*** FLOP *** [9s 9h 6d]
+chunholam: checks 
+jasonh17: checks 
+*** TURN *** [9s 9h 6d] [Ac]
+chunholam: bets $1.50
+jasonh17: folds 
+Uncalled bet ($1.50) returned to chunholam
+chunholam collected $3.32 from pot
+chunholam: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [9s 9h 6d Ac]
+Seat 1: Alim.A.Tur folded before Flop (didn't bet)
+Seat 2: jasonh17 folded on the Turn
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 6: cartman177 (button) folded before Flop (didn't bet)
+Seat 7: chunholam (small blind) collected ($3.32)
+Seat 8: SparkYLive (big blind) folded before Flop
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696851861:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:21:53 ET
+Table 'Ostenia II' 9-max Seat #7 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($24.88 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($50 in chips) 
+Seat 5: lexon3 ($50.50 in chips) 
+Seat 6: cartman177 ($61.56 in chips) 
+Seat 7: chunholam ($36.75 in chips) 
+Seat 8: SparkYLive ($50 in chips) 
+Seat 9: "diamondave7 ($37.97 in chips) 
+SparkYLive: posts small blind $0.25
+"diamondave7: posts big blind $0.50
+*** HOLE CARDS ***
+Alim.A.Tur: folds 
+jasonh17: folds 
+AndyLu)|(ynski: folds 
+SuneSt: folds 
+lexon3: folds 
+cartman177: folds 
+chunholam: folds 
+SparkYLive: calls $0.25
+"diamondave7: raises $1 to $1.50
+SparkYLive: calls $1
+*** FLOP *** [2c Kd 2s]
+SparkYLive: checks 
+"diamondave7: checks 
+*** TURN *** [2c Kd 2s] [Ts]
+SparkYLive: checks 
+"diamondave7: bets $1.50
+SparkYLive: folds 
+Uncalled bet ($1.50) returned to "diamondave7
+"diamondave7 collected $2.85 from pot
+"diamondave7: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [2c Kd 2s Ts]
+Seat 1: Alim.A.Tur folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: lexon3 folded before Flop (didn't bet)
+Seat 6: cartman177 folded before Flop (didn't bet)
+Seat 7: chunholam (button) folded before Flop (didn't bet)
+Seat 8: SparkYLive (small blind) folded on the Turn
+Seat 9: "diamondave7 (big blind) collected ($2.85)
+
+
+
+PokerStars Hand #228696861164:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:22:40 ET
+Table 'Ostenia II' 9-max Seat #8 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($24.88 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($50 in chips) 
+Seat 5: lexon3 ($50.50 in chips) 
+Seat 6: cartman177 ($61.56 in chips) 
+Seat 7: chunholam ($36.75 in chips) 
+Seat 8: SparkYLive ($50 in chips) 
+Seat 9: "diamondave7 ($39.32 in chips) 
+"diamondave7: posts small blind $0.25
+Alim.A.Tur: posts big blind $0.50
+*** HOLE CARDS ***
+jasonh17: folds 
+AndyLu)|(ynski: folds 
+SuneSt: folds 
+lexon3: folds 
+cartman177: folds 
+chunholam: calls $0.50
+SparkYLive: raises $1.50 to $2
+"diamondave7: folds 
+Alim.A.Tur: folds 
+chunholam: calls $1.50
+*** FLOP *** [7d 3c 3d]
+chunholam: checks 
+SparkYLive: checks 
+*** TURN *** [7d 3c 3d] [Tc]
+chunholam: checks 
+SparkYLive: checks 
+*** RIVER *** [7d 3c 3d Tc] [5h]
+chunholam: checks 
+SparkYLive: checks 
+*** SHOW DOWN ***
+chunholam: shows [Jc 6c] (a pair of Threes)
+SparkYLive: shows [Js As] (a pair of Threes - Ace kicker)
+SparkYLive collected $4.51 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [7d 3c 3d Tc 5h]
+Seat 1: Alim.A.Tur (big blind) folded before Flop
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: lexon3 folded before Flop (didn't bet)
+Seat 6: cartman177 folded before Flop (didn't bet)
+Seat 7: chunholam showed [Jc 6c] and lost with a pair of Threes
+Seat 8: SparkYLive (button) showed [Js As] and won ($4.51) with a pair of Threes
+Seat 9: "diamondave7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228696874727:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:23:35 ET
+Table 'Ostenia II' 9-max Seat #9 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($24.88 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($50 in chips) 
+Seat 5: lexon3 ($50.50 in chips) 
+Seat 6: cartman177 ($61.56 in chips) 
+Seat 7: chunholam ($34.75 in chips) 
+Seat 8: SparkYLive ($52.51 in chips) 
+Seat 9: "diamondave7 ($39.07 in chips) 
+Alim.A.Tur: posts small blind $0.25
+jasonh17: posts big blind $0.50
+*** HOLE CARDS ***
+AndyLu)|(ynski: folds 
+SuneSt: raises $1 to $1.50
+lexon3: folds 
+lexon3 leaves the table
+cartman177: folds 
+chunholam: folds 
+SparkYLive: folds 
+"diamondave7: folds 
+Chernovsky joins the table at seat #5 
+Alim.A.Tur: folds 
+jasonh17: folds 
+Uncalled bet ($1) returned to SuneSt
+SuneSt collected $1.25 from pot
+SuneSt: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alim.A.Tur (small blind) folded before Flop
+Seat 2: jasonh17 (big blind) folded before Flop
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: SuneSt collected ($1.25)
+Seat 5: lexon3 folded before Flop (didn't bet)
+Seat 6: cartman177 folded before Flop (didn't bet)
+Seat 7: chunholam folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696879023:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:23:57 ET
+Table 'Ostenia II' 9-max Seat #1 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($24.38 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($50.75 in chips) 
+Seat 6: cartman177 ($61.56 in chips) 
+Seat 7: chunholam ($34.75 in chips) 
+Seat 8: SparkYLive ($52.51 in chips) 
+Seat 9: "diamondave7 ($39.07 in chips) 
+jasonh17: posts small blind $0.25
+AndyLu)|(ynski: posts big blind $0.50
+Chernovsky: sits out 
+*** HOLE CARDS ***
+SuneSt: raises $1 to $1.50
+cartman177: folds 
+chunholam: folds 
+SparkYLive: folds 
+"diamondave7: folds 
+Alim.A.Tur: folds 
+jasonh17: calls $1.25
+AndyLu)|(ynski: folds 
+*** FLOP *** [7h 8h Js]
+jasonh17: checks 
+SuneSt: bets $1.79
+jasonh17: folds 
+Uncalled bet ($1.79) returned to SuneSt
+SuneSt collected $3.32 from pot
+SuneSt: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [7h 8h Js]
+Seat 1: Alim.A.Tur (button) folded before Flop (didn't bet)
+Seat 2: jasonh17 (small blind) folded on the Flop
+Seat 3: AndyLu)|(ynski (big blind) folded before Flop
+Seat 4: SuneSt collected ($3.32)
+Seat 6: cartman177 folded before Flop (didn't bet)
+Seat 7: chunholam folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696884568:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:24:25 ET
+Table 'Ostenia II' 9-max Seat #2 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($22.88 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($52.57 in chips) 
+Seat 6: cartman177 ($61.56 in chips) 
+Seat 7: chunholam ($34.75 in chips) 
+Seat 8: SparkYLive ($52.51 in chips) 
+Seat 9: "diamondave7 ($39.07 in chips) 
+AndyLu)|(ynski: posts small blind $0.25
+SuneSt: posts big blind $0.50
+Chernovsky: sits out 
+*** HOLE CARDS ***
+cartman177: folds 
+chunholam: folds 
+SparkYLive: raises $1 to $1.50
+chunholam leaves the table
+"diamondave7: folds 
+Alim.A.Tur: folds 
+jasonh17: folds 
+AndyLu)|(ynski: folds 
+kars0n joins the table at seat #7 
+SuneSt: folds 
+Uncalled bet ($1) returned to SparkYLive
+SparkYLive collected $1.25 from pot
+SparkYLive: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alim.A.Tur folded before Flop (didn't bet)
+Seat 2: jasonh17 (button) folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski (small blind) folded before Flop
+Seat 4: SuneSt (big blind) folded before Flop
+Seat 6: cartman177 folded before Flop (didn't bet)
+Seat 7: chunholam folded before Flop (didn't bet)
+Seat 8: SparkYLive collected ($1.25)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696889326:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:24:49 ET
+Table 'Ostenia II' 9-max Seat #3 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($22.88 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($52.07 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 6: cartman177 ($61.56 in chips) 
+Seat 8: SparkYLive ($53.26 in chips) 
+Seat 9: "diamondave7 ($39.07 in chips) 
+SuneSt: posts small blind $0.25
+Chernovsky: posts big blind $0.50
+kars0n: sits out 
+*** HOLE CARDS ***
+cartman177: folds 
+cartman177 leaves the table
+SparkYLive: folds 
+"diamondave7: raises $0.50 to $1
+Alim.A.Tur: folds 
+jasonh17: folds 
+AndyLu)|(ynski: folds 
+SuneSt: folds 
+Chernovsky: calls $0.50
+*** FLOP *** [8d Ks Ad]
+Chernovsky: checks 
+"diamondave7: checks 
+*** TURN *** [8d Ks Ad] [Js]
+Chernovsky: checks 
+"diamondave7: bets $1
+Tedd24 joins the table at seat #6 
+Chernovsky: calls $1
+*** RIVER *** [8d Ks Ad Js] [3s]
+Chernovsky: checks 
+"diamondave7: bets $2.80
+Chernovsky: folds 
+Uncalled bet ($2.80) returned to "diamondave7
+"diamondave7 collected $4.04 from pot
+"diamondave7: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.21 
+Board [8d Ks Ad Js 3s]
+Seat 1: Alim.A.Tur folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski (button) folded before Flop (didn't bet)
+Seat 4: SuneSt (small blind) folded before Flop
+Seat 5: Chernovsky (big blind) folded on the River
+Seat 6: cartman177 folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 collected ($4.04)
+
+
+
+PokerStars Hand #228696899454:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:25:39 ET
+Table 'Ostenia II' 9-max Seat #4 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($22.88 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($51.82 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 6: Tedd24 ($20 in chips) 
+Seat 8: SparkYLive ($53.26 in chips) 
+Seat 9: "diamondave7 ($41.11 in chips) 
+Chernovsky: posts small blind $0.25
+Tedd24: posts big blind $0.50
+kars0n: sits out 
+*** HOLE CARDS ***
+SparkYLive: folds 
+"diamondave7: folds 
+Alim.A.Tur: folds 
+jasonh17: calls $0.50
+AndyLu)|(ynski: folds 
+SuneSt: folds 
+Chernovsky: folds 
+Tedd24: checks 
+*** FLOP *** [7c 3d 6d]
+Tedd24: checks 
+jasonh17: bets $0.50
+Tedd24: folds 
+Uncalled bet ($0.50) returned to jasonh17
+jasonh17 collected $1.19 from pot
+jasonh17: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [7c 3d 6d]
+Seat 1: Alim.A.Tur folded before Flop (didn't bet)
+Seat 2: jasonh17 collected ($1.19)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: SuneSt (button) folded before Flop (didn't bet)
+Seat 5: Chernovsky (small blind) folded before Flop
+Seat 6: Tedd24 (big blind) folded on the Flop
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696904769:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:26:06 ET
+Table 'Ostenia II' 9-max Seat #5 is the button
+Seat 1: Alim.A.Tur ($50 in chips) 
+Seat 2: jasonh17 ($23.57 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($51.82 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 6: Tedd24 ($24.72 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($53.26 in chips) 
+Seat 9: "diamondave7 ($41.11 in chips) 
+Tedd24: posts small blind $0.25
+kars0n: posts big blind $0.50
+*** HOLE CARDS ***
+SparkYLive: folds 
+"diamondave7: raises $1 to $1.50
+Alim.A.Tur: folds 
+jasonh17: folds 
+AndyLu)|(ynski: folds 
+SuneSt: folds 
+Chernovsky: folds 
+Tedd24: folds 
+kars0n: folds 
+Uncalled bet ($1) returned to "diamondave7
+Alim.A.Tur was removed from the table for failing to post
+Alim.A.Tur leaves the table
+"diamondave7 collected $1.25 from pot
+"diamondave7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Alim.A.Tur folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky (button) folded before Flop (didn't bet)
+Seat 6: Tedd24 (small blind) folded before Flop
+Seat 7: kars0n (big blind) folded before Flop
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 collected ($1.25)
+
+
+
+PokerStars Hand #228696908435:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:26:25 ET
+Table 'Ostenia II' 9-max Seat #6 is the button
+Seat 2: jasonh17 ($23.57 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($51.82 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 6: Tedd24 ($24.47 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($53.26 in chips) 
+Seat 9: "diamondave7 ($41.86 in chips) 
+kars0n: posts small blind $0.25
+SparkYLive: posts big blind $0.50
+*** HOLE CARDS ***
+"diamondave7: folds 
+jasonh17: calls $0.50
+AndyLu)|(ynski: folds 
+SuneSt: raises $1.50 to $2
+Chernovsky: folds 
+Tedd24: folds 
+kars0n: raises $5 to $7
+SparkYLive: folds 
+jasonh17: folds 
+SuneSt: raises $7 to $14
+kars0n: folds 
+Uncalled bet ($7) returned to SuneSt
+SuneSt collected $15 from pot
+SuneSt: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: jasonh17 folded before Flop
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: SuneSt collected ($15)
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 6: Tedd24 (button) folded before Flop (didn't bet)
+Seat 7: kars0n (small blind) folded before Flop
+Seat 8: SparkYLive (big blind) folded before Flop
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696915670:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:27:01 ET
+Table 'Ostenia II' 9-max Seat #7 is the button
+Seat 2: jasonh17 ($23.07 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($59.82 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 6: Tedd24 ($24.47 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($52.76 in chips) 
+Seat 9: "diamondave7 ($41.86 in chips) 
+SparkYLive: posts small blind $0.25
+"diamondave7: posts big blind $0.50
+*** HOLE CARDS ***
+jasonh17: folds 
+AndyLu)|(ynski: folds 
+SuneSt: folds 
+Chernovsky: folds 
+Tedd24: folds 
+kars0n: raises $0.75 to $1.25
+SparkYLive: folds 
+"diamondave7: calls $0.75
+*** FLOP *** [Ac 7c 7s]
+"diamondave7: checks 
+kars0n: bets $0.78
+"diamondave7: folds 
+Uncalled bet ($0.78) returned to kars0n
+kars0n collected $2.61 from pot
+oiltown2018 joins the table at seat #1 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [Ac 7c 7s]
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 6: Tedd24 folded before Flop (didn't bet)
+Seat 7: kars0n (button) collected ($2.61)
+Seat 8: SparkYLive (small blind) folded before Flop
+Seat 9: "diamondave7 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228696922907:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:27:37 ET
+Table 'Ostenia II' 9-max Seat #8 is the button
+Seat 1: oiltown2018 ($38.97 in chips) 
+Seat 2: jasonh17 ($23.07 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($59.82 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 6: Tedd24 ($24.47 in chips) 
+Seat 7: kars0n ($51.36 in chips) 
+Seat 8: SparkYLive ($52.51 in chips) 
+Seat 9: "diamondave7 ($40.61 in chips) 
+"diamondave7: posts small blind $0.25
+oiltown2018: posts big blind $0.50
+*** HOLE CARDS ***
+jasonh17: folds 
+AndyLu)|(ynski: folds 
+SuneSt: folds 
+Chernovsky: folds 
+Tedd24: raises $1 to $1.50
+kars0n: folds 
+SparkYLive: raises $3 to $4.50
+"diamondave7: folds 
+oiltown2018: folds 
+Tedd24: folds 
+Uncalled bet ($3) returned to SparkYLive
+SparkYLive collected $3.75 from pot
+SparkYLive: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0 
+Seat 1: oiltown2018 (big blind) folded before Flop
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 6: Tedd24 folded before Flop
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive (button) collected ($3.75)
+Seat 9: "diamondave7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228696928435:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:28:04 ET
+Table 'Ostenia II' 9-max Seat #9 is the button
+Seat 1: oiltown2018 ($38.47 in chips) 
+Seat 2: jasonh17 ($23.07 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: SuneSt ($59.82 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 6: Tedd24 ($22.97 in chips) 
+Seat 7: kars0n ($51.36 in chips) 
+Seat 8: SparkYLive ($54.76 in chips) 
+Seat 9: "diamondave7 ($40.36 in chips) 
+oiltown2018: posts small blind $0.25
+jasonh17: posts big blind $0.50
+*** HOLE CARDS ***
+AndyLu)|(ynski: folds 
+SuneSt: folds 
+Chernovsky: folds 
+Tedd24: folds 
+AndyLu)|(ynski leaves the table
+kars0n: folds 
+SparkYLive: raises $0.85 to $1.35
+"diamondave7: folds 
+oiltown2018: folds 
+jasonh17: calls $0.85
+*** FLOP *** [Ts Kc Td]
+jasonh17: checks 
+SparkYLive: bets $0.84
+jasonh17: folds 
+Uncalled bet ($0.84) returned to SparkYLive
+SparkYLive collected $2.80 from pot
+SparkYLive: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.95 | Rake $0.15 
+Board [Ts Kc Td]
+Seat 1: oiltown2018 (small blind) folded before Flop
+Seat 2: jasonh17 (big blind) folded on the Flop
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 6: Tedd24 folded before Flop (didn't bet)
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive collected ($2.80)
+Seat 9: "diamondave7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696937767:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:28:51 ET
+Table 'Ostenia II' 9-max Seat #1 is the button
+Seat 1: oiltown2018 ($38.22 in chips) 
+Seat 2: jasonh17 ($21.72 in chips) 
+Seat 4: SuneSt ($59.82 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 6: Tedd24 ($22.97 in chips) 
+Seat 7: kars0n ($51.36 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($40.36 in chips) 
+jasonh17: posts small blind $0.25
+SuneSt: posts big blind $0.50
+*** HOLE CARDS ***
+Chernovsky: folds 
+Tedd24: folds 
+kars0n: folds 
+SparkYLive: folds 
+"diamondave7: folds 
+oiltown2018: folds 
+jasonh17: calls $0.25
+SuneSt: checks 
+*** FLOP *** [Qh 2c 2d]
+jasonh17: checks 
+SuneSt: bets $1
+jasonh17: folds 
+Uncalled bet ($1) returned to SuneSt
+SuneSt collected $0.95 from pot
+SuneSt: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Qh 2c 2d]
+Seat 1: oiltown2018 (button) folded before Flop (didn't bet)
+Seat 2: jasonh17 (small blind) folded on the Flop
+Seat 4: SuneSt (big blind) collected ($0.95)
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 6: Tedd24 folded before Flop (didn't bet)
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696942976:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:29:17 ET
+Table 'Ostenia II' 9-max Seat #2 is the button
+Seat 1: oiltown2018 ($38.22 in chips) 
+Seat 2: jasonh17 ($21.22 in chips) 
+Seat 4: SuneSt ($60.27 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 6: Tedd24 ($22.97 in chips) 
+Seat 7: kars0n ($51.36 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($40.36 in chips) 
+SuneSt: posts small blind $0.25
+Chernovsky: posts big blind $0.50
+*** HOLE CARDS ***
+Tedd24: folds 
+kars0n: folds 
+SparkYLive: folds 
+"diamondave7: raises $1 to $1.50
+oiltown2018: folds 
+jasonh17: calls $1.50
+SuneSt: folds 
+Chernovsky: folds 
+*** FLOP *** [5s 8d 2h]
+"diamondave7: bets $1.50
+jasonh17: calls $1.50
+*** TURN *** [5s 8d 2h] [6c]
+journey ro78 joins the table at seat #3 
+"diamondave7: checks 
+jasonh17: checks 
+*** RIVER *** [5s 8d 2h 6c] [8h]
+"diamondave7: checks 
+jasonh17: bets $4
+"diamondave7: calls $4
+*** SHOW DOWN ***
+jasonh17: shows [Qd Jd] (a pair of Eights)
+"diamondave7: shows [Ad Ts] (a pair of Eights - Ace kicker)
+"diamondave7 collected $14.01 from pot
+*** SUMMARY ***
+Total pot $14.75 | Rake $0.74 
+Board [5s 8d 2h 6c 8h]
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 (button) showed [Qd Jd] and lost with a pair of Eights
+Seat 4: SuneSt (small blind) folded before Flop
+Seat 5: Chernovsky (big blind) folded before Flop
+Seat 6: Tedd24 folded before Flop (didn't bet)
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 showed [Ad Ts] and won ($14.01) with a pair of Eights
+
+
+
+PokerStars Hand #228696956551:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:30:03 ET
+Table 'Ostenia II' 9-max Seat #4 is the button
+Seat 1: oiltown2018 ($38.22 in chips) 
+Seat 2: jasonh17 ($14.22 in chips) 
+Seat 4: SuneSt ($60.02 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($51.36 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($47.37 in chips) 
+Chernovsky: posts small blind $0.25
+Tedd24: is sitting out 
+kars0n: posts big blind $0.50
+journey ro78: sits out 
+*** HOLE CARDS ***
+SparkYLive: folds 
+"diamondave7: folds 
+oiltown2018: folds 
+jasonh17: calls $0.50
+SuneSt: raises $1.25 to $1.75
+Chernovsky: folds 
+kars0n: raises $4.25 to $6
+jasonh17: folds 
+SuneSt: calls $4.25
+*** FLOP *** [2s 3d Th]
+kars0n: bets $3.63
+SuneSt: calls $3.63
+*** TURN *** [2s 3d Th] [5h]
+kars0n: checks 
+SuneSt: checks 
+*** RIVER *** [2s 3d Th 5h] [9d]
+kars0n: checks 
+SuneSt: bets $14.83
+kars0n: folds 
+Uncalled bet ($14.83) returned to SuneSt
+SuneSt collected $19.01 from pot
+SuneSt: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.01 | Rake $1 
+Board [2s 3d Th 5h 9d]
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop
+Seat 4: SuneSt (button) collected ($19.01)
+Seat 5: Chernovsky (small blind) folded before Flop
+Seat 7: kars0n (big blind) folded on the River
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696970137:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:31:10 ET
+Table 'Ostenia II' 9-max Seat #5 is the button
+Seat 1: oiltown2018 ($38.22 in chips) 
+Seat 2: jasonh17 ($13.72 in chips) 
+Seat 3: journey ro78 ($22.19 in chips) 
+Seat 4: SuneSt ($69.40 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($47.37 in chips) 
+kars0n: posts small blind $0.25
+SparkYLive: posts big blind $0.50
+journey ro78: posts big blind $0.50
+*** HOLE CARDS ***
+"diamondave7: folds 
+oiltown2018: folds 
+jasonh17: folds 
+journey ro78: checks 
+SuneSt: folds 
+Chernovsky: folds 
+kars0n: calls $0.25
+SparkYLive: checks 
+*** FLOP *** [5c 7d Ts]
+kars0n: checks 
+SparkYLive: checks 
+journey ro78: bets $1.42
+kars0n: folds 
+SparkYLive: folds 
+Uncalled bet ($1.42) returned to journey ro78
+journey ro78 collected $1.42 from pot
+journey ro78: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [5c 7d Ts]
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: journey ro78 collected ($1.42)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky (button) folded before Flop (didn't bet)
+Seat 7: kars0n (small blind) folded on the Flop
+Seat 8: SparkYLive (big blind) folded on the Flop
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696998714:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:33:37 ET
+Table 'Ostenia II' 9-max Seat #9 is the button
+Seat 1: oiltown2018 ($42.58 in chips) 
+Seat 2: jasonh17 ($17.61 in chips) 
+Seat 3: journey ro78 ($20.11 in chips) 
+Seat 4: SuneSt ($68.90 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($55.46 in chips) 
+Seat 9: "diamondave7 ($43.34 in chips) 
+oiltown2018: posts small blind $0.25
+jasonh17: posts big blind $0.50
+*** HOLE CARDS ***
+journey ro78: folds 
+SuneSt: folds 
+Chernovsky: folds 
+kars0n: raises $0.75 to $1.25
+SparkYLive: folds 
+"diamondave7: folds 
+oiltown2018: calls $1
+jasonh17: calls $0.75
+*** FLOP *** [4s 2h 8s]
+oiltown2018: checks 
+jasonh17: bets $1
+kars0n: folds 
+oiltown2018: folds 
+Uncalled bet ($1) returned to jasonh17
+jasonh17 collected $3.56 from pot
+jasonh17: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [4s 2h 8s]
+Seat 1: oiltown2018 (small blind) folded on the Flop
+Seat 2: jasonh17 (big blind) collected ($3.56)
+Seat 3: journey ro78 folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 7: kars0n folded on the Flop
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228697004647:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:34:06 ET
+Table 'Ostenia II' 9-max Seat #1 is the button
+Seat 1: oiltown2018 ($41.33 in chips) 
+Seat 2: jasonh17 ($19.92 in chips) 
+Seat 3: journey ro78 ($20.11 in chips) 
+Seat 4: SuneSt ($68.90 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($55.46 in chips) 
+Seat 9: "diamondave7 ($43.34 in chips) 
+jasonh17: posts small blind $0.25
+journey ro78: posts big blind $0.50
+*** HOLE CARDS ***
+SuneSt: folds 
+Chernovsky: folds 
+kars0n: folds 
+SparkYLive: raises $1 to $1.50
+"diamondave7: folds 
+oiltown2018: folds 
+jasonh17: folds 
+journey ro78: folds 
+Uncalled bet ($1) returned to SparkYLive
+SparkYLive collected $1.25 from pot
+SparkYLive: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: oiltown2018 (button) folded before Flop (didn't bet)
+Seat 2: jasonh17 (small blind) folded before Flop
+Seat 3: journey ro78 (big blind) folded before Flop
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive collected ($1.25)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228697010189:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:34:34 ET
+Table 'Ostenia II' 9-max Seat #2 is the button
+Seat 1: oiltown2018 ($41.33 in chips) 
+Seat 2: jasonh17 ($19.67 in chips) 
+Seat 3: journey ro78 ($19.61 in chips) 
+Seat 4: SuneSt ($68.90 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($43.34 in chips) 
+journey ro78: posts small blind $0.25
+SuneSt: posts big blind $0.50
+*** HOLE CARDS ***
+Chernovsky: folds 
+kars0n: folds 
+SparkYLive: folds 
+"diamondave7: raises $1 to $1.50
+oiltown2018: folds 
+jasonh17: folds 
+journey ro78: folds 
+SuneSt: folds 
+Uncalled bet ($1) returned to "diamondave7
+"diamondave7 collected $1.25 from pot
+"diamondave7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 (button) folded before Flop (didn't bet)
+Seat 3: journey ro78 (small blind) folded before Flop
+Seat 4: SuneSt (big blind) folded before Flop
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 collected ($1.25)
+
+
+
+PokerStars Hand #228697013776:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:34:52 ET
+Table 'Ostenia II' 9-max Seat #3 is the button
+Seat 1: oiltown2018 ($41.33 in chips) 
+Seat 2: jasonh17 ($19.67 in chips) 
+Seat 3: journey ro78 ($19.36 in chips) 
+Seat 4: SuneSt ($68.40 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($44.09 in chips) 
+SuneSt: posts small blind $0.25
+Chernovsky: posts big blind $0.50
+*** HOLE CARDS ***
+kars0n: folds 
+SparkYLive: folds 
+"diamondave7: raises $1 to $1.50
+oiltown2018: folds 
+jasonh17: folds 
+journey ro78: folds 
+SuneSt: raises $3 to $4.50
+Chernovsky: folds 
+"diamondave7: calls $3
+*** FLOP *** [Ad 6d 4c]
+SuneSt: checks 
+"diamondave7: checks 
+*** TURN *** [Ad 6d 4c] [2h]
+SuneSt: checks 
+"diamondave7: checks 
+*** RIVER *** [Ad 6d 4c 2h] [5d]
+SuneSt: checks 
+"diamondave7: checks 
+*** SHOW DOWN ***
+SuneSt: shows [Jh Kh] (high card Ace)
+"diamondave7: shows [6c 8c] (a pair of Sixes)
+"diamondave7 collected $9.02 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [Ad 6d 4c 2h 5d]
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: journey ro78 (button) folded before Flop (didn't bet)
+Seat 4: SuneSt (small blind) showed [Jh Kh] and lost with high card Ace
+Seat 5: Chernovsky (big blind) folded before Flop
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 showed [6c 8c] and won ($9.02) with a pair of Sixes
+
+
+
+PokerStars Hand #228697031239:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:35:49 ET
+Table 'Ostenia II' 9-max Seat #4 is the button
+Seat 1: oiltown2018 ($41.33 in chips) 
+Seat 2: jasonh17 ($19.67 in chips) 
+Seat 3: journey ro78 ($19.36 in chips) 
+Seat 4: SuneSt ($63.90 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($48.61 in chips) 
+Chernovsky: posts small blind $0.25
+kars0n: posts big blind $0.50
+*** HOLE CARDS ***
+SparkYLive: folds 
+"diamondave7: folds 
+oiltown2018: folds 
+jasonh17: calls $0.50
+journey ro78: calls $0.50
+SuneSt: folds 
+Chernovsky: folds 
+kars0n: checks 
+*** FLOP *** [5c Tc 9h]
+kars0n: bets $0.83
+jasonh17: folds 
+journey ro78: calls $0.83
+*** TURN *** [5c Tc 9h] [6h]
+kars0n: checks 
+journey ro78: bets $3.24
+kars0n: folds 
+Uncalled bet ($3.24) returned to journey ro78
+journey ro78 collected $3.24 from pot
+journey ro78: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.41 | Rake $0.17 
+Board [5c Tc 9h 6h]
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 folded on the Flop
+Seat 3: journey ro78 collected ($3.24)
+Seat 4: SuneSt (button) folded before Flop (didn't bet)
+Seat 5: Chernovsky (small blind) folded before Flop
+Seat 7: kars0n (big blind) folded on the Turn
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228697039113:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:36:30 ET
+Table 'Ostenia II' 9-max Seat #5 is the button
+Seat 1: oiltown2018 ($41.33 in chips) 
+Seat 2: jasonh17 ($19.17 in chips) 
+Seat 3: journey ro78 ($21.27 in chips) 
+Seat 4: SuneSt ($63.90 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($48.61 in chips) 
+kars0n: posts small blind $0.25
+SparkYLive: posts big blind $0.50
+*** HOLE CARDS ***
+"diamondave7: raises $1 to $1.50
+oiltown2018: folds 
+jasonh17: folds 
+journey ro78: folds 
+SuneSt: folds 
+Chernovsky: folds 
+kars0n: folds 
+SparkYLive: folds 
+Uncalled bet ($1) returned to "diamondave7
+"diamondave7 collected $1.25 from pot
+"diamondave7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: journey ro78 folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky (button) folded before Flop (didn't bet)
+Seat 7: kars0n (small blind) folded before Flop
+Seat 8: SparkYLive (big blind) folded before Flop
+Seat 9: "diamondave7 collected ($1.25)
+
+
+
+PokerStars Hand #228697042590:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:36:48 ET
+Table 'Ostenia II' 9-max Seat #7 is the button
+Seat 1: oiltown2018 ($41.33 in chips) 
+Seat 2: jasonh17 ($19.17 in chips) 
+Seat 3: journey ro78 ($21.27 in chips) 
+Seat 4: SuneSt ($63.90 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($55.71 in chips) 
+Seat 9: "diamondave7 ($49.36 in chips) 
+SparkYLive: posts small blind $0.25
+"diamondave7: posts big blind $0.50
+*** HOLE CARDS ***
+oiltown2018: folds 
+jasonh17: folds 
+journey ro78: folds 
+SuneSt: folds 
+Chernovsky: raises $0.75 to $1.25
+kars0n: folds 
+SparkYLive: folds 
+"diamondave7: calls $0.75
+*** FLOP *** [Ks 7d Ad]
+"diamondave7: checks 
+Chernovsky: bets $0.89
+"diamondave7: calls $0.89
+*** TURN *** [Ks 7d Ad] [Kd]
+"diamondave7: checks 
+Chernovsky: checks 
+*** RIVER *** [Ks 7d Ad Kd] [2s]
+"diamondave7: checks 
+Chernovsky: checks 
+*** SHOW DOWN ***
+"diamondave7: shows [Ac 4c] (two pair, Aces and Kings)
+Chernovsky: mucks hand 
+"diamondave7 collected $4.30 from pot
+*** SUMMARY ***
+Total pot $4.53 | Rake $0.23 
+Board [Ks 7d Ad Kd 2s]
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: journey ro78 folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky mucked
+Seat 7: kars0n (button) folded before Flop (didn't bet)
+Seat 8: SparkYLive (small blind) folded before Flop
+Seat 9: "diamondave7 (big blind) showed [Ac 4c] and won ($4.30) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #228697062603:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:38:31 ET
+Table 'Ostenia II' 9-max Seat #9 is the button
+Seat 1: oiltown2018 ($40.83 in chips) 
+Seat 2: jasonh17 ($5.85 in chips) 
+Seat 3: journey ro78 ($21.27 in chips) 
+Seat 4: SuneSt ($81.87 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($55.46 in chips) 
+Seat 9: "diamondave7 ($51.27 in chips) 
+oiltown2018: posts small blind $0.25
+jasonh17: posts big blind $0.50
+*** HOLE CARDS ***
+journey ro78: folds 
+SuneSt: folds 
+Chernovsky: folds 
+kars0n: folds 
+SparkYLive: raises $0.85 to $1.35
+"diamondave7: folds 
+oiltown2018: folds 
+jasonh17: folds 
+Uncalled bet ($0.85) returned to SparkYLive
+SparkYLive collected $1.25 from pot
+SparkYLive: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: oiltown2018 (small blind) folded before Flop
+Seat 2: jasonh17 (big blind) folded before Flop
+Seat 3: journey ro78 folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive collected ($1.25)
+Seat 9: "diamondave7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228697066921:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:38:53 ET
+Table 'Ostenia II' 9-max Seat #1 is the button
+Seat 1: oiltown2018 ($40.58 in chips) 
+Seat 2: jasonh17 ($5.35 in chips) 
+Seat 3: journey ro78 ($21.27 in chips) 
+Seat 4: SuneSt ($81.87 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($51.27 in chips) 
+jasonh17: posts small blind $0.25
+journey ro78: posts big blind $0.50
+*** HOLE CARDS ***
+SuneSt: folds 
+Chernovsky: folds 
+kars0n: folds 
+SparkYLive: folds 
+"diamondave7: folds 
+oiltown2018: folds 
+jasonh17: raises $0.50 to $1
+journey ro78: raises $0.50 to $1.50
+jasonh17: raises $3.85 to $5.35 and is all-in
+journey ro78: calls $3.85
+jasonh17:  
+journey ro78:  
+*** FLOP *** [5s Ts 7c]
+*** TURN *** [5s Ts 7c] [2h]
+*** RIVER *** [5s Ts 7c 2h] [4s]
+*** SHOW DOWN ***
+jasonh17: shows [Td Th] (three of a kind, Tens)
+journey ro78: shows [Jd Js] (a pair of Jacks)
+jasonh17 collected $10.16 from pot
+*** SUMMARY ***
+Total pot $10.70 | Rake $0.54 
+Board [5s Ts 7c 2h 4s]
+Seat 1: oiltown2018 (button) folded before Flop (didn't bet)
+Seat 2: jasonh17 (small blind) showed [Td Th] and won ($10.16) with three of a kind, Tens
+Seat 3: journey ro78 (big blind) showed [Jd Js] and lost with a pair of Jacks
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228697080561:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:39:27 ET
+Table 'Ostenia II' 9-max Seat #2 is the button
+Seat 1: oiltown2018 ($40.58 in chips) 
+Seat 2: jasonh17 ($10.16 in chips) 
+Seat 3: journey ro78 ($15.92 in chips) 
+Seat 4: SuneSt ($81.87 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($51.27 in chips) 
+journey ro78: posts small blind $0.25
+SuneSt: posts big blind $0.50
+*** HOLE CARDS ***
+Chernovsky: folds 
+kars0n: folds 
+SparkYLive: folds 
+"diamondave7: raises $0.50 to $1
+oiltown2018: folds 
+jasonh17: calls $1
+journey ro78: calls $0.75
+SuneSt: calls $0.50
+*** FLOP *** [Ah Td Jc]
+journey ro78: bets $0.50
+SuneSt: folds 
+"diamondave7: calls $0.50
+jasonh17: calls $0.50
+*** TURN *** [Ah Td Jc] [6d]
+journey ro78: bets $14.42 and is all-in
+"diamondave7: folds 
+jasonh17: folds 
+Uncalled bet ($14.42) returned to journey ro78
+journey ro78 collected $5.22 from pot
+journey ro78: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Ah Td Jc 6d]
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 (button) folded on the Turn
+Seat 3: journey ro78 (small blind) collected ($5.22)
+Seat 4: SuneSt (big blind) folded on the Flop
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded on the Turn
+
+
+
+PokerStars Hand #228697090743:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:40:21 ET
+Table 'Ostenia II' 9-max Seat #3 is the button
+Seat 1: oiltown2018 ($40.58 in chips) 
+Seat 2: jasonh17 ($8.66 in chips) 
+Seat 3: journey ro78 ($19.64 in chips) 
+Seat 4: SuneSt ($80.87 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($49.77 in chips) 
+SuneSt: posts small blind $0.25
+Chernovsky: posts big blind $0.50
+*** HOLE CARDS ***
+kars0n: folds 
+SparkYLive: folds 
+"diamondave7: folds 
+oiltown2018: folds 
+jasonh17: folds 
+journey ro78: folds 
+SuneSt: folds 
+Uncalled bet ($0.25) returned to Chernovsky
+Chernovsky collected $0.50 from pot
+Chernovsky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: journey ro78 (button) folded before Flop (didn't bet)
+Seat 4: SuneSt (small blind) folded before Flop
+Seat 5: Chernovsky (big blind) collected ($0.50)
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228697093019:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:40:33 ET
+Table 'Ostenia II' 9-max Seat #4 is the button
+Seat 1: oiltown2018 ($40.58 in chips) 
+Seat 2: jasonh17 ($8.66 in chips) 
+Seat 3: journey ro78 ($19.64 in chips) 
+Seat 4: SuneSt ($80.62 in chips) 
+Seat 5: Chernovsky ($50.25 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($49.77 in chips) 
+Chernovsky: posts small blind $0.25
+kars0n: posts big blind $0.50
+*** HOLE CARDS ***
+SparkYLive: folds 
+"diamondave7: raises $1 to $1.50
+oiltown2018: folds 
+jasonh17: folds 
+journey ro78: folds 
+SuneSt: raises $3.50 to $5
+Chernovsky: folds 
+kars0n: folds 
+"diamondave7: calls $3.50
+*** FLOP *** [3h 2h Qd]
+"diamondave7: checks 
+SuneSt: bets $5.51
+"diamondave7: folds 
+Uncalled bet ($5.51) returned to SuneSt
+SuneSt collected $10.21 from pot
+SuneSt: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.75 | Rake $0.54 
+Board [3h 2h Qd]
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: journey ro78 folded before Flop (didn't bet)
+Seat 4: SuneSt (button) collected ($10.21)
+Seat 5: Chernovsky (small blind) folded before Flop
+Seat 7: kars0n (big blind) folded before Flop
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded on the Flop
+
+
+
+PokerStars Hand #228697112737:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:41:42 ET
+Table 'Ostenia II' 9-max Seat #5 is the button
+Seat 1: oiltown2018 ($40.58 in chips) 
+Seat 2: jasonh17 ($8.66 in chips) 
+Seat 3: journey ro78 ($19.64 in chips) 
+Seat 4: SuneSt ($85.83 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($56.21 in chips) 
+Seat 9: "diamondave7 ($44.77 in chips) 
+kars0n: posts small blind $0.25
+SparkYLive: posts big blind $0.50
+*** HOLE CARDS ***
+"diamondave7: folds 
+oiltown2018: raises $1 to $1.50
+jasonh17: folds 
+journey ro78: folds 
+SuneSt: folds 
+Chernovsky: folds 
+kars0n: folds 
+SparkYLive: folds 
+Uncalled bet ($1) returned to oiltown2018
+oiltown2018 collected $1.25 from pot
+oiltown2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: oiltown2018 collected ($1.25)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: journey ro78 folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky (button) folded before Flop (didn't bet)
+Seat 7: kars0n (small blind) folded before Flop
+Seat 8: SparkYLive (big blind) folded before Flop
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228697116666:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:42:02 ET
+Table 'Ostenia II' 9-max Seat #7 is the button
+Seat 1: oiltown2018 ($41.33 in chips) 
+Seat 2: jasonh17 ($8.66 in chips) 
+Seat 3: journey ro78 ($19.64 in chips) 
+Seat 4: SuneSt ($85.83 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($55.71 in chips) 
+Seat 9: "diamondave7 ($44.77 in chips) 
+SparkYLive: posts small blind $0.25
+"diamondave7: posts big blind $0.50
+*** HOLE CARDS ***
+oiltown2018: folds 
+jasonh17: folds 
+journey ro78: calls $0.50
+SuneSt: raises $1.50 to $2
+Chernovsky: folds 
+kars0n: folds 
+SparkYLive: folds 
+"diamondave7: calls $1.50
+journey ro78: calls $1.50
+*** FLOP *** [Jd 4c 6c]
+"diamondave7: checks 
+journey ro78: checks 
+SuneSt: checks 
+*** TURN *** [Jd 4c 6c] [Qs]
+"diamondave7: checks 
+journey ro78: bets $2.97
+SuneSt: folds 
+"diamondave7: folds 
+Uncalled bet ($2.97) returned to journey ro78
+journey ro78 collected $5.94 from pot
+journey ro78: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.31 
+Board [Jd 4c 6c Qs]
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: journey ro78 collected ($5.94)
+Seat 4: SuneSt folded on the Turn
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 7: kars0n (button) folded before Flop (didn't bet)
+Seat 8: SparkYLive (small blind) folded before Flop
+Seat 9: "diamondave7 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #228697125092:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:42:47 ET
+Table 'Ostenia II' 9-max Seat #8 is the button
+Seat 1: oiltown2018 ($41.33 in chips) 
+Seat 2: jasonh17 ($8.66 in chips) 
+Seat 3: journey ro78 ($23.58 in chips) 
+Seat 4: SuneSt ($83.83 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($55.46 in chips) 
+Seat 9: "diamondave7 ($42.77 in chips) 
+"diamondave7: posts small blind $0.25
+oiltown2018: posts big blind $0.50
+*** HOLE CARDS ***
+jasonh17: folds 
+journey ro78: folds 
+SuneSt: raises $1 to $1.50
+Chernovsky: folds 
+kars0n: folds 
+SparkYLive: folds 
+"diamondave7: folds 
+oiltown2018: folds 
+Uncalled bet ($1) returned to SuneSt
+SuneSt collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: oiltown2018 (big blind) folded before Flop
+Seat 2: jasonh17 folded before Flop (didn't bet)
+Seat 3: journey ro78 folded before Flop (didn't bet)
+Seat 4: SuneSt collected ($1.25)
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive (button) folded before Flop (didn't bet)
+Seat 9: "diamondave7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228697128361:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:43:04 ET
+Table 'Ostenia II' 9-max Seat #9 is the button
+Seat 1: oiltown2018 ($40.83 in chips) 
+Seat 2: jasonh17 ($8.66 in chips) 
+Seat 3: journey ro78 ($23.58 in chips) 
+Seat 4: SuneSt ($84.58 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($50 in chips) 
+Seat 8: SparkYLive ($55.46 in chips) 
+Seat 9: "diamondave7 ($42.52 in chips) 
+oiltown2018: posts small blind $0.25
+jasonh17: posts big blind $0.50
+*** HOLE CARDS ***
+journey ro78: folds 
+SuneSt: folds 
+Chernovsky: folds 
+kars0n: raises $0.75 to $1.25
+SparkYLive: folds 
+"diamondave7: folds 
+oiltown2018: folds 
+jasonh17: calls $0.75
+*** FLOP *** [8d 5c Ad]
+jasonh17: checks 
+kars0n: bets $0.78
+jasonh17: calls $0.78
+*** TURN *** [8d 5c Ad] [9d]
+jasonh17: checks 
+kars0n: bets $2.05
+jasonh17: folds 
+Uncalled bet ($2.05) returned to kars0n
+kars0n collected $4.09 from pot
+*** SUMMARY ***
+Total pot $4.31 | Rake $0.22 
+Board [8d 5c Ad 9d]
+Seat 1: oiltown2018 (small blind) folded before Flop
+Seat 2: jasonh17 (big blind) folded on the Turn
+Seat 3: journey ro78 folded before Flop (didn't bet)
+Seat 4: SuneSt folded before Flop (didn't bet)
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 7: kars0n collected ($4.09)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228697138041:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:43:55 ET
+Table 'Ostenia II' 9-max Seat #1 is the button
+Seat 1: oiltown2018 ($40.58 in chips) 
+Seat 2: jasonh17 ($6.63 in chips) 
+Seat 3: journey ro78 ($23.58 in chips) 
+Seat 4: SuneSt ($84.58 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($52.06 in chips) 
+Seat 8: SparkYLive ($55.46 in chips) 
+Seat 9: "diamondave7 ($42.52 in chips) 
+jasonh17: posts small blind $0.25
+journey ro78: posts big blind $0.50
+*** HOLE CARDS ***
+SuneSt: raises $1 to $1.50
+Chernovsky: folds 
+kars0n: folds 
+SparkYLive: folds 
+"diamondave7: folds 
+oiltown2018: folds 
+jasonh17: folds 
+journey ro78: folds 
+Uncalled bet ($1) returned to SuneSt
+SuneSt collected $1.25 from pot
+SuneSt: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: oiltown2018 (button) folded before Flop (didn't bet)
+Seat 2: jasonh17 (small blind) folded before Flop
+Seat 3: journey ro78 (big blind) folded before Flop
+Seat 4: SuneSt collected ($1.25)
+Seat 5: Chernovsky folded before Flop (didn't bet)
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228697139896:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:44:04 ET
+Table 'Ostenia II' 9-max Seat #2 is the button
+Seat 1: oiltown2018 ($40.58 in chips) 
+Seat 2: jasonh17 ($6.38 in chips) 
+Seat 3: journey ro78 ($23.08 in chips) 
+Seat 4: SuneSt ($85.33 in chips) 
+Seat 5: Chernovsky ($50 in chips) 
+Seat 7: kars0n ($52.06 in chips) 
+Seat 8: SparkYLive ($55.46 in chips) 
+Seat 9: "diamondave7 ($42.52 in chips) 
+journey ro78: posts small blind $0.25
+SuneSt: posts big blind $0.50
+*** HOLE CARDS ***
+Chernovsky: raises $0.75 to $1.25
+Tedd24 was removed from the table for failing to post
+Tedd24 leaves the table
+kars0n: folds 
+SparkYLive: folds 
+"diamondave7: folds 
+oiltown2018: folds 
+jasonh17: folds 
+journey ro78: calls $1
+SuneSt: folds 
+*** FLOP *** [Ac 5c Js]
+journey ro78: checks 
+Chernovsky: bets $0.97
+journey ro78: calls $0.97
+*** TURN *** [Ac 5c Js] [6c]
+journey ro78: checks 
+Chernovsky: checks 
+*** RIVER *** [Ac 5c Js 6c] [Qd]
+journey ro78: checks 
+Chernovsky: checks 
+*** SHOW DOWN ***
+journey ro78: shows [4s 4d] (a pair of Fours)
+Chernovsky: shows [Ks Qh] (a pair of Queens)
+Chernovsky collected $4.69 from pot
+*** SUMMARY ***
+Total pot $4.94 | Rake $0.25 
+Board [Ac 5c Js 6c Qd]
+Seat 1: oiltown2018 folded before Flop (didn't bet)
+Seat 2: jasonh17 (button) folded before Flop (didn't bet)
+Seat 3: journey ro78 (small blind) showed [4s 4d] and lost with a pair of Fours
+Seat 4: SuneSt (big blind) folded before Flop
+Seat 5: Chernovsky showed [Ks Qh] and won ($4.69) with a pair of Queens
+Seat 7: kars0n folded before Flop (didn't bet)
+Seat 8: SparkYLive folded before Flop (didn't bet)
+Seat 9: "diamondave7 folded before Flop (didn't bet)
+
+
+

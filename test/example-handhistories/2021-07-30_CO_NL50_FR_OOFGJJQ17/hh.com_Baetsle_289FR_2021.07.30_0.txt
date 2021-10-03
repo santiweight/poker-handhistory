@@ -1,0 +1,1175 @@
+﻿PokerStars Hand #228672475375:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:35:34 ET
+Table 'Baetsle II' 9-max Seat #7 is the button
+Seat 1: cartman177 ($50.34 in chips) 
+Seat 3: julievan ($91.65 in chips) 
+Seat 4: xobit26 ($121.99 in chips) 
+Seat 5: SuneSt ($60.55 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($50 in chips) 
+Seat 8: Echomk ($51.36 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+Echomk: posts small blind $0.25
+undergr0undY: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177: folds 
+julievan: raises $0.50 to $1
+xobit26: raises $3.75 to $4.75
+SuneSt: folds 
+Dumont360: folds 
+Effort92 joins the table at seat #2 
+JBJ68: raises $6.25 to $11
+Echomk: folds 
+undergr0undY: folds 
+julievan: folds 
+xobit26: calls $6.25
+*** FLOP *** [5s 7c 4c]
+xobit26: checks 
+JBJ68: bets $7.44
+xobit26: calls $7.44
+*** TURN *** [5s 7c 4c] [Qc]
+xobit26: checks 
+JBJ68: checks 
+*** RIVER *** [5s 7c 4c Qc] [2d]
+xobit26: bets $27.53
+JBJ68: raises $4.03 to $31.56 and is all-in
+xobit26: calls $4.03
+*** SHOW DOWN ***
+JBJ68: shows [Qh Qs] (three of a kind, Queens)
+xobit26: shows [Ks As] (high card Ace)
+JBJ68 collected $99.75 from pot
+*** SUMMARY ***
+Total pot $101.75 | Rake $2 
+Board [5s 7c 4c Qc 2d]
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 3: julievan folded before Flop
+Seat 4: xobit26 showed [Ks As] and lost with high card Ace
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 7: JBJ68 (button) showed [Qh Qs] and won ($99.75) with three of a kind, Queens
+Seat 8: Echomk (small blind) folded before Flop
+Seat 9: undergr0undY (big blind) folded before Flop
+
+
+
+PokerStars Hand #228672386148:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:27:43 ET
+Table 'Baetsle II' 9-max Seat #6 is the button
+Seat 1: cartman177 ($51.84 in chips) 
+Seat 3: julievan ($104.60 in chips) 
+Seat 4: xobit26 ($60.87 in chips) 
+Seat 5: SuneSt ($50 in chips) 
+Seat 6: Dumont360 ($45.32 in chips) 
+Seat 8: rredoctober ($44.95 in chips) 
+Seat 9: Mc57Arnold ($130.88 in chips) 
+rredoctober: posts small blind $0.25
+Mc57Arnold: posts big blind $0.50
+pudge.3096: sits out 
+*** HOLE CARDS ***
+cartman177: folds 
+julievan: raises $0.50 to $1
+xobit26: folds 
+SuneSt: calls $1
+Dumont360: folds 
+rredoctober: calls $0.75
+Mc57Arnold: folds 
+*** FLOP *** [Td 7h 6d]
+rredoctober: checks 
+julievan: checks 
+SuneSt: checks 
+*** TURN *** [Td 7h 6d] [Qc]
+rredoctober: checks 
+julievan: bets $1.66
+SuneSt: folds 
+rredoctober: folds 
+Uncalled bet ($1.66) returned to julievan
+julievan collected $3.32 from pot
+julievan: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [Td 7h 6d Qc]
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 3: julievan collected ($3.32)
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt folded on the Turn
+Seat 6: Dumont360 (button) folded before Flop (didn't bet)
+Seat 8: rredoctober (small blind) folded on the Turn
+Seat 9: Mc57Arnold (big blind) folded before Flop
+
+
+
+PokerStars Hand #228672406992:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:29:01 ET
+Table 'Baetsle II' 9-max Seat #8 is the button
+Seat 1: cartman177 ($51.84 in chips) 
+Seat 3: julievan ($106.92 in chips) 
+Seat 4: xobit26 ($60.87 in chips) 
+Seat 5: SuneSt ($50 in chips) 
+Seat 6: Dumont360 ($45.32 in chips) 
+Seat 8: rredoctober ($43.95 in chips) 
+Seat 9: Mc57Arnold ($130.38 in chips) 
+Mc57Arnold: posts small blind $0.25
+cartman177: posts big blind $0.50
+pudge.3096: sits out 
+JBJ68: sits out 
+*** HOLE CARDS ***
+julievan: folds 
+xobit26: folds 
+SuneSt: folds 
+Dumont360: folds 
+rredoctober: folds 
+Mc57Arnold: folds 
+Uncalled bet ($0.25) returned to cartman177
+cartman177 collected $0.50 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cartman177 (big blind) collected ($0.50)
+Seat 3: julievan folded before Flop (didn't bet)
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 8: rredoctober (button) folded before Flop (didn't bet)
+Seat 9: Mc57Arnold (small blind) folded before Flop
+
+
+
+PokerStars Hand #228672411142:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:29:26 ET
+Table 'Baetsle II' 9-max Seat #9 is the button
+Seat 1: cartman177 ($52.09 in chips) 
+Seat 2: pudge.3096 ($50 in chips) 
+Seat 3: julievan ($106.92 in chips) 
+Seat 4: xobit26 ($60.87 in chips) 
+Seat 5: SuneSt ($50 in chips) 
+Seat 6: Dumont360 ($45.32 in chips) 
+Seat 8: rredoctober ($43.95 in chips) 
+Seat 9: Mc57Arnold ($130.13 in chips) 
+cartman177: posts small blind $0.25
+pudge.3096: posts big blind $0.50
+JBJ68: sits out 
+*** HOLE CARDS ***
+julievan is connected 
+julievan has timed out
+julievan: folds 
+xobit26: raises $1 to $1.50
+SuneSt: folds 
+Dumont360: folds 
+rredoctober: folds 
+Mc57Arnold: raises $3 to $4.50
+cartman177: folds 
+pudge.3096: folds 
+xobit26: raises $6.50 to $11
+Mc57Arnold: raises $119.13 to $130.13 and is all-in
+xobit26: calls $49.87 and is all-in
+Uncalled bet ($69.26) returned to Mc57Arnold
+*** FLOP *** [3s Qs 2h]
+*** TURN *** [3s Qs 2h] [7s]
+*** RIVER *** [3s Qs 2h 7s] [Tc]
+*** SHOW DOWN ***
+xobit26: shows [Ks Kd] (a pair of Kings)
+Mc57Arnold: shows [Kh Ah] (high card Ace)
+xobit26 collected $120.49 from pot
+Mc57Arnold cashed out the hand for $40.68 | Cash Out Fee $0.41
+*** SUMMARY ***
+Total pot $122.49 | Rake $2 
+Board [3s Qs 2h 7s Tc]
+Seat 1: cartman177 (small blind) folded before Flop
+Seat 2: pudge.3096 (big blind) folded before Flop
+Seat 3: julievan folded before Flop (didn't bet)
+Seat 4: xobit26 showed [Ks Kd] and won ($120.49) with a pair of Kings
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 8: rredoctober folded before Flop (didn't bet)
+Seat 9: Mc57Arnold (button) showed [Kh Ah] and lost with high card Ace (cashed out).
+
+
+
+PokerStars Hand #228672420086:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:30:16 ET
+Table 'Baetsle II' 9-max Seat #1 is the button
+Seat 1: cartman177 ($51.84 in chips) 
+Seat 2: pudge.3096 ($50 in chips) 
+Seat 3: julievan ($106.92 in chips) 
+Seat 4: xobit26 ($120.49 in chips) 
+Seat 5: SuneSt ($50 in chips) 
+Seat 6: Dumont360 ($45.32 in chips) 
+Seat 8: rredoctober ($43.95 in chips) 
+Seat 9: Mc57Arnold ($109.94 in chips) 
+pudge.3096: posts small blind $0.25
+julievan: posts big blind $0.50
+JBJ68: sits out 
+*** HOLE CARDS ***
+xobit26: folds 
+SuneSt: folds 
+Dumont360: folds 
+rredoctober: calls $0.50
+Mc57Arnold: raises $1.50 to $2
+cartman177: folds 
+pudge.3096: folds 
+julievan: calls $1.50
+rredoctober: calls $1.50
+*** FLOP *** [7h Td 6c]
+julievan: checks 
+rredoctober: checks 
+Mc57Arnold: bets $1.78
+julievan: calls $1.78
+rredoctober: calls $1.78
+*** TURN *** [7h Td 6c] [5c]
+julievan: checks 
+rredoctober: checks 
+Mc57Arnold: checks 
+*** RIVER *** [7h Td 6c 5c] [Qc]
+julievan: checks 
+rredoctober: bets $11.01
+Mc57Arnold: folds 
+julievan: folds 
+Uncalled bet ($11.01) returned to rredoctober
+rredoctober collected $11.01 from pot
+rredoctober: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.59 | Rake $0.58 
+Board [7h Td 6c 5c Qc]
+Seat 1: cartman177 (button) folded before Flop (didn't bet)
+Seat 2: pudge.3096 (small blind) folded before Flop
+Seat 3: julievan (big blind) folded on the River
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 8: rredoctober collected ($11.01)
+Seat 9: Mc57Arnold folded on the River
+
+
+
+PokerStars Hand #228672433568:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:31:33 ET
+Table 'Baetsle II' 9-max Seat #2 is the button
+Seat 1: cartman177 ($51.84 in chips) 
+Seat 2: pudge.3096 ($50 in chips) 
+Seat 3: julievan ($103.14 in chips) 
+Seat 4: xobit26 ($120.49 in chips) 
+Seat 5: SuneSt ($50 in chips) 
+Seat 6: Dumont360 ($45.32 in chips) 
+Seat 8: rredoctober ($51.18 in chips) 
+Seat 9: Mc57Arnold ($106.16 in chips) 
+julievan: posts small blind $0.25
+xobit26: posts big blind $0.50
+JBJ68: sits out 
+*** HOLE CARDS ***
+SuneSt: folds 
+Dumont360: folds 
+rredoctober: calls $0.50
+Mc57Arnold: folds 
+cartman177: folds 
+pudge.3096: raises $2 to $2.50
+julievan: folds 
+xobit26: folds 
+rredoctober: calls $2
+*** FLOP *** [2h Kh Ad]
+rredoctober: checks 
+pudge.3096: bets $1.75
+rredoctober: calls $1.75
+*** TURN *** [2h Kh Ad] [6c]
+rredoctober: checks 
+pudge.3096: bets $6.68
+rredoctober: calls $6.68
+*** RIVER *** [2h Kh Ad 6c] [4d]
+rredoctober: checks 
+pudge.3096: checks 
+*** SHOW DOWN ***
+rredoctober: shows [5h Ah] (a pair of Aces)
+pudge.3096: mucks hand 
+rredoctober collected $21.48 from pot
+*** SUMMARY ***
+Total pot $22.61 | Rake $1.13 
+Board [2h Kh Ad 6c 4d]
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 2: pudge.3096 (button) mucked
+Seat 3: julievan (small blind) folded before Flop
+Seat 4: xobit26 (big blind) folded before Flop
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 8: rredoctober showed [5h Ah] and won ($21.48) with a pair of Aces
+Seat 9: Mc57Arnold folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228672443438:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:32:30 ET
+Table 'Baetsle II' 9-max Seat #3 is the button
+Seat 1: cartman177 ($51.84 in chips) 
+Seat 2: pudge.3096 ($50 in chips) 
+Seat 3: julievan ($102.89 in chips) 
+Seat 4: xobit26 ($119.99 in chips) 
+Seat 5: SuneSt ($50 in chips) 
+Seat 6: Dumont360 ($45.32 in chips) 
+Seat 8: rredoctober ($61.73 in chips) 
+Seat 9: Mc57Arnold ($106.16 in chips) 
+xobit26: posts small blind $0.25
+SuneSt: posts big blind $0.50
+JBJ68: sits out 
+*** HOLE CARDS ***
+Dumont360: folds 
+rredoctober: calls $0.50
+Mc57Arnold: calls $0.50
+cartman177: folds 
+pudge.3096: folds 
+julievan: calls $0.50
+xobit26: raises $4.25 to $4.75
+SuneSt: folds 
+rredoctober: folds 
+Mc57Arnold: folds 
+julievan: folds 
+Uncalled bet ($4.25) returned to xobit26
+xobit26 collected $2.50 from pot
+xobit26: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 3: julievan (button) folded before Flop
+Seat 4: xobit26 (small blind) collected ($2.50)
+Seat 5: SuneSt (big blind) folded before Flop
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 8: rredoctober folded before Flop
+Seat 9: Mc57Arnold folded before Flop
+
+
+
+PokerStars Hand #228672450317:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:33:09 ET
+Table 'Baetsle II' 9-max Seat #4 is the button
+Seat 1: cartman177 ($51.84 in chips) 
+Seat 2: pudge.3096 ($50 in chips) 
+Seat 3: julievan ($102.39 in chips) 
+Seat 4: xobit26 ($121.99 in chips) 
+Seat 5: SuneSt ($50 in chips) 
+Seat 6: Dumont360 ($45.32 in chips) 
+Seat 8: rredoctober ($61.23 in chips) 
+Seat 9: Mc57Arnold ($105.66 in chips) 
+SuneSt: posts small blind $0.25
+Dumont360: posts big blind $0.50
+JBJ68: sits out 
+*** HOLE CARDS ***
+rredoctober: raises $1 to $1.50
+Mc57Arnold: folds 
+cartman177: folds 
+pudge.3096: folds 
+julievan: folds 
+xobit26: folds 
+SuneSt: folds 
+Dumont360: calls $1
+*** FLOP *** [3c Td Ad]
+Dumont360: checks 
+rredoctober: bets $1.54
+Dumont360: calls $1.54
+*** TURN *** [3c Td Ad] [2c]
+Dumont360: checks 
+rredoctober: bets $6.01
+Dumont360: folds 
+Uncalled bet ($6.01) returned to rredoctober
+rredoctober collected $6.01 from pot
+rredoctober: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.33 | Rake $0.32 
+Board [3c Td Ad 2c]
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 3: julievan folded before Flop (didn't bet)
+Seat 4: xobit26 (button) folded before Flop (didn't bet)
+Seat 5: SuneSt (small blind) folded before Flop
+Seat 6: Dumont360 (big blind) folded on the Turn
+Seat 8: rredoctober collected ($6.01)
+Seat 9: Mc57Arnold folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228672456565:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:33:45 ET
+Table 'Baetsle II' 9-max Seat #5 is the button
+Seat 1: cartman177 ($51.84 in chips) 
+Seat 2: pudge.3096 ($50 in chips) 
+Seat 3: julievan ($102.39 in chips) 
+Seat 4: xobit26 ($121.99 in chips) 
+Seat 5: SuneSt ($50 in chips) 
+Seat 6: Dumont360 ($42.28 in chips) 
+Seat 7: JBJ68 ($50 in chips) 
+Seat 8: rredoctober ($64.20 in chips) 
+Seat 9: Mc57Arnold ($105.66 in chips) 
+Dumont360: posts small blind $0.25
+JBJ68: posts big blind $0.50
+*** HOLE CARDS ***
+rredoctober: folds 
+rredoctober leaves the table
+Mc57Arnold: folds 
+cartman177: raises $1 to $1.50
+pudge.3096: folds 
+Mc57Arnold leaves the table
+Echomk joins the table at seat #8 
+julievan: calls $1.50
+xobit26: folds 
+undergr0undY joins the table at seat #9 
+SuneSt: raises $4.50 to $6
+Dumont360: folds 
+JBJ68: folds 
+pudge.3096 leaves the table
+cartman177: folds 
+julievan: calls $4.50
+*** FLOP *** [Ah 7d 9s]
+julievan: checks 
+SuneSt: bets $4.74
+julievan: calls $4.74
+*** TURN *** [Ah 7d 9s] [Qs]
+julievan: checks 
+SuneSt: bets $14.88
+julievan: folds 
+Uncalled bet ($14.88) returned to SuneSt
+SuneSt collected $22.54 from pot
+SuneSt: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.73 | Rake $1.19 
+Board [Ah 7d 9s Qs]
+Seat 1: cartman177 folded before Flop
+Seat 2: pudge.3096 folded before Flop (didn't bet)
+Seat 3: julievan folded on the Turn
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt (button) collected ($22.54)
+Seat 6: Dumont360 (small blind) folded before Flop
+Seat 7: JBJ68 (big blind) folded before Flop
+Seat 8: rredoctober folded before Flop (didn't bet)
+Seat 9: Mc57Arnold folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228672466861:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:34:45 ET
+Table 'Baetsle II' 9-max Seat #6 is the button
+Seat 1: cartman177 ($50.34 in chips) 
+Seat 3: julievan ($91.65 in chips) 
+Seat 4: xobit26 ($121.99 in chips) 
+Seat 5: SuneSt ($61.80 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($50 in chips) 
+Seat 8: Echomk ($50 in chips) 
+JBJ68: posts small blind $0.25
+Echomk: posts big blind $0.50
+undergr0undY: sits out 
+*** HOLE CARDS ***
+cartman177: folds 
+julievan: folds 
+xobit26: folds 
+SuneSt: raises $0.75 to $1.25
+Dumont360: folds 
+JBJ68: folds 
+Echomk: calls $0.75
+*** FLOP *** [Qh 7h 5s]
+Echomk: checks 
+SuneSt: checks 
+*** TURN *** [Qh 7h 5s] [Ad]
+Echomk: checks 
+SuneSt: checks 
+*** RIVER *** [Qh 7h 5s Ad] [Jh]
+Echomk: bets $0.86
+SuneSt: folds 
+Uncalled bet ($0.86) returned to Echomk
+Echomk collected $2.61 from pot
+Echomk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [Qh 7h 5s Ad Jh]
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 3: julievan folded before Flop (didn't bet)
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt folded on the River
+Seat 6: Dumont360 (button) folded before Flop (didn't bet)
+Seat 7: JBJ68 (small blind) folded before Flop
+Seat 8: Echomk (big blind) collected ($2.61)
+
+
+
+PokerStars Hand #228672495205:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:37:30 ET
+Table 'Baetsle II' 9-max Seat #8 is the button
+Seat 1: cartman177 ($50.34 in chips) 
+Seat 3: julievan ($90.65 in chips) 
+Seat 4: xobit26 ($71.99 in chips) 
+Seat 5: SuneSt ($60.55 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($99.75 in chips) 
+Seat 8: Echomk ($51.11 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+undergr0undY: posts small blind $0.25
+cartman177: posts big blind $0.50
+Effort92: sits out 
+*** HOLE CARDS ***
+julievan: calls $0.50
+xobit26: folds 
+SuneSt: raises $1.50 to $2
+Dumont360: folds 
+JBJ68: folds 
+Echomk: raises $5 to $7
+undergr0undY: folds 
+cartman177: folds 
+julievan: calls $6.50
+SuneSt: folds 
+*** FLOP *** [Qd 5d 7d]
+julievan: checks 
+Echomk: checks 
+*** TURN *** [Qd 5d 7d] [Qh]
+julievan: bets $15.91
+Echomk: raises $28.20 to $44.11 and is all-in
+julievan: calls $28.20
+*** RIVER *** [Qd 5d 7d Qh] [Ac]
+*** SHOW DOWN ***
+julievan: shows [Td 9d] (a flush, Queen high)
+Echomk: shows [Kd Ad] (a flush, Ace high)
+Echomk collected $102.97 from pot
+*** SUMMARY ***
+Total pot $104.97 | Rake $2 
+Board [Qd 5d 7d Qh Ac]
+Seat 1: cartman177 (big blind) folded before Flop
+Seat 3: julievan showed [Td 9d] and lost with a flush, Queen high
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt folded before Flop
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 7: JBJ68 folded before Flop (didn't bet)
+Seat 8: Echomk (button) showed [Kd Ad] and won ($102.97) with a flush, Ace high
+Seat 9: undergr0undY (small blind) folded before Flop
+
+
+
+PokerStars Hand #228672503656:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:38:20 ET
+Table 'Baetsle II' 9-max Seat #9 is the button
+Seat 1: cartman177 ($50 in chips) 
+Seat 2: Effort92 ($50 in chips) 
+Seat 3: julievan ($39.54 in chips) 
+Seat 4: xobit26 ($71.99 in chips) 
+Seat 5: SuneSt ($58.55 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($99.75 in chips) 
+Seat 8: Echomk ($102.97 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+cartman177: posts small blind $0.25
+Effort92: posts big blind $0.50
+*** HOLE CARDS ***
+julievan: folds 
+xobit26: raises $1 to $1.50
+SuneSt: folds 
+Dumont360: folds 
+JBJ68: folds 
+Echomk: folds 
+undergr0undY: folds 
+cartman177: folds 
+Effort92: folds 
+Uncalled bet ($1) returned to xobit26
+xobit26 collected $1.25 from pot
+xobit26: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: cartman177 (small blind) folded before Flop
+Seat 2: Effort92 (big blind) folded before Flop
+Seat 3: julievan folded before Flop (didn't bet)
+Seat 4: xobit26 collected ($1.25)
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 7: JBJ68 folded before Flop (didn't bet)
+Seat 8: Echomk folded before Flop (didn't bet)
+Seat 9: undergr0undY (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228672508346:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:38:48 ET
+Table 'Baetsle II' 9-max Seat #1 is the button
+Seat 1: cartman177 ($50 in chips) 
+Seat 2: Effort92 ($50 in chips) 
+Seat 3: julievan ($39.54 in chips) 
+Seat 4: xobit26 ($72.74 in chips) 
+Seat 5: SuneSt ($58.55 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($99.75 in chips) 
+Seat 8: Echomk ($102.97 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+Effort92: posts small blind $0.25
+julievan: posts big blind $0.50
+*** HOLE CARDS ***
+xobit26: folds 
+SuneSt: raises $1 to $1.50
+Dumont360: folds 
+JBJ68: folds 
+Echomk: folds 
+undergr0undY: folds 
+cartman177: folds 
+Effort92: calls $1.25
+julievan: calls $1
+*** FLOP *** [7s Js 3s]
+Effort92: checks 
+julievan: checks 
+SuneSt: checks 
+*** TURN *** [7s Js 3s] [4s]
+Effort92: checks 
+julievan: bets $0.50
+SuneSt: folds 
+Effort92: folds 
+Uncalled bet ($0.50) returned to julievan
+julievan collected $4.28 from pot
+julievan: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [7s Js 3s 4s]
+Seat 1: cartman177 (button) folded before Flop (didn't bet)
+Seat 2: Effort92 (small blind) folded on the Turn
+Seat 3: julievan (big blind) collected ($4.28)
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt folded on the Turn
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 7: JBJ68 folded before Flop (didn't bet)
+Seat 8: Echomk folded before Flop (didn't bet)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228672518017:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:39:44 ET
+Table 'Baetsle II' 9-max Seat #2 is the button
+Seat 1: cartman177 ($50 in chips) 
+Seat 2: Effort92 ($50 in chips) 
+Seat 3: julievan ($42.32 in chips) 
+Seat 4: xobit26 ($72.74 in chips) 
+Seat 5: SuneSt ($57.05 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($99.75 in chips) 
+Seat 8: Echomk ($102.97 in chips) 
+Seat 9: undergr0undY ($50 in chips) 
+julievan: posts small blind $0.25
+xobit26: posts big blind $0.50
+*** HOLE CARDS ***
+SuneSt: folds 
+Dumont360: folds 
+JBJ68: folds 
+Echomk: folds 
+undergr0undY: raises $0.75 to $1.25
+cartman177: folds 
+Effort92: folds 
+julievan: calls $1
+xobit26: calls $0.75
+*** FLOP *** [8s Qc Js]
+julievan: checks 
+xobit26: checks 
+undergr0undY: checks 
+*** TURN *** [8s Qc Js] [5h]
+julievan: checks 
+xobit26: checks 
+undergr0undY: bets $1.50
+julievan: calls $1.50
+xobit26: folds 
+*** RIVER *** [8s Qc Js 5h] [7c]
+julievan: checks 
+undergr0undY: checks 
+*** SHOW DOWN ***
+julievan: shows [Kd Tc] (high card King)
+undergr0undY: shows [Jh Ad] (a pair of Jacks)
+undergr0undY collected $6.41 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.34 
+Board [8s Qc Js 5h 7c]
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 2: Effort92 (button) folded before Flop (didn't bet)
+Seat 3: julievan (small blind) showed [Kd Tc] and lost with high card King
+Seat 4: xobit26 (big blind) folded on the Turn
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 7: JBJ68 folded before Flop (didn't bet)
+Seat 8: Echomk folded before Flop (didn't bet)
+Seat 9: undergr0undY showed [Jh Ad] and won ($6.41) with a pair of Jacks
+
+
+
+PokerStars Hand #228672526900:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:40:36 ET
+Table 'Baetsle II' 9-max Seat #3 is the button
+Seat 1: cartman177 ($50 in chips) 
+Seat 2: Effort92 ($50 in chips) 
+Seat 3: julievan ($39.57 in chips) 
+Seat 4: xobit26 ($71.49 in chips) 
+Seat 5: SuneSt ($57.05 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($99.75 in chips) 
+Seat 8: Echomk ($102.97 in chips) 
+Seat 9: undergr0undY ($53.66 in chips) 
+xobit26: posts small blind $0.25
+SuneSt: posts big blind $0.50
+*** HOLE CARDS ***
+Dumont360: folds 
+JBJ68: folds 
+Echomk: folds 
+undergr0undY: folds 
+cartman177: folds 
+Effort92: folds 
+julievan: calls $0.50
+xobit26: folds 
+SuneSt: checks 
+*** FLOP *** [6d 7c 4s]
+SuneSt: checks 
+julievan: checks 
+*** TURN *** [6d 7c 4s] [5c]
+SuneSt: checks 
+julievan: checks 
+*** RIVER *** [6d 7c 4s 5c] [Kc]
+SuneSt: checks 
+julievan: bets $0.50
+SuneSt: calls $0.50
+*** SHOW DOWN ***
+julievan: shows [Td 8d] (a straight, Four to Eight)
+SuneSt: mucks hand 
+julievan collected $2.14 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [6d 7c 4s 5c Kc]
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 2: Effort92 folded before Flop (didn't bet)
+Seat 3: julievan (button) showed [Td 8d] and won ($2.14) with a straight, Four to Eight
+Seat 4: xobit26 (small blind) folded before Flop
+Seat 5: SuneSt (big blind) mucked
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 7: JBJ68 folded before Flop (didn't bet)
+Seat 8: Echomk folded before Flop (didn't bet)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228672532471:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:41:09 ET
+Table 'Baetsle II' 9-max Seat #4 is the button
+Seat 1: cartman177 ($50 in chips) 
+Seat 2: Effort92 ($50 in chips) 
+Seat 3: julievan ($40.71 in chips) 
+Seat 4: xobit26 ($71.24 in chips) 
+Seat 5: SuneSt ($56.05 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($99.75 in chips) 
+Seat 8: Echomk ($102.97 in chips) 
+Seat 9: undergr0undY ($53.66 in chips) 
+SuneSt: posts small blind $0.25
+Dumont360: posts big blind $0.50
+*** HOLE CARDS ***
+JBJ68: folds 
+Echomk: folds 
+undergr0undY: folds 
+cartman177: folds 
+Effort92: folds 
+julievan: folds 
+xobit26: folds 
+SuneSt: folds 
+Uncalled bet ($0.25) returned to Dumont360
+Dumont360 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 2: Effort92 folded before Flop (didn't bet)
+Seat 3: julievan folded before Flop (didn't bet)
+Seat 4: xobit26 (button) folded before Flop (didn't bet)
+Seat 5: SuneSt (small blind) folded before Flop
+Seat 6: Dumont360 (big blind) collected ($0.50)
+Seat 7: JBJ68 folded before Flop (didn't bet)
+Seat 8: Echomk folded before Flop (didn't bet)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228672536452:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:41:32 ET
+Table 'Baetsle II' 9-max Seat #5 is the button
+Seat 1: cartman177 ($50 in chips) 
+Seat 2: Effort92 ($50 in chips) 
+Seat 3: julievan ($40.71 in chips) 
+Seat 4: xobit26 ($71.24 in chips) 
+Seat 5: SuneSt ($55.80 in chips) 
+Seat 6: Dumont360 ($42.28 in chips) 
+Seat 7: JBJ68 ($99.75 in chips) 
+Seat 8: Echomk ($102.97 in chips) 
+Seat 9: undergr0undY ($53.66 in chips) 
+Dumont360: posts small blind $0.25
+JBJ68: posts big blind $0.50
+*** HOLE CARDS ***
+Echomk: folds 
+undergr0undY: raises $0.75 to $1.25
+cartman177: folds 
+Effort92: folds 
+julievan: folds 
+xobit26: folds 
+SuneSt: folds 
+Dumont360: folds 
+JBJ68: folds 
+Uncalled bet ($0.75) returned to undergr0undY
+undergr0undY collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 2: Effort92 folded before Flop (didn't bet)
+Seat 3: julievan folded before Flop (didn't bet)
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt (button) folded before Flop (didn't bet)
+Seat 6: Dumont360 (small blind) folded before Flop
+Seat 7: JBJ68 (big blind) folded before Flop
+Seat 8: Echomk folded before Flop (didn't bet)
+Seat 9: undergr0undY collected ($1.25)
+
+
+
+PokerStars Hand #228672538694:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:41:45 ET
+Table 'Baetsle II' 9-max Seat #6 is the button
+Seat 1: cartman177 ($50 in chips) 
+Seat 2: Effort92 ($50 in chips) 
+Seat 3: julievan ($40.71 in chips) 
+Seat 4: xobit26 ($71.24 in chips) 
+Seat 5: SuneSt ($55.80 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($99.25 in chips) 
+Seat 8: Echomk ($102.97 in chips) 
+Seat 9: undergr0undY ($54.41 in chips) 
+JBJ68: posts small blind $0.25
+Echomk: posts big blind $0.50
+*** HOLE CARDS ***
+undergr0undY: folds 
+cartman177: folds 
+Effort92: raises $0.55 to $1.05
+julievan: folds 
+xobit26: folds 
+SuneSt: folds 
+Dumont360: folds 
+JBJ68: folds 
+Echomk: folds 
+Uncalled bet ($0.55) returned to Effort92
+Effort92 collected $1.25 from pot
+Effort92: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 2: Effort92 collected ($1.25)
+Seat 3: julievan folded before Flop (didn't bet)
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 (button) folded before Flop (didn't bet)
+Seat 7: JBJ68 (small blind) folded before Flop
+Seat 8: Echomk (big blind) folded before Flop
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228672542214:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:42:06 ET
+Table 'Baetsle II' 9-max Seat #7 is the button
+Seat 1: cartman177 ($50 in chips) 
+Seat 2: Effort92 ($50.75 in chips) 
+Seat 3: julievan ($40.71 in chips) 
+Seat 4: xobit26 ($71.24 in chips) 
+Seat 5: SuneSt ($55.80 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($99 in chips) 
+Seat 8: Echomk ($102.47 in chips) 
+Seat 9: undergr0undY ($54.41 in chips) 
+Echomk: posts small blind $0.25
+undergr0undY: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177: folds 
+Effort92: folds 
+julievan: calls $0.50
+xobit26: folds 
+SuneSt: folds 
+Dumont360: folds 
+JBJ68: raises $1.50 to $2
+Echomk: folds 
+undergr0undY: folds 
+julievan: calls $1.50
+*** FLOP *** [Qs 9h 3c]
+julievan: checks 
+JBJ68: bets $3.25
+julievan: calls $3.25
+*** TURN *** [Qs 9h 3c] [5s]
+julievan: checks 
+JBJ68: bets $8.75
+julievan: raises $26.71 to $35.46 and is all-in
+JBJ68: calls $26.71
+*** RIVER *** [Qs 9h 3c 5s] [Td]
+*** SHOW DOWN ***
+julievan: shows [9c Ac] (a pair of Nines)
+JBJ68: shows [Qd Jh] (a pair of Queens)
+JBJ68 collected $80.17 from pot
+*** SUMMARY ***
+Total pot $82.17 | Rake $2 
+Board [Qs 9h 3c 5s Td]
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 2: Effort92 folded before Flop (didn't bet)
+Seat 3: julievan showed [9c Ac] and lost with a pair of Nines
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 7: JBJ68 (button) showed [Qd Jh] and won ($80.17) with a pair of Queens
+Seat 8: Echomk (small blind) folded before Flop
+Seat 9: undergr0undY (big blind) folded before Flop
+
+
+
+PokerStars Hand #228672563299:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:43:44 ET
+Table 'Baetsle II' 9-max Seat #8 is the button
+Seat 1: cartman177 ($50 in chips) 
+Seat 2: Effort92 ($50.75 in chips) 
+Seat 4: xobit26 ($71.24 in chips) 
+Seat 5: SuneSt ($55.80 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($138.46 in chips) 
+Seat 8: Echomk ($102.22 in chips) 
+Seat 9: undergr0undY ($53.91 in chips) 
+undergr0undY: posts small blind $0.25
+cartman177: posts big blind $0.50
+*** HOLE CARDS ***
+Effort92: folds 
+xobit26: folds 
+julievan is disconnected 
+SuneSt: folds 
+Dumont360: folds 
+JBJ68: folds 
+Echomk: folds 
+undergr0undY: folds 
+Uncalled bet ($0.25) returned to cartman177
+cartman177 collected $0.50 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: cartman177 (big blind) collected ($0.50)
+Seat 2: Effort92 folded before Flop (didn't bet)
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 7: JBJ68 folded before Flop (didn't bet)
+Seat 8: Echomk (button) folded before Flop (didn't bet)
+Seat 9: undergr0undY (small blind) folded before Flop
+
+
+
+PokerStars Hand #228672566272:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:44:02 ET
+Table 'Baetsle II' 9-max Seat #9 is the button
+Seat 1: cartman177 ($50.25 in chips) 
+Seat 2: Effort92 ($50.75 in chips) 
+Seat 4: xobit26 ($71.24 in chips) 
+Seat 5: SuneSt ($55.80 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($138.46 in chips) 
+Seat 8: Echomk ($102.22 in chips) 
+Seat 9: undergr0undY ($53.66 in chips) 
+cartman177: posts small blind $0.25
+Effort92: posts big blind $0.50
+*** HOLE CARDS ***
+xobit26: folds 
+SuneSt: folds 
+Dumont360: folds 
+JBJ68: folds 
+Echomk: folds 
+undergr0undY: raises $0.75 to $1.25
+cartman177: folds 
+Effort92: folds 
+Uncalled bet ($0.75) returned to undergr0undY
+undergr0undY collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: cartman177 (small blind) folded before Flop
+Seat 2: Effort92 (big blind) folded before Flop
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 7: JBJ68 folded before Flop (didn't bet)
+Seat 8: Echomk folded before Flop (didn't bet)
+Seat 9: undergr0undY (button) collected ($1.25)
+
+
+
+PokerStars Hand #228672569215:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:44:20 ET
+Table 'Baetsle II' 9-max Seat #1 is the button
+Seat 1: cartman177 ($50 in chips) 
+Seat 2: Effort92 ($50.25 in chips) 
+Seat 4: xobit26 ($71.24 in chips) 
+Seat 5: SuneSt ($55.80 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($138.46 in chips) 
+Seat 8: Echomk ($102.22 in chips) 
+Seat 9: undergr0undY ($54.41 in chips) 
+Effort92: posts small blind $0.25
+xobit26: posts big blind $0.50
+*** HOLE CARDS ***
+SuneSt: folds 
+Dumont360: folds 
+julievan leaves the table
+JBJ68: folds 
+lucky83o joins the table at seat #3 
+Echomk: raises $0.75 to $1.25
+undergr0undY: folds 
+lucky83o leaves the table
+cartman177: folds 
+Effort92: folds 
+xobit26: calls $0.75
+*** FLOP *** [3c 3s Ac]
+xobit26: checks 
+Echomk: bets $0.86
+xobit26: folds 
+Uncalled bet ($0.86) returned to Echomk
+Echomk collected $2.61 from pot
+Echomk: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [3c 3s Ac]
+Seat 1: cartman177 (button) folded before Flop (didn't bet)
+Seat 2: Effort92 (small blind) folded before Flop
+Seat 4: xobit26 (big blind) folded on the Flop
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 7: JBJ68 folded before Flop (didn't bet)
+Seat 8: Echomk collected ($2.61)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228672576926:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:45:06 ET
+Table 'Baetsle II' 9-max Seat #2 is the button
+Seat 1: cartman177 ($50 in chips) 
+Seat 2: Effort92 ($50 in chips) 
+Seat 4: xobit26 ($69.99 in chips) 
+Seat 5: SuneSt ($55.80 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($138.46 in chips) 
+Seat 8: Echomk ($103.58 in chips) 
+Seat 9: undergr0undY ($54.41 in chips) 
+xobit26: posts small blind $0.25
+SuneSt: posts big blind $0.50
+*** HOLE CARDS ***
+Dumont360: folds 
+JBJ68: folds 
+Echomk: folds 
+undergr0undY: folds 
+cartman177: raises $0.62 to $1.12
+Effort92: folds 
+xobit26: folds 
+SuneSt: folds 
+Uncalled bet ($0.62) returned to cartman177
+cartman177 collected $1.25 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: cartman177 collected ($1.25)
+Seat 2: Effort92 (button) folded before Flop (didn't bet)
+Seat 4: xobit26 (small blind) folded before Flop
+Seat 5: SuneSt (big blind) folded before Flop
+Seat 6: Dumont360 folded before Flop (didn't bet)
+Seat 7: JBJ68 folded before Flop (didn't bet)
+Seat 8: Echomk folded before Flop (didn't bet)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228672580540:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:45:27 ET
+Table 'Baetsle II' 9-max Seat #4 is the button
+Seat 1: cartman177 ($50.75 in chips) 
+Seat 2: Effort92 ($50 in chips) 
+Seat 4: xobit26 ($69.74 in chips) 
+Seat 5: SuneSt ($55.30 in chips) 
+Seat 6: Dumont360 ($42.03 in chips) 
+Seat 7: JBJ68 ($138.46 in chips) 
+Seat 8: Echomk ($103.58 in chips) 
+Seat 9: undergr0undY ($54.41 in chips) 
+SuneSt: posts small blind $0.25
+Dumont360: posts big blind $0.50
+*** HOLE CARDS ***
+JBJ68: folds 
+Echomk: folds 
+undergr0undY: folds 
+cartman177: folds 
+JBJ68 leaves the table
+Effort92: raises $0.55 to $1.05
+xobit26: folds 
+SuneSt: raises $3.45 to $4.50
+Dumont360: folds 
+Effort92: calls $3.45
+*** FLOP *** [7s Kc 5s]
+Bizaroid joins the table at seat #7 
+SuneSt: bets $3.16
+Effort92: calls $3.16
+*** TURN *** [7s Kc 5s] [3h]
+SuneSt: checks 
+Effort92: checks 
+*** RIVER *** [7s Kc 5s 3h] [Td]
+SuneSt: checks 
+Effort92: checks 
+*** SHOW DOWN ***
+SuneSt: shows [Js Ac] (high card Ace)
+Effort92: shows [9h 9s] (a pair of Nines)
+Effort92 collected $15.03 from pot
+*** SUMMARY ***
+Total pot $15.82 | Rake $0.79 
+Board [7s Kc 5s 3h Td]
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 2: Effort92 showed [9h 9s] and won ($15.03) with a pair of Nines
+Seat 4: xobit26 (button) folded before Flop (didn't bet)
+Seat 5: SuneSt (small blind) showed [Js Ac] and lost with high card Ace
+Seat 6: Dumont360 (big blind) folded before Flop
+Seat 7: JBJ68 folded before Flop (didn't bet)
+Seat 8: Echomk folded before Flop (didn't bet)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228672587090:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:46:06 ET
+Table 'Baetsle II' 9-max Seat #5 is the button
+Seat 1: cartman177 ($50.75 in chips) 
+Seat 4: xobit26 ($69.74 in chips) 
+Seat 5: SuneSt ($50 in chips) 
+Seat 6: Dumont360 ($41.53 in chips) 
+Seat 7: Bizaroid ($50 in chips) 
+Seat 8: Echomk ($103.58 in chips) 
+Seat 9: undergr0undY ($54.41 in chips) 
+Dumont360: posts small blind $0.25
+Bizaroid: posts big blind $0.50
+*** HOLE CARDS ***
+Effort92 leaves the table
+Echomk: folds 
+undergr0undY: folds 
+cartman177: folds 
+xobit26: folds 
+SuneSt: raises $0.75 to $1.25
+Dumont360: folds 
+Bizaroid: folds 
+Uncalled bet ($0.75) returned to SuneSt
+SuneSt collected $1.25 from pot
+SuneSt: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: cartman177 folded before Flop (didn't bet)
+Seat 4: xobit26 folded before Flop (didn't bet)
+Seat 5: SuneSt (button) collected ($1.25)
+Seat 6: Dumont360 (small blind) folded before Flop
+Seat 7: Bizaroid (big blind) folded before Flop
+Seat 8: Echomk folded before Flop (didn't bet)
+Seat 9: undergr0undY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228672589607:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 23:46:21 ET
+Table 'Baetsle II' 9-max Seat #6 is the button
+Seat 4: xobit26 ($69.74 in chips) 
+Seat 5: SuneSt ($50.75 in chips) 
+Seat 6: Dumont360 ($41.28 in chips) 
+Seat 7: Bizaroid ($49.50 in chips) 
+Bizaroid: posts small blind $0.25
+Echomk: is sitting out 
+undergr0undY: is sitting out 
+cartman177: is sitting out 
+xobit26: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177 leaves the table
+SuneSt: folds 
+SuneSt leaves the table
+Dumont360: calls $0.50
+Echomk leaves the table
+Bizaroid: raises $3 to $3.50
+undergr0undY leaves the table
+xobit26: folds 
+Dumont360: calls $3
+*** FLOP *** [3s 9s 4c]
+xobit26 leaves the table
+Bizaroid: bets $4.50
+Dumont360: folds 
+Uncalled bet ($4.50) returned to Bizaroid
+Bizaroid collected $7.12 from pot
+Bizaroid: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [3s 9s 4c]
+Seat 4: xobit26 (big blind) folded before Flop
+Seat 5: SuneSt folded before Flop (didn't bet)
+Seat 6: Dumont360 (button) folded on the Flop
+Seat 7: Bizaroid (small blind) collected ($7.12)
+
+
+

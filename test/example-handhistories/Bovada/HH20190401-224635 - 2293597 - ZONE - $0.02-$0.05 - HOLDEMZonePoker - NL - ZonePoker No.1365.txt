@@ -1,0 +1,50 @@
+Bovada Hand #3754819883  Zone Poker ID#1365 HOLDEMZonePoker No Limit - 2019-04-01 22:46:38
+Seat 1: Big Blind [ME] ($5 in chips)
+Seat 2: UTG ($1.94 in chips)
+Seat 3: UTG+1 ($4.97 in chips)
+Seat 4: UTG+2 ($17.83 in chips)
+Seat 5: Dealer ($4.68 in chips)
+Seat 6: Small Blind ($8.95 in chips)
+Dealer : Set dealer [5] 
+Small Blind : Small Blind $0.02 
+Big Blind  [ME] : Big blind $0.05 
+*** HOLE CARDS ***
+Big Blind  [ME] : Card dealt to a spot [8d 8h] 
+UTG : Card dealt to a spot [Tc 6d] 
+UTG+1 : Card dealt to a spot [3h Ah] 
+UTG+2 : Card dealt to a spot [6h 8c] 
+Dealer : Card dealt to a spot [9h 7c] 
+Small Blind : Card dealt to a spot [6s 7d] 
+UTG : Folds
+UTG : Leave(Auto)
+Dealer : Leave(Auto)
+UTG+2 : Leave(Auto)
+Small Blind : Leave(Auto)
+UTG+1 : Folds
+UTG+1 : Leave(Auto)
+UTG+2 : Folds
+Dealer : Folds
+Small Blind : Folds
+Big Blind  [ME] : Does not show [8d 8h] (High Card)
+Big Blind  [ME] : Hand result $0.07 
+Big Blind  [ME] : Seat sit out
+Big Blind  [ME] : Leave(Auto)
+Enter(Auto)
+Seat sit out
+Seat stand
+Table leave user
+Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+UTG+1 : Enter(Auto)
+Enter(Auto)
+Enter(Auto)
+*** SUMMARY ***
+Total Pot($0.07)
+Seat+1: Big Blind $0.07 [Does not show]  
+Seat+2: UTG Folded before the RIVER
+Seat+3: UTG+1 Folded before the RIVER
+Seat+4: UTG+2 lost with High Card [6h 8c]  
+Seat+5: Dealer lost with High Card [9h 7c]  
+Seat+6: Small Blind lost with High Card [6s 7d]  
+

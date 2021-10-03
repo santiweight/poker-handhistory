@@ -1,0 +1,21 @@
+﻿PokerStars Hand #228678698993:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 9:13:41 ET
+Table 'Alfaterna II' 9-max Seat #5 is the button
+Seat 2: artemxxl ($59.86 in chips) 
+Seat 3: dontbetme27 ($50 in chips) 
+Seat 5: Pete007poker ($50 in chips) 
+artemxxl: posts small blind $0.25
+dontbetme27: posts big blind $0.50
+*** HOLE CARDS ***
+Pete007poker: folds 
+artemxxl: folds 
+Uncalled bet ($0.25) returned to dontbetme27
+dontbetme27 collected $0.50 from pot
+dontbetme27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: artemxxl (small blind) folded before Flop
+Seat 3: dontbetme27 (big blind) collected ($0.50)
+Seat 5: Pete007poker (button) folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,5150 @@
+﻿PokerStars Hand #228690120070:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:24:56 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 4: maddis7 ($48 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+Seat 8: tomekpe ($51 in chips) 
+Seat 9: Pat Foxe ($19.95 in chips) 
+maddis7: posts small blind $0.25
+Mr_Ingvarr: is sitting out 
+lonely fire: is sitting out 
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+tomekpe: folds 
+Mr_Ingvarr leaves the table
+lonely fire leaves the table
+Pat Foxe: folds 
+maddis7: calls $0.25
+MarsMiland: checks 
+*** FLOP *** [9h Ks Kc]
+maddis7: checks 
+MarsMiland: checks 
+*** TURN *** [9h Ks Kc] [4h]
+maddis7: checks 
+MarsMiland: checks 
+*** RIVER *** [9h Ks Kc 4h] [Ac]
+maddis7: checks 
+MarsMiland: checks 
+*** SHOW DOWN ***
+maddis7: shows [5d Jd] (a pair of Kings)
+MarsMiland: mucks hand 
+maddis7 collected $0.94 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.06 
+Board [9h Ks Kc 4h Ac]
+Seat 4: maddis7 (small blind) showed [5d Jd] and won ($0.94) with a pair of Kings
+Seat 7: MarsMiland (big blind) mucked
+Seat 8: tomekpe folded before Flop (didn't bet)
+Seat 9: Pat Foxe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690136126:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:25:32 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 4: maddis7 ($48.44 in chips) 
+Seat 7: MarsMiland ($50 in chips) 
+MarsMiland: posts small blind $0.25
+tomekpe: is sitting out 
+tomekpe leaves the table
+Pat Foxe: is sitting out 
+maddis7: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: raises $0.50 to $1
+maddis7: calls $0.50
+*** FLOP *** [Js 3d 9s]
+maddis7: checks 
+MarsMiland: bets $0.95
+Pat Foxe leaves the table
+maddis7: calls $0.95
+*** TURN *** [Js 3d 9s] [Th]
+maddis7: checks 
+MarsMiland: checks 
+*** RIVER *** [Js 3d 9s Th] [Tc]
+maddis7: bets $2.50
+MarsMiland: calls $2.50
+*** SHOW DOWN ***
+maddis7: shows [Qh Jh] (two pair, Jacks and Tens)
+MarsMiland: shows [6h Ts] (three of a kind, Tens)
+MarsMiland collected $8.46 from pot
+*** SUMMARY ***
+Total pot $8.90 | Rake $0.44 
+Board [Js 3d 9s Th Tc]
+Seat 4: maddis7 (big blind) showed [Qh Jh] and lost with two pair, Jacks and Tens
+Seat 7: MarsMiland (button) (small blind) showed [6h Ts] and won ($8.46) with three of a kind, Tens
+
+
+
+PokerStars Hand #228690148309:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:25:58 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 4: maddis7 ($43.99 in chips) 
+Seat 7: MarsMiland ($54.01 in chips) 
+maddis7: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+maddis7: folds 
+Uncalled bet ($0.25) returned to MarsMiland
+MarsMiland collected $0.50 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 4: maddis7 (button) (small blind) folded before Flop
+Seat 7: MarsMiland (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228690150681:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:26:03 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 4: maddis7 ($43.74 in chips) 
+Seat 7: MarsMiland ($54.26 in chips) 
+MarsMiland: posts small blind $0.25
+maddis7: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: raises $0.50 to $1
+maddis7: calls $0.50
+*** FLOP *** [Kh 5c 9s]
+maddis7: checks 
+MarsMiland: checks 
+*** TURN *** [Kh 5c 9s] [4c]
+maddis7: checks 
+MarsMiland: bets $1
+maddis7: folds 
+Uncalled bet ($1) returned to MarsMiland
+MarsMiland collected $1.90 from pot
+alex52059487 joins the table at seat #1 
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Kh 5c 9s 4c]
+Seat 4: maddis7 (big blind) folded on the Turn
+Seat 7: MarsMiland (button) (small blind) collected ($1.90)
+
+
+
+PokerStars Hand #228690157535:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:26:18 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: alex52059487 ($50 in chips) 
+Seat 4: maddis7 ($42.74 in chips) 
+Seat 7: MarsMiland ($55.16 in chips) 
+MarsMiland: posts small blind $0.25
+alex52059487: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax joins the table at seat #3 
+Kreayshawn joins the table at seat #5 
+maddis7: folds 
+MarsMiland: folds 
+Uncalled bet ($0.25) returned to alex52059487
+alex52059487 collected $0.50 from pot
+Squall33bdi joins the table at seat #9 
+alex52059487: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: alex52059487 (big blind) collected ($0.50)
+Seat 4: maddis7 (button) folded before Flop (didn't bet)
+Seat 7: MarsMiland (small blind) folded before Flop
+
+
+
+PokerStars Hand #228690162589:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:26:30 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 1: alex52059487 ($50.25 in chips) 
+Seat 3: dikanmax ($50 in chips) 
+Seat 4: maddis7 ($42.74 in chips) 
+Seat 7: MarsMiland ($54.91 in chips) 
+alex52059487: posts small blind $0.25
+dikanmax: posts big blind $0.50
+Kreayshawn: sits out 
+*** HOLE CARDS ***
+maddis7: raises $2 to $2.50
+MarsMiland: folds 
+pipo7111 joins the table at seat #8 
+alex52059487: folds 
+dikanmax: folds 
+Uncalled bet ($2) returned to maddis7
+maddis7 collected $1.25 from pot
+maddis7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: alex52059487 (small blind) folded before Flop
+Seat 3: dikanmax (big blind) folded before Flop
+Seat 4: maddis7 collected ($1.25)
+Seat 7: MarsMiland (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690569770:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:41:16 ET
+Table 'Mrkos' 9-max Seat #8 is the button
+Seat 1: alex52059487 ($52.66 in chips) 
+Seat 2: Mr_Ingvarr ($54.82 in chips) 
+Seat 3: dikanmax ($66.25 in chips) 
+Seat 5: Sonny0306 ($50 in chips) 
+Seat 8: pipo7111 ($40.11 in chips) 
+Seat 9: Squall33bdi ($50 in chips) 
+Squall33bdi: posts small blind $0.25
+alex52059487: posts big blind $0.50
+UPERAD: sits out 
+Luds86: is sitting out 
+*** HOLE CARDS ***
+Mr_Ingvarr: folds 
+dikanmax: folds 
+Sonny0306: folds 
+pipo7111: folds 
+Squall33bdi: folds 
+Uncalled bet ($0.25) returned to alex52059487
+alex52059487 collected $0.50 from pot
+alex52059487: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: alex52059487 (big blind) collected ($0.50)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: dikanmax folded before Flop (didn't bet)
+Seat 5: Sonny0306 folded before Flop (didn't bet)
+Seat 8: pipo7111 (button) folded before Flop (didn't bet)
+Seat 9: Squall33bdi (small blind) folded before Flop
+
+
+
+PokerStars Hand #228690765152:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:48:43 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: lulu19911991 ($50 in chips) 
+Seat 3: MarsMiland ($51.16 in chips) 
+Seat 4: maddis7 ($23.64 in chips) 
+Seat 5: Sonny0306 ($53.93 in chips) 
+Seat 6: UPERAD ($51.47 in chips) 
+Seat 7: Luds86 ($22.46 in chips) 
+Seat 8: pipo7111 ($39.11 in chips) 
+Seat 9: Squall33bdi ($50 in chips) 
+lulu19911991: posts small blind $0.25
+Mr_Ingvarr: is sitting out 
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+Mr_Ingvarr leaves the table
+maddis7: folds 
+Sonny0306: folds 
+UPERAD: raises $1 to $1.50
+Luds86: folds 
+lonely fire joins the table at seat #2 
+pipo7111 has timed out
+pipo7111: folds 
+Squall33bdi: folds 
+lulu19911991: folds 
+MarsMiland: folds 
+Uncalled bet ($1) returned to UPERAD
+UPERAD collected $1.25 from pot
+UPERAD: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: lulu19911991 (small blind) folded before Flop
+Seat 3: MarsMiland (big blind) folded before Flop
+Seat 4: maddis7 folded before Flop (didn't bet)
+Seat 5: Sonny0306 folded before Flop (didn't bet)
+Seat 6: UPERAD collected ($1.25)
+Seat 7: Luds86 folded before Flop (didn't bet)
+Seat 8: pipo7111 folded before Flop (didn't bet)
+Seat 9: Squall33bdi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690782087:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:49:23 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: lulu19911991 ($50 in chips) 
+Seat 3: MarsMiland ($50.66 in chips) 
+Seat 4: maddis7 ($23.64 in chips) 
+Seat 5: Sonny0306 ($53.93 in chips) 
+Seat 6: UPERAD ($52.22 in chips) 
+Seat 7: Luds86 ($22.46 in chips) 
+Seat 8: pipo7111 ($39.11 in chips) 
+Seat 9: Squall33bdi ($50 in chips) 
+MarsMiland: posts small blind $0.25
+maddis7: posts big blind $0.50
+*** HOLE CARDS ***
+Sonny0306: folds 
+UPERAD: folds 
+Luds86: folds 
+pipo7111: folds 
+Squall33bdi: folds 
+lulu19911991: folds 
+MarsMiland: raises $1 to $1.50
+maddis7: folds 
+Uncalled bet ($1) returned to MarsMiland
+MarsMiland collected $1 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: lulu19911991 (button) folded before Flop (didn't bet)
+Seat 3: MarsMiland (small blind) collected ($1)
+Seat 4: maddis7 (big blind) folded before Flop
+Seat 5: Sonny0306 folded before Flop (didn't bet)
+Seat 6: UPERAD folded before Flop (didn't bet)
+Seat 7: Luds86 folded before Flop (didn't bet)
+Seat 8: pipo7111 folded before Flop (didn't bet)
+Seat 9: Squall33bdi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690789915:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:49:42 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: lulu19911991 ($50 in chips) 
+Seat 3: MarsMiland ($51.16 in chips) 
+Seat 4: maddis7 ($23.14 in chips) 
+Seat 5: Sonny0306 ($53.93 in chips) 
+Seat 6: UPERAD ($52.22 in chips) 
+Seat 7: Luds86 ($22.46 in chips) 
+Seat 8: pipo7111 ($39.11 in chips) 
+Seat 9: Squall33bdi ($50 in chips) 
+maddis7: posts small blind $0.25
+Sonny0306: posts big blind $0.50
+lonely fire: sits out 
+*** HOLE CARDS ***
+UPERAD: folds 
+Luds86: calls $0.50
+UPERAD leaves the table
+pipo7111 has timed out
+pipo7111: folds 
+Squall33bdi: folds 
+lulu19911991: folds 
+MarsMiland: folds 
+maddis7: calls $0.25
+Sonny0306: checks 
+*** FLOP *** [6d Jh Kd]
+maddis7: checks 
+Sonny0306: checks 
+Luds86: bets $0.71
+maddis7: folds 
+Sonny0306: folds 
+Uncalled bet ($0.71) returned to Luds86
+Luds86 collected $1.42 from pot
+Luds86: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [6d Jh Kd]
+Seat 1: lulu19911991 folded before Flop (didn't bet)
+Seat 3: MarsMiland (button) folded before Flop (didn't bet)
+Seat 4: maddis7 (small blind) folded on the Flop
+Seat 5: Sonny0306 (big blind) folded on the Flop
+Seat 6: UPERAD folded before Flop (didn't bet)
+Seat 7: Luds86 collected ($1.42)
+Seat 8: pipo7111 folded before Flop (didn't bet)
+Seat 9: Squall33bdi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690805580:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:50:18 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: lulu19911991 ($50 in chips) 
+Seat 3: MarsMiland ($51.16 in chips) 
+Seat 4: maddis7 ($22.64 in chips) 
+Seat 5: Sonny0306 ($53.43 in chips) 
+Seat 7: Luds86 ($23.38 in chips) 
+Seat 8: pipo7111 ($39.11 in chips) 
+Seat 9: Squall33bdi ($50 in chips) 
+Sonny0306: posts small blind $0.25
+Luds86: posts big blind $0.50
+lonely fire: sits out 
+*** HOLE CARDS ***
+pipo7111: folds 
+Squall33bdi: folds 
+lulu19911991: folds 
+MarsMiland: folds 
+maddis7: folds 
+Sonny0306: raises $0.75 to $1.25
+Luds86: calls $0.75
+*** FLOP *** [2c 2s Qc]
+Sonny0306: bets $0.93
+Luds86: calls $0.93
+*** TURN *** [2c 2s Qc] [5c]
+MonplDCmax joins the table at seat #6 
+Sonny0306: checks 
+Luds86: bets $4.14
+Sonny0306: folds 
+Uncalled bet ($4.14) returned to Luds86
+Luds86 collected $4.14 from pot
+Luds86: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.36 | Rake $0.22 
+Board [2c 2s Qc 5c]
+Seat 1: lulu19911991 folded before Flop (didn't bet)
+Seat 3: MarsMiland folded before Flop (didn't bet)
+Seat 4: maddis7 (button) folded before Flop (didn't bet)
+Seat 5: Sonny0306 (small blind) folded on the Turn
+Seat 7: Luds86 (big blind) collected ($4.14)
+Seat 8: pipo7111 folded before Flop (didn't bet)
+Seat 9: Squall33bdi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690898316:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:53:47 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: lulu19911991 ($50 in chips) 
+Seat 2: lonely fire ($57.46 in chips) 
+Seat 3: MarsMiland ($51.16 in chips) 
+Seat 4: maddis7 ($22.64 in chips) 
+Seat 5: Sonny0306 ($51.60 in chips) 
+Seat 7: Luds86 ($24.59 in chips) 
+Seat 8: pipo7111 ($52.73 in chips) 
+Seat 9: Squall33bdi ($51.50 in chips) 
+lulu19911991: posts small blind $0.25
+lonely fire: posts big blind $0.50
+MonplDCmax: sits out 
+*** HOLE CARDS ***
+MarsMiland: folds 
+maddis7: folds 
+Sonny0306: folds 
+Luds86: folds 
+pipo7111: folds 
+Squall33bdi: raises $0.55 to $1.05
+lulu19911991: folds 
+lonely fire: calls $0.55
+*** FLOP *** [9s 3s 3d]
+lonely fire: checks 
+Squall33bdi: bets $0.74
+lonely fire: calls $0.74
+*** TURN *** [9s 3s 3d] [3h]
+lonely fire: checks 
+Squall33bdi: checks 
+*** RIVER *** [9s 3s 3d 3h] [Tc]
+lonely fire: checks 
+Squall33bdi: bets $2.77
+lonely fire: calls $2.77
+*** SHOW DOWN ***
+Squall33bdi: shows [Th Qs] (a full house, Threes full of Tens)
+lonely fire: mucks hand 
+Squall33bdi collected $8.90 from pot
+*** SUMMARY ***
+Total pot $9.37 | Rake $0.47 
+Board [9s 3s 3d 3h Tc]
+Seat 1: lulu19911991 (small blind) folded before Flop
+Seat 2: lonely fire (big blind) mucked
+Seat 3: MarsMiland folded before Flop (didn't bet)
+Seat 4: maddis7 folded before Flop (didn't bet)
+Seat 5: Sonny0306 folded before Flop (didn't bet)
+Seat 7: Luds86 folded before Flop (didn't bet)
+Seat 8: pipo7111 folded before Flop (didn't bet)
+Seat 9: Squall33bdi (button) showed [Th Qs] and won ($8.90) with a full house, Threes full of Tens
+
+
+
+PokerStars Hand #228690914608:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:54:25 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: lulu19911991 ($50 in chips) 
+Seat 2: lonely fire ($52.90 in chips) 
+Seat 3: MarsMiland ($51.16 in chips) 
+Seat 4: maddis7 ($22.64 in chips) 
+Seat 5: Sonny0306 ($51.60 in chips) 
+Seat 7: Luds86 ($24.59 in chips) 
+Seat 8: pipo7111 ($52.73 in chips) 
+Seat 9: Squall33bdi ($55.84 in chips) 
+lonely fire: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+MonplDCmax: sits out 
+*** HOLE CARDS ***
+maddis7: calls $0.50
+Sonny0306: raises $2 to $2.50
+Luds86: calls $2.50
+pipo7111: folds 
+Squall33bdi: folds 
+pipo7111 leaves the table
+lulu19911991: folds 
+lonely fire: folds 
+MarsMiland: folds 
+maddis7: calls $2
+*** FLOP *** [7c 5c 7h]
+xZaKoNaLx joins the table at seat #8 
+maddis7: checks 
+xZaKoNaLx leaves the table
+Sonny0306: checks 
+Luds86: bets $7.84
+maddis7: folds 
+Sonny0306: folds 
+Uncalled bet ($7.84) returned to Luds86
+Luds86 collected $7.84 from pot
+Luds86: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.41 
+Board [7c 5c 7h]
+Seat 1: lulu19911991 (button) folded before Flop (didn't bet)
+Seat 2: lonely fire (small blind) folded before Flop
+Seat 3: MarsMiland (big blind) folded before Flop
+Seat 4: maddis7 folded on the Flop
+Seat 5: Sonny0306 folded on the Flop
+Seat 7: Luds86 collected ($7.84)
+Seat 8: pipo7111 folded before Flop (didn't bet)
+Seat 9: Squall33bdi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228690941658:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 17:55:35 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: lulu19911991 ($50 in chips) 
+Seat 2: lonely fire ($52.65 in chips) 
+Seat 3: MarsMiland ($50.66 in chips) 
+Seat 4: maddis7 ($20.14 in chips) 
+Seat 5: Sonny0306 ($50 in chips) 
+Seat 7: Luds86 ($29.93 in chips) 
+Seat 9: Squall33bdi ($55.84 in chips) 
+MarsMiland: posts small blind $0.25
+maddis7: posts big blind $0.50
+MonplDCmax: sits out 
+*** HOLE CARDS ***
+Sonny0306: folds 
+Luds86: calls $0.50
+Squall33bdi: folds 
+lulu19911991: folds 
+Mr_Ingvarr joins the table at seat #8 
+lonely fire: folds 
+MarsMiland: calls $0.25
+maddis7: raises $2 to $2.50
+Luds86: calls $2
+MarsMiland: folds 
+*** FLOP *** [9h 8s Ah]
+maddis7: checks 
+Luds86: checks 
+*** TURN *** [9h 8s Ah] [As]
+maddis7: checks 
+Luds86: checks 
+*** RIVER *** [9h 8s Ah As] [2s]
+maddis7: checks 
+Luds86: checks 
+*** SHOW DOWN ***
+maddis7: shows [Jc Qc] (a pair of Aces)
+Luds86: shows [Jd Qs] (a pair of Aces)
+maddis7 collected $2.57 from pot
+Luds86 collected $2.61 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.32 
+Board [9h 8s Ah As 2s]
+Seat 1: lulu19911991 folded before Flop (didn't bet)
+Seat 2: lonely fire (button) folded before Flop (didn't bet)
+Seat 3: MarsMiland (small blind) folded before Flop
+Seat 4: maddis7 (big blind) showed [Jc Qc] and won ($2.57) with a pair of Aces
+Seat 5: Sonny0306 folded before Flop (didn't bet)
+Seat 7: Luds86 showed [Jd Qs] and won ($2.61) with a pair of Aces
+Seat 9: Squall33bdi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692954213:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:21:52 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: 3DMINSK ($72.47 in chips) 
+Seat 2: daria130399 ($50 in chips) 
+Seat 3: Tullochh ($79.03 in chips) 
+Seat 4: Vusal11599 ($77.26 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.75 in chips) 
+Seat 8: el Fatto ($51.50 in chips) 
+Seat 9: christyirish ($51.82 in chips) 
+3DMINSK: posts small blind $0.25
+daria130399: posts big blind $0.50
+Nestle170: sits out 
+*** HOLE CARDS ***
+Tullochh: calls $0.50
+Vusal11599: folds 
+Dragonclawss: folds 
+Beer breath2: folds 
+el Fatto: folds 
+christyirish: raises $1.75 to $2.25
+3DMINSK: folds 
+daria130399: folds 
+Tullochh: folds 
+Uncalled bet ($1.75) returned to christyirish
+christyirish collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: 3DMINSK (small blind) folded before Flop
+Seat 2: daria130399 (big blind) folded before Flop
+Seat 3: Tullochh folded before Flop
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 8: el Fatto folded before Flop (didn't bet)
+Seat 9: christyirish (button) collected ($1.75)
+
+
+
+PokerStars Hand #228692991591:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:23:28 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: 3DMINSK ($72.22 in chips) 
+Seat 2: daria130399 ($62.01 in chips) 
+Seat 3: Tullochh ($78.53 in chips) 
+Seat 4: Vusal11599 ($64.44 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.75 in chips) 
+Seat 8: el Fatto ($51.50 in chips) 
+Seat 9: christyirish ($53.07 in chips) 
+Dragonclawss: posts small blind $0.25
+Beer breath2: posts big blind $0.50
+Nestle170: sits out 
+Tullochh: posts small & big blinds $0.75
+*** HOLE CARDS ***
+el Fatto: folds 
+christyirish: folds 
+3DMINSK: folds 
+daria130399: folds 
+Tullochh: checks 
+Vusal11599: folds 
+Dragonclawss: folds 
+Beer breath2: checks 
+*** FLOP *** [8d Kc 5h]
+Beer breath2: checks 
+Tullochh: checks 
+*** TURN *** [8d Kc 5h] [5d]
+Beer breath2: bets $0.75
+Tullochh: calls $0.75
+*** RIVER *** [8d Kc 5h 5d] [As]
+Beer breath2: bets $1.43
+Tullochh: folds 
+Uncalled bet ($1.43) returned to Beer breath2
+Beer breath2 collected $2.85 from pot
+Beer breath2: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [8d Kc 5h 5d As]
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh folded on the River
+Seat 4: Vusal11599 (button) folded before Flop (didn't bet)
+Seat 5: Dragonclawss (small blind) folded before Flop
+Seat 6: Beer breath2 (big blind) collected ($2.85)
+Seat 8: el Fatto folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693006074:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:24:10 ET
+Table 'Mrkos' 9-max Seat #5 is the button
+Seat 1: 3DMINSK ($72.22 in chips) 
+Seat 2: daria130399 ($62.01 in chips) 
+Seat 3: Tullochh ($77.03 in chips) 
+Seat 4: Vusal11599 ($64.44 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($44.35 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: el Fatto ($51.50 in chips) 
+Seat 9: christyirish ($53.07 in chips) 
+Beer breath2: posts small blind $0.25
+Nestle170: posts big blind $0.50
+*** HOLE CARDS ***
+el Fatto: folds 
+christyirish: folds 
+3DMINSK: folds 
+daria130399: folds 
+Tullochh: folds 
+Vusal11599: folds 
+Dragonclawss: folds 
+Beer breath2: folds 
+Uncalled bet ($0.25) returned to Nestle170
+Nestle170 collected $0.50 from pot
+Nestle170: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: Dragonclawss (button) folded before Flop (didn't bet)
+Seat 6: Beer breath2 (small blind) folded before Flop
+Seat 7: Nestle170 (big blind) collected ($0.50)
+Seat 8: el Fatto folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693011674:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:24:27 ET
+Table 'Mrkos' 9-max Seat #6 is the button
+Seat 1: 3DMINSK ($72.22 in chips) 
+Seat 2: daria130399 ($62.01 in chips) 
+Seat 3: Tullochh ($77.03 in chips) 
+Seat 4: Vusal11599 ($64.44 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($44.10 in chips) 
+Seat 7: Nestle170 ($50.25 in chips) 
+Seat 9: christyirish ($53.07 in chips) 
+Nestle170: posts small blind $0.25
+el Fatto: is sitting out 
+christyirish: posts big blind $0.50
+*** HOLE CARDS ***
+3DMINSK: folds 
+daria130399: folds 
+Tullochh: folds 
+Vusal11599: folds 
+Dragonclawss: folds 
+el Fatto leaves the table
+Beer breath2: folds 
+Nestle170: raises $1 to $1.50
+christyirish: calls $1
+*** FLOP *** [6d 3s Kh]
+BoryaKGB joins the table at seat #8 
+Nestle170: bets $0.94
+christyirish: raises $2.37 to $3.31
+Nestle170: calls $2.37
+*** TURN *** [6d 3s Kh] [Th]
+Nestle170: checks 
+christyirish: bets $4.57
+Nestle170: calls $4.57
+*** RIVER *** [6d 3s Kh Th] [4d]
+Nestle170: checks 
+christyirish: bets $43.69 and is all-in
+Nestle170: folds 
+Uncalled bet ($43.69) returned to christyirish
+christyirish collected $17.82 from pot
+christyirish: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.76 | Rake $0.94 
+Board [6d 3s Kh Th 4d]
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: Beer breath2 (button) folded before Flop (didn't bet)
+Seat 7: Nestle170 (small blind) folded on the River
+Seat 9: christyirish (big blind) collected ($17.82)
+
+
+
+PokerStars Hand #228691911648:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:35:00 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 1: 3DMINSK ($75.10 in chips) 
+Seat 3: Quotes-bio ($32.81 in chips) 
+Seat 4: Vusal11599 ($47.17 in chips) 
+Seat 5: hatpokertucks ($60.03 in chips) 
+Seat 6: wildermorph ($53.45 in chips) 
+Seat 7: gustguaira ($45.50 in chips) 
+Seat 8: Mr_Ingvarr ($52.13 in chips) 
+Seat 9: christyirish ($66.03 in chips) 
+Mr_Ingvarr: posts small blind $0.25
+christyirish: posts big blind $0.50
+eltonmiranda: sits out 
+*** HOLE CARDS ***
+3DMINSK: folds 
+Quotes-bio: calls $0.50
+Vusal11599: calls $0.50
+hatpokertucks: folds 
+wildermorph: folds 
+gustguaira: folds 
+Mr_Ingvarr: folds 
+christyirish: checks 
+*** FLOP *** [Td 5c Qc]
+christyirish: checks 
+Quotes-bio: bets $0.50
+Vusal11599: calls $0.50
+christyirish: folds 
+*** TURN *** [Td 5c Qc] [4h]
+Quotes-bio: bets $1
+Vusal11599: raises $1 to $2
+Quotes-bio: raises $1 to $3
+Vusal11599: raises $1 to $4
+Quotes-bio: calls $1
+*** RIVER *** [Td 5c Qc 4h] [3c]
+Quotes-bio: checks 
+Vusal11599: checks 
+*** SHOW DOWN ***
+Quotes-bio: shows [Qh Ac] (a pair of Queens)
+Vusal11599: shows [4c 4s] (three of a kind, Fours)
+Vusal11599 collected $10.21 from pot
+*** SUMMARY ***
+Total pot $10.75 | Rake $0.54 
+Board [Td 5c Qc 4h 3c]
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 3: Quotes-bio showed [Qh Ac] and lost with a pair of Queens
+Seat 4: Vusal11599 showed [4c 4s] and won ($10.21) with three of a kind, Fours
+Seat 5: hatpokertucks folded before Flop (didn't bet)
+Seat 6: wildermorph folded before Flop (didn't bet)
+Seat 7: gustguaira (button) folded before Flop (didn't bet)
+Seat 8: Mr_Ingvarr (small blind) folded before Flop
+Seat 9: christyirish (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228691929314:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:35:45 ET
+Table 'Mrkos' 9-max Seat #8 is the button
+Seat 1: 3DMINSK ($75.10 in chips) 
+Seat 3: Quotes-bio ($27.81 in chips) 
+Seat 4: Vusal11599 ($52.38 in chips) 
+Seat 5: hatpokertucks ($60.03 in chips) 
+Seat 6: wildermorph ($53.45 in chips) 
+Seat 7: gustguaira ($45.50 in chips) 
+Seat 8: Mr_Ingvarr ($51.88 in chips) 
+Seat 9: christyirish ($65.53 in chips) 
+christyirish: posts small blind $0.25
+3DMINSK: posts big blind $0.50
+eltonmiranda: sits out 
+*** HOLE CARDS ***
+Quotes-bio: folds 
+Vusal11599: folds 
+hatpokertucks: folds 
+wildermorph: folds 
+gustguaira: folds 
+Mr_Ingvarr: folds 
+christyirish: calls $0.25
+3DMINSK: checks 
+*** FLOP *** [6d 3c 6s]
+christyirish: checks 
+3DMINSK: checks 
+*** TURN *** [6d 3c 6s] [Ac]
+christyirish: checks 
+3DMINSK: checks 
+*** RIVER *** [6d 3c 6s Ac] [Jh]
+christyirish: checks 
+3DMINSK: checks 
+*** SHOW DOWN ***
+christyirish: shows [9s Qs] (a pair of Sixes)
+3DMINSK: shows [Qc Ts] (a pair of Sixes)
+christyirish collected $0.48 from pot
+3DMINSK collected $0.47 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [6d 3c 6s Ac Jh]
+Seat 1: 3DMINSK (big blind) showed [Qc Ts] and won ($0.47) with a pair of Sixes
+Seat 3: Quotes-bio folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: hatpokertucks folded before Flop (didn't bet)
+Seat 6: wildermorph folded before Flop (didn't bet)
+Seat 7: gustguaira folded before Flop (didn't bet)
+Seat 8: Mr_Ingvarr (button) folded before Flop (didn't bet)
+Seat 9: christyirish (small blind) showed [9s Qs] and won ($0.48) with a pair of Sixes
+
+
+
+PokerStars Hand #228691945292:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:36:25 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: 3DMINSK ($75.07 in chips) 
+Seat 2: eltonmiranda ($40 in chips) 
+Seat 3: Quotes-bio ($27.81 in chips) 
+Seat 4: Vusal11599 ($52.38 in chips) 
+Seat 5: hatpokertucks ($60.03 in chips) 
+Seat 6: wildermorph ($53.45 in chips) 
+Seat 7: gustguaira ($45.50 in chips) 
+Seat 8: Mr_Ingvarr ($51.88 in chips) 
+Seat 9: christyirish ($65.51 in chips) 
+3DMINSK: posts small blind $0.25
+eltonmiranda: posts big blind $0.50
+*** HOLE CARDS ***
+Quotes-bio: raises $0.50 to $1
+Vusal11599: folds 
+hatpokertucks: folds 
+wildermorph: folds 
+gustguaira: folds 
+Mr_Ingvarr: folds 
+christyirish: folds 
+3DMINSK: folds 
+eltonmiranda: calls $0.50
+*** FLOP *** [Ks 7s Qh]
+eltonmiranda: checks 
+Quotes-bio: bets $1
+eltonmiranda: calls $1
+*** TURN *** [Ks 7s Qh] [4h]
+eltonmiranda: checks 
+Quotes-bio: checks 
+*** RIVER *** [Ks 7s Qh 4h] [5c]
+eltonmiranda: bets $2.02
+Quotes-bio: folds 
+Uncalled bet ($2.02) returned to eltonmiranda
+eltonmiranda collected $4.04 from pot
+eltonmiranda: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.21 
+Board [Ks 7s Qh 4h 5c]
+Seat 1: 3DMINSK (small blind) folded before Flop
+Seat 2: eltonmiranda (big blind) collected ($4.04)
+Seat 3: Quotes-bio folded on the River
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: hatpokertucks folded before Flop (didn't bet)
+Seat 6: wildermorph folded before Flop (didn't bet)
+Seat 7: gustguaira folded before Flop (didn't bet)
+Seat 8: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 9: christyirish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691962265:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:37:08 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: 3DMINSK ($74.82 in chips) 
+Seat 2: eltonmiranda ($42.04 in chips) 
+Seat 3: Quotes-bio ($25.81 in chips) 
+Seat 4: Vusal11599 ($52.38 in chips) 
+Seat 5: hatpokertucks ($60.03 in chips) 
+Seat 6: wildermorph ($53.45 in chips) 
+Seat 7: gustguaira ($45.50 in chips) 
+Seat 8: Mr_Ingvarr ($51.88 in chips) 
+Seat 9: christyirish ($65.51 in chips) 
+eltonmiranda: posts small blind $0.25
+Quotes-bio: posts big blind $0.50
+*** HOLE CARDS ***
+Vusal11599: folds 
+hatpokertucks: folds 
+wildermorph: folds 
+gustguaira: folds 
+Mr_Ingvarr: folds 
+christyirish: raises $1 to $1.50
+3DMINSK: folds 
+eltonmiranda: folds 
+Quotes-bio: folds 
+Uncalled bet ($1) returned to christyirish
+christyirish collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: 3DMINSK (button) folded before Flop (didn't bet)
+Seat 2: eltonmiranda (small blind) folded before Flop
+Seat 3: Quotes-bio (big blind) folded before Flop
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: hatpokertucks folded before Flop (didn't bet)
+Seat 6: wildermorph folded before Flop (didn't bet)
+Seat 7: gustguaira folded before Flop (didn't bet)
+Seat 8: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 9: christyirish collected ($1.25)
+
+
+
+PokerStars Hand #228691967326:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:37:21 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: 3DMINSK ($74.82 in chips) 
+Seat 2: eltonmiranda ($41.79 in chips) 
+Seat 3: Quotes-bio ($25.31 in chips) 
+Seat 4: Vusal11599 ($52.38 in chips) 
+Seat 5: hatpokertucks ($60.03 in chips) 
+Seat 6: wildermorph ($53.45 in chips) 
+Seat 7: gustguaira ($45.50 in chips) 
+Seat 8: Mr_Ingvarr ($51.88 in chips) 
+Seat 9: christyirish ($66.26 in chips) 
+Quotes-bio: posts small blind $0.25
+Vusal11599: posts big blind $0.50
+*** HOLE CARDS ***
+hatpokertucks: folds 
+wildermorph: folds 
+gustguaira: folds 
+Mr_Ingvarr: folds 
+christyirish: folds 
+3DMINSK: folds 
+eltonmiranda: folds 
+Quotes-bio: folds 
+Uncalled bet ($0.25) returned to Vusal11599
+Vusal11599 collected $0.50 from pot
+Vusal11599: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: eltonmiranda (button) folded before Flop (didn't bet)
+Seat 3: Quotes-bio (small blind) folded before Flop
+Seat 4: Vusal11599 (big blind) collected ($0.50)
+Seat 5: hatpokertucks folded before Flop (didn't bet)
+Seat 6: wildermorph folded before Flop (didn't bet)
+Seat 7: gustguaira folded before Flop (didn't bet)
+Seat 8: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691973223:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:37:35 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: 3DMINSK ($74.82 in chips) 
+Seat 2: eltonmiranda ($41.79 in chips) 
+Seat 3: Quotes-bio ($25.06 in chips) 
+Seat 4: Vusal11599 ($52.63 in chips) 
+Seat 5: hatpokertucks ($60.03 in chips) 
+Seat 6: wildermorph ($53.45 in chips) 
+Seat 7: gustguaira ($45.50 in chips) 
+Seat 8: Mr_Ingvarr ($51.88 in chips) 
+Seat 9: christyirish ($66.26 in chips) 
+Vusal11599: posts small blind $0.25
+hatpokertucks: posts big blind $0.50
+*** HOLE CARDS ***
+wildermorph: folds 
+gustguaira: folds 
+Mr_Ingvarr: folds 
+christyirish: folds 
+3DMINSK: folds 
+eltonmiranda: folds 
+Quotes-bio: calls $0.50
+Vusal11599: folds 
+hatpokertucks: checks 
+*** FLOP *** [6h 2s 5s]
+hatpokertucks: checks 
+Quotes-bio: bets $0.50
+hatpokertucks: raises $1.50 to $2
+Quotes-bio: calls $1.50
+*** TURN *** [6h 2s 5s] [6c]
+hatpokertucks: checks 
+Quotes-bio: bets $4
+hatpokertucks: folds 
+Uncalled bet ($4) returned to Quotes-bio
+Quotes-bio collected $4.99 from pot
+Quotes-bio: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.26 
+Board [6h 2s 5s 6c]
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: eltonmiranda folded before Flop (didn't bet)
+Seat 3: Quotes-bio (button) collected ($4.99)
+Seat 4: Vusal11599 (small blind) folded before Flop
+Seat 5: hatpokertucks (big blind) folded on the Turn
+Seat 6: wildermorph folded before Flop (didn't bet)
+Seat 7: gustguaira folded before Flop (didn't bet)
+Seat 8: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228691992269:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:38:23 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: 3DMINSK ($74.82 in chips) 
+Seat 2: eltonmiranda ($41.79 in chips) 
+Seat 3: Quotes-bio ($27.55 in chips) 
+Seat 4: Vusal11599 ($52.38 in chips) 
+Seat 5: hatpokertucks ($57.53 in chips) 
+Seat 6: wildermorph ($53.45 in chips) 
+Seat 7: gustguaira ($45.50 in chips) 
+Seat 8: Mr_Ingvarr ($51.88 in chips) 
+Seat 9: christyirish ($66.26 in chips) 
+hatpokertucks: posts small blind $0.25
+wildermorph: posts big blind $0.50
+*** HOLE CARDS ***
+gustguaira: folds 
+Mr_Ingvarr has timed out
+Mr_Ingvarr: folds 
+christyirish: folds 
+3DMINSK: folds 
+eltonmiranda: folds 
+Quotes-bio: calls $0.50
+Vusal11599: folds 
+hatpokertucks: calls $0.25
+wildermorph: checks 
+*** FLOP *** [Kc Ad Tc]
+hatpokertucks: checks 
+wildermorph: checks 
+Quotes-bio: checks 
+*** TURN *** [Kc Ad Tc] [2h]
+hatpokertucks: checks 
+wildermorph: bets $0.50
+Quotes-bio: calls $0.50
+hatpokertucks: folds 
+*** RIVER *** [Kc Ad Tc 2h] [Qc]
+wildermorph: checks 
+Quotes-bio: bets $2
+wildermorph: folds 
+Uncalled bet ($2) returned to Quotes-bio
+Quotes-bio collected $2.38 from pot
+Quotes-bio: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Kc Ad Tc 2h Qc]
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: eltonmiranda folded before Flop (didn't bet)
+Seat 3: Quotes-bio collected ($2.38)
+Seat 4: Vusal11599 (button) folded before Flop (didn't bet)
+Seat 5: hatpokertucks (small blind) folded on the Turn
+Seat 6: wildermorph (big blind) folded on the River
+Seat 7: gustguaira folded before Flop (didn't bet)
+Seat 8: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692017454:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:39:27 ET
+Table 'Mrkos' 9-max Seat #5 is the button
+Seat 1: 3DMINSK ($74.82 in chips) 
+Seat 2: eltonmiranda ($41.79 in chips) 
+Seat 3: Quotes-bio ($28.93 in chips) 
+Seat 4: Vusal11599 ($52.38 in chips) 
+Seat 5: hatpokertucks ($57.03 in chips) 
+Seat 6: wildermorph ($52.45 in chips) 
+Seat 7: gustguaira ($45.50 in chips) 
+Seat 8: Mr_Ingvarr ($51.88 in chips) 
+Seat 9: christyirish ($66.26 in chips) 
+wildermorph: posts small blind $0.25
+gustguaira: posts big blind $0.50
+*** HOLE CARDS ***
+Mr_Ingvarr: folds 
+christyirish: folds 
+3DMINSK: folds 
+eltonmiranda: folds 
+Quotes-bio: folds 
+Vusal11599: folds 
+hatpokertucks: folds 
+wildermorph: folds 
+Uncalled bet ($0.25) returned to gustguaira
+gustguaira collected $0.50 from pot
+gustguaira: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: eltonmiranda folded before Flop (didn't bet)
+Seat 3: Quotes-bio folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: hatpokertucks (button) folded before Flop (didn't bet)
+Seat 6: wildermorph (small blind) folded before Flop
+Seat 7: gustguaira (big blind) collected ($0.50)
+Seat 8: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692021907:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:39:38 ET
+Table 'Mrkos' 9-max Seat #6 is the button
+Seat 1: 3DMINSK ($74.82 in chips) 
+Seat 2: eltonmiranda ($41.79 in chips) 
+Seat 3: Quotes-bio ($28.93 in chips) 
+Seat 4: Vusal11599 ($52.38 in chips) 
+Seat 5: hatpokertucks ($57.03 in chips) 
+Seat 6: wildermorph ($52.20 in chips) 
+Seat 7: gustguaira ($45.75 in chips) 
+Seat 9: christyirish ($66.26 in chips) 
+gustguaira: posts small blind $0.25
+Mr_Ingvarr: is sitting out 
+christyirish: posts big blind $0.50
+*** HOLE CARDS ***
+3DMINSK: folds 
+Mr_Ingvarr leaves the table
+eltonmiranda: folds 
+Quotes-bio: folds 
+Vusal11599: folds 
+hatpokertucks: folds 
+wildermorph: folds 
+gustguaira: folds 
+Uncalled bet ($0.25) returned to christyirish
+christyirish collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: eltonmiranda folded before Flop (didn't bet)
+Seat 3: Quotes-bio folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: hatpokertucks folded before Flop (didn't bet)
+Seat 6: wildermorph (button) folded before Flop (didn't bet)
+Seat 7: gustguaira (small blind) folded before Flop
+Seat 9: christyirish (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228692029477:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 18:39:57 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 1: 3DMINSK ($74.82 in chips) 
+Seat 2: eltonmiranda ($41.79 in chips) 
+Seat 3: Quotes-bio ($28.93 in chips) 
+Seat 4: Vusal11599 ($52.38 in chips) 
+Seat 5: hatpokertucks ($57.03 in chips) 
+Seat 6: wildermorph ($52.20 in chips) 
+Seat 7: gustguaira ($45.50 in chips) 
+Seat 9: christyirish ($66.51 in chips) 
+christyirish: posts small blind $0.25
+3DMINSK: posts big blind $0.50
+*** HOLE CARDS ***
+eltonmiranda: folds 
+Squall33bdi joins the table at seat #8 
+Quotes-bio: calls $0.50
+Vusal11599: folds 
+hatpokertucks: folds 
+wildermorph: folds 
+gustguaira: folds 
+christyirish: folds 
+3DMINSK: checks 
+*** FLOP *** [Ts Ah Js]
+3DMINSK: checks 
+Quotes-bio: checks 
+*** TURN *** [Ts Ah Js] [Jd]
+3DMINSK: checks 
+Quotes-bio: checks 
+*** RIVER *** [Ts Ah Js Jd] [5d]
+3DMINSK: checks 
+Quotes-bio: checks 
+*** SHOW DOWN ***
+3DMINSK: shows [4c 5s] (two pair, Jacks and Fives)
+Quotes-bio: mucks hand 
+3DMINSK collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Ts Ah Js Jd 5d]
+Seat 1: 3DMINSK (big blind) showed [4c 5s] and won ($1.19) with two pair, Jacks and Fives
+Seat 2: eltonmiranda folded before Flop (didn't bet)
+Seat 3: Quotes-bio mucked
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: hatpokertucks folded before Flop (didn't bet)
+Seat 6: wildermorph folded before Flop (didn't bet)
+Seat 7: gustguaira (button) folded before Flop (didn't bet)
+Seat 9: christyirish (small blind) folded before Flop
+
+
+
+PokerStars Hand #228692815634:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:15:15 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 1: 3DMINSK ($68.66 in chips) 
+Seat 2: eltonmiranda ($50.16 in chips) 
+Seat 3: Tullochh ($39.14 in chips) 
+Seat 4: Vusal11599 ($79.51 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.75 in chips) 
+Seat 7: lulu19911991 ($72.03 in chips) 
+Seat 8: el Fatto ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+el Fatto: posts small blind $0.25
+christyirish: posts big blind $0.50
+*** HOLE CARDS ***
+3DMINSK: raises $1 to $1.50
+eltonmiranda: folds 
+Tullochh: folds 
+Vusal11599 has timed out
+Vusal11599: folds 
+Dragonclawss: calls $1.50
+Beer breath2: folds 
+lulu19911991: folds 
+el Fatto: folds 
+christyirish: folds 
+*** FLOP *** [2c 8c 3h]
+3DMINSK: bets $1.07
+Dragonclawss: folds 
+Uncalled bet ($1.07) returned to 3DMINSK
+3DMINSK collected $3.56 from pot
+3DMINSK: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [2c 8c 3h]
+Seat 1: 3DMINSK collected ($3.56)
+Seat 2: eltonmiranda folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded on the Flop
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: lulu19911991 (button) folded before Flop (didn't bet)
+Seat 8: el Fatto (small blind) folded before Flop
+Seat 9: christyirish (big blind) folded before Flop
+
+
+
+PokerStars Hand #228692832229:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:16:02 ET
+Table 'Mrkos' 9-max Seat #8 is the button
+Seat 1: 3DMINSK ($70.72 in chips) 
+Seat 2: eltonmiranda ($50.16 in chips) 
+Seat 3: Tullochh ($39.14 in chips) 
+Seat 4: Vusal11599 ($79.51 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.75 in chips) 
+Seat 7: lulu19911991 ($72.03 in chips) 
+Seat 8: el Fatto ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+christyirish: posts small blind $0.25
+3DMINSK: posts big blind $0.50
+*** HOLE CARDS ***
+eltonmiranda: folds 
+Tullochh: folds 
+Vusal11599: folds 
+Dragonclawss: folds 
+Beer breath2: folds 
+lulu19911991: folds 
+el Fatto: folds 
+christyirish: folds 
+Uncalled bet ($0.25) returned to 3DMINSK
+3DMINSK collected $0.50 from pot
+3DMINSK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: 3DMINSK (big blind) collected ($0.50)
+Seat 2: eltonmiranda folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: lulu19911991 folded before Flop (didn't bet)
+Seat 8: el Fatto (button) folded before Flop (didn't bet)
+Seat 9: christyirish (small blind) folded before Flop
+
+
+
+PokerStars Hand #228692838118:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:16:19 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: 3DMINSK ($70.97 in chips) 
+Seat 2: eltonmiranda ($50.16 in chips) 
+Seat 3: Tullochh ($39.14 in chips) 
+Seat 4: Vusal11599 ($79.51 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.75 in chips) 
+Seat 7: lulu19911991 ($72.03 in chips) 
+Seat 8: el Fatto ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+3DMINSK: posts small blind $0.25
+eltonmiranda: posts big blind $0.50
+*** HOLE CARDS ***
+Tullochh: folds 
+Vusal11599 has timed out
+Vusal11599: folds 
+Dragonclawss: folds 
+Beer breath2: folds 
+lulu19911991: folds 
+el Fatto: folds 
+christyirish: raises $1 to $1.50
+3DMINSK: folds 
+eltonmiranda: calls $1
+*** FLOP *** [7s 6c 8d]
+eltonmiranda: checks 
+christyirish: checks 
+*** TURN *** [7s 6c 8d] [As]
+eltonmiranda: checks 
+christyirish: checks 
+*** RIVER *** [7s 6c 8d As] [8c]
+eltonmiranda: checks 
+christyirish: checks 
+*** SHOW DOWN ***
+eltonmiranda: shows [Jh Td] (a pair of Eights)
+christyirish: shows [2d 2s] (two pair, Eights and Deuces)
+christyirish collected $3.09 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [7s 6c 8d As 8c]
+Seat 1: 3DMINSK (small blind) folded before Flop
+Seat 2: eltonmiranda (big blind) showed [Jh Td] and lost with a pair of Eights
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: lulu19911991 folded before Flop (didn't bet)
+Seat 8: el Fatto folded before Flop (didn't bet)
+Seat 9: christyirish (button) showed [2d 2s] and won ($3.09) with two pair, Eights and Deuces
+
+
+
+PokerStars Hand #228692856134:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:17:11 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: 3DMINSK ($70.72 in chips) 
+Seat 2: eltonmiranda ($48.66 in chips) 
+Seat 3: Tullochh ($39.14 in chips) 
+Seat 4: Vusal11599 ($79.51 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.75 in chips) 
+Seat 7: lulu19911991 ($72.03 in chips) 
+Seat 8: el Fatto ($50 in chips) 
+Seat 9: christyirish ($51.59 in chips) 
+eltonmiranda: posts small blind $0.25
+Tullochh: posts big blind $0.50
+*** HOLE CARDS ***
+Vusal11599: folds 
+Dragonclawss: folds 
+Beer breath2: folds 
+lulu19911991: folds 
+el Fatto: folds 
+christyirish: raises $1 to $1.50
+3DMINSK: folds 
+eltonmiranda: calls $1.25
+Tullochh: calls $1
+*** FLOP *** [5d 4h 3s]
+eltonmiranda: checks 
+Tullochh: bets $1.50
+christyirish: calls $1.50
+eltonmiranda: calls $1.50
+*** TURN *** [5d 4h 3s] [Js]
+eltonmiranda: checks 
+Tullochh: bets $2
+christyirish: raises $6.28 to $8.28
+eltonmiranda: folds 
+Tullochh: raises $27.86 to $36.14 and is all-in
+Vusal11599 is disconnected 
+christyirish: calls $27.86
+*** RIVER *** [5d 4h 3s Js] [Qc]
+*** SHOW DOWN ***
+Tullochh: shows [2d Ad] (a straight, Ace to Five)
+christyirish: shows [Th Ts] (a pair of Tens)
+Tullochh collected $79.28 from pot
+*** SUMMARY ***
+Total pot $81.28 | Rake $2 
+Board [5d 4h 3s Js Qc]
+Seat 1: 3DMINSK (button) folded before Flop (didn't bet)
+Seat 2: eltonmiranda (small blind) folded on the Turn
+Seat 3: Tullochh (big blind) showed [2d Ad] and won ($79.28) with a straight, Ace to Five
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: lulu19911991 folded before Flop (didn't bet)
+Seat 8: el Fatto folded before Flop (didn't bet)
+Seat 9: christyirish showed [Th Ts] and lost with a pair of Tens
+
+
+
+PokerStars Hand #228692890298:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:18:49 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: 3DMINSK ($70.72 in chips) 
+Seat 2: eltonmiranda ($45.66 in chips) 
+Seat 3: Tullochh ($79.28 in chips) 
+Seat 4: Vusal11599 ($79.51 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.75 in chips) 
+Seat 7: lulu19911991 ($72.03 in chips) 
+Seat 8: el Fatto ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+Tullochh: posts small blind $0.25
+Vusal11599: posts big blind $0.50
+*** HOLE CARDS ***
+Dragonclawss: folds 
+Beer breath2: folds 
+lulu19911991: folds 
+el Fatto: folds 
+christyirish: raises $1 to $1.50
+3DMINSK: raises $3.50 to $5
+eltonmiranda: folds 
+eltonmiranda leaves the table
+Tullochh: folds 
+Vusal11599: folds 
+christyirish: folds 
+Uncalled bet ($3.50) returned to 3DMINSK
+3DMINSK collected $3.75 from pot
+3DMINSK: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0 
+Seat 1: 3DMINSK collected ($3.75)
+Seat 2: eltonmiranda (button) folded before Flop (didn't bet)
+Seat 3: Tullochh (small blind) folded before Flop
+Seat 4: Vusal11599 (big blind) folded before Flop
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: lulu19911991 folded before Flop (didn't bet)
+Seat 8: el Fatto folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop
+
+
+
+PokerStars Hand #228692903504:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:19:27 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: 3DMINSK ($72.97 in chips) 
+Seat 3: Tullochh ($79.03 in chips) 
+Seat 4: Vusal11599 ($79.01 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.75 in chips) 
+Seat 7: lulu19911991 ($72.03 in chips) 
+Seat 8: el Fatto ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+Vusal11599: posts small blind $0.25
+Dragonclawss: posts big blind $0.50
+*** HOLE CARDS ***
+Beer breath2: folds 
+lulu19911991: folds 
+el Fatto: folds 
+christyirish: folds 
+3DMINSK: folds 
+Tullochh: folds 
+Vusal11599: folds 
+Uncalled bet ($0.25) returned to Dragonclawss
+Dragonclawss collected $0.50 from pot
+Dragonclawss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 3: Tullochh (button) folded before Flop (didn't bet)
+Seat 4: Vusal11599 (small blind) folded before Flop
+Seat 5: Dragonclawss (big blind) collected ($0.50)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: lulu19911991 folded before Flop (didn't bet)
+Seat 8: el Fatto folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692908667:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:19:42 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: 3DMINSK ($72.97 in chips) 
+Seat 3: Tullochh ($79.03 in chips) 
+Seat 4: Vusal11599 ($78.76 in chips) 
+Seat 5: Dragonclawss ($50.25 in chips) 
+Seat 6: Beer breath2 ($42.75 in chips) 
+Seat 7: lulu19911991 ($72.03 in chips) 
+Seat 8: el Fatto ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+Dragonclawss: posts small blind $0.25
+Beer breath2: posts big blind $0.50
+*** HOLE CARDS ***
+lulu19911991: folds 
+el Fatto: folds 
+christyirish: raises $1 to $1.50
+3DMINSK: folds 
+Tullochh: folds 
+Vusal11599: folds 
+Dragonclawss: calls $1.25
+daria130399 joins the table at seat #2 
+Beer breath2: folds 
+*** FLOP *** [3d 7h 4s]
+Dragonclawss: checks 
+lulu19911991 leaves the table
+christyirish: checks 
+*** TURN *** [3d 7h 4s] [9d]
+Dragonclawss: checks 
+christyirish: bets $1.66
+Dragonclawss: folds 
+Uncalled bet ($1.66) returned to christyirish
+christyirish collected $3.32 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [3d 7h 4s 9d]
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 (button) folded before Flop (didn't bet)
+Seat 5: Dragonclawss (small blind) folded on the Turn
+Seat 6: Beer breath2 (big blind) folded before Flop
+Seat 7: lulu19911991 folded before Flop (didn't bet)
+Seat 8: el Fatto folded before Flop (didn't bet)
+Seat 9: christyirish collected ($3.32)
+
+
+
+PokerStars Hand #228692930397:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:20:44 ET
+Table 'Mrkos' 9-max Seat #5 is the button
+Seat 1: 3DMINSK ($72.97 in chips) 
+Seat 3: Tullochh ($79.03 in chips) 
+Seat 4: Vusal11599 ($78.76 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.25 in chips) 
+Seat 8: el Fatto ($50 in chips) 
+Seat 9: christyirish ($51.82 in chips) 
+Beer breath2: posts small blind $0.25
+el Fatto: posts big blind $0.50
+daria130399: sits out 
+*** HOLE CARDS ***
+christyirish: folds 
+3DMINSK: folds 
+Tullochh: folds 
+Vusal11599: raises $1 to $1.50
+Dragonclawss: folds 
+Nestle170 joins the table at seat #7 
+Beer breath2: folds 
+el Fatto: raises $4 to $5.50
+Vusal11599: folds 
+Uncalled bet ($4) returned to el Fatto
+el Fatto collected $3.25 from pot
+el Fatto: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop
+Seat 5: Dragonclawss (button) folded before Flop (didn't bet)
+Seat 6: Beer breath2 (small blind) folded before Flop
+Seat 8: el Fatto (big blind) collected ($3.25)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692939670:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:21:11 ET
+Table 'Mrkos' 9-max Seat #6 is the button
+Seat 1: 3DMINSK ($72.97 in chips) 
+Seat 3: Tullochh ($79.03 in chips) 
+Seat 4: Vusal11599 ($77.26 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42 in chips) 
+Seat 8: el Fatto ($51.75 in chips) 
+Seat 9: christyirish ($51.82 in chips) 
+el Fatto: posts small blind $0.25
+christyirish: posts big blind $0.50
+daria130399: sits out 
+*** HOLE CARDS ***
+3DMINSK: folds 
+Tullochh: folds 
+Vusal11599: folds 
+Dragonclawss: folds 
+Beer breath2: folds 
+el Fatto: folds 
+Uncalled bet ($0.25) returned to christyirish
+christyirish collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: Beer breath2 (button) folded before Flop (didn't bet)
+Seat 8: el Fatto (small blind) folded before Flop
+Seat 9: christyirish (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228692944579:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:21:25 ET
+Table 'Mrkos' 9-max Seat #8 is the button
+Seat 1: 3DMINSK ($72.97 in chips) 
+Seat 3: Tullochh ($79.03 in chips) 
+Seat 4: Vusal11599 ($77.26 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42 in chips) 
+Seat 8: el Fatto ($51.50 in chips) 
+Seat 9: christyirish ($52.07 in chips) 
+christyirish: posts small blind $0.25
+3DMINSK: posts big blind $0.50
+daria130399: sits out 
+Nestle170: sits out 
+*** HOLE CARDS ***
+Tullochh: folds 
+Vusal11599: folds 
+Dragonclawss: folds 
+Beer breath2: raises $0.75 to $1.25
+el Fatto: folds 
+christyirish: folds 
+3DMINSK: folds 
+Uncalled bet ($0.75) returned to Beer breath2
+Beer breath2 collected $1.25 from pot
+Beer breath2: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: 3DMINSK (big blind) folded before Flop
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: Beer breath2 collected ($1.25)
+Seat 8: el Fatto (button) folded before Flop (didn't bet)
+Seat 9: christyirish (small blind) folded before Flop
+
+
+
+PokerStars Hand #228692960170:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:22:10 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: 3DMINSK ($72.22 in chips) 
+Seat 2: daria130399 ($50 in chips) 
+Seat 4: Vusal11599 ($77.26 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.75 in chips) 
+Seat 8: el Fatto ($51.50 in chips) 
+Seat 9: christyirish ($53.07 in chips) 
+daria130399: posts small blind $0.25
+Tullochh: is sitting out 
+Vusal11599: posts big blind $0.50
+Nestle170: sits out 
+*** HOLE CARDS ***
+Dragonclawss: folds 
+Beer breath2: folds 
+el Fatto: folds 
+christyirish: folds 
+3DMINSK: folds 
+daria130399: raises $1 to $1.50
+Vusal11599: calls $1
+*** FLOP *** [Ts Jd 9h]
+daria130399: checks 
+Vusal11599: checks 
+*** TURN *** [Ts Jd 9h] [Ah]
+daria130399: bets $2.14
+Vusal11599: calls $2.14
+*** RIVER *** [Ts Jd 9h Ah] [Qd]
+daria130399: bets $2.28
+Vusal11599: calls $2.28
+*** SHOW DOWN ***
+daria130399: shows [4d 8d] (a straight, Eight to Queen)
+Vusal11599: mucks hand 
+daria130399 collected $11.25 from pot
+*** SUMMARY ***
+Total pot $11.84 | Rake $0.59 
+Board [Ts Jd 9h Ah Qd]
+Seat 1: 3DMINSK (button) folded before Flop (didn't bet)
+Seat 2: daria130399 (small blind) showed [4d 8d] and won ($11.25) with a straight, Eight to Queen
+Seat 4: Vusal11599 (big blind) mucked
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 8: el Fatto folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228692975943:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:22:44 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: 3DMINSK ($72.22 in chips) 
+Seat 2: daria130399 ($55.33 in chips) 
+Seat 4: Vusal11599 ($71.34 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.75 in chips) 
+Seat 8: el Fatto ($51.50 in chips) 
+Seat 9: christyirish ($53.07 in chips) 
+Vusal11599: posts small blind $0.25
+Dragonclawss: posts big blind $0.50
+Nestle170: sits out 
+*** HOLE CARDS ***
+Beer breath2: folds 
+el Fatto: folds 
+christyirish: folds 
+3DMINSK: folds 
+daria130399: raises $0.75 to $1.25
+Vusal11599: calls $1
+Dragonclawss: folds 
+*** FLOP *** [7d 5d 5c]
+Vusal11599: checks 
+daria130399: bets $1.45
+Vusal11599: calls $1.45
+*** TURN *** [7d 5d 5c] [Js]
+Vusal11599: checks 
+daria130399: bets $4.20
+Vusal11599: calls $4.20
+*** RIVER *** [7d 5d 5c Js] [Ac]
+Vusal11599: checks 
+daria130399: bets $10.19
+Vusal11599: folds 
+Uncalled bet ($10.19) returned to daria130399
+daria130399 collected $13.58 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.30 | Rake $0.72 
+Board [7d 5d 5c Js Ac]
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: daria130399 (button) collected ($13.58)
+Seat 4: Vusal11599 (small blind) folded on the River
+Seat 5: Dragonclawss (big blind) folded before Flop
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 8: el Fatto folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693031921:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:25:25 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 1: 3DMINSK ($72.22 in chips) 
+Seat 2: daria130399 ($62.01 in chips) 
+Seat 3: Tullochh ($77.03 in chips) 
+Seat 4: Vusal11599 ($64.44 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($44.10 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 9: christyirish ($61.51 in chips) 
+christyirish: posts small blind $0.25
+3DMINSK: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: raises $0.75 to $1.25
+Tullochh: folds 
+Vusal11599: calls $1.25
+Dragonclawss: folds 
+Beer breath2: calls $1.25
+Nestle170: calls $1.25
+christyirish: calls $1
+3DMINSK: folds 
+*** FLOP *** [Jh Qc 4d]
+christyirish: checks 
+daria130399: bets $3.27
+Vusal11599: folds 
+Beer breath2: folds 
+Nestle170: folds 
+christyirish: calls $3.27
+*** TURN *** [Jh Qc 4d] [5h]
+christyirish: checks 
+daria130399: bets $15.50
+christyirish: folds 
+Uncalled bet ($15.50) returned to daria130399
+daria130399 collected $12.63 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.29 | Rake $0.66 
+Board [Jh Qc 4d 5h]
+Seat 1: 3DMINSK (big blind) folded before Flop
+Seat 2: daria130399 collected ($12.63)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded on the Flop
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded on the Flop
+Seat 7: Nestle170 (button) folded on the Flop
+Seat 9: christyirish (small blind) folded on the Turn
+
+
+
+PokerStars Hand #228693056490:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:26:37 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: 3DMINSK ($71.72 in chips) 
+Seat 2: daria130399 ($70.12 in chips) 
+Seat 3: Tullochh ($77.03 in chips) 
+Seat 4: Vusal11599 ($63.19 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.85 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 9: christyirish ($56.99 in chips) 
+3DMINSK: posts small blind $0.25
+daria130399: posts big blind $0.50
+BoryaKGB: sits out 
+*** HOLE CARDS ***
+Tullochh: folds 
+Vusal11599: folds 
+Dragonclawss: folds 
+Beer breath2: folds 
+Nestle170: raises $0.75 to $1.25
+christyirish: folds 
+3DMINSK: folds 
+daria130399: calls $0.75
+*** FLOP *** [5s 8d Qh]
+daria130399: checks 
+Nestle170: bets $0.86
+daria130399: calls $0.86
+*** TURN *** [5s 8d Qh] [Qs]
+daria130399: checks 
+Nestle170: checks 
+*** RIVER *** [5s 8d Qh Qs] [3h]
+daria130399: bets $2.17
+Nestle170: folds 
+Uncalled bet ($2.17) returned to daria130399
+daria130399 collected $4.25 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.47 | Rake $0.22 
+Board [5s 8d Qh Qs 3h]
+Seat 1: 3DMINSK (small blind) folded before Flop
+Seat 2: daria130399 (big blind) collected ($4.25)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded on the River
+Seat 9: christyirish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693099395:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:28:17 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: 3DMINSK ($71.47 in chips) 
+Seat 2: daria130399 ($72.26 in chips) 
+Seat 3: Tullochh ($77.03 in chips) 
+Seat 4: Vusal11599 ($63.19 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.85 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 9: christyirish ($56.99 in chips) 
+daria130399: posts small blind $0.25
+Tullochh: posts big blind $0.50
+BoryaKGB: sits out 
+*** HOLE CARDS ***
+Vusal11599: raises $0.50 to $1
+Dragonclawss: calls $1
+Beer breath2: folds 
+Nestle170: folds 
+christyirish: folds 
+3DMINSK: folds 
+daria130399: folds 
+Tullochh: folds 
+*** FLOP *** [Th Ts As]
+Vusal11599: checks 
+Dragonclawss: checks 
+*** TURN *** [Th Ts As] [Qh]
+Vusal11599: bets $1.30
+Dragonclawss: folds 
+Uncalled bet ($1.30) returned to Vusal11599
+Vusal11599 collected $2.61 from pot
+Vusal11599: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [Th Ts As Qh]
+Seat 1: 3DMINSK (button) folded before Flop (didn't bet)
+Seat 2: daria130399 (small blind) folded before Flop
+Seat 3: Tullochh (big blind) folded before Flop
+Seat 4: Vusal11599 collected ($2.61)
+Seat 5: Dragonclawss folded on the Turn
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693112528:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:28:55 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: 3DMINSK ($71.47 in chips) 
+Seat 2: daria130399 ($72.01 in chips) 
+Seat 3: Tullochh ($76.53 in chips) 
+Seat 4: Vusal11599 ($64.80 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: Beer breath2 ($42.85 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 9: christyirish ($56.99 in chips) 
+Tullochh: posts small blind $0.25
+Vusal11599: posts big blind $0.50
+BoryaKGB: sits out 
+*** HOLE CARDS ***
+Dragonclawss: folds 
+Beer breath2: folds 
+Nestle170: folds 
+christyirish: folds 
+3DMINSK: folds 
+daria130399 has timed out
+daria130399: folds 
+Tullochh: calls $0.25
+Vusal11599: checks 
+*** FLOP *** [Jd 2s 3d]
+Tullochh: checks 
+Vusal11599: bets $0.95
+Tullochh: calls $0.95
+*** TURN *** [Jd 2s 3d] [4h]
+Tullochh: checks 
+Vusal11599: bets $2.76
+Tullochh: folds 
+Uncalled bet ($2.76) returned to Vusal11599
+Vusal11599 collected $2.76 from pot
+Vusal11599: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.90 | Rake $0.14 
+Board [Jd 2s 3d 4h]
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: daria130399 (button) folded before Flop (didn't bet)
+Seat 3: Tullochh (small blind) folded on the Turn
+Seat 4: Vusal11599 (big blind) collected ($2.76)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693128370:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:29:42 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: 3DMINSK ($71.47 in chips) 
+Seat 2: daria130399 ($72.01 in chips) 
+Seat 3: Tullochh ($75.08 in chips) 
+Seat 4: Vusal11599 ($66.11 in chips) 
+Seat 6: Beer breath2 ($42.85 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 9: christyirish ($56.99 in chips) 
+Vusal11599: posts small blind $0.25
+Beer breath2: posts big blind $0.50
+BoryaKGB: sits out 
+*** HOLE CARDS ***
+Nestle170: folds 
+christyirish: folds 
+3DMINSK: folds 
+daria130399: folds 
+Tullochh: calls $0.50
+Vusal11599: folds 
+Beer breath2: checks 
+*** FLOP *** [2h Ts Ks]
+Beer breath2: checks 
+Tullochh: checks 
+*** TURN *** [2h Ts Ks] [6s]
+Beer breath2: checks 
+Tullochh: bets $1
+Beer breath2: folds 
+Uncalled bet ($1) returned to Tullochh
+Tullochh collected $1.19 from pot
+Tullochh: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [2h Ts Ks 6s]
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh (button) collected ($1.19)
+Seat 4: Vusal11599 (small blind) folded before Flop
+Seat 6: Beer breath2 (big blind) folded on the Turn
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693142081:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:30:22 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: 3DMINSK ($71.47 in chips) 
+Seat 2: daria130399 ($72.01 in chips) 
+Seat 3: Tullochh ($75.77 in chips) 
+Seat 4: Vusal11599 ($65.86 in chips) 
+Seat 6: Beer breath2 ($42.35 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 9: christyirish ($56.99 in chips) 
+Beer breath2: posts small blind $0.25
+Nestle170: posts big blind $0.50
+BoryaKGB: sits out 
+*** HOLE CARDS ***
+christyirish: folds 
+3DMINSK: folds 
+daria130399: folds 
+Tullochh: folds 
+Vusal11599: raises $0.50 to $1
+Beer breath2: folds 
+Nestle170: folds 
+Uncalled bet ($0.50) returned to Vusal11599
+Vusal11599 collected $1.25 from pot
+Vusal11599: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 (button) collected ($1.25)
+Seat 6: Beer breath2 (small blind) folded before Flop
+Seat 7: Nestle170 (big blind) folded before Flop
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693150967:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:30:48 ET
+Table 'Mrkos' 9-max Seat #6 is the button
+Seat 1: 3DMINSK ($71.47 in chips) 
+Seat 2: daria130399 ($72.01 in chips) 
+Seat 3: Tullochh ($75.77 in chips) 
+Seat 4: Vusal11599 ($66.61 in chips) 
+Seat 6: Beer breath2 ($42.10 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($56.99 in chips) 
+Nestle170: posts small blind $0.25
+BoryaKGB: posts big blind $0.50
+*** HOLE CARDS ***
+christyirish: raises $1 to $1.50
+3DMINSK: folds 
+daria130399: folds 
+Tullochh: calls $1.50
+Vusal11599: folds 
+Beer breath2: folds 
+Nestle170: folds 
+BoryaKGB: folds 
+*** FLOP *** [Ts 4h Kc]
+christyirish: bets $2
+Tullochh: folds 
+Uncalled bet ($2) returned to christyirish
+christyirish collected $3.56 from pot
+christyirish: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [Ts 4h Kc]
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh folded on the Flop
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 6: Beer breath2 (button) folded before Flop (didn't bet)
+Seat 7: Nestle170 (small blind) folded before Flop
+Seat 8: BoryaKGB (big blind) folded before Flop
+Seat 9: christyirish collected ($3.56)
+
+
+
+PokerStars Hand #228693160317:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:31:15 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 1: 3DMINSK ($71.47 in chips) 
+Seat 2: daria130399 ($72.01 in chips) 
+Seat 3: Tullochh ($74.27 in chips) 
+Seat 4: Vusal11599 ($66.61 in chips) 
+Seat 6: Beer breath2 ($42.10 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($59.05 in chips) 
+BoryaKGB: posts small blind $0.25
+christyirish: posts big blind $0.50
+*** HOLE CARDS ***
+3DMINSK: folds 
+daria130399: folds 
+Tullochh: folds 
+Vusal11599 has timed out
+Vusal11599: folds 
+Beer breath2: raises $0.75 to $1.25
+Nestle170: folds 
+BoryaKGB: folds 
+christyirish: calls $0.75
+*** FLOP *** [2h 7d 6s]
+christyirish: checks 
+Beer breath2: checks 
+*** TURN *** [2h 7d 6s] [Ac]
+christyirish: checks 
+Beer breath2: bets $1.50
+christyirish: folds 
+Uncalled bet ($1.50) returned to Beer breath2
+Beer breath2 collected $2.61 from pot
+Beer breath2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [2h 7d 6s Ac]
+Seat 1: 3DMINSK folded before Flop (didn't bet)
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 6: Beer breath2 collected ($2.61)
+Seat 7: Nestle170 (button) folded before Flop (didn't bet)
+Seat 8: BoryaKGB (small blind) folded before Flop
+Seat 9: christyirish (big blind) folded on the Turn
+
+
+
+PokerStars Hand #228693179937:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:32:13 ET
+Table 'Mrkos' 9-max Seat #8 is the button
+Seat 2: daria130399 ($72.01 in chips) 
+Seat 3: Tullochh ($74.27 in chips) 
+Seat 4: Vusal11599 ($66.61 in chips) 
+Seat 6: Beer breath2 ($43.46 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($57.80 in chips) 
+christyirish: posts small blind $0.25
+3DMINSK: is sitting out 
+3DMINSK leaves the table
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+mustmuckace joins the table at seat #1 
+Tullochh: calls $0.50
+Vusal11599: raises $0.50 to $1
+Beer breath2: folds 
+Nestle170: folds 
+BoryaKGB: folds 
+christyirish: folds 
+daria130399: folds 
+Tullochh: calls $0.50
+*** FLOP *** [9h Ts Qc]
+Tullochh: checks 
+Vusal11599: checks 
+*** TURN *** [9h Ts Qc] [9d]
+Tullochh: checks 
+Vusal11599: bets $1.30
+Tullochh: calls $1.30
+*** RIVER *** [9h Ts Qc 9d] [Qd]
+Tullochh: checks 
+Vusal11599: checks 
+*** SHOW DOWN ***
+Tullochh: shows [Jd 6d] (two pair, Queens and Nines)
+Vusal11599: shows [Jc Kh] (a straight, Nine to King)
+Vusal11599 collected $5.08 from pot
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.27 
+Board [9h Ts Qc 9d Qd]
+Seat 2: daria130399 (big blind) folded before Flop
+Seat 3: Tullochh showed [Jd 6d] and lost with two pair, Queens and Nines
+Seat 4: Vusal11599 showed [Jc Kh] and won ($5.08) with a straight, Nine to King
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: BoryaKGB (button) folded before Flop (didn't bet)
+Seat 9: christyirish (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693210628:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:33:43 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: mustmuckace ($39.48 in chips) 
+Seat 2: daria130399 ($71.26 in chips) 
+Seat 3: Tullochh ($71.47 in chips) 
+Seat 4: Vusal11599 ($73.70 in chips) 
+Seat 6: Beer breath2 ($43.46 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($57.55 in chips) 
+Tullochh: posts small blind $0.25
+Vusal11599: posts big blind $0.50
+mustmuckace: posts big blind $0.50
+*** HOLE CARDS ***
+Beer breath2: folds 
+Nestle170: folds 
+BoryaKGB: folds 
+christyirish: folds 
+mustmuckace: checks 
+daria130399: folds 
+Tullochh: folds 
+Vusal11599: raises $1 to $1.50
+mustmuckace: calls $1
+*** FLOP *** [9d Ks 7h]
+Vusal11599: checks 
+mustmuckace: checks 
+*** TURN *** [9d Ks 7h] [3h]
+Vusal11599: bets $1.54
+mustmuckace: calls $1.54
+*** RIVER *** [9d Ks 7h 3h] [Qd]
+Vusal11599: bets $3
+mustmuckace: calls $3
+*** SHOW DOWN ***
+Vusal11599: shows [Ac Jd] (high card Ace)
+mustmuckace: shows [9s Jh] (a pair of Nines)
+mustmuckace collected $11.71 from pot
+*** SUMMARY ***
+Total pot $12.33 | Rake $0.62 
+Board [9d Ks 7h 3h Qd]
+Seat 1: mustmuckace showed [9s Jh] and won ($11.71) with a pair of Nines
+Seat 2: daria130399 (button) folded before Flop (didn't bet)
+Seat 3: Tullochh (small blind) folded before Flop
+Seat 4: Vusal11599 (big blind) showed [Ac Jd] and lost with high card Ace
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: BoryaKGB folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693222548:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:34:19 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: mustmuckace ($45.15 in chips) 
+Seat 2: daria130399 ($71.26 in chips) 
+Seat 3: Tullochh ($71.22 in chips) 
+Seat 4: Vusal11599 ($67.66 in chips) 
+Seat 6: Beer breath2 ($43.46 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($57.55 in chips) 
+Vusal11599: posts small blind $0.25
+Beer breath2: posts big blind $0.50
+*** HOLE CARDS ***
+Nestle170: folds 
+BoryaKGB: folds 
+christyirish: folds 
+mustmuckace: folds 
+daria130399 has timed out
+daria130399: folds 
+Tullochh: folds 
+Vusal11599: calls $0.25
+Beer breath2: checks 
+*** FLOP *** [9c Td 8c]
+Vusal11599: checks 
+Beer breath2: checks 
+*** TURN *** [9c Td 8c] [3h]
+Vusal11599: bets $0.50
+Beer breath2: calls $0.50
+*** RIVER *** [9c Td 8c 3h] [7h]
+Vusal11599: bets $0.50
+Beer breath2: calls $0.50
+*** SHOW DOWN ***
+Vusal11599: shows [Qs 3d] (a pair of Threes)
+Beer breath2: shows [6d 9d] (a straight, Six to Ten)
+Beer breath2 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [9c Td 8c 3h 7h]
+Seat 1: mustmuckace folded before Flop (didn't bet)
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh (button) folded before Flop (didn't bet)
+Seat 4: Vusal11599 (small blind) showed [Qs 3d] and lost with a pair of Threes
+Seat 6: Beer breath2 (big blind) showed [6d 9d] and won ($2.85) with a straight, Six to Ten
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: BoryaKGB folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693237333:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:35:03 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: mustmuckace ($45.15 in chips) 
+Seat 2: daria130399 ($71.26 in chips) 
+Seat 3: Tullochh ($71.22 in chips) 
+Seat 4: Vusal11599 ($66.16 in chips) 
+Seat 6: Beer breath2 ($44.81 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($57.55 in chips) 
+Beer breath2: posts small blind $0.25
+Nestle170: posts big blind $0.50
+*** HOLE CARDS ***
+BoryaKGB: raises $0.60 to $1.10
+christyirish: calls $1.10
+mustmuckace: folds 
+daria130399: folds 
+Tullochh: folds 
+Vusal11599: folds 
+Dragonclawss leaves the table
+Beer breath2: calls $0.85
+Nestle170: folds 
+*** FLOP *** [3s 2s Th]
+Beer breath2: checks 
+BoryaKGB: checks 
+christyirish: bets $1.81
+lulu19911991 joins the table at seat #5 
+Beer breath2: calls $1.81
+BoryaKGB: folds 
+*** TURN *** [3s 2s Th] [9d]
+Beer breath2: checks 
+christyirish: checks 
+*** RIVER *** [3s 2s Th 9d] [Qd]
+Beer breath2: bets $3.75
+christyirish: raises $10.91 to $14.66
+Beer breath2: calls $10.91
+*** SHOW DOWN ***
+christyirish: shows [7d 7h] (a pair of Sevens)
+Beer breath2: shows [Kc Kd] (a pair of Kings)
+Beer breath2 collected $34.90 from pot
+*** SUMMARY ***
+Total pot $36.74 | Rake $1.84 
+Board [3s 2s Th 9d Qd]
+Seat 1: mustmuckace folded before Flop (didn't bet)
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 (button) folded before Flop (didn't bet)
+Seat 6: Beer breath2 (small blind) showed [Kc Kd] and won ($34.90) with a pair of Kings
+Seat 7: Nestle170 (big blind) folded before Flop
+Seat 8: BoryaKGB folded on the Flop
+Seat 9: christyirish showed [7d 7h] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #228693271503:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:36:44 ET
+Table 'Mrkos' 9-max Seat #6 is the button
+Seat 1: mustmuckace ($45.15 in chips) 
+Seat 2: daria130399 ($71.26 in chips) 
+Seat 3: Tullochh ($71.22 in chips) 
+Seat 4: Vusal11599 ($66.16 in chips) 
+Seat 6: Beer breath2 ($62.14 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+Nestle170: posts small blind $0.25
+BoryaKGB: posts big blind $0.50
+lulu19911991: sits out 
+*** HOLE CARDS ***
+christyirish: folds 
+mustmuckace: folds 
+daria130399: raises $0.75 to $1.25
+Tullochh: calls $1.25
+Vusal11599: folds 
+Beer breath2: folds 
+Nestle170: folds 
+BoryaKGB: folds 
+*** FLOP *** [Kd Ah 9d]
+daria130399: checks 
+Tullochh: bets $0.50
+daria130399: folds 
+Uncalled bet ($0.50) returned to Tullochh
+Tullochh collected $3.09 from pot
+Tullochh: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [Kd Ah 9d]
+Seat 1: mustmuckace folded before Flop (didn't bet)
+Seat 2: daria130399 folded on the Flop
+Seat 3: Tullochh collected ($3.09)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 6: Beer breath2 (button) folded before Flop (didn't bet)
+Seat 7: Nestle170 (small blind) folded before Flop
+Seat 8: BoryaKGB (big blind) folded before Flop
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693281184:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:37:13 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 1: mustmuckace ($45.15 in chips) 
+Seat 2: daria130399 ($70.01 in chips) 
+Seat 3: Tullochh ($73.06 in chips) 
+Seat 4: Vusal11599 ($66.16 in chips) 
+Seat 6: Beer breath2 ($62.14 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+BoryaKGB: posts small blind $0.25
+christyirish: posts big blind $0.50
+lulu19911991: sits out 
+*** HOLE CARDS ***
+mustmuckace: raises $0.50 to $1
+daria130399: folds 
+Tullochh: folds 
+Vusal11599: folds 
+Beer breath2: calls $1
+Nestle170: calls $1
+BoryaKGB: folds 
+christyirish: calls $0.50
+*** FLOP *** [2h 7s Td]
+christyirish: checks 
+mustmuckace: checks 
+Beer breath2: checks 
+Nestle170: bets $2
+christyirish: calls $2
+mustmuckace: calls $2
+Beer breath2: folds 
+*** TURN *** [2h 7s Td] [2s]
+christyirish: checks 
+mustmuckace: checks 
+Nestle170: checks 
+*** RIVER *** [2h 7s Td 2s] [6c]
+christyirish: bets $7.31
+mustmuckace: folds 
+Nestle170: raises $14.62 to $21.93
+christyirish: folds 
+Uncalled bet ($14.62) returned to Nestle170
+Nestle170 collected $23.63 from pot
+Nestle170: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.87 | Rake $1.24 
+Board [2h 7s Td 2s 6c]
+Seat 1: mustmuckace folded on the River
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded on the Flop
+Seat 7: Nestle170 (button) collected ($23.63)
+Seat 8: BoryaKGB (small blind) folded before Flop
+Seat 9: christyirish (big blind) folded on the River
+
+
+
+PokerStars Hand #228693317047:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:38:43 ET
+Table 'Mrkos' 9-max Seat #8 is the button
+Seat 1: mustmuckace ($42.15 in chips) 
+Seat 2: daria130399 ($70.01 in chips) 
+Seat 3: Tullochh ($73.06 in chips) 
+Seat 4: Vusal11599 ($66.16 in chips) 
+Seat 6: Beer breath2 ($61.14 in chips) 
+Seat 7: Nestle170 ($63.32 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+christyirish: posts small blind $0.25
+mustmuckace: posts big blind $0.50
+lulu19911991: sits out 
+*** HOLE CARDS ***
+daria130399: raises $0.75 to $1.25
+Tullochh: folds 
+Vusal11599: folds 
+Beer breath2: folds 
+Nestle170: folds 
+BoryaKGB: folds 
+christyirish: folds 
+mustmuckace: calls $0.75
+*** FLOP *** [3s Tc 9s]
+mustmuckace: checks 
+daria130399: bets $1.33
+mustmuckace: calls $1.33
+*** TURN *** [3s Tc 9s] [Jc]
+mustmuckace: checks 
+daria130399: bets $3.86
+mustmuckace: raises $3.86 to $7.72
+daria130399: calls $3.86
+*** RIVER *** [3s Tc 9s Jc] [Jh]
+mustmuckace: bets $1.25
+daria130399: raises $58.46 to $59.71 and is all-in
+mustmuckace: calls $30.60 and is all-in
+Uncalled bet ($27.86) returned to daria130399
+*** SHOW DOWN ***
+daria130399: shows [Ts Th] (a full house, Tens full of Jacks)
+mustmuckace: shows [7s 8d] (a straight, Seven to Jack)
+daria130399 collected $82.55 from pot
+*** SUMMARY ***
+Total pot $84.55 | Rake $2 
+Board [3s Tc 9s Jc Jh]
+Seat 1: mustmuckace (big blind) showed [7s 8d] and lost with a straight, Seven to Jack
+Seat 2: daria130399 showed [Ts Th] and won ($82.55) with a full house, Tens full of Jacks
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: BoryaKGB (button) folded before Flop (didn't bet)
+Seat 9: christyirish (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693337953:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:39:46 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 2: daria130399 ($110.41 in chips) 
+Seat 3: Tullochh ($73.06 in chips) 
+Seat 4: Vusal11599 ($66.16 in chips) 
+Seat 6: Beer breath2 ($61.14 in chips) 
+Seat 7: Nestle170 ($63.32 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+daria130399: posts small blind $0.25
+Tullochh: posts big blind $0.50
+lulu19911991: sits out 
+*** HOLE CARDS ***
+Vusal11599: folds 
+Beer breath2: folds 
+Nestle170: folds 
+BoryaKGB: folds 
+mustmuckace leaves the table
+christyirish: raises $1 to $1.50
+daria130399: folds 
+Tullochh: folds 
+Uncalled bet ($1) returned to christyirish
+christyirish collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: daria130399 (small blind) folded before Flop
+Seat 3: Tullochh (big blind) folded before Flop
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: BoryaKGB folded before Flop (didn't bet)
+Seat 9: christyirish (button) collected ($1.25)
+
+
+
+PokerStars Hand #228693345851:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:40:10 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 2: daria130399 ($110.16 in chips) 
+Seat 3: Tullochh ($72.56 in chips) 
+Seat 4: Vusal11599 ($66.16 in chips) 
+Seat 6: Beer breath2 ($61.14 in chips) 
+Seat 7: Nestle170 ($63.32 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($50.75 in chips) 
+Tullochh: posts small blind $0.25
+Vusal11599: posts big blind $0.50
+lulu19911991: sits out 
+*** HOLE CARDS ***
+Beer breath2: folds 
+Nestle170: folds 
+BoryaKGB: folds 
+christyirish: folds 
+daria130399: raises $1 to $1.50
+Tullochh: folds 
+Vusal11599: calls $1
+*** FLOP *** [6d Kc Td]
+Vusal11599: checks 
+daria130399: bets $1.58
+Vusal11599: folds 
+Uncalled bet ($1.58) returned to daria130399
+daria130399 collected $3.09 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [6d Kc Td]
+Seat 2: daria130399 (button) collected ($3.09)
+Seat 3: Tullochh (small blind) folded before Flop
+Seat 4: Vusal11599 (big blind) folded on the Flop
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: BoryaKGB folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693354808:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:40:37 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 2: daria130399 ($111.75 in chips) 
+Seat 3: Tullochh ($72.31 in chips) 
+Seat 4: Vusal11599 ($64.66 in chips) 
+Seat 5: lulu19911991 ($72.03 in chips) 
+Seat 6: Beer breath2 ($61.14 in chips) 
+Seat 7: Nestle170 ($63.32 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($50.75 in chips) 
+Vusal11599: posts small blind $0.25
+lulu19911991: posts big blind $0.50
+*** HOLE CARDS ***
+Beer breath2: folds 
+Nestle170: raises $1 to $1.50
+BoryaKGB: folds 
+christyirish: calls $1.50
+daria130399: folds 
+Tullochh: folds 
+Vusal11599: folds 
+lulu19911991: folds 
+*** FLOP *** [2h 7s 2c]
+wealthandpower joins the table at seat #1 
+Nestle170: checks 
+christyirish: checks 
+*** TURN *** [2h 7s 2c] [6s]
+Nestle170: checks 
+christyirish: bets $1.07
+Nestle170: calls $1.07
+*** RIVER *** [2h 7s 2c 6s] [Kd]
+Nestle170: checks 
+christyirish: checks 
+*** SHOW DOWN ***
+Nestle170: shows [Ac Tc] (a pair of Deuces)
+christyirish: mucks hand 
+Nestle170 collected $5.60 from pot
+*** SUMMARY ***
+Total pot $5.89 | Rake $0.29 
+Board [2h 7s 2c 6s Kd]
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh (button) folded before Flop (didn't bet)
+Seat 4: Vusal11599 (small blind) folded before Flop
+Seat 5: lulu19911991 (big blind) folded before Flop
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 showed [Ac Tc] and won ($5.60) with a pair of Deuces
+Seat 8: BoryaKGB folded before Flop (didn't bet)
+Seat 9: christyirish mucked
+
+
+
+PokerStars Hand #228693392500:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:42:02 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: wealthandpower ($21.50 in chips) 
+Seat 2: daria130399 ($111.75 in chips) 
+Seat 3: Tullochh ($72.31 in chips) 
+Seat 4: Vusal11599 ($64.41 in chips) 
+Seat 5: lulu19911991 ($71.53 in chips) 
+Seat 6: Beer breath2 ($61.14 in chips) 
+Seat 7: Nestle170 ($66.35 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+lulu19911991: posts small blind $0.25
+Beer breath2: posts big blind $0.50
+wealthandpower: posts big blind $0.50
+*** HOLE CARDS ***
+Nestle170: folds 
+BoryaKGB: folds 
+christyirish: folds 
+wealthandpower: raises $1 to $1.50
+daria130399: folds 
+Tullochh: folds 
+Vusal11599: calls $1.50
+lulu19911991: folds 
+Beer breath2: folds 
+*** FLOP *** [4c 5h Th]
+wealthandpower: bets $2.80
+Vusal11599: raises $60.11 to $62.91 and is all-in
+wealthandpower: folds 
+Uncalled bet ($60.11) returned to Vusal11599
+Vusal11599 collected $8.88 from pot
+Vusal11599: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.35 | Rake $0.47 
+Board [4c 5h Th]
+Seat 1: wealthandpower folded on the Flop
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 (button) collected ($8.88)
+Seat 5: lulu19911991 (small blind) folded before Flop
+Seat 6: Beer breath2 (big blind) folded before Flop
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: BoryaKGB folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693406442:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:42:45 ET
+Table 'Mrkos' 9-max Seat #5 is the button
+Seat 1: wealthandpower ($17.20 in chips) 
+Seat 2: daria130399 ($111.75 in chips) 
+Seat 3: Tullochh ($72.31 in chips) 
+Seat 4: Vusal11599 ($68.99 in chips) 
+Seat 5: lulu19911991 ($71.28 in chips) 
+Seat 6: Beer breath2 ($60.64 in chips) 
+Seat 7: Nestle170 ($66.35 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+Beer breath2: posts small blind $0.25
+Nestle170: posts big blind $0.50
+*** HOLE CARDS ***
+BoryaKGB: folds 
+christyirish: folds 
+wealthandpower: folds 
+daria130399: folds 
+Tullochh: calls $0.50
+Vusal11599: raises $0.50 to $1
+lulu19911991: raises $3 to $4
+Beer breath2: folds 
+Nestle170: folds 
+Tullochh: folds 
+Vusal11599: folds 
+Uncalled bet ($3) returned to lulu19911991
+lulu19911991 collected $3.25 from pot
+lulu19911991: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop
+Seat 4: Vusal11599 folded before Flop
+Seat 5: lulu19911991 (button) collected ($3.25)
+Seat 6: Beer breath2 (small blind) folded before Flop
+Seat 7: Nestle170 (big blind) folded before Flop
+Seat 8: BoryaKGB folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693413141:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:43:06 ET
+Table 'Mrkos' 9-max Seat #6 is the button
+Seat 1: wealthandpower ($17.20 in chips) 
+Seat 2: daria130399 ($111.75 in chips) 
+Seat 3: Tullochh ($71.81 in chips) 
+Seat 4: Vusal11599 ($67.99 in chips) 
+Seat 5: lulu19911991 ($73.53 in chips) 
+Seat 6: Beer breath2 ($60.39 in chips) 
+Seat 7: Nestle170 ($65.85 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+Nestle170: posts small blind $0.25
+BoryaKGB: posts big blind $0.50
+*** HOLE CARDS ***
+christyirish: folds 
+wealthandpower: folds 
+daria130399: folds 
+Tullochh: folds 
+Vusal11599: raises $1 to $1.50
+lulu19911991: raises $3 to $4.50
+Beer breath2: folds 
+Nestle170: folds 
+BoryaKGB: folds 
+Vusal11599: raises $63.49 to $67.99 and is all-in
+lulu19911991: folds 
+Uncalled bet ($63.49) returned to Vusal11599
+Vusal11599 collected $9.75 from pot
+Vusal11599: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.75 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 collected ($9.75)
+Seat 5: lulu19911991 folded before Flop
+Seat 6: Beer breath2 (button) folded before Flop (didn't bet)
+Seat 7: Nestle170 (small blind) folded before Flop
+Seat 8: BoryaKGB (big blind) folded before Flop
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693423577:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:43:38 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 1: wealthandpower ($17.20 in chips) 
+Seat 2: daria130399 ($111.75 in chips) 
+Seat 3: Tullochh ($71.81 in chips) 
+Seat 4: Vusal11599 ($73.24 in chips) 
+Seat 5: lulu19911991 ($69.03 in chips) 
+Seat 6: Beer breath2 ($60.39 in chips) 
+Seat 7: Nestle170 ($65.60 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+BoryaKGB: posts small blind $0.25
+christyirish: posts big blind $0.50
+*** HOLE CARDS ***
+wealthandpower: folds 
+daria130399: folds 
+Tullochh: folds 
+Vusal11599: folds 
+lulu19911991: folds 
+Beer breath2: folds 
+Nestle170: folds 
+BoryaKGB: raises $1 to $1.50
+christyirish: calls $1
+*** FLOP *** [Qh Qc Js]
+BoryaKGB: checks 
+christyirish: checks 
+*** TURN *** [Qh Qc Js] [6c]
+BoryaKGB: bets $1.43
+christyirish: folds 
+Uncalled bet ($1.43) returned to BoryaKGB
+BoryaKGB collected $2.85 from pot
+BoryaKGB: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Qh Qc Js 6c]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: lulu19911991 folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 (button) folded before Flop (didn't bet)
+Seat 8: BoryaKGB (small blind) collected ($2.85)
+Seat 9: christyirish (big blind) folded on the Turn
+
+
+
+PokerStars Hand #228693434078:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:44:11 ET
+Table 'Mrkos' 9-max Seat #8 is the button
+Seat 1: wealthandpower ($17.20 in chips) 
+Seat 2: daria130399 ($111.75 in chips) 
+Seat 3: Tullochh ($71.81 in chips) 
+Seat 4: Vusal11599 ($73.24 in chips) 
+Seat 5: lulu19911991 ($69.03 in chips) 
+Seat 6: Beer breath2 ($60.39 in chips) 
+Seat 7: Nestle170 ($65.60 in chips) 
+Seat 8: BoryaKGB ($51.35 in chips) 
+Seat 9: christyirish ($50 in chips) 
+christyirish: posts small blind $0.25
+wealthandpower: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: raises $0.75 to $1.25
+Tullochh: folds 
+Vusal11599: folds 
+lulu19911991: folds 
+Beer breath2: folds 
+Nestle170: folds 
+BoryaKGB: folds 
+christyirish: folds 
+wealthandpower: folds 
+Uncalled bet ($0.75) returned to daria130399
+daria130399 collected $1.25 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wealthandpower (big blind) folded before Flop
+Seat 2: daria130399 collected ($1.25)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: lulu19911991 folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: BoryaKGB (button) folded before Flop (didn't bet)
+Seat 9: christyirish (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693442091:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:44:35 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: wealthandpower ($16.70 in chips) 
+Seat 2: daria130399 ($112.50 in chips) 
+Seat 3: Tullochh ($71.81 in chips) 
+Seat 4: Vusal11599 ($73.24 in chips) 
+Seat 5: lulu19911991 ($69.03 in chips) 
+Seat 6: Beer breath2 ($60.39 in chips) 
+Seat 7: Nestle170 ($65.60 in chips) 
+Seat 8: BoryaKGB ($51.35 in chips) 
+Seat 9: christyirish ($50 in chips) 
+wealthandpower: posts small blind $0.25
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+Tullochh: calls $0.50
+Vusal11599 has timed out
+Vusal11599: folds 
+lulu19911991: folds 
+Beer breath2: calls $0.50
+Nestle170: folds 
+BoryaKGB: folds 
+christyirish: raises $2.25 to $2.75
+wealthandpower: folds 
+daria130399: folds 
+Tullochh: folds 
+Beer breath2: folds 
+Uncalled bet ($2.25) returned to christyirish
+christyirish collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0 
+Seat 1: wealthandpower (small blind) folded before Flop
+Seat 2: daria130399 (big blind) folded before Flop
+Seat 3: Tullochh folded before Flop
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: lulu19911991 folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: BoryaKGB folded before Flop (didn't bet)
+Seat 9: christyirish (button) collected ($2.25)
+
+
+
+PokerStars Hand #228693455619:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:45:18 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: wealthandpower ($16.45 in chips) 
+Seat 2: daria130399 ($112 in chips) 
+Seat 3: Tullochh ($71.31 in chips) 
+Seat 4: Vusal11599 ($73.24 in chips) 
+Seat 5: lulu19911991 ($69.03 in chips) 
+Seat 6: Beer breath2 ($59.89 in chips) 
+Seat 7: Nestle170 ($65.60 in chips) 
+Seat 8: BoryaKGB ($51.35 in chips) 
+Seat 9: christyirish ($51.75 in chips) 
+daria130399: posts small blind $0.25
+Tullochh: posts big blind $0.50
+*** HOLE CARDS ***
+Vusal11599: folds 
+lulu19911991: folds 
+Beer breath2: folds 
+Nestle170: folds 
+Beer breath2 leaves the table
+BoryaKGB: folds 
+christyirish: folds 
+wealthandpower: raises $1 to $1.50
+lulu19911991 leaves the table
+daria130399: folds 
+Tullochh: folds 
+Uncalled bet ($1) returned to wealthandpower
+wealthandpower collected $1.25 from pot
+wealthandpower: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wealthandpower (button) collected ($1.25)
+Seat 2: daria130399 (small blind) folded before Flop
+Seat 3: Tullochh (big blind) folded before Flop
+Seat 4: Vusal11599 folded before Flop (didn't bet)
+Seat 5: lulu19911991 folded before Flop (didn't bet)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: BoryaKGB folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693464031:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:45:44 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: wealthandpower ($17.20 in chips) 
+Seat 2: daria130399 ($111.75 in chips) 
+Seat 3: Tullochh ($70.81 in chips) 
+Seat 4: Vusal11599 ($73.24 in chips) 
+Seat 7: Nestle170 ($65.60 in chips) 
+Seat 8: BoryaKGB ($51.35 in chips) 
+Seat 9: christyirish ($51.75 in chips) 
+Tullochh: posts small blind $0.25
+Vusal11599: posts big blind $0.50
+*** HOLE CARDS ***
+Nestle170: folds 
+BoryaKGB: folds 
+christyirish: folds 
+wealthandpower: folds 
+daria130399: folds 
+Tullochh: folds 
+Uncalled bet ($0.25) returned to Vusal11599
+Nestle170 leaves the table
+Vusal11599 collected $0.50 from pot
+Vusal11599: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: daria130399 (button) folded before Flop (didn't bet)
+Seat 3: Tullochh (small blind) folded before Flop
+Seat 4: Vusal11599 (big blind) collected ($0.50)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: BoryaKGB folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693468176:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:45:57 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: wealthandpower ($17.20 in chips) 
+Seat 2: daria130399 ($111.75 in chips) 
+Seat 3: Tullochh ($70.56 in chips) 
+Seat 4: Vusal11599 ($73.49 in chips) 
+Seat 8: BoryaKGB ($51.35 in chips) 
+Seat 9: christyirish ($51.75 in chips) 
+Vusal11599: posts small blind $0.25
+BoryaKGB: posts big blind $0.50
+*** HOLE CARDS ***
+christyirish: folds 
+wealthandpower: raises $1.50 to $2
+daria130399: calls $2
+Tullochh: folds 
+Vusal11599: folds 
+BoryaKGB: folds 
+*** FLOP *** [8c Kh Ad]
+Vusal11599 leaves the table
+wealthandpower: checks 
+daria130399: checks 
+*** TURN *** [8c Kh Ad] [Tc]
+wealthandpower: bets $2.50
+daria130399: folds 
+Uncalled bet ($2.50) returned to wealthandpower
+wealthandpower collected $4.51 from pot
+wealthandpower: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [8c Kh Ad Tc]
+Seat 1: wealthandpower collected ($4.51)
+Seat 2: daria130399 folded on the Turn
+Seat 3: Tullochh (button) folded before Flop (didn't bet)
+Seat 4: Vusal11599 (small blind) folded before Flop
+Seat 8: BoryaKGB (big blind) folded before Flop
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693478452:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:46:29 ET
+Table 'Mrkos' 9-max Seat #8 is the button
+Seat 1: wealthandpower ($19.71 in chips) 
+Seat 2: daria130399 ($109.75 in chips) 
+Seat 3: Tullochh ($70.56 in chips) 
+Seat 8: BoryaKGB ($50.85 in chips) 
+Seat 9: christyirish ($51.75 in chips) 
+christyirish: posts small blind $0.25
+wealthandpower: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: folds 
+Tullochh: calls $0.50
+BoryaKGB: folds 
+christyirish: folds 
+wealthandpower: checks 
+*** FLOP *** [4s 5d 2c]
+wealthandpower: checks 
+Tullochh: checks 
+*** TURN *** [4s 5d 2c] [5c]
+wealthandpower: bets $1
+Tullochh: calls $1
+*** RIVER *** [4s 5d 2c 5c] [4d]
+wealthandpower: checks 
+Tullochh: checks 
+*** SHOW DOWN ***
+wealthandpower: shows [9s 2h] (two pair, Fives and Fours)
+Tullochh: shows [Kc 7c] (two pair, Fives and Fours - King kicker)
+Tullochh collected $3.09 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [4s 5d 2c 5c 4d]
+Seat 1: wealthandpower (big blind) showed [9s 2h] and lost with two pair, Fives and Fours
+Seat 2: daria130399 folded before Flop (didn't bet)
+Seat 3: Tullochh showed [Kc 7c] and won ($3.09) with two pair, Fives and Fours
+Seat 8: BoryaKGB (button) folded before Flop (didn't bet)
+Seat 9: christyirish (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693487401:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:46:57 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: wealthandpower ($18.21 in chips) 
+Seat 3: Tullochh ($72.15 in chips) 
+Seat 8: BoryaKGB ($50.85 in chips) 
+Seat 9: christyirish ($51.50 in chips) 
+wealthandpower: posts small blind $0.25
+daria130399: is sitting out 
+Tullochh: posts big blind $0.50
+*** HOLE CARDS ***
+BoryaKGB: raises $0.75 to $1.25
+christyirish: folds 
+wealthandpower: folds 
+Tullochh: calls $0.75
+*** FLOP *** [2s 9c 2d]
+daria130399 leaves the table
+Nector12 joins the table at seat #4 
+Tullochh: checks 
+BoryaKGB: bets $0.73
+daria130399 joins the table at seat #5 
+Tullochh: folds 
+Uncalled bet ($0.73) returned to BoryaKGB
+BoryaKGB collected $2.61 from pot
+BoryaKGB: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [2s 9c 2d]
+Seat 1: wealthandpower (small blind) folded before Flop
+Seat 3: Tullochh (big blind) folded on the Flop
+Seat 8: BoryaKGB collected ($2.61)
+Seat 9: christyirish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693492897:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:47:14 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: wealthandpower ($17.96 in chips) 
+Seat 3: Tullochh ($70.90 in chips) 
+Seat 4: Nector12 ($50 in chips) 
+Seat 8: BoryaKGB ($52.21 in chips) 
+Seat 9: christyirish ($51.50 in chips) 
+Tullochh: posts small blind $0.25
+Nector12: posts big blind $0.50
+daria130399: sits out 
+*** HOLE CARDS ***
+BoryaKGB: raises $0.75 to $1.25
+christyirish: folds 
+wealthandpower: folds 
+Tullochh: folds 
+Nector12: folds 
+Uncalled bet ($0.75) returned to BoryaKGB
+BoryaKGB collected $1.25 from pot
+BoryaKGB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wealthandpower (button) folded before Flop (didn't bet)
+Seat 3: Tullochh (small blind) folded before Flop
+Seat 4: Nector12 (big blind) folded before Flop
+Seat 8: BoryaKGB collected ($1.25)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693496473:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:47:25 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: wealthandpower ($17.96 in chips) 
+Seat 3: Tullochh ($70.65 in chips) 
+Seat 4: Nector12 ($50 in chips) 
+Seat 5: daria130399 ($109.75 in chips) 
+Seat 8: BoryaKGB ($52.96 in chips) 
+Seat 9: christyirish ($51.50 in chips) 
+Nector12: posts small blind $0.25
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+BoryaKGB: folds 
+christyirish: folds 
+wealthandpower: folds 
+BoryaKGB leaves the table
+Tullochh has timed out
+Tullochh: folds 
+Nector12: folds 
+Uncalled bet ($0.25) returned to daria130399
+daria130399 collected $0.50 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 3: Tullochh (button) folded before Flop (didn't bet)
+Seat 4: Nector12 (small blind) folded before Flop
+Seat 5: daria130399 (big blind) collected ($0.50)
+Seat 8: BoryaKGB folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693501958:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:47:42 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: wealthandpower ($17.96 in chips) 
+Seat 4: Nector12 ($50 in chips) 
+Seat 5: daria130399 ($110 in chips) 
+Seat 9: christyirish ($51.50 in chips) 
+daria130399: posts small blind $0.25
+christyirish: posts big blind $0.50
+*** HOLE CARDS ***
+wealthandpower: folds 
+Nector12: folds 
+daria130399: folds 
+Uncalled bet ($0.25) returned to christyirish
+christyirish collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 4: Nector12 (button) folded before Flop (didn't bet)
+Seat 5: daria130399 (small blind) folded before Flop
+Seat 9: christyirish (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228693506846:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:47:58 ET
+Table 'Mrkos' 9-max Seat #5 is the button
+Seat 1: wealthandpower ($17.96 in chips) 
+Seat 3: Tullochh ($70.65 in chips) 
+Seat 4: Nector12 ($50 in chips) 
+Seat 5: daria130399 ($109.75 in chips) 
+Seat 9: christyirish ($51.75 in chips) 
+christyirish: posts small blind $0.25
+wealthandpower: posts big blind $0.50
+*** HOLE CARDS ***
+Tullochh: folds 
+Nector12: folds 
+daria130399: raises $0.75 to $1.25
+christyirish: folds 
+wealthandpower: folds 
+Uncalled bet ($0.75) returned to daria130399
+daria130399 collected $1.25 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wealthandpower (big blind) folded before Flop
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 (button) collected ($1.25)
+Seat 9: christyirish (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693511410:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:48:12 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: wealthandpower ($17.46 in chips) 
+Seat 3: Tullochh ($70.65 in chips) 
+Seat 4: Nector12 ($50 in chips) 
+Seat 5: daria130399 ($110.50 in chips) 
+Seat 9: christyirish ($51.50 in chips) 
+wealthandpower: posts small blind $0.25
+Tullochh: posts big blind $0.50
+*** HOLE CARDS ***
+Nector12: folds 
+daria130399: folds 
+christyirish: folds 
+wealthandpower: folds 
+Uncalled bet ($0.25) returned to Tullochh
+whitecillar3 joins the table at seat #2 
+Tullochh collected $0.50 from pot
+Tullochh: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: wealthandpower (small blind) folded before Flop
+Seat 3: Tullochh (big blind) collected ($0.50)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 9: christyirish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693516517:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:48:29 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: wealthandpower ($17.21 in chips) 
+Seat 3: Tullochh ($70.90 in chips) 
+Seat 4: Nector12 ($50 in chips) 
+Seat 5: daria130399 ($110.50 in chips) 
+Seat 9: christyirish ($51.50 in chips) 
+Tullochh: posts small blind $0.25
+Nector12: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: folds 
+christyirish: folds 
+wealthandpower: folds 
+Tullochh: calls $0.25
+Nector12: raises $1 to $1.50
+Tullochh: folds 
+Uncalled bet ($1) returned to Nector12
+Nector12 collected $1 from pot
+Nector12: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: wealthandpower (button) folded before Flop (didn't bet)
+Seat 3: Tullochh (small blind) folded before Flop
+Seat 4: Nector12 (big blind) collected ($1)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693520638:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:48:42 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: wealthandpower ($17.21 in chips) 
+Seat 3: Tullochh ($70.40 in chips) 
+Seat 4: Nector12 ($50.50 in chips) 
+Seat 5: daria130399 ($110.50 in chips) 
+Seat 9: christyirish ($51.50 in chips) 
+Nector12: posts small blind $0.25
+daria130399: posts big blind $0.50
+whitecillar3: sits out 
+*** HOLE CARDS ***
+christyirish: folds 
+wealthandpower: folds 
+Tullochh: calls $0.50
+Nector12: raises $2 to $2.50
+daria130399: folds 
+diabolik66 joins the table at seat #6 
+lonely fire joins the table at seat #8 
+Squall33bdi joins the table at seat #7 
+Tullochh: folds 
+Uncalled bet ($2) returned to Nector12
+Nector12 collected $1.50 from pot
+Nector12: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 3: Tullochh (button) folded before Flop
+Seat 4: Nector12 (small blind) collected ($1.50)
+Seat 5: daria130399 (big blind) folded before Flop
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693525197:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:48:57 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: wealthandpower ($17.21 in chips) 
+Seat 3: Tullochh ($69.90 in chips) 
+Seat 4: Nector12 ($51.50 in chips) 
+Seat 5: daria130399 ($110 in chips) 
+Seat 6: diabolik66 ($50 in chips) 
+Seat 9: christyirish ($51.50 in chips) 
+daria130399: posts small blind $0.25
+diabolik66: posts big blind $0.50
+Squall33bdi: sits out 
+lonely fire: sits out 
+whitecillar3: sits out 
+*** HOLE CARDS ***
+christyirish: folds 
+wealthandpower: folds 
+Tullochh: calls $0.50
+Nector12: folds 
+daria130399: raises $2 to $2.50
+diabolik66: calls $2
+Tullochh: calls $2
+*** FLOP *** [4h Qs 9c]
+daria130399: bets $3.63
+diabolik66: calls $3.63
+Tullochh: folds 
+*** TURN *** [4h Qs 9c] [6h]
+daria130399: bets $7.15
+diabolik66: calls $7.15
+*** RIVER *** [4h Qs 9c 6h] [8s]
+daria130399: bets $13
+diabolik66: calls $13
+*** SHOW DOWN ***
+daria130399: shows [Jd Qc] (a pair of Queens)
+diabolik66: mucks hand 
+daria130399 collected $53.06 from pot
+*** SUMMARY ***
+Total pot $55.06 | Rake $2 
+Board [4h Qs 9c 6h 8s]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 3: Tullochh folded on the Flop
+Seat 4: Nector12 (button) folded before Flop (didn't bet)
+Seat 5: daria130399 (small blind) showed [Jd Qc] and won ($53.06) with a pair of Queens
+Seat 6: diabolik66 (big blind) mucked
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693545485:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:50:01 ET
+Table 'Mrkos' 9-max Seat #5 is the button
+Seat 1: wealthandpower ($17.21 in chips) 
+Seat 3: Tullochh ($67.40 in chips) 
+Seat 4: Nector12 ($51.50 in chips) 
+Seat 5: daria130399 ($136.78 in chips) 
+Seat 6: diabolik66 ($23.72 in chips) 
+Seat 7: Squall33bdi ($50.85 in chips) 
+Seat 9: christyirish ($51.50 in chips) 
+diabolik66: posts small blind $0.25
+Squall33bdi: posts big blind $0.50
+lonely fire: sits out 
+whitecillar3: sits out 
+*** HOLE CARDS ***
+christyirish: folds 
+wealthandpower: folds 
+Tullochh: folds 
+Nector12: folds 
+daria130399: folds 
+diabolik66: raises $0.50 to $1
+Squall33bdi: calls $0.50
+*** FLOP *** [6c 3s Qs]
+diabolik66: checks 
+Squall33bdi: bets $1.44
+diabolik66: calls $1.44
+*** TURN *** [6c 3s Qs] [8c]
+diabolik66: checks 
+Squall33bdi: bets $4.43
+diabolik66: folds 
+Uncalled bet ($4.43) returned to Squall33bdi
+Squall33bdi collected $4.64 from pot
+Squall33bdi: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [6c 3s Qs 8c]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 (button) folded before Flop (didn't bet)
+Seat 6: diabolik66 (small blind) folded on the Turn
+Seat 7: Squall33bdi (big blind) collected ($4.64)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693556709:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:50:37 ET
+Table 'Mrkos' 9-max Seat #6 is the button
+Seat 1: wealthandpower ($17.21 in chips) 
+Seat 3: Tullochh ($67.40 in chips) 
+Seat 4: Nector12 ($51.50 in chips) 
+Seat 5: daria130399 ($136.78 in chips) 
+Seat 6: diabolik66 ($21.28 in chips) 
+Seat 7: Squall33bdi ($53.05 in chips) 
+Seat 8: lonely fire ($63.45 in chips) 
+Seat 9: christyirish ($51.50 in chips) 
+Squall33bdi: posts small blind $0.25
+lonely fire: posts big blind $0.50
+whitecillar3: sits out 
+*** HOLE CARDS ***
+christyirish: folds 
+wealthandpower: folds 
+Tullochh: calls $0.50
+Nector12: folds 
+daria130399: folds 
+diabolik66: folds 
+Squall33bdi: folds 
+lonely fire: checks 
+*** FLOP *** [5s Qh Kh]
+lonely fire: checks 
+Tullochh: checks 
+*** TURN *** [5s Qh Kh] [6c]
+lonely fire: checks 
+Tullochh: bets $0.59
+lonely fire: folds 
+Uncalled bet ($0.59) returned to Tullochh
+Tullochh collected $1.19 from pot
+Tullochh: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [5s Qh Kh 6c]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 3: Tullochh collected ($1.19)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: diabolik66 (button) folded before Flop (didn't bet)
+Seat 7: Squall33bdi (small blind) folded before Flop
+Seat 8: lonely fire (big blind) folded on the Turn
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693563189:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:50:58 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 1: wealthandpower ($17.21 in chips) 
+Seat 3: Tullochh ($68.09 in chips) 
+Seat 4: Nector12 ($51.50 in chips) 
+Seat 5: daria130399 ($136.78 in chips) 
+Seat 6: diabolik66 ($21.28 in chips) 
+Seat 7: Squall33bdi ($52.80 in chips) 
+Seat 8: lonely fire ($62.95 in chips) 
+Seat 9: christyirish ($51.50 in chips) 
+lonely fire: posts small blind $0.25
+christyirish: posts big blind $0.50
+whitecillar3: sits out 
+*** HOLE CARDS ***
+wealthandpower: folds 
+Tullochh: folds 
+Nector12: folds 
+daria130399: folds 
+diabolik66: folds 
+Squall33bdi: folds 
+lonely fire: raises $0.75 to $1.25
+christyirish: folds 
+Uncalled bet ($0.75) returned to lonely fire
+lonely fire collected $1 from pot
+lonely fire: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: diabolik66 folded before Flop (didn't bet)
+Seat 7: Squall33bdi (button) folded before Flop (didn't bet)
+Seat 8: lonely fire (small blind) collected ($1)
+Seat 9: christyirish (big blind) folded before Flop
+
+
+
+PokerStars Hand #228693569596:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:51:18 ET
+Table 'Mrkos' 9-max Seat #8 is the button
+Seat 1: wealthandpower ($17.21 in chips) 
+Seat 3: Tullochh ($68.09 in chips) 
+Seat 4: Nector12 ($51.50 in chips) 
+Seat 5: daria130399 ($136.78 in chips) 
+Seat 6: diabolik66 ($50 in chips) 
+Seat 7: Squall33bdi ($52.80 in chips) 
+Seat 8: lonely fire ($63.45 in chips) 
+Seat 9: christyirish ($51 in chips) 
+christyirish: posts small blind $0.25
+wealthandpower: posts big blind $0.50
+whitecillar3: sits out 
+*** HOLE CARDS ***
+Tullochh has timed out
+Tullochh: folds 
+Nector12: folds 
+daria130399: raises $0.75 to $1.25
+diabolik66: folds 
+Squall33bdi: folds 
+lonely fire: folds 
+christyirish: folds 
+wealthandpower: folds 
+Uncalled bet ($0.75) returned to daria130399
+daria130399 collected $1.25 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wealthandpower (big blind) folded before Flop
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 collected ($1.25)
+Seat 6: diabolik66 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: lonely fire (button) folded before Flop (didn't bet)
+Seat 9: christyirish (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693581113:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:51:55 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: wealthandpower ($16.71 in chips) 
+Seat 2: whitecillar3 ($50 in chips) 
+Seat 3: Tullochh ($68.09 in chips) 
+Seat 4: Nector12 ($51.50 in chips) 
+Seat 5: daria130399 ($137.53 in chips) 
+Seat 6: diabolik66 ($50 in chips) 
+Seat 7: Squall33bdi ($52.80 in chips) 
+Seat 8: lonely fire ($63.45 in chips) 
+Seat 9: christyirish ($50.75 in chips) 
+wealthandpower: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+*** HOLE CARDS ***
+Tullochh: folds 
+Nector12: folds 
+daria130399: folds 
+diabolik66 has timed out
+diabolik66: folds 
+Squall33bdi: folds 
+lonely fire: raises $1 to $1.50
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Uncalled bet ($1) returned to lonely fire
+lonely fire collected $1.25 from pot
+lonely fire: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wealthandpower (small blind) folded before Flop
+Seat 2: whitecillar3 (big blind) folded before Flop
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: diabolik66 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: lonely fire collected ($1.25)
+Seat 9: christyirish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693589177:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:52:21 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: wealthandpower ($16.46 in chips) 
+Seat 2: whitecillar3 ($49.50 in chips) 
+Seat 3: Tullochh ($68.09 in chips) 
+Seat 4: Nector12 ($51.50 in chips) 
+Seat 5: daria130399 ($137.53 in chips) 
+Seat 6: diabolik66 ($50 in chips) 
+Seat 7: Squall33bdi ($52.80 in chips) 
+Seat 8: lonely fire ($64.20 in chips) 
+Seat 9: christyirish ($50.75 in chips) 
+whitecillar3: posts small blind $0.25
+Tullochh: posts big blind $0.50
+*** HOLE CARDS ***
+Nector12: folds 
+daria130399: folds 
+diabolik66: raises $0.50 to $1
+Squall33bdi: folds 
+lonely fire: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: calls $0.50
+*** FLOP *** [5d 5c 3s]
+Tullochh: checks 
+diabolik66: bets $1
+Tullochh: folds 
+Uncalled bet ($1) returned to diabolik66
+diabolik66 collected $2.11 from pot
+diabolik66: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.14 
+Board [5d 5c 3s]
+Seat 1: wealthandpower (button) folded before Flop (didn't bet)
+Seat 2: whitecillar3 (small blind) folded before Flop
+Seat 3: Tullochh (big blind) folded on the Flop
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: diabolik66 collected ($2.11)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693600744:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:52:59 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: wealthandpower ($16.46 in chips) 
+Seat 2: whitecillar3 ($49.25 in chips) 
+Seat 3: Tullochh ($67.09 in chips) 
+Seat 4: Nector12 ($51.50 in chips) 
+Seat 5: daria130399 ($137.53 in chips) 
+Seat 6: diabolik66 ($51.11 in chips) 
+Seat 7: Squall33bdi ($52.80 in chips) 
+Seat 8: lonely fire ($64.20 in chips) 
+Seat 9: christyirish ($50.75 in chips) 
+Tullochh: posts small blind $0.25
+Nector12: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: folds 
+diabolik66: folds 
+Squall33bdi: folds 
+lonely fire: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: folds 
+Uncalled bet ($0.25) returned to Nector12
+Nector12 collected $0.50 from pot
+Nector12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 3: Tullochh (small blind) folded before Flop
+Seat 4: Nector12 (big blind) collected ($0.50)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: diabolik66 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693614512:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:53:22 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: wealthandpower ($16.46 in chips) 
+Seat 2: whitecillar3 ($49.25 in chips) 
+Seat 3: Tullochh ($66.84 in chips) 
+Seat 4: Nector12 ($51.75 in chips) 
+Seat 5: daria130399 ($137.53 in chips) 
+Seat 6: diabolik66 ($51.11 in chips) 
+Seat 7: Squall33bdi ($52.80 in chips) 
+Seat 8: lonely fire ($64.20 in chips) 
+Seat 9: christyirish ($50.75 in chips) 
+Nector12: posts small blind $0.25
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+diabolik66: folds 
+Squall33bdi: folds 
+lonely fire: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: raises $0.75 to $1.25
+Tullochh: folds 
+Nector12: folds 
+daria130399: calls $0.75
+*** FLOP *** [2h Jc Qc]
+daria130399: checks 
+whitecillar3: checks 
+*** TURN *** [2h Jc Qc] [9h]
+daria130399: checks 
+whitecillar3: bets $1.98
+daria130399: folds 
+Uncalled bet ($1.98) returned to whitecillar3
+whitecillar3 collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [2h Jc Qc 9h]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 collected ($2.61)
+Seat 3: Tullochh (button) folded before Flop (didn't bet)
+Seat 4: Nector12 (small blind) folded before Flop
+Seat 5: daria130399 (big blind) folded on the Turn
+Seat 6: diabolik66 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693632360:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:54:20 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: wealthandpower ($16.46 in chips) 
+Seat 2: whitecillar3 ($50.61 in chips) 
+Seat 3: Tullochh ($66.84 in chips) 
+Seat 4: Nector12 ($51.50 in chips) 
+Seat 5: daria130399 ($136.28 in chips) 
+Seat 6: diabolik66 ($51.11 in chips) 
+Seat 7: Squall33bdi ($52.80 in chips) 
+Seat 8: lonely fire ($64.20 in chips) 
+Seat 9: christyirish ($50.75 in chips) 
+daria130399: posts small blind $0.25
+diabolik66: posts big blind $0.50
+*** HOLE CARDS ***
+Squall33bdi: folds 
+lonely fire: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: calls $0.50
+Nector12: raises $1 to $1.50
+daria130399: folds 
+diabolik66: calls $1
+Tullochh: calls $1
+*** FLOP *** [9d 5d Qh]
+diabolik66: checks 
+Tullochh: bets $0.50
+Nector12: raises $4.13 to $4.63
+diabolik66: folds 
+Tullochh: calls $4.13
+*** TURN *** [9d 5d Qh] [8h]
+Tullochh: checks 
+Nector12: checks 
+*** RIVER *** [9d 5d Qh 8h] [8d]
+Tullochh: checks 
+Nector12: bets $6.66
+Tullochh: raises $6.66 to $13.32
+Nector12: folds 
+Uncalled bet ($6.66) returned to Tullochh
+Tullochh collected $25.96 from pot
+Tullochh: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.33 | Rake $1.37 
+Board [9d 5d Qh 8h 8d]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh collected ($25.96)
+Seat 4: Nector12 (button) folded on the River
+Seat 5: daria130399 (small blind) folded before Flop
+Seat 6: diabolik66 (big blind) folded on the Flop
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693651317:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:55:24 ET
+Table 'Mrkos' 9-max Seat #5 is the button
+Seat 1: wealthandpower ($16.46 in chips) 
+Seat 2: whitecillar3 ($50.61 in chips) 
+Seat 3: Tullochh ($80.01 in chips) 
+Seat 4: Nector12 ($50 in chips) 
+Seat 5: daria130399 ($136.03 in chips) 
+Seat 6: diabolik66 ($49.61 in chips) 
+Seat 7: Squall33bdi ($52.80 in chips) 
+Seat 8: lonely fire ($64.20 in chips) 
+Seat 9: christyirish ($50.75 in chips) 
+diabolik66: posts small blind $0.25
+Squall33bdi: posts big blind $0.50
+*** HOLE CARDS ***
+lonely fire: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: calls $0.50
+Nector12: folds 
+daria130399: raises $1.25 to $1.75
+diabolik66: calls $1.50
+Squall33bdi: folds 
+Tullochh: calls $1.25
+*** FLOP *** [9c 9s Jd]
+diabolik66: checks 
+Tullochh: checks 
+daria130399: bets $1.80
+diabolik66: calls $1.80
+Tullochh: calls $1.80
+*** TURN *** [9c 9s Jd] [Kd]
+diabolik66: checks 
+Tullochh: checks 
+daria130399: bets $5.40
+diabolik66: calls $5.40
+Tullochh: folds 
+*** RIVER *** [9c 9s Jd Kd] [2h]
+diabolik66: checks 
+daria130399: bets $17.75
+diabolik66: calls $17.75
+*** SHOW DOWN ***
+daria130399: shows [8d 9h] (three of a kind, Nines)
+diabolik66: mucks hand 
+daria130399 collected $55.45 from pot
+*** SUMMARY ***
+Total pot $57.45 | Rake $2 
+Board [9c 9s Jd Kd 2h]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh folded on the Turn
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 (button) showed [8d 9h] and won ($55.45) with three of a kind, Nines
+Seat 6: diabolik66 (small blind) mucked
+Seat 7: Squall33bdi (big blind) folded before Flop
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693668362:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:56:32 ET
+Table 'Mrkos' 9-max Seat #6 is the button
+Seat 1: wealthandpower ($16.46 in chips) 
+Seat 2: whitecillar3 ($50.61 in chips) 
+Seat 3: Tullochh ($76.46 in chips) 
+Seat 4: Nector12 ($50 in chips) 
+Seat 5: daria130399 ($164.78 in chips) 
+Seat 6: diabolik66 ($22.91 in chips) 
+Seat 7: Squall33bdi ($52.30 in chips) 
+Seat 8: lonely fire ($64.20 in chips) 
+Seat 9: christyirish ($50.75 in chips) 
+Squall33bdi: posts small blind $0.25
+lonely fire: posts big blind $0.50
+*** HOLE CARDS ***
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: folds 
+Nector12: raises $0.75 to $1.25
+daria130399: folds 
+diabolik66: folds 
+Squall33bdi: folds 
+lonely fire: folds 
+Uncalled bet ($0.75) returned to Nector12
+diabolik66 leaves the table
+Nector12 collected $1.25 from pot
+Nector12: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 collected ($1.25)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: diabolik66 (button) folded before Flop (didn't bet)
+Seat 7: Squall33bdi (small blind) folded before Flop
+Seat 8: lonely fire (big blind) folded before Flop
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693672298:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:56:48 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 1: wealthandpower ($16.46 in chips) 
+Seat 2: whitecillar3 ($50.61 in chips) 
+Seat 3: Tullochh ($76.46 in chips) 
+Seat 4: Nector12 ($50.75 in chips) 
+Seat 7: Squall33bdi ($52.05 in chips) 
+Seat 8: lonely fire ($63.70 in chips) 
+Seat 9: christyirish ($50.75 in chips) 
+lonely fire: posts small blind $0.25
+christyirish: posts big blind $0.50
+*** HOLE CARDS ***
+wealthandpower: raises $1 to $1.50
+whitecillar3: folds 
+Tullochh: folds 
+Nector12: folds 
+Squall33bdi: folds 
+lonely fire: folds 
+christyirish: folds 
+Uncalled bet ($1) returned to wealthandpower
+wealthandpower collected $1.25 from pot
+wealthandpower: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wealthandpower collected ($1.25)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 7: Squall33bdi (button) folded before Flop (didn't bet)
+Seat 8: lonely fire (small blind) folded before Flop
+Seat 9: christyirish (big blind) folded before Flop
+
+
+
+PokerStars Hand #228693676072:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:57:02 ET
+Table 'Mrkos' 9-max Seat #8 is the button
+Seat 1: wealthandpower ($17.21 in chips) 
+Seat 2: whitecillar3 ($50.61 in chips) 
+Seat 3: Tullochh ($76.46 in chips) 
+Seat 4: Nector12 ($50.75 in chips) 
+Seat 7: Squall33bdi ($52.05 in chips) 
+Seat 8: lonely fire ($63.45 in chips) 
+Seat 9: christyirish ($50.25 in chips) 
+christyirish: posts small blind $0.25
+wealthandpower: posts big blind $0.50
+*** HOLE CARDS ***
+whitecillar3: folds 
+Tullochh: folds 
+Nector12: folds 
+Squall33bdi: folds 
+lonely fire: raises $0.75 to $1.25
+christyirish: raises $3 to $4.25
+wealthandpower: folds 
+lonely fire: folds 
+Uncalled bet ($3) returned to christyirish
+christyirish collected $3 from pot
+christyirish: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: wealthandpower (big blind) folded before Flop
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: lonely fire (button) folded before Flop
+Seat 9: christyirish (small blind) collected ($3)
+
+
+
+PokerStars Hand #228693680417:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:57:20 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: wealthandpower ($16.71 in chips) 
+Seat 2: whitecillar3 ($50.61 in chips) 
+Seat 3: Tullochh ($76.46 in chips) 
+Seat 4: Nector12 ($50.75 in chips) 
+Seat 7: Squall33bdi ($52.05 in chips) 
+Seat 8: lonely fire ($62.20 in chips) 
+Seat 9: christyirish ($52 in chips) 
+wealthandpower: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+*** HOLE CARDS ***
+str8123456 joins the table at seat #6 
+Tullochh: folds 
+Nector12: folds 
+Squall33bdi: raises $0.75 to $1.25
+lonely fire: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Uncalled bet ($0.75) returned to Squall33bdi
+Squall33bdi collected $1.25 from pot
+Squall33bdi: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wealthandpower (small blind) folded before Flop
+Seat 2: whitecillar3 (big blind) folded before Flop
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 7: Squall33bdi collected ($1.25)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: christyirish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693684006:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:57:35 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: wealthandpower ($16.46 in chips) 
+Seat 2: whitecillar3 ($50.11 in chips) 
+Seat 3: Tullochh ($76.46 in chips) 
+Seat 4: Nector12 ($50.75 in chips) 
+Seat 7: Squall33bdi ($52.80 in chips) 
+Seat 8: lonely fire ($62.20 in chips) 
+Seat 9: christyirish ($52 in chips) 
+whitecillar3: posts small blind $0.25
+Tullochh: posts big blind $0.50
+str8123456: sits out 
+*** HOLE CARDS ***
+Nector12: raises $0.75 to $1.25
+Squall33bdi: folds 
+lonely fire: calls $1.25
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: calls $0.75
+*** FLOP *** [5c Th 9d]
+Tullochh: checks 
+Nector12: bets $1.90
+lonely fire: calls $1.90
+Tullochh: folds 
+*** TURN *** [5c Th 9d] [5d]
+Nector12: bets $5.56
+lonely fire: folds 
+Uncalled bet ($5.56) returned to Nector12
+Nector12 collected $7.41 from pot
+Nector12: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.80 | Rake $0.39 
+Board [5c Th 9d 5d]
+Seat 1: wealthandpower (button) folded before Flop (didn't bet)
+Seat 2: whitecillar3 (small blind) folded before Flop
+Seat 3: Tullochh (big blind) folded on the Flop
+Seat 4: Nector12 collected ($7.41)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: lonely fire folded on the Turn
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693694689:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:58:17 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: wealthandpower ($16.46 in chips) 
+Seat 2: whitecillar3 ($49.86 in chips) 
+Seat 3: Tullochh ($75.21 in chips) 
+Seat 4: Nector12 ($55.01 in chips) 
+Seat 7: Squall33bdi ($52.80 in chips) 
+Seat 8: lonely fire ($59.05 in chips) 
+Seat 9: christyirish ($52 in chips) 
+Tullochh: posts small blind $0.25
+Nector12: posts big blind $0.50
+str8123456: sits out 
+*** HOLE CARDS ***
+Squall33bdi: folds 
+lonely fire: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: folds 
+Uncalled bet ($0.25) returned to Nector12
+Nector12 collected $0.50 from pot
+Nector12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 3: Tullochh (small blind) folded before Flop
+Seat 4: Nector12 (big blind) collected ($0.50)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693699983:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:58:38 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: wealthandpower ($16.46 in chips) 
+Seat 2: whitecillar3 ($49.86 in chips) 
+Seat 3: Tullochh ($74.96 in chips) 
+Seat 4: Nector12 ($55.26 in chips) 
+Seat 6: str8123456 ($40 in chips) 
+Seat 7: Squall33bdi ($52.80 in chips) 
+Seat 8: lonely fire ($59.05 in chips) 
+Seat 9: christyirish ($52 in chips) 
+Nector12: posts small blind $0.25
+str8123456: posts big blind $0.50
+*** HOLE CARDS ***
+Squall33bdi: folds 
+lonely fire: raises $1 to $1.50
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: calls $1.50
+Nector12: folds 
+str8123456: calls $1
+*** FLOP *** [2s 5c 7c]
+str8123456: checks 
+lonely fire: checks 
+Tullochh: checks 
+*** TURN *** [2s 5c 7c] [Qc]
+str8123456: bets $2.26
+lonely fire: calls $2.26
+Tullochh: calls $2.26
+*** RIVER *** [2s 5c 7c Qc] [4c]
+str8123456: checks 
+lonely fire: checks 
+Tullochh: checks 
+*** SHOW DOWN ***
+str8123456: shows [Ad Qd] (a pair of Queens)
+lonely fire: mucks hand 
+Tullochh: mucks hand 
+str8123456 collected $10.95 from pot
+*** SUMMARY ***
+Total pot $11.53 | Rake $0.58 
+Board [2s 5c 7c Qc 4c]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh (button) mucked
+Seat 4: Nector12 (small blind) folded before Flop
+Seat 6: str8123456 (big blind) showed [Ad Qd] and won ($10.95) with a pair of Queens
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: lonely fire mucked
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693715179:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:59:39 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: wealthandpower ($16.46 in chips) 
+Seat 2: whitecillar3 ($49.86 in chips) 
+Seat 3: Tullochh ($71.20 in chips) 
+Seat 4: Nector12 ($55.01 in chips) 
+Seat 6: str8123456 ($47.19 in chips) 
+Seat 7: Squall33bdi ($52.80 in chips) 
+Seat 8: lonely fire ($55.29 in chips) 
+Seat 9: christyirish ($52 in chips) 
+str8123456: posts small blind $0.25
+Squall33bdi: posts big blind $0.50
+*** HOLE CARDS ***
+lonely fire: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: folds 
+Nector12: folds 
+str8123456: calls $0.25
+Squall33bdi: checks 
+*** FLOP *** [6h Ts 2h]
+str8123456: checks 
+Squall33bdi: checks 
+*** TURN *** [6h Ts 2h] [5c]
+str8123456: checks 
+Squall33bdi: checks 
+*** RIVER *** [6h Ts 2h 5c] [Qc]
+str8123456: checks 
+Squall33bdi: checks 
+*** SHOW DOWN ***
+str8123456: shows [3c 5d] (a pair of Fives)
+Squall33bdi: shows [5s 4d] (a pair of Fives)
+str8123456 collected $0.48 from pot
+Squall33bdi collected $0.47 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [6h Ts 2h 5c Qc]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 (button) folded before Flop (didn't bet)
+Seat 6: str8123456 (small blind) showed [3c 5d] and won ($0.48) with a pair of Fives
+Seat 7: Squall33bdi (big blind) showed [5s 4d] and won ($0.47) with a pair of Fives
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693730798:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:00:40 ET
+Table 'Mrkos' 9-max Seat #6 is the button
+Seat 1: wealthandpower ($16.46 in chips) 
+Seat 2: whitecillar3 ($49.86 in chips) 
+Seat 3: Tullochh ($71.20 in chips) 
+Seat 4: Nector12 ($55.01 in chips) 
+Seat 6: str8123456 ($47.17 in chips) 
+Seat 7: Squall33bdi ($52.77 in chips) 
+Seat 9: christyirish ($52 in chips) 
+Squall33bdi: posts small blind $0.25
+lonely fire: is sitting out 
+christyirish: posts big blind $0.50
+daria130399: sits out 
+*** HOLE CARDS ***
+lonely fire leaves the table
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: folds 
+Nector12: folds 
+str8123456: folds 
+agustincavs joins the table at seat #8 
+Squall33bdi: folds 
+Uncalled bet ($0.25) returned to christyirish
+christyirish collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 6: str8123456 (button) folded before Flop (didn't bet)
+Seat 7: Squall33bdi (small blind) folded before Flop
+Seat 9: christyirish (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228693916344:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:10:53 ET
+Table 'Mrkos' 9-max Seat #6 is the button
+Seat 1: wealthandpower ($13.21 in chips) 
+Seat 2: whitecillar3 ($67.33 in chips) 
+Seat 4: Nector12 ($64.57 in chips) 
+Seat 5: daria130399 ($148.91 in chips) 
+Seat 6: str8123456 ($49.10 in chips) 
+Seat 7: Squall33bdi ($50 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+Squall33bdi: posts small blind $0.25
+agustincavs: posts big blind $0.50
+Chernovsky: sits out 
+*** HOLE CARDS ***
+christyirish: raises $1 to $1.50
+wealthandpower: folds 
+whitecillar3: folds 
+Nector12: raises $3.75 to $5.25
+daria130399: folds 
+str8123456: folds 
+Squall33bdi: folds 
+agustincavs: calls $4.75
+christyirish: calls $3.75
+*** FLOP *** [Ks 9h 4s]
+agustincavs: checks 
+christyirish: checks 
+Nector12: bets $7.60
+agustincavs: folds 
+christyirish: folds 
+Uncalled bet ($7.60) returned to Nector12
+Nector12 collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Ks 9h 4s]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 4: Nector12 collected ($15.20)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: str8123456 (button) folded before Flop (didn't bet)
+Seat 7: Squall33bdi (small blind) folded before Flop
+Seat 8: agustincavs (big blind) folded on the Flop
+Seat 9: christyirish folded on the Flop
+
+
+
+PokerStars Hand #228693755457:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:02:04 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: wealthandpower ($14.71 in chips) 
+Seat 2: whitecillar3 ($49.36 in chips) 
+Seat 3: Tullochh ($71.89 in chips) 
+Seat 4: Nector12 ($55.01 in chips) 
+Seat 6: str8123456 ($47.17 in chips) 
+Seat 7: Squall33bdi ($54.12 in chips) 
+Seat 9: christyirish ($52 in chips) 
+whitecillar3: posts small blind $0.25
+Tullochh: posts big blind $0.50
+daria130399: sits out 
+agustincavs: sits out 
+*** HOLE CARDS ***
+Nector12: folds 
+str8123456: folds 
+Squall33bdi: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: raises $0.75 to $1.25
+Tullochh: calls $0.75
+*** FLOP *** [Qs 6h 8h]
+whitecillar3: checks 
+Tullochh: checks 
+*** TURN *** [Qs 6h 8h] [Qd]
+whitecillar3: checks 
+Tullochh: checks 
+*** RIVER *** [Qs 6h 8h Qd] [Td]
+whitecillar3: checks 
+Tullochh: checks 
+*** SHOW DOWN ***
+whitecillar3: shows [Ks Ac] (a pair of Queens)
+Tullochh: mucks hand 
+whitecillar3 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Qs 6h 8h Qd Td]
+Seat 1: wealthandpower (button) folded before Flop (didn't bet)
+Seat 2: whitecillar3 (small blind) showed [Ks Ac] and won ($2.38) with a pair of Queens
+Seat 3: Tullochh (big blind) mucked
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 6: str8123456 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693764039:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:02:33 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: wealthandpower ($14.71 in chips) 
+Seat 2: whitecillar3 ($50.49 in chips) 
+Seat 3: Tullochh ($70.64 in chips) 
+Seat 4: Nector12 ($55.01 in chips) 
+Seat 6: str8123456 ($47.17 in chips) 
+Seat 7: Squall33bdi ($54.12 in chips) 
+Seat 9: christyirish ($52 in chips) 
+Tullochh: posts small blind $0.25
+Nector12: posts big blind $0.50
+daria130399: sits out 
+agustincavs: sits out 
+*** HOLE CARDS ***
+str8123456: folds 
+Squall33bdi: folds 
+christyirish: raises $1 to $1.50
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: calls $1.25
+Nector12: calls $1
+*** FLOP *** [7d 5c Qs]
+Tullochh: checks 
+Nector12: checks 
+christyirish: bets $2.14
+Tullochh: folds 
+Nector12: calls $2.14
+*** TURN *** [7d 5c Qs] [Jc]
+Nector12: checks 
+christyirish: bets $4.17
+Nector12: raises $16.68 to $20.85
+christyirish: folds 
+Uncalled bet ($16.68) returned to Nector12
+Nector12 collected $16.26 from pot
+Nector12: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.12 | Rake $0.86 
+Board [7d 5c Qs Jc]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 3: Tullochh (small blind) folded on the Flop
+Seat 4: Nector12 (big blind) collected ($16.26)
+Seat 6: str8123456 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 9: christyirish folded on the Turn
+
+
+
+PokerStars Hand #228693791087:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:03:51 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: wealthandpower ($14.71 in chips) 
+Seat 2: whitecillar3 ($50.49 in chips) 
+Seat 3: Tullochh ($69.14 in chips) 
+Seat 4: Nector12 ($63.46 in chips) 
+Seat 5: daria130399 ($164.78 in chips) 
+Seat 6: str8123456 ($47.17 in chips) 
+Seat 7: Squall33bdi ($54.12 in chips) 
+Seat 9: christyirish ($50 in chips) 
+Nector12: posts small blind $0.25
+daria130399: posts big blind $0.50
+agustincavs: sits out 
+*** HOLE CARDS ***
+str8123456: folds 
+Squall33bdi: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: raises $1 to $1.50
+Nector12: folds 
+daria130399: calls $1
+*** FLOP *** [9h 2h 8h]
+daria130399: checks 
+Tullochh: checks 
+*** TURN *** [9h 2h 8h] [Js]
+daria130399: checks 
+Tullochh: checks 
+*** RIVER *** [9h 2h 8h Js] [Ks]
+daria130399: checks 
+Tullochh: checks 
+*** SHOW DOWN ***
+daria130399: shows [5s 5d] (a pair of Fives)
+Tullochh: shows [Kd Qc] (a pair of Kings)
+Tullochh collected $3.09 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [9h 2h 8h Js Ks]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh (button) showed [Kd Qc] and won ($3.09) with a pair of Kings
+Seat 4: Nector12 (small blind) folded before Flop
+Seat 5: daria130399 (big blind) showed [5s 5d] and lost with a pair of Fives
+Seat 6: str8123456 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693802175:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:04:29 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: wealthandpower ($14.71 in chips) 
+Seat 2: whitecillar3 ($50.49 in chips) 
+Seat 3: Tullochh ($70.73 in chips) 
+Seat 4: Nector12 ($63.21 in chips) 
+Seat 5: daria130399 ($163.28 in chips) 
+Seat 6: str8123456 ($47.17 in chips) 
+Seat 7: Squall33bdi ($54.12 in chips) 
+Seat 9: christyirish ($50 in chips) 
+daria130399: posts small blind $0.25
+str8123456: posts big blind $0.50
+agustincavs: sits out 
+*** HOLE CARDS ***
+Squall33bdi: folds 
+christyirish: raises $1 to $1.50
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: folds 
+Nector12: folds 
+daria130399: folds 
+str8123456: folds 
+Uncalled bet ($1) returned to christyirish
+christyirish collected $1.25 from pot
+christyirish: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 (button) folded before Flop (didn't bet)
+Seat 5: daria130399 (small blind) folded before Flop
+Seat 6: str8123456 (big blind) folded before Flop
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 9: christyirish collected ($1.25)
+
+
+
+PokerStars Hand #228693808919:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:04:52 ET
+Table 'Mrkos' 9-max Seat #5 is the button
+Seat 1: wealthandpower ($14.71 in chips) 
+Seat 2: whitecillar3 ($50.49 in chips) 
+Seat 3: Tullochh ($70.73 in chips) 
+Seat 4: Nector12 ($63.21 in chips) 
+Seat 5: daria130399 ($163.03 in chips) 
+Seat 6: str8123456 ($46.67 in chips) 
+Seat 7: Squall33bdi ($54.12 in chips) 
+Seat 9: christyirish ($50.75 in chips) 
+str8123456: posts small blind $0.25
+Squall33bdi: posts big blind $0.50
+agustincavs: sits out 
+*** HOLE CARDS ***
+christyirish: raises $1 to $1.50
+wealthandpower: folds 
+whitecillar3: raises $3.50 to $5
+Tullochh: folds 
+Nector12 has timed out
+Nector12: folds 
+daria130399: raises $5.50 to $10.50
+str8123456: folds 
+Squall33bdi: folds 
+christyirish: folds 
+whitecillar3: calls $5.50
+*** FLOP *** [7c 3d Ks]
+whitecillar3: checks 
+daria130399: bets $5
+whitecillar3: raises $34.99 to $39.99 and is all-in
+daria130399: folds 
+Uncalled bet ($34.99) returned to whitecillar3
+whitecillar3 collected $31.59 from pot
+*** SUMMARY ***
+Total pot $33.25 | Rake $1.66 
+Board [7c 3d Ks]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 collected ($31.59)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 (button) folded on the Flop
+Seat 6: str8123456 (small blind) folded before Flop
+Seat 7: Squall33bdi (big blind) folded before Flop
+Seat 9: christyirish folded before Flop
+
+
+
+PokerStars Hand #228693830427:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:06:03 ET
+Table 'Mrkos' 9-max Seat #6 is the button
+Seat 1: wealthandpower ($14.71 in chips) 
+Seat 2: whitecillar3 ($66.58 in chips) 
+Seat 3: Tullochh ($70.73 in chips) 
+Seat 4: Nector12 ($63.21 in chips) 
+Seat 5: daria130399 ($147.53 in chips) 
+Seat 6: str8123456 ($46.42 in chips) 
+Seat 7: Squall33bdi ($53.62 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+Squall33bdi: posts small blind $0.25
+agustincavs: posts big blind $0.50
+*** HOLE CARDS ***
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: calls $0.50
+Nector12: folds 
+daria130399: folds 
+str8123456: raises $1 to $1.50
+Squall33bdi: folds 
+agustincavs: folds 
+Tullochh: calls $1
+*** FLOP *** [4c 9h 9s]
+Tullochh: checks 
+str8123456: bets $1.78
+Tullochh: calls $1.78
+*** TURN *** [4c 9h 9s] [3c]
+Tullochh: checks 
+str8123456: checks 
+*** RIVER *** [4c 9h 9s 3c] [8c]
+Tullochh: checks 
+str8123456: checks 
+*** SHOW DOWN ***
+Tullochh: shows [Ah 6h] (a pair of Nines)
+str8123456: mucks hand 
+Tullochh collected $6.94 from pot
+*** SUMMARY ***
+Total pot $7.31 | Rake $0.37 
+Board [4c 9h 9s 3c 8c]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh showed [Ah 6h] and won ($6.94) with a pair of Nines
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: str8123456 (button) mucked
+Seat 7: Squall33bdi (small blind) folded before Flop
+Seat 8: agustincavs (big blind) folded before Flop
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693845415:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:06:54 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 1: wealthandpower ($14.71 in chips) 
+Seat 2: whitecillar3 ($66.58 in chips) 
+Seat 3: Tullochh ($74.39 in chips) 
+Seat 4: Nector12 ($63.21 in chips) 
+Seat 5: daria130399 ($147.53 in chips) 
+Seat 6: str8123456 ($43.14 in chips) 
+Seat 7: Squall33bdi ($53.37 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+agustincavs: posts small blind $0.25
+christyirish: posts big blind $0.50
+*** HOLE CARDS ***
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: calls $0.50
+Nector12: folds 
+daria130399: folds 
+str8123456: folds 
+Squall33bdi: folds 
+agustincavs: folds 
+christyirish: checks 
+*** FLOP *** [9s 4s Qd]
+christyirish: checks 
+Tullochh: checks 
+*** TURN *** [9s 4s Qd] [Js]
+christyirish: checks 
+Tullochh: bets $1
+christyirish: calls $1
+*** RIVER *** [9s 4s Qd Js] [5d]
+christyirish: checks 
+Tullochh: bets $3.09
+christyirish: folds 
+Uncalled bet ($3.09) returned to Tullochh
+Tullochh collected $3.09 from pot
+Tullochh: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [9s 4s Qd Js 5d]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh collected ($3.09)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: str8123456 folded before Flop (didn't bet)
+Seat 7: Squall33bdi (button) folded before Flop (didn't bet)
+Seat 8: agustincavs (small blind) folded before Flop
+Seat 9: christyirish (big blind) folded on the River
+
+
+
+PokerStars Hand #228693862269:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:07:51 ET
+Table 'Mrkos' 9-max Seat #8 is the button
+Seat 1: wealthandpower ($14.71 in chips) 
+Seat 2: whitecillar3 ($66.58 in chips) 
+Seat 3: Tullochh ($75.98 in chips) 
+Seat 4: Nector12 ($63.21 in chips) 
+Seat 5: daria130399 ($147.53 in chips) 
+Seat 6: str8123456 ($43.14 in chips) 
+Seat 7: Squall33bdi ($53.37 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+christyirish: posts small blind $0.25
+wealthandpower: posts big blind $0.50
+*** HOLE CARDS ***
+whitecillar3: folds 
+Tullochh: folds 
+Nector12: raises $0.75 to $1.25
+daria130399: folds 
+str8123456: folds 
+Squall33bdi: folds 
+agustincavs: folds 
+christyirish: folds 
+wealthandpower: calls $0.75
+*** FLOP *** [9c 5c Ts]
+wealthandpower: checks 
+Nector12: bets $1.96
+wealthandpower: folds 
+Uncalled bet ($1.96) returned to Nector12
+Nector12 collected $2.61 from pot
+Nector12: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [9c 5c Ts]
+Seat 1: wealthandpower (big blind) folded on the Flop
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 collected ($2.61)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: str8123456 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: agustincavs (button) folded before Flop (didn't bet)
+Seat 9: christyirish (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693871860:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:08:23 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: wealthandpower ($13.46 in chips) 
+Seat 2: whitecillar3 ($66.58 in chips) 
+Seat 3: Tullochh ($75.98 in chips) 
+Seat 4: Nector12 ($64.57 in chips) 
+Seat 5: daria130399 ($147.53 in chips) 
+Seat 6: str8123456 ($43.14 in chips) 
+Seat 7: Squall33bdi ($53.37 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+wealthandpower: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+*** HOLE CARDS ***
+Tullochh: folds 
+Nector12: folds 
+daria130399: folds 
+str8123456: calls $0.50
+Squall33bdi: raises $1.55 to $2.05
+agustincavs: folds 
+christyirish: calls $2.05
+wealthandpower: folds 
+whitecillar3: folds 
+str8123456: calls $1.55
+*** FLOP *** [Kd Ad As]
+str8123456: checks 
+Squall33bdi: checks 
+christyirish: checks 
+*** TURN *** [Kd Ad As] [6d]
+str8123456: bets $3.28
+Squall33bdi: calls $3.28
+christyirish: folds 
+*** RIVER *** [Kd Ad As 6d] [Kc]
+str8123456: bets $12.79
+Squall33bdi: folds 
+Uncalled bet ($12.79) returned to str8123456
+str8123456 collected $12.79 from pot
+*** SUMMARY ***
+Total pot $13.46 | Rake $0.67 
+Board [Kd Ad As 6d Kc]
+Seat 1: wealthandpower (small blind) folded before Flop
+Seat 2: whitecillar3 (big blind) folded before Flop
+Seat 3: Tullochh folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: str8123456 collected ($12.79)
+Seat 7: Squall33bdi folded on the River
+Seat 8: agustincavs folded before Flop (didn't bet)
+Seat 9: christyirish (button) folded on the Turn
+
+
+
+PokerStars Hand #228693885059:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:09:07 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: wealthandpower ($13.21 in chips) 
+Seat 2: whitecillar3 ($66.08 in chips) 
+Seat 3: Tullochh ($75.98 in chips) 
+Seat 4: Nector12 ($64.57 in chips) 
+Seat 5: daria130399 ($147.53 in chips) 
+Seat 6: str8123456 ($50.60 in chips) 
+Seat 7: Squall33bdi ($50 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+whitecillar3: posts small blind $0.25
+Tullochh: posts big blind $0.50
+*** HOLE CARDS ***
+Nector12: folds 
+daria130399: folds 
+str8123456: folds 
+Squall33bdi: folds 
+agustincavs: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: raises $0.75 to $1.25
+Tullochh: folds 
+Uncalled bet ($0.75) returned to whitecillar3
+whitecillar3 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: wealthandpower (button) folded before Flop (didn't bet)
+Seat 2: whitecillar3 (small blind) collected ($1)
+Seat 3: Tullochh (big blind) folded before Flop
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: str8123456 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: agustincavs folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693890103:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:09:24 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: wealthandpower ($13.21 in chips) 
+Seat 2: whitecillar3 ($66.58 in chips) 
+Seat 3: Tullochh ($75.48 in chips) 
+Seat 4: Nector12 ($64.57 in chips) 
+Seat 5: daria130399 ($147.53 in chips) 
+Seat 6: str8123456 ($50.60 in chips) 
+Seat 7: Squall33bdi ($50 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+Tullochh: posts small blind $0.25
+Nector12: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: folds 
+str8123456: folds 
+Squall33bdi: folds 
+agustincavs: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: raises $0.75 to $1.25
+Tullochh: folds 
+Nector12: folds 
+Uncalled bet ($0.75) returned to whitecillar3
+whitecillar3 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 (button) collected ($1.25)
+Seat 3: Tullochh (small blind) folded before Flop
+Seat 4: Nector12 (big blind) folded before Flop
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: str8123456 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: agustincavs folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693897825:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:09:51 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: wealthandpower ($13.21 in chips) 
+Seat 2: whitecillar3 ($67.33 in chips) 
+Seat 3: Tullochh ($75.23 in chips) 
+Seat 4: Nector12 ($64.07 in chips) 
+Seat 5: daria130399 ($147.53 in chips) 
+Seat 6: str8123456 ($50.60 in chips) 
+Seat 7: Squall33bdi ($50 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+Nector12: posts small blind $0.25
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+str8123456: folds 
+Squall33bdi: folds 
+agustincavs: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Tullochh: folds 
+Tullochh leaves the table
+Nector12: folds 
+Uncalled bet ($0.25) returned to daria130399
+daria130399 collected $0.50 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Tullochh (button) folded before Flop (didn't bet)
+Seat 4: Nector12 (small blind) folded before Flop
+Seat 5: daria130399 (big blind) collected ($0.50)
+Seat 6: str8123456 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: agustincavs folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693901351:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:10:02 ET
+Table 'Mrkos' 9-max Seat #4 is the button
+Seat 1: wealthandpower ($13.21 in chips) 
+Seat 2: whitecillar3 ($67.33 in chips) 
+Seat 4: Nector12 ($63.82 in chips) 
+Seat 5: daria130399 ($147.78 in chips) 
+Seat 6: str8123456 ($50.60 in chips) 
+Seat 7: Squall33bdi ($50 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+daria130399: posts small blind $0.25
+str8123456: posts big blind $0.50
+*** HOLE CARDS ***
+Chernovsky joins the table at seat #3 
+Squall33bdi: folds 
+agustincavs: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Nector12: folds 
+daria130399: raises $0.75 to $1.25
+str8123456: calls $0.75
+*** FLOP *** [4c 4d Qh]
+daria130399: bets $0.79
+str8123456: folds 
+Uncalled bet ($0.79) returned to daria130399
+daria130399 collected $2.38 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [4c 4d Qh]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 4: Nector12 (button) folded before Flop (didn't bet)
+Seat 5: daria130399 (small blind) collected ($2.38)
+Seat 6: str8123456 (big blind) folded on the Flop
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: agustincavs folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693908558:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:10:27 ET
+Table 'Mrkos' 9-max Seat #5 is the button
+Seat 1: wealthandpower ($13.21 in chips) 
+Seat 2: whitecillar3 ($67.33 in chips) 
+Seat 4: Nector12 ($63.82 in chips) 
+Seat 5: daria130399 ($148.91 in chips) 
+Seat 6: str8123456 ($49.35 in chips) 
+Seat 7: Squall33bdi ($50 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+str8123456: posts small blind $0.25
+Squall33bdi: posts big blind $0.50
+Chernovsky: sits out 
+*** HOLE CARDS ***
+agustincavs: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Nector12: raises $0.75 to $1.25
+daria130399: folds 
+str8123456: folds 
+Squall33bdi: folds 
+Uncalled bet ($0.75) returned to Nector12
+Nector12 collected $1.25 from pot
+Nector12: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 4: Nector12 collected ($1.25)
+Seat 5: daria130399 (button) folded before Flop (didn't bet)
+Seat 6: str8123456 (small blind) folded before Flop
+Seat 7: Squall33bdi (big blind) folded before Flop
+Seat 8: agustincavs folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693931750:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:11:46 ET
+Table 'Mrkos' 9-max Seat #7 is the button
+Seat 1: wealthandpower ($13.21 in chips) 
+Seat 2: whitecillar3 ($67.33 in chips) 
+Seat 4: Nector12 ($74.52 in chips) 
+Seat 5: daria130399 ($148.91 in chips) 
+Seat 6: str8123456 ($49.10 in chips) 
+Seat 7: Squall33bdi ($50 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($50 in chips) 
+agustincavs: posts small blind $0.25
+christyirish: posts big blind $0.50
+Chernovsky: sits out 
+*** HOLE CARDS ***
+wealthandpower has timed out
+wealthandpower: folds 
+whitecillar3: folds 
+Nector12: folds 
+daria130399: folds 
+str8123456: calls $0.50
+Squall33bdi: raises $1.50 to $2
+agustincavs: raises $4 to $6
+christyirish: folds 
+str8123456: folds 
+Squall33bdi: folds 
+Uncalled bet ($4) returned to agustincavs
+agustincavs collected $5 from pot
+agustincavs: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: str8123456 folded before Flop
+Seat 7: Squall33bdi (button) folded before Flop
+Seat 8: agustincavs (small blind) collected ($5)
+Seat 9: christyirish (big blind) folded before Flop
+
+
+
+PokerStars Hand #228693941401:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:12:18 ET
+Table 'Mrkos' 9-max Seat #8 is the button
+Seat 1: wealthandpower ($13.21 in chips) 
+Seat 2: whitecillar3 ($67.33 in chips) 
+Seat 4: Nector12 ($74.52 in chips) 
+Seat 5: daria130399 ($148.91 in chips) 
+Seat 6: str8123456 ($48.60 in chips) 
+Seat 7: Squall33bdi ($50 in chips) 
+Seat 8: agustincavs ($53 in chips) 
+Seat 9: christyirish ($50 in chips) 
+christyirish: posts small blind $0.25
+wealthandpower: posts big blind $0.50
+Chernovsky: sits out 
+*** HOLE CARDS ***
+whitecillar3: folds 
+Nector12: folds 
+daria130399: folds 
+str8123456: calls $0.50
+Squall33bdi: folds 
+agustincavs: folds 
+christyirish: calls $0.25
+wealthandpower: checks 
+*** FLOP *** [6c Kc 4c]
+christyirish: bets $0.71
+wealthandpower: raises $0.79 to $1.50
+str8123456: folds 
+christyirish: raises $48 to $49.50 and is all-in
+wealthandpower: folds 
+Uncalled bet ($48) returned to christyirish
+christyirish collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [6c Kc 4c]
+Seat 1: wealthandpower (big blind) folded on the Flop
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: str8123456 folded on the Flop
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: agustincavs (button) folded before Flop (didn't bet)
+Seat 9: christyirish (small blind) collected ($4.28)
+
+
+
+PokerStars Hand #228693959700:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:13:04 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: wealthandpower ($11.21 in chips) 
+Seat 2: whitecillar3 ($67.33 in chips) 
+Seat 4: Nector12 ($74.52 in chips) 
+Seat 5: daria130399 ($148.91 in chips) 
+Seat 6: str8123456 ($48.10 in chips) 
+Seat 7: Squall33bdi ($50 in chips) 
+Seat 8: agustincavs ($53 in chips) 
+Seat 9: christyirish ($52.28 in chips) 
+wealthandpower: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+Chernovsky: sits out 
+*** HOLE CARDS ***
+Nector12: folds 
+daria130399: folds 
+str8123456: calls $0.50
+Squall33bdi: folds 
+agustincavs: folds 
+christyirish: folds 
+wealthandpower: calls $0.25
+whitecillar3: checks 
+*** FLOP *** [7d 9c 8c]
+wealthandpower: checks 
+whitecillar3: checks 
+str8123456: bets $0.99
+wealthandpower: folds 
+whitecillar3: calls $0.99
+*** TURN *** [7d 9c 8c] [5c]
+whitecillar3: checks 
+str8123456: bets $1.66
+whitecillar3: calls $1.66
+*** RIVER *** [7d 9c 8c 5c] [Ah]
+whitecillar3: checks 
+str8123456: bets $3.23
+whitecillar3: folds 
+Uncalled bet ($3.23) returned to str8123456
+str8123456 collected $6.46 from pot
+*** SUMMARY ***
+Total pot $6.80 | Rake $0.34 
+Board [7d 9c 8c 5c Ah]
+Seat 1: wealthandpower (small blind) folded on the Flop
+Seat 2: whitecillar3 (big blind) folded on the River
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: str8123456 collected ($6.46)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: agustincavs folded before Flop (didn't bet)
+Seat 9: christyirish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693980861:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:14:16 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: wealthandpower ($10.71 in chips) 
+Seat 2: whitecillar3 ($64.18 in chips) 
+Seat 3: Chernovsky ($50 in chips) 
+Seat 4: Nector12 ($74.52 in chips) 
+Seat 5: daria130399 ($148.91 in chips) 
+Seat 6: str8123456 ($51.41 in chips) 
+Seat 7: Squall33bdi ($50 in chips) 
+Seat 8: agustincavs ($53 in chips) 
+Seat 9: christyirish ($52.28 in chips) 
+whitecillar3: posts small blind $0.25
+Chernovsky: posts big blind $0.50
+*** HOLE CARDS ***
+Nector12: folds 
+daria130399: folds 
+daria130399 leaves the table
+str8123456: folds 
+Squall33bdi: folds 
+agustincavs: raises $0.75 to $1.25
+christyirish: raises $3.25 to $4.50
+wealthandpower: folds 
+whitecillar3: folds 
+Chernovsky: folds 
+agustincavs: calls $3.25
+*** FLOP *** [Qs 7s 7h]
+agustincavs: checks 
+christyirish: bets $2.78
+agustincavs: calls $2.78
+*** TURN *** [Qs 7s 7h] [6h]
+agustincavs: checks 
+christyirish: checks 
+*** RIVER *** [Qs 7s 7h 6h] [Qc]
+agustincavs: checks 
+christyirish: checks 
+*** SHOW DOWN ***
+agustincavs: shows [Js Ts] (two pair, Queens and Sevens)
+christyirish: shows [6d Ad] (two pair, Queens and Sevens - Ace kicker)
+christyirish collected $14.54 from pot
+*** SUMMARY ***
+Total pot $15.31 | Rake $0.77 
+Board [Qs 7s 7h 6h Qc]
+Seat 1: wealthandpower (button) folded before Flop (didn't bet)
+Seat 2: whitecillar3 (small blind) folded before Flop
+Seat 3: Chernovsky (big blind) folded before Flop
+Seat 4: Nector12 folded before Flop (didn't bet)
+Seat 5: daria130399 folded before Flop (didn't bet)
+Seat 6: str8123456 folded before Flop (didn't bet)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: agustincavs showed [Js Ts] and lost with two pair, Queens and Sevens
+Seat 9: christyirish showed [6d Ad] and won ($14.54) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #228693996903:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:15:12 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: wealthandpower ($10.71 in chips) 
+Seat 2: whitecillar3 ($63.93 in chips) 
+Seat 3: Chernovsky ($50 in chips) 
+Seat 6: str8123456 ($51.41 in chips) 
+Seat 7: Squall33bdi ($50 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($59.54 in chips) 
+Chernovsky: posts small blind $0.25
+Nector12: is sitting out 
+str8123456: posts big blind $0.50
+*** HOLE CARDS ***
+Squall33bdi: folds 
+agustincavs: folds 
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Chernovsky: folds 
+Uncalled bet ($0.25) returned to str8123456
+str8123456 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 3: Chernovsky (small blind) folded before Flop
+Seat 6: str8123456 (big blind) collected ($0.50)
+Seat 7: Squall33bdi folded before Flop (didn't bet)
+Seat 8: agustincavs folded before Flop (didn't bet)
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228693999779:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:15:21 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 1: wealthandpower ($10.71 in chips) 
+Seat 2: whitecillar3 ($63.93 in chips) 
+Seat 3: Chernovsky ($50 in chips) 
+Seat 6: str8123456 ($51.66 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($59.54 in chips) 
+str8123456: posts small blind $0.25
+Squall33bdi: is sitting out 
+agustincavs: posts big blind $0.50
+*** HOLE CARDS ***
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: folds 
+Chernovsky: raises $0.75 to $1.25
+str8123456: calls $1
+agustincavs: folds 
+*** FLOP *** [6c 4d Ac]
+str8123456: checks 
+Chernovsky: bets $0.97
+str8123456: calls $0.97
+*** TURN *** [6c 4d Ac] [5d]
+str8123456: checks 
+Chernovsky: checks 
+*** RIVER *** [6c 4d Ac 5d] [Qs]
+str8123456: checks 
+Squall33bdi leaves the table
+Chernovsky: checks 
+*** SHOW DOWN ***
+str8123456: shows [Th Ts] (a pair of Tens)
+Chernovsky: shows [Qc 9h] (a pair of Queens)
+Chernovsky collected $4.69 from pot
+*** SUMMARY ***
+Total pot $4.94 | Rake $0.25 
+Board [6c 4d Ac 5d Qs]
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Chernovsky (button) showed [Qc 9h] and won ($4.69) with a pair of Queens
+Seat 6: str8123456 (small blind) showed [Th Ts] and lost with a pair of Tens
+Seat 8: agustincavs (big blind) folded before Flop
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694012813:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:16:06 ET
+Table 'Mrkos' 9-max Seat #6 is the button
+Seat 1: wealthandpower ($10.71 in chips) 
+Seat 2: whitecillar3 ($63.93 in chips) 
+Seat 3: Chernovsky ($52.47 in chips) 
+Seat 6: str8123456 ($49.44 in chips) 
+Seat 8: agustincavs ($50 in chips) 
+Seat 9: christyirish ($59.54 in chips) 
+agustincavs: posts small blind $0.25
+christyirish: posts big blind $0.50
+*** HOLE CARDS ***
+wealthandpower: folds 
+whitecillar3: folds 
+Chernovsky: folds 
+str8123456: folds 
+agustincavs: folds 
+Uncalled bet ($0.25) returned to christyirish
+christyirish collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Chernovsky folded before Flop (didn't bet)
+Seat 6: str8123456 (button) folded before Flop (didn't bet)
+Seat 8: agustincavs (small blind) folded before Flop
+Seat 9: christyirish (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228694016437:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:16:19 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 1: wealthandpower ($10.71 in chips) 
+Seat 2: whitecillar3 ($63.93 in chips) 
+Seat 3: Chernovsky ($52.47 in chips) 
+Seat 6: str8123456 ($49.44 in chips) 
+Seat 9: christyirish ($59.79 in chips) 
+wealthandpower: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+*** HOLE CARDS ***
+Chernovsky: folds 
+str8123456: folds 
+christyirish: folds 
+wealthandpower: raises $1.50 to $2
+agustincavs leaves the table
+str8123456 leaves the table
+whitecillar3: folds 
+Uncalled bet ($1.50) returned to wealthandpower
+wealthandpower collected $1 from pot
+wealthandpower: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: wealthandpower (small blind) collected ($1)
+Seat 2: whitecillar3 (big blind) folded before Flop
+Seat 3: Chernovsky folded before Flop (didn't bet)
+Seat 6: str8123456 folded before Flop (didn't bet)
+Seat 9: christyirish (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694021356:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:16:36 ET
+Table 'Mrkos' 9-max Seat #1 is the button
+Seat 1: wealthandpower ($11.21 in chips) 
+Seat 2: whitecillar3 ($63.43 in chips) 
+Seat 3: Chernovsky ($52.47 in chips) 
+Seat 9: christyirish ($59.79 in chips) 
+whitecillar3: posts small blind $0.25
+Chernovsky: posts big blind $0.50
+*** HOLE CARDS ***
+christyirish: folds 
+wealthandpower: folds 
+whitecillar3: raises $0.75 to $1.25
+Chernovsky: calls $0.75
+*** FLOP *** [Qc 5s Jd]
+whitecillar3: checks 
+Chernovsky: checks 
+*** TURN *** [Qc 5s Jd] [3h]
+whitecillar3: bets $1.21
+Chernovsky: folds 
+Uncalled bet ($1.21) returned to whitecillar3
+whitecillar3 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [Qc 5s Jd 3h]
+Seat 1: wealthandpower (button) folded before Flop (didn't bet)
+Seat 2: whitecillar3 (small blind) collected ($2.38)
+Seat 3: Chernovsky (big blind) folded on the Turn
+Seat 9: christyirish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694040583:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:17:13 ET
+Table 'Mrkos' 9-max Seat #2 is the button
+Seat 1: wealthandpower ($11.21 in chips) 
+Seat 2: whitecillar3 ($64.56 in chips) 
+Seat 3: Chernovsky ($51.22 in chips) 
+Seat 9: christyirish ($59.79 in chips) 
+Chernovsky: posts small blind $0.25
+christyirish: posts big blind $0.50
+*** HOLE CARDS ***
+wealthandpower: folds 
+whitecillar3: folds 
+Chernovsky: folds 
+Uncalled bet ($0.25) returned to christyirish
+christyirish collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: wealthandpower folded before Flop (didn't bet)
+Seat 2: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 3: Chernovsky (small blind) folded before Flop
+Seat 9: christyirish (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228694043093:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:17:21 ET
+Table 'Mrkos' 9-max Seat #3 is the button
+Seat 2: whitecillar3 ($64.56 in chips) 
+Seat 3: Chernovsky ($50.97 in chips) 
+Seat 9: christyirish ($60.04 in chips) 
+christyirish: posts small blind $0.25
+wealthandpower: is sitting out 
+whitecillar3: posts big blind $0.50
+*** HOLE CARDS ***
+Chernovsky: raises $0.75 to $1.25
+wealthandpower leaves the table
+christyirish: folds 
+Dragonclawss joins the table at seat #5 
+whitecillar3: folds 
+Uncalled bet ($0.75) returned to Chernovsky
+christyirish leaves the table
+Chernovsky collected $1.25 from pot
+Chernovsky: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: whitecillar3 (big blind) folded before Flop
+Seat 3: Chernovsky (button) collected ($1.25)
+Seat 9: christyirish (small blind) folded before Flop
+
+
+
+PokerStars Hand #228693196885:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 19:33:03 ET
+Table 'Mrkos' 9-max Seat #9 is the button
+Seat 2: daria130399 ($71.51 in chips) 
+Seat 3: Tullochh ($71.97 in chips) 
+Seat 4: Vusal11599 ($69.39 in chips) 
+Seat 6: Beer breath2 ($43.46 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: BoryaKGB ($50 in chips) 
+Seat 9: christyirish ($57.55 in chips) 
+daria130399: posts small blind $0.25
+Tullochh: posts big blind $0.50
+*** HOLE CARDS ***
+Vusal11599: raises $0.50 to $1
+Beer breath2: folds 
+Nestle170: raises $3 to $4
+BoryaKGB: folds 
+christyirish: folds 
+daria130399: folds 
+Tullochh: folds 
+Vusal11599: calls $3
+*** FLOP *** [7c Ah 6h]
+Vusal11599: bets $3
+Nestle170: folds 
+Uncalled bet ($3) returned to Vusal11599
+Vusal11599 collected $8.31 from pot
+Vusal11599: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.44 
+Board [7c Ah 6h]
+Seat 2: daria130399 (small blind) folded before Flop
+Seat 3: Tullochh (big blind) folded before Flop
+Seat 4: Vusal11599 collected ($8.31)
+Seat 6: Beer breath2 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded on the Flop
+Seat 8: BoryaKGB folded before Flop (didn't bet)
+Seat 9: christyirish (button) folded before Flop (didn't bet)
+
+
+

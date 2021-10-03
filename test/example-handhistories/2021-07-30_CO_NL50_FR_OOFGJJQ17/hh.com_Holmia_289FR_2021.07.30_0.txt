@@ -1,0 +1,6012 @@
+ÔªøPokerStars Hand #228676977088:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:15:41 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: deniss955 ($30.36 in chips) 
+Seat 2: Medved219 ($53.05 in chips) 
+Medved219: posts small blind $0.25
+deniss955: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980 joins the table at seat #3 
+Medved219: raises $0.75 to $1.25
+deniss955: calls $0.75
+*** FLOP *** [2h 3s 5s]
+deniss955: checks 
+Medved219: bets $1.50
+deniss955: calls $1.50
+*** TURN *** [2h 3s 5s] [6h]
+deniss955: checks 
+Medved219: checks 
+*** RIVER *** [2h 3s 5s 6h] [3d]
+Bratishok joins the table at seat #4 
+deniss955: bets $1
+Medved219: calls $1
+*** SHOW DOWN ***
+deniss955: shows [Th 9s] (a pair of Threes)
+Medved219: shows [8h 5h] (two pair, Fives and Threes)
+Medved219 collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [2h 3s 5s 6h 3d]
+Seat 1: deniss955 (big blind) showed [Th 9s] and lost with a pair of Threes
+Seat 2: Medved219 (button) (small blind) showed [8h 5h] and won ($7.12) with two pair, Fives and Threes
+
+
+
+PokerStars Hand #228676984406:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:16:15 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: deniss955 ($26.61 in chips) 
+Seat 2: Medved219 ($56.42 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+Bratishok: sits out 
+*** HOLE CARDS ***
+deniss955: folds 
+Medved219: folds 
+Uncalled bet ($0.25) returned to DOA1980
+DOA1980 collected $0.50 from pot
+DOA1980: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: deniss955 (button) folded before Flop (didn't bet)
+Seat 2: Medved219 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228676985658:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:16:21 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: deniss955 ($26.61 in chips) 
+Seat 2: Medved219 ($56.17 in chips) 
+Seat 3: DOA1980 ($50.25 in chips) 
+Seat 4: Bratishok ($50 in chips) 
+DOA1980: posts small blind $0.25
+Bratishok: posts big blind $0.50
+*** HOLE CARDS ***
+deniss955: raises $0.50 to $1
+Medved219: folds 
+DOA1980: folds 
+Bratishok: folds 
+Uncalled bet ($0.50) returned to deniss955
+deniss955 collected $1.25 from pot
+deniss955: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: deniss955 collected ($1.25)
+Seat 2: Medved219 (button) folded before Flop (didn't bet)
+Seat 3: DOA1980 (small blind) folded before Flop
+Seat 4: Bratishok (big blind) folded before Flop
+
+
+
+PokerStars Hand #228676987583:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:16:30 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: deniss955 ($27.36 in chips) 
+Seat 2: Medved219 ($56.17 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Seat 4: Bratishok ($50 in chips) 
+Bratishok: posts small blind $0.25
+deniss955: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+DOA1980: raises $0.55 to $1.05
+Bratishok: raises $3.45 to $4.50
+deniss955: folds 
+Slami4 joins the table at seat #5 
+DOA1980: folds 
+Uncalled bet ($3.45) returned to Bratishok
+Bratishok collected $2.60 from pot
+Bratishok: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.60 | Rake $0 
+Seat 1: deniss955 (big blind) folded before Flop
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 (button) folded before Flop
+Seat 4: Bratishok (small blind) collected ($2.60)
+
+
+
+PokerStars Hand #228676995102:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:17:05 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 1: deniss955 ($26.86 in chips) 
+Seat 2: Medved219 ($56.17 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Seat 4: Bratishok ($51.55 in chips) 
+deniss955: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980: raises $0.75 to $1.25
+Bratishok: folds 
+deniss955: folds 
+Medved219: calls $0.75
+*** FLOP *** [5s 2h 3c]
+Medved219: checks 
+DOA1980: bets $0.81
+Medved219: folds 
+Uncalled bet ($0.81) returned to DOA1980
+DOA1980 collected $2.61 from pot
+Slami4 leaves the table
+DOA1980: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [5s 2h 3c]
+Seat 1: deniss955 (small blind) folded before Flop
+Seat 2: Medved219 (big blind) folded on the Flop
+Seat 3: DOA1980 collected ($2.61)
+Seat 4: Bratishok (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228676998162:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:17:19 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: deniss955 ($26.61 in chips) 
+Seat 2: Medved219 ($54.92 in chips) 
+Seat 3: DOA1980 ($51.36 in chips) 
+Seat 4: Bratishok ($51.55 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+*** HOLE CARDS ***
+Bratishok: raises $0.74 to $1.24
+deniss955: calls $1.24
+Medved219: folds 
+DOA1980: folds 
+*** FLOP *** [Kh 4s Jd]
+Bratishok: bets $2.09
+deniss955: folds 
+Uncalled bet ($2.09) returned to Bratishok
+Bratishok collected $3.07 from pot
+Bratishok: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.23 | Rake $0.16 
+Board [Kh 4s Jd]
+Seat 1: deniss955 (button) folded on the Flop
+Seat 2: Medved219 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) folded before Flop
+Seat 4: Bratishok collected ($3.07)
+
+
+
+PokerStars Hand #228677003383:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:17:43 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: deniss955 ($25.37 in chips) 
+Seat 2: Medved219 ($54.67 in chips) 
+Seat 3: DOA1980 ($50.86 in chips) 
+DOA1980: posts small blind $0.25
+Bratishok: is sitting out 
+deniss955: posts big blind $0.50
+*** HOLE CARDS ***
+Bratishok leaves the table
+Medved219: folds 
+DOA1980: folds 
+Uncalled bet ($0.25) returned to deniss955
+deniss955 collected $0.50 from pot
+deniss955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: deniss955 (big blind) collected ($0.50)
+Seat 2: Medved219 (button) folded before Flop (didn't bet)
+Seat 3: DOA1980 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677004819:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:17:50 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: deniss955 ($25.62 in chips) 
+Seat 2: Medved219 ($54.67 in chips) 
+Seat 3: DOA1980 ($50.61 in chips) 
+deniss955: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980: folds 
+deniss955: folds 
+Uncalled bet ($0.25) returned to Medved219
+Medved219 collected $0.50 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: deniss955 (small blind) folded before Flop
+Seat 2: Medved219 (big blind) collected ($0.50)
+Seat 3: DOA1980 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677005909:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:17:55 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: deniss955 ($25.37 in chips) 
+Seat 2: Medved219 ($54.92 in chips) 
+Seat 3: DOA1980 ($50.61 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+*** HOLE CARDS ***
+deniss955: raises $0.50 to $1
+Medved219: folds 
+DOA1980: folds 
+Uncalled bet ($0.50) returned to deniss955
+deniss955 collected $1.25 from pot
+deniss955: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: deniss955 (button) collected ($1.25)
+Seat 2: Medved219 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677007913:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:18:04 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: deniss955 ($26.12 in chips) 
+Seat 2: Medved219 ($54.67 in chips) 
+Seat 3: DOA1980 ($50.11 in chips) 
+DOA1980: posts small blind $0.25
+deniss955: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: raises $0.75 to $1.25
+DOA1980: folds 
+deniss955: calls $0.75
+*** FLOP *** [2d Qc 9h]
+deniss955: checks 
+Medved219: checks 
+*** TURN *** [2d Qc 9h] [Kc]
+deniss955: checks 
+Medved219: bets $1.74
+deniss955: calls $1.74
+*** RIVER *** [2d Qc 9h Kc] [5d]
+deniss955: bets $1
+Medved219: calls $1
+*** SHOW DOWN ***
+deniss955: shows [8h Ks] (a pair of Kings)
+Medved219: shows [Kh 8c] (a pair of Kings)
+deniss955 collected $3.91 from pot
+Medved219 collected $3.91 from pot
+*** SUMMARY ***
+Total pot $8.23 | Rake $0.41 
+Board [2d Qc 9h Kc 5d]
+Seat 1: deniss955 (big blind) showed [8h Ks] and won ($3.91) with a pair of Kings
+Seat 2: Medved219 (button) showed [Kh 8c] and won ($3.91) with a pair of Kings
+Seat 3: DOA1980 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677013436:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:18:30 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: deniss955 ($26.04 in chips) 
+Seat 2: Medved219 ($54.59 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+deniss955: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980: raises $0.55 to $1.05
+deniss955: calls $0.80
+Medved219: calls $0.55
+*** FLOP *** [Ts 9h Kh]
+deniss955: checks 
+Medved219: checks 
+DOA1980: bets $0.93
+deniss955: calls $0.93
+Medved219: calls $0.93
+*** TURN *** [Ts 9h Kh] [8h]
+deniss955: checks 
+Medved219: checks 
+DOA1980: bets $4.34
+deniss955: calls $4.34
+Medved219: folds 
+*** RIVER *** [Ts 9h Kh 8h] [2c]
+deniss955: bets $3
+DOA1980: folds 
+Uncalled bet ($3) returned to deniss955
+deniss955 collected $13.89 from pot
+deniss955: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.62 | Rake $0.73 
+Board [Ts 9h Kh 8h 2c]
+Seat 1: deniss955 (small blind) collected ($13.89)
+Seat 2: Medved219 (big blind) folded on the Turn
+Seat 3: DOA1980 (button) folded on the River
+
+
+
+PokerStars Hand #228677023342:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:19:15 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: deniss955 ($33.61 in chips) 
+Seat 2: Medved219 ($52.61 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+*** HOLE CARDS ***
+deniss955: raises $0.50 to $1
+Medved219: calls $0.75
+DOA1980: raises $5.50 to $6.50
+deniss955: calls $5.50
+Medved219: folds 
+*** FLOP *** [8s Ks As]
+DOA1980: bets $3.33
+deniss955: calls $3.33
+*** TURN *** [8s Ks As] [Qc]
+DOA1980: checks 
+deniss955: checks 
+*** RIVER *** [8s Ks As Qc] [3d]
+DOA1980: checks 
+deniss955: bets $3
+DOA1980: calls $3
+*** SHOW DOWN ***
+deniss955: shows [Ac 9h] (a pair of Aces)
+DOA1980: mucks hand 
+deniss955 collected $25.91 from pot
+*** SUMMARY ***
+Total pot $26.66 | Rake $0.75 
+Board [8s Ks As Qc 3d]
+Seat 1: deniss955 (button) showed [Ac 9h] and won ($25.91) with a pair of Aces
+Seat 2: Medved219 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) mucked
+
+
+
+PokerStars Hand #228677033139:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:20:00 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: deniss955 ($46.69 in chips) 
+Seat 2: Medved219 ($51.61 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+DOA1980: posts small blind $0.25
+deniss955: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: raises $0.75 to $1.25
+DOA1980: folds 
+deniss955: folds 
+Uncalled bet ($0.75) returned to Medved219
+Medved219 collected $1.25 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: deniss955 (big blind) folded before Flop
+Seat 2: Medved219 (button) collected ($1.25)
+Seat 3: DOA1980 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677035324:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:20:10 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: deniss955 ($46.19 in chips) 
+Seat 2: Medved219 ($52.36 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+deniss955: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980 has timed out
+DOA1980: folds 
+deniss955: folds 
+Uncalled bet ($0.25) returned to Medved219
+Medved219 collected $0.50 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: deniss955 (small blind) folded before Flop
+Seat 2: Medved219 (big blind) collected ($0.50)
+Seat 3: DOA1980 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677039224:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:20:29 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: deniss955 ($45.94 in chips) 
+Seat 2: Medved219 ($52.61 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+*** HOLE CARDS ***
+deniss955: raises $0.50 to $1
+Medved219: folds 
+DOA1980: folds 
+Uncalled bet ($0.50) returned to deniss955
+deniss955 collected $1.25 from pot
+deniss955: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: deniss955 (button) collected ($1.25)
+Seat 2: Medved219 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677042120:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:20:42 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: deniss955 ($46.69 in chips) 
+Seat 2: Medved219 ($52.36 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+DOA1980: posts small blind $0.25
+deniss955: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+DOA1980: raises $1 to $1.50
+deniss955: folds 
+Uncalled bet ($1) returned to DOA1980
+DOA1980 collected $1 from pot
+DOA1980: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: deniss955 (big blind) folded before Flop
+Seat 2: Medved219 (button) folded before Flop (didn't bet)
+Seat 3: DOA1980 (small blind) collected ($1)
+
+
+
+PokerStars Hand #228677043929:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:20:50 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: deniss955 ($46.19 in chips) 
+Seat 2: Medved219 ($52.36 in chips) 
+Seat 3: DOA1980 ($50.50 in chips) 
+deniss955: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980: raises $0.55 to $1.05
+deniss955: folds 
+Medved219: calls $0.55
+*** FLOP *** [6h 2s 9c]
+Medved219: checks 
+DOA1980: bets $1
+Medved219: calls $1
+*** TURN *** [6h 2s 9c] [2c]
+Medved219: checks 
+DOA1980: checks 
+*** RIVER *** [6h 2s 9c 2c] [4c]
+Medved219: checks 
+DOA1980: bets $1.28
+Medved219: calls $1.28
+*** SHOW DOWN ***
+DOA1980: shows [9h Tc] (two pair, Nines and Deuces)
+Medved219: mucks hand 
+DOA1980 collected $6.56 from pot
+*** SUMMARY ***
+Total pot $6.91 | Rake $0.35 
+Board [6h 2s 9c 2c 4c]
+Seat 1: deniss955 (small blind) folded before Flop
+Seat 2: Medved219 (big blind) mucked
+Seat 3: DOA1980 (button) showed [9h Tc] and won ($6.56) with two pair, Nines and Deuces
+
+
+
+PokerStars Hand #228677051062:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:21:23 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: deniss955 ($45.94 in chips) 
+Seat 2: Medved219 ($50 in chips) 
+Seat 3: DOA1980 ($53.73 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+*** HOLE CARDS ***
+deniss955: folds 
+Medved219: folds 
+Uncalled bet ($0.25) returned to DOA1980
+DOA1980 collected $0.50 from pot
+DOA1980: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: deniss955 (button) folded before Flop (didn't bet)
+Seat 2: Medved219 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228677052380:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:21:29 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: deniss955 ($45.94 in chips) 
+Seat 2: Medved219 ($50 in chips) 
+Seat 3: DOA1980 ($53.98 in chips) 
+DOA1980: posts small blind $0.25
+deniss955: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: raises $1 to $1.50
+DOA1980: folds 
+deniss955: calls $1
+*** FLOP *** [2h 5s 8c]
+deniss955: checks 
+Medved219: bets $1.02
+deniss955: folds 
+Uncalled bet ($1.02) returned to Medved219
+Medved219 collected $3.09 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [2h 5s 8c]
+Seat 1: deniss955 (big blind) folded on the Flop
+Seat 2: Medved219 (button) collected ($3.09)
+Seat 3: DOA1980 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677055363:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:21:43 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: deniss955 ($44.44 in chips) 
+Seat 2: Medved219 ($51.59 in chips) 
+Seat 3: DOA1980 ($53.73 in chips) 
+deniss955: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980: folds 
+deniss955: calls $0.25
+daria130399 joins the table at seat #4 
+Medved219: raises $1.50 to $2
+deniss955: folds 
+Uncalled bet ($1.50) returned to Medved219
+Medved219 collected $1 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: deniss955 (small blind) folded before Flop
+Seat 2: Medved219 (big blind) collected ($1)
+Seat 3: DOA1980 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677057941:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:21:55 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: deniss955 ($43.94 in chips) 
+Seat 2: Medved219 ($52.09 in chips) 
+Seat 3: DOA1980 ($53.73 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+daria130399: sits out 
+*** HOLE CARDS ***
+deniss955: raises $0.50 to $1
+Medved219: folds 
+DOA1980: folds 
+Uncalled bet ($0.50) returned to deniss955
+deniss955 collected $1.25 from pot
+deniss955: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: deniss955 (button) collected ($1.25)
+Seat 2: Medved219 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677059646:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:22:03 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: deniss955 ($44.69 in chips) 
+Seat 2: Medved219 ($51.84 in chips) 
+Seat 3: DOA1980 ($53.23 in chips) 
+Seat 4: daria130399 ($50 in chips) 
+DOA1980: posts small blind $0.25
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+deniss955: folds 
+Medved219: folds 
+DOA1980: raises $1 to $1.50
+daria130399: calls $1
+*** FLOP *** [Ks 8s 2h]
+DOA1980: bets $0.88
+daria130399: calls $0.88
+*** TURN *** [Ks 8s 2h] [9s]
+DOA1980: checks 
+daria130399: checks 
+*** RIVER *** [Ks 8s 2h 9s] [Kd]
+DOA1980: bets $1.50
+daria130399: calls $1.50
+*** SHOW DOWN ***
+DOA1980: shows [Th Ah] (a pair of Kings)
+daria130399: shows [Jd 8h] (two pair, Kings and Eights)
+daria130399 collected $7.37 from pot
+*** SUMMARY ***
+Total pot $7.76 | Rake $0.39 
+Board [Ks 8s 2h 9s Kd]
+Seat 1: deniss955 folded before Flop (didn't bet)
+Seat 2: Medved219 (button) folded before Flop (didn't bet)
+Seat 3: DOA1980 (small blind) showed [Th Ah] and lost with a pair of Kings
+Seat 4: daria130399 (big blind) showed [Jd 8h] and won ($7.37) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #228677067344:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:22:38 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: deniss955 ($44.69 in chips) 
+Seat 2: Medved219 ($51.84 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Seat 4: daria130399 ($53.49 in chips) 
+daria130399: posts small blind $0.25
+deniss955: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+DOA1980: raises $0.55 to $1.05
+daria130399: folds 
+deniss955: folds 
+Uncalled bet ($0.55) returned to DOA1980
+DOA1980 collected $1.25 from pot
+DOA1980: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: deniss955 (big blind) folded before Flop
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 (button) collected ($1.25)
+Seat 4: daria130399 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677069106:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:22:46 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 1: deniss955 ($44.19 in chips) 
+Seat 2: Medved219 ($51.84 in chips) 
+Seat 3: DOA1980 ($50.75 in chips) 
+Seat 4: daria130399 ($53.24 in chips) 
+deniss955: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980: folds 
+daria130399: raises $0.75 to $1.25
+deniss955: folds 
+Medved219: folds 
+Uncalled bet ($0.75) returned to daria130399
+daria130399 collected $1.25 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: deniss955 (small blind) folded before Flop
+Seat 2: Medved219 (big blind) folded before Flop
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 (button) collected ($1.25)
+
+
+
+PokerStars Hand #228677070727:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:22:54 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: deniss955 ($43.94 in chips) 
+Seat 2: Medved219 ($51.34 in chips) 
+Seat 3: DOA1980 ($50.75 in chips) 
+Seat 4: daria130399 ($53.99 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: raises $0.75 to $1.25
+deniss955: folds 
+Medved219: folds 
+DOA1980: folds 
+Uncalled bet ($0.75) returned to daria130399
+daria130399 collected $1.25 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: deniss955 (button) folded before Flop (didn't bet)
+Seat 2: Medved219 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) folded before Flop
+Seat 4: daria130399 collected ($1.25)
+
+
+
+PokerStars Hand #228677074729:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:23:12 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: deniss955 ($43.94 in chips) 
+Seat 2: Medved219 ($51.09 in chips) 
+Seat 3: DOA1980 ($50.25 in chips) 
+Seat 4: daria130399 ($54.74 in chips) 
+DOA1980: posts small blind $0.25
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+deniss955: raises $0.50 to $1
+Medved219: raises $3 to $4
+DOA1980: folds 
+daria130399: folds 
+deniss955: folds 
+Uncalled bet ($3) returned to Medved219
+Medved219 collected $2.75 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0 
+Seat 1: deniss955 folded before Flop
+Seat 2: Medved219 (button) collected ($2.75)
+Seat 3: DOA1980 (small blind) folded before Flop
+Seat 4: daria130399 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677077475:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:23:25 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: deniss955 ($42.94 in chips) 
+Seat 2: Medved219 ($52.84 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Seat 4: daria130399 ($54.24 in chips) 
+daria130399: posts small blind $0.25
+deniss955: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+DOA1980: folds 
+daria130399: raises $0.75 to $1.25
+deniss955: calls $0.75
+*** FLOP *** [2h Ks 3d]
+daria130399: bets $0.79
+deniss955: calls $0.79
+*** TURN *** [2h Ks 3d] [7h]
+daria130399: bets $1.28
+deniss955: calls $1.28
+*** RIVER *** [2h Ks 3d 7h] [Jd]
+daria130399: checks 
+deniss955: bets $1
+daria130399: calls $1
+*** SHOW DOWN ***
+deniss955: shows [Kc 8h] (a pair of Kings)
+daria130399: mucks hand 
+deniss955 collected $8.21 from pot
+*** SUMMARY ***
+Total pot $8.64 | Rake $0.43 
+Board [2h Ks 3d 7h Jd]
+Seat 1: deniss955 (big blind) showed [Kc 8h] and won ($8.21) with a pair of Kings
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) mucked
+
+
+
+PokerStars Hand #228677083941:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:23:54 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 1: deniss955 ($46.83 in chips) 
+Seat 2: Medved219 ($52.84 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Seat 4: daria130399 ($50 in chips) 
+deniss955: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980: folds 
+daria130399: raises $0.75 to $1.25
+deniss955: folds 
+Medved219: raises $3.75 to $5
+daria130399: folds 
+Uncalled bet ($3.75) returned to Medved219
+Medved219 collected $2.75 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0 
+Seat 1: deniss955 (small blind) folded before Flop
+Seat 2: Medved219 (big blind) collected ($2.75)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 (button) folded before Flop
+
+
+
+PokerStars Hand #228677088192:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:24:14 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: deniss955 ($46.58 in chips) 
+Seat 2: Medved219 ($54.34 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Seat 4: daria130399 ($50 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: raises $0.75 to $1.25
+deniss955: folds 
+Medved219: folds 
+DOA1980: folds 
+Uncalled bet ($0.75) returned to daria130399
+daria130399 collected $1.25 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: deniss955 (button) folded before Flop (didn't bet)
+Seat 2: Medved219 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) folded before Flop
+Seat 4: daria130399 collected ($1.25)
+
+
+
+PokerStars Hand #228677090536:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:24:25 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: deniss955 ($46.58 in chips) 
+Seat 2: Medved219 ($54.09 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Seat 4: daria130399 ($50.75 in chips) 
+DOA1980: posts small blind $0.25
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+deniss955: folds 
+Medved219: folds 
+DOA1980: folds 
+Uncalled bet ($0.25) returned to daria130399
+daria130399 collected $0.50 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: deniss955 folded before Flop (didn't bet)
+Seat 2: Medved219 (button) folded before Flop (didn't bet)
+Seat 3: DOA1980 (small blind) folded before Flop
+Seat 4: daria130399 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228677092140:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:24:32 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: deniss955 ($46.58 in chips) 
+Seat 2: Medved219 ($54.09 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Seat 4: daria130399 ($51 in chips) 
+daria130399: posts small blind $0.25
+deniss955: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+DOA1980: folds 
+daria130399: raises $1 to $1.50
+deniss955: calls $1
+*** FLOP *** [4h 8s 5s]
+daria130399: checks 
+deniss955: checks 
+*** TURN *** [4h 8s 5s] [9s]
+Kraftkueche joins the table at seat #5 
+daria130399: bets $1.45
+deniss955: calls $1.45
+*** RIVER *** [4h 8s 5s 9s] [4d]
+daria130399: checks 
+okroznaj joins the table at seat #6 
+deniss955: checks 
+*** SHOW DOWN ***
+daria130399: shows [Kh Qs] (a pair of Fours)
+deniss955: mucks hand 
+daria130399 collected $5.60 from pot
+evolenko2705 joins the table at seat #7 
+*** SUMMARY ***
+Total pot $5.90 | Rake $0.30 
+Board [4h 8s 5s 9s 4d]
+Seat 1: deniss955 (big blind) mucked
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) showed [Kh Qs] and won ($5.60) with a pair of Fours
+
+
+
+PokerStars Hand #228677103589:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:25:02 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 1: deniss955 ($43.63 in chips) 
+Seat 2: Medved219 ($54.09 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Seat 4: daria130399 ($53.65 in chips) 
+deniss955: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R joins the table at seat #8 
+daria130399: raises $0.75 to $1.25
+deniss955: folds 
+Medved219: calls $0.75
+*** FLOP *** [5d 2c Jc]
+SOLDI MOLDI joins the table at seat #9 
+Medved219: checks 
+daria130399: bets $1.33
+Medved219: raises $3.67 to $5
+daria130399: calls $3.67
+*** TURN *** [5d 2c Jc] [Qs]
+Medved219: bets $8.50
+daria130399: raises $38.90 to $47.40 and is all-in
+Medved219: folds 
+Uncalled bet ($38.90) returned to daria130399
+daria130399 collected $29 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $29.75 | Rake $0.75 
+Board [5d 2c Jc Qs]
+Seat 1: deniss955 (small blind) folded before Flop
+Seat 2: Medved219 (big blind) folded on the Turn
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 (button) collected ($29)
+
+
+
+PokerStars Hand #228677118636:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:26:11 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: deniss955 ($43.38 in chips) 
+Seat 2: Medved219 ($50 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Seat 4: daria130399 ($67.90 in chips) 
+Seat 6: okroznaj ($50 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+Kraftkueche: sits out 
+okroznaj: posts big blind $0.50
+evolenko2705: sits out 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: sits out 
+SOLDI MOLDI: sits out 
+*** HOLE CARDS ***
+daria130399: folds 
+okroznaj: checks 
+deniss955: folds 
+Medved219: raises $1.50 to $2
+DOA1980: folds 
+okroznaj: folds 
+Uncalled bet ($1.50) returned to Medved219
+Medved219 collected $1.50 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: deniss955 (button) folded before Flop (didn't bet)
+Seat 2: Medved219 (small blind) collected ($1.50)
+Seat 3: DOA1980 (big blind) folded before Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677126263:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:26:46 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: deniss955 ($43.38 in chips) 
+Seat 2: Medved219 ($51 in chips) 
+Seat 3: DOA1980 ($50 in chips) 
+Seat 4: daria130399 ($67.90 in chips) 
+Seat 5: Kraftkueche ($50 in chips) 
+Seat 6: okroznaj ($49.50 in chips) 
+DOA1980: posts small blind $0.25
+daria130399: posts big blind $0.50
+Kraftkueche: posts big blind $0.50
+evolenko2705: sits out 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: sits out 
+SOLDI MOLDI: sits out 
+*** HOLE CARDS ***
+Kraftkueche: checks 
+okroznaj: folds 
+deniss955: raises $0.50 to $1
+Medved219: folds 
+DOA1980: raises $4 to $5
+daria130399: folds 
+Kraftkueche: folds 
+deniss955: calls $4
+*** FLOP *** [8d Jh Td]
+DOA1980: checks 
+deniss955: checks 
+*** TURN *** [8d Jh Td] [Qc]
+DOA1980: bets $14.11
+deniss955: folds 
+Uncalled bet ($14.11) returned to DOA1980
+DOA1980 collected $10.45 from pot
+DOA1980: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [8d Jh Td Qc]
+Seat 1: deniss955 folded on the Turn
+Seat 2: Medved219 (button) folded before Flop (didn't bet)
+Seat 3: DOA1980 (small blind) collected ($10.45)
+Seat 4: daria130399 (big blind) folded before Flop
+Seat 5: Kraftkueche folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677178970:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:30:50 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 1: deniss955 ($31.52 in chips) 
+Seat 2: Medved219 ($51 in chips) 
+Seat 3: DOA1980 ($55.45 in chips) 
+Seat 4: daria130399 ($73.98 in chips) 
+Seat 5: Kraftkueche ($51.69 in chips) 
+Seat 6: okroznaj ($46.25 in chips) 
+Seat 7: evolenko2705 ($50 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($50 in chips) 
+Seat 9: SOLDI MOLDI ($52.25 in chips) 
+SOLDI MOLDI: posts small blind $0.25
+deniss955: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+DOA1980: folds 
+daria130399: folds 
+Kraftkueche: folds 
+okroznaj: calls $0.50
+evolenko2705: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: raises $1.50 to $2
+SOLDI MOLDI: folds 
+deniss955: folds 
+okroznaj: folds 
+Uncalled bet ($1.50) returned to D‚‚Ç¨†est7oye‚‚Ç¨†R
+D‚‚Ç¨†est7oye‚‚Ç¨†R collected $1.75 from pot
+D‚‚Ç¨†est7oye‚‚Ç¨†R: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: deniss955 (big blind) folded before Flop
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: Kraftkueche folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop
+Seat 7: evolenko2705 folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R (button) collected ($1.75)
+Seat 9: SOLDI MOLDI (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677184818:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:31:16 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 1: deniss955 ($31.02 in chips) 
+Seat 2: Medved219 ($51 in chips) 
+Seat 3: DOA1980 ($55.45 in chips) 
+Seat 4: daria130399 ($73.98 in chips) 
+Seat 5: Kraftkueche ($51.69 in chips) 
+Seat 6: okroznaj ($45.75 in chips) 
+Seat 7: evolenko2705 ($50 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($51.25 in chips) 
+Seat 9: SOLDI MOLDI ($52 in chips) 
+deniss955: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980: raises $0.75 to $1.25
+daria130399: folds 
+Kraftkueche: folds 
+okroznaj: raises $0.75 to $2
+evolenko2705: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+SOLDI MOLDI: folds 
+deniss955: folds 
+Medved219: folds 
+DOA1980: calls $0.75
+*** FLOP *** [4h Ac Th]
+DOA1980: checks 
+okroznaj: bets $2.25
+DOA1980: calls $2.25
+*** TURN *** [4h Ac Th] [9h]
+DOA1980: checks 
+okroznaj: bets $4.39
+DOA1980: calls $4.39
+*** RIVER *** [4h Ac Th 9h] [6s]
+DOA1980: checks 
+okroznaj: checks 
+*** SHOW DOWN ***
+DOA1980: shows [Ad Ks] (a pair of Aces)
+okroznaj: mucks hand 
+DOA1980 collected $17.13 from pot
+*** SUMMARY ***
+Total pot $18.03 | Rake $0.90 
+Board [4h Ac Th 9h 6s]
+Seat 1: deniss955 (small blind) folded before Flop
+Seat 2: Medved219 (big blind) folded before Flop
+Seat 3: DOA1980 showed [Ad Ks] and won ($17.13) with a pair of Aces
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: Kraftkueche folded before Flop (didn't bet)
+Seat 6: okroznaj mucked
+Seat 7: evolenko2705 folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 9: SOLDI MOLDI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677213832:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:33:28 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: deniss955 ($32.38 in chips) 
+Seat 2: Medved219 ($50.25 in chips) 
+Seat 3: DOA1980 ($63.44 in chips) 
+Seat 4: daria130399 ($73.98 in chips) 
+Seat 5: Kraftkueche ($51.69 in chips) 
+Seat 6: okroznaj ($36.11 in chips) 
+Seat 7: evolenko2705 ($50 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($51.25 in chips) 
+Seat 9: SOLDI MOLDI ($52 in chips) 
+DOA1980: posts small blind $0.25
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+Kraftkueche: folds 
+okroznaj: calls $0.50
+evolenko2705: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: raises $1.50 to $2
+SOLDI MOLDI: folds 
+deniss955: folds 
+Medved219: folds 
+DOA1980: folds 
+daria130399: folds 
+okroznaj: calls $1.50
+*** FLOP *** [4s 5s Ts]
+okroznaj: checks 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: bets $1.35
+okroznaj: folds 
+Uncalled bet ($1.35) returned to D‚‚Ç¨†est7oye‚‚Ç¨†R
+D‚‚Ç¨†est7oye‚‚Ç¨†R collected $4.51 from pot
+D‚‚Ç¨†est7oye‚‚Ç¨†R: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [4s 5s Ts]
+Seat 1: deniss955 folded before Flop (didn't bet)
+Seat 2: Medved219 (button) folded before Flop (didn't bet)
+Seat 3: DOA1980 (small blind) folded before Flop
+Seat 4: daria130399 (big blind) folded before Flop
+Seat 5: Kraftkueche folded before Flop (didn't bet)
+Seat 6: okroznaj folded on the Flop
+Seat 7: evolenko2705 folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R collected ($4.51)
+Seat 9: SOLDI MOLDI folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677225379:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:34:20 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: deniss955 ($32.38 in chips) 
+Seat 2: Medved219 ($50.25 in chips) 
+Seat 3: DOA1980 ($63.19 in chips) 
+Seat 4: daria130399 ($73.48 in chips) 
+Seat 5: Kraftkueche ($51.69 in chips) 
+Seat 6: okroznaj ($34.11 in chips) 
+Seat 7: evolenko2705 ($50 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($53.76 in chips) 
+Seat 9: SOLDI MOLDI ($52 in chips) 
+daria130399: posts small blind $0.25
+Kraftkueche: posts big blind $0.50
+*** HOLE CARDS ***
+okroznaj: folds 
+evolenko2705: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: raises $1 to $1.50
+SOLDI MOLDI: folds 
+deniss955: folds 
+Medved219: folds 
+DOA1980: calls $1.50
+daria130399: folds 
+Kraftkueche: folds 
+*** FLOP *** [7h 7s Jd]
+D‚‚Ç¨†est7oye‚‚Ç¨†R: checks 
+DOA1980: bets $1.10
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Uncalled bet ($1.10) returned to DOA1980
+DOA1980 collected $3.56 from pot
+DOA1980: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [7h 7s Jd]
+Seat 1: deniss955 folded before Flop (didn't bet)
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 (button) collected ($3.56)
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 5: Kraftkueche (big blind) folded before Flop
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: evolenko2705 folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded on the Flop
+Seat 9: SOLDI MOLDI folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677233209:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:34:56 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 1: deniss955 ($32.38 in chips) 
+Seat 2: Medved219 ($50.25 in chips) 
+Seat 3: DOA1980 ($65.25 in chips) 
+Seat 4: daria130399 ($73.23 in chips) 
+Seat 5: Kraftkueche ($51.19 in chips) 
+Seat 6: okroznaj ($34.11 in chips) 
+Seat 7: evolenko2705 ($50 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($52.26 in chips) 
+Seat 9: SOLDI MOLDI ($52 in chips) 
+deniss955 is disconnected 
+Kraftkueche: posts small blind $0.25
+okroznaj: posts big blind $0.50
+*** HOLE CARDS ***
+evolenko2705: raises $0.80 to $1.30
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+SOLDI MOLDI: folds 
+deniss955 has timed out while disconnected
+deniss955: folds 
+Medved219: folds 
+DOA1980: folds 
+daria130399: folds 
+Kraftkueche: folds 
+okroznaj: calls $0.80
+*** FLOP *** [As Js 3s]
+Kraftkueche leaves the table
+okroznaj: checks 
+evolenko2705: bets $0.89
+DOA1980 leaves the table
+okroznaj: folds 
+Uncalled bet ($0.89) returned to evolenko2705
+SOLDI MOLDI leaves the table
+evolenko2705 collected $2.71 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.14 
+Board [As Js 3s]
+Seat 1: deniss955 folded before Flop (didn't bet)
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 5: Kraftkueche (small blind) folded before Flop
+Seat 6: okroznaj (big blind) folded on the Flop
+Seat 7: evolenko2705 collected ($2.71)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 9: SOLDI MOLDI folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677242348:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:35:37 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 1: deniss955 ($32.38 in chips) 
+Seat 2: Medved219 ($50.25 in chips) 
+Seat 4: daria130399 ($73.23 in chips) 
+Seat 6: okroznaj ($32.81 in chips) 
+Seat 7: evolenko2705 ($51.41 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($52.26 in chips) 
+evolenko2705: posts small blind $0.25
+D‚‚Ç¨†est7oye‚‚Ç¨†R: posts big blind $0.50
+*** HOLE CARDS ***
+deniss955: folds 
+Medved219: folds 
+daria130399: raises $0.75 to $1.25
+okroznaj: folds 
+evolenko2705: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Uncalled bet ($0.75) returned to daria130399
+daria130399 collected $1.25 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: deniss955 folded before Flop (didn't bet)
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 4: daria130399 collected ($1.25)
+Seat 6: okroznaj (button) folded before Flop (didn't bet)
+Seat 7: evolenko2705 (small blind) folded before Flop
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677248760:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:36:06 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 1: deniss955 ($32.38 in chips) 
+Seat 2: Medved219 ($50.25 in chips) 
+Seat 4: daria130399 ($73.98 in chips) 
+Seat 6: okroznaj ($32.81 in chips) 
+Seat 7: evolenko2705 ($51.16 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($51.76 in chips) 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: posts small blind $0.25
+deniss955: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+daria130399: folds 
+okroznaj: folds 
+evolenko2705: raises $0.75 to $1.25
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+deniss955: folds 
+Uncalled bet ($0.75) returned to evolenko2705
+evolenko2705 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: deniss955 (big blind) folded before Flop
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: evolenko2705 (button) collected ($1.25)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677252210:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:36:22 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 1: deniss955 ($31.88 in chips) 
+Seat 2: Medved219 ($50.25 in chips) 
+Seat 4: daria130399 ($73.98 in chips) 
+Seat 6: okroznaj ($32.81 in chips) 
+Seat 7: evolenko2705 ($51.91 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($51.51 in chips) 
+deniss955: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: folds 
+okroznaj: folds 
+evolenko2705: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+DOA1980 joins the table at seat #3 
+deniss955: raises $0.50 to $1
+Medved219: calls $0.50
+*** FLOP *** [5h 9h 7c]
+deniss955: bets $1
+Medved219: raises $2 to $3
+deniss955: calls $2
+*** TURN *** [5h 9h 7c] [Kh]
+deniss955: checks 
+MrFalll joins the table at seat #9 
+Medved219: bets $3.50
+deniss955: calls $3.50
+*** RIVER *** [5h 9h 7c Kh] [3d]
+deniss955: bets $4
+Medved219: raises $38.75 to $42.75 and is all-in
+deniss955: calls $20.38 and is all-in
+Uncalled bet ($18.37) returned to Medved219
+VinnerG joins the table at seat #5 
+*** SHOW DOWN ***
+Medved219: shows [3h Ah] (a flush, Ace high)
+deniss955: shows [8h 7h] (a flush, King high)
+Medved219 collected $61.76 from pot
+*** SUMMARY ***
+Total pot $63.76 | Rake $2 
+Board [5h 9h 7c Kh 3d]
+Seat 1: deniss955 (small blind) showed [8h 7h] and lost with a flush, King high
+Seat 2: Medved219 (big blind) showed [3h Ah] and won ($61.76) with a flush, Ace high
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: evolenko2705 folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677264904:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:37:18 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 2: Medved219 ($80.13 in chips) 
+Seat 4: daria130399 ($73.98 in chips) 
+Seat 5: VinnerG ($40 in chips) 
+Seat 6: okroznaj ($32.81 in chips) 
+Seat 7: evolenko2705 ($51.91 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($51.51 in chips) 
+Seat 9: MrFalll ($20 in chips) 
+daria130399: posts small blind $0.25
+VinnerG: posts big blind $0.50
+MrFalll: posts big blind $0.50
+*** HOLE CARDS ***
+okroznaj: folds 
+evolenko2705: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+MrFalll: raises $1 to $1.50
+Medved219: folds 
+daria130399: raises $2.75 to $4.25
+VinnerG: folds 
+MrFalll: calls $2.75
+*** FLOP *** [6s Kd Th]
+deniss955 is disconnected 
+daria130399: checks 
+MrFalll: bets $4.28
+daria130399: calls $4.28
+*** TURN *** [6s Kd Th] [5h]
+daria130399: checks 
+MrFalll: checks 
+*** RIVER *** [6s Kd Th 5h] [As]
+daria130399: bets $11.50
+MrFalll: calls $11.47 and is all-in
+Uncalled bet ($0.03) returned to daria130399
+*** SHOW DOWN ***
+daria130399: shows [Ac Ah] (three of a kind, Aces)
+MrFalll: shows [Jh Ks] (a pair of Kings)
+daria130399 collected $38.50 from pot
+*** SUMMARY ***
+Total pot $40.50 | Rake $2 
+Board [6s Kd Th 5h As]
+Seat 2: Medved219 (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) showed [Ac Ah] and won ($38.50) with three of a kind, Aces
+Seat 5: VinnerG (big blind) folded before Flop
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: evolenko2705 folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 9: MrFalll showed [Jh Ks] and lost with a pair of Kings
+
+
+
+PokerStars Hand #228677282250:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:38:35 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 2: Medved219 ($80.13 in chips) 
+Seat 4: daria130399 ($92.48 in chips) 
+Seat 5: VinnerG ($39.50 in chips) 
+Seat 6: okroznaj ($32.81 in chips) 
+Seat 7: evolenko2705 ($51.91 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($51.51 in chips) 
+VinnerG: posts small blind $0.25
+okroznaj: posts big blind $0.50
+DOA1980: sits out 
+*** HOLE CARDS ***
+evolenko2705: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: raises $1 to $1.50
+Medved219: folds 
+daria130399: calls $1.50
+VinnerG: folds 
+okroznaj: folds 
+*** FLOP *** [8d Qh 4c]
+evolenko2705 leaves the table
+D‚‚Ç¨†est7oye‚‚Ç¨†R: bets $1.07
+daria130399: calls $1.07
+*** TURN *** [8d Qh 4c] [3d]
+dikanmax joins the table at seat #7 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: bets $4.20
+daria130399: calls $4.20
+*** RIVER *** [8d Qh 4c 3d] [Jd]
+D‚‚Ç¨†est7oye‚‚Ç¨†R: bets $4.07
+daria130399: calls $4.07
+*** SHOW DOWN ***
+D‚‚Ç¨†est7oye‚‚Ç¨†R: shows [Ks Kc] (a pair of Kings)
+daria130399: mucks hand 
+D‚‚Ç¨†est7oye‚‚Ç¨†R collected $21.31 from pot
+*** SUMMARY ***
+Total pot $22.43 | Rake $1.12 
+Board [8d Qh 4c 3d Jd]
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 4: daria130399 (button) mucked
+Seat 5: VinnerG (small blind) folded before Flop
+Seat 6: okroznaj (big blind) folded before Flop
+Seat 7: evolenko2705 folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R showed [Ks Kc] and won ($21.31) with a pair of Kings
+
+
+
+PokerStars Hand #228677293151:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:39:24 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 2: Medved219 ($80.13 in chips) 
+Seat 4: daria130399 ($81.64 in chips) 
+Seat 5: VinnerG ($39.25 in chips) 
+Seat 6: okroznaj ($32.31 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($61.98 in chips) 
+Seat 9: MrFalll ($20 in chips) 
+okroznaj: posts small blind $0.25
+dikanmax: posts big blind $0.50
+DOA1980: sits out 
+*** HOLE CARDS ***
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+MrFalll: raises $1 to $1.50
+Medved219: folds 
+daria130399: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Uncalled bet ($1) returned to MrFalll
+MrFalll collected $1.25 from pot
+MrFalll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: VinnerG (button) folded before Flop (didn't bet)
+Seat 6: okroznaj (small blind) folded before Flop
+Seat 7: dikanmax (big blind) folded before Flop
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 9: MrFalll collected ($1.25)
+
+
+
+PokerStars Hand #228677297744:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:39:44 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 2: Medved219 ($80.13 in chips) 
+Seat 4: daria130399 ($81.64 in chips) 
+Seat 5: VinnerG ($39.25 in chips) 
+Seat 6: okroznaj ($32.06 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 9: MrFalll ($20.75 in chips) 
+dikanmax: posts small blind $0.25
+D‚‚Ç¨†est7oye‚‚Ç¨†R: is sitting out 
+MrFalll: posts big blind $0.50
+DOA1980: sits out 
+*** HOLE CARDS ***
+Medved219: folds 
+daria130399: folds 
+VinnerG: folds 
+okroznaj: calls $0.50
+dikanmax: folds 
+MrFalll: raises $1 to $1.50
+okroznaj: calls $1
+*** FLOP *** [4h Tc 9c]
+MrFalll: bets $1.55
+okroznaj: folds 
+Uncalled bet ($1.55) returned to MrFalll
+MrFalll collected $3.09 from pot
+MrFalll: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [4h Tc 9c]
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj (button) folded on the Flop
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 9: MrFalll (big blind) collected ($3.09)
+
+
+
+PokerStars Hand #228677304476:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:40:14 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 2: Medved219 ($80.13 in chips) 
+Seat 4: daria130399 ($81.64 in chips) 
+Seat 5: VinnerG ($39.25 in chips) 
+Seat 6: okroznaj ($30.56 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 9: MrFalll ($22.34 in chips) 
+MrFalll: posts small blind $0.25
+Medved219: posts big blind $0.50
+DOA1980: sits out 
+*** HOLE CARDS ***
+daria130399: raises $0.50 to $1
+VinnerG: raises $1 to $2
+okroznaj: folds 
+dikanmax: raises $4.25 to $6.25
+MrFalll: folds 
+Medved219: folds 
+daria130399: folds 
+VinnerG: calls $4.25
+*** FLOP *** [9c Jd Ts]
+VinnerG: checks 
+dikanmax: checks 
+*** TURN *** [9c Jd Ts] [9d]
+VinnerG: checks 
+dikanmax: checks 
+*** RIVER *** [9c Jd Ts 9d] [Kc]
+VinnerG: checks 
+dikanmax: bets $9.25
+VinnerG: folds 
+Uncalled bet ($9.25) returned to dikanmax
+dikanmax collected $13.54 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.25 | Rake $0.71 
+Board [9c Jd Ts 9d Kc]
+Seat 2: Medved219 (big blind) folded before Flop
+Seat 4: daria130399 folded before Flop
+Seat 5: VinnerG folded on the River
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax (button) collected ($13.54)
+Seat 9: MrFalll (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677320739:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:41:27 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 2: Medved219 ($79.63 in chips) 
+Seat 3: DOA1980 ($65.25 in chips) 
+Seat 4: daria130399 ($80.64 in chips) 
+Seat 5: VinnerG ($33 in chips) 
+Seat 6: okroznaj ($30.56 in chips) 
+Seat 7: dikanmax ($57.29 in chips) 
+Seat 9: MrFalll ($22.09 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+D‚‚Ç¨†est7oye‚‚Ç¨†R: sits out 
+*** HOLE CARDS ***
+daria130399: folds 
+VinnerG: raises $0.50 to $1
+okroznaj: folds 
+dikanmax: folds 
+MrFalll: calls $1
+Medved219: folds 
+DOA1980: folds 
+*** FLOP *** [9s Qc 3s]
+VinnerG: checks 
+MrFalll: checks 
+*** TURN *** [9s Qc 3s] [6s]
+VinnerG: checks 
+MrFalll: checks 
+*** RIVER *** [9s Qc 3s 6s] [Ac]
+VinnerG: checks 
+MrFalll: checks 
+*** SHOW DOWN ***
+VinnerG: shows [Ah Jh] (a pair of Aces)
+MrFalll: mucks hand 
+VinnerG collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [9s Qc 3s 6s Ac]
+Seat 2: Medved219 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) folded before Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: VinnerG showed [Ah Jh] and won ($2.61) with a pair of Aces
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 9: MrFalll (button) mucked
+
+
+
+PokerStars Hand #228677329281:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:42:05 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 2: Medved219 ($79.38 in chips) 
+Seat 3: DOA1980 ($64.75 in chips) 
+Seat 4: daria130399 ($80.64 in chips) 
+Seat 5: VinnerG ($34.61 in chips) 
+Seat 6: okroznaj ($30.56 in chips) 
+Seat 7: dikanmax ($57.29 in chips) 
+Seat 9: MrFalll ($21.09 in chips) 
+DOA1980: posts small blind $0.25
+daria130399: posts big blind $0.50
+D‚‚Ç¨†est7oye‚‚Ç¨†R: sits out 
+*** HOLE CARDS ***
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+MrFalll: raises $1 to $1.50
+Medved219: folds 
+DOA1980: folds 
+daria130399: calls $1
+*** FLOP *** [3h 8h Jh]
+daria130399: checks 
+MrFalll: bets $2
+daria130399: folds 
+Uncalled bet ($2) returned to MrFalll
+MrFalll collected $3.09 from pot
+MrFalll: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [3h 8h Jh]
+Seat 2: Medved219 (button) folded before Flop (didn't bet)
+Seat 3: DOA1980 (small blind) folded before Flop
+Seat 4: daria130399 (big blind) folded on the Flop
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 9: MrFalll collected ($3.09)
+
+
+
+PokerStars Hand #228677339356:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:42:50 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 2: Medved219 ($79.38 in chips) 
+Seat 3: DOA1980 ($64.50 in chips) 
+Seat 4: daria130399 ($79.14 in chips) 
+Seat 5: VinnerG ($34.61 in chips) 
+Seat 6: okroznaj ($30.56 in chips) 
+Seat 7: dikanmax ($57.29 in chips) 
+Seat 9: MrFalll ($22.68 in chips) 
+daria130399: posts small blind $0.25
+VinnerG: posts big blind $0.50
+D‚‚Ç¨†est7oye‚‚Ç¨†R: sits out 
+*** HOLE CARDS ***
+okroznaj: folds 
+dikanmax: folds 
+MrFalll: folds 
+Medved219: folds 
+DOA1980: folds 
+daria130399: folds 
+Uncalled bet ($0.25) returned to VinnerG
+VinnerG collected $0.50 from pot
+VinnerG: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 5: VinnerG (big blind) collected ($0.50)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 9: MrFalll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677343287:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:43:08 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 2: Medved219 ($79.38 in chips) 
+Seat 3: DOA1980 ($64.50 in chips) 
+Seat 4: daria130399 ($78.89 in chips) 
+Seat 5: VinnerG ($34.86 in chips) 
+Seat 6: okroznaj ($30.56 in chips) 
+Seat 7: dikanmax ($57.29 in chips) 
+Seat 9: MrFalll ($22.68 in chips) 
+VinnerG: posts small blind $0.25
+okroznaj: posts big blind $0.50
+D‚‚Ç¨†est7oye‚‚Ç¨†R: sits out 
+*** HOLE CARDS ***
+dikanmax: folds 
+MrFalll: calls $0.50
+Medved219: folds 
+DOA1980: raises $1.50 to $2
+daria130399: folds 
+VinnerG: folds 
+okroznaj: folds 
+MrFalll: folds 
+Uncalled bet ($1.50) returned to DOA1980
+DOA1980 collected $1.75 from pot
+DOA1980: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 collected ($1.75)
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 5: VinnerG (small blind) folded before Flop
+Seat 6: okroznaj (big blind) folded before Flop
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 9: MrFalll folded before Flop
+
+
+
+PokerStars Hand #228677347428:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:43:27 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 2: Medved219 ($79.38 in chips) 
+Seat 3: DOA1980 ($65.75 in chips) 
+Seat 4: daria130399 ($78.89 in chips) 
+Seat 5: VinnerG ($34.61 in chips) 
+Seat 6: okroznaj ($30.06 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($61.98 in chips) 
+Seat 9: MrFalll ($22.18 in chips) 
+okroznaj: posts small blind $0.25
+dikanmax: is sitting out 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: posts big blind $0.50
+*** HOLE CARDS ***
+MrFalll: calls $0.50
+Medved219: folds 
+DOA1980: raises $1.50 to $2
+daria130399: folds 
+VinnerG: folds 
+okroznaj: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+MrFalll: calls $1.50
+*** FLOP *** [Kc 5h 6h]
+MrFalll: checks 
+DOA1980: bets $1.40
+MrFalll: folds 
+Uncalled bet ($1.40) returned to DOA1980
+DOA1980 collected $4.51 from pot
+DOA1980: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [Kc 5h 6h]
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 collected ($4.51)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: VinnerG (button) folded before Flop (didn't bet)
+Seat 6: okroznaj (small blind) folded before Flop
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R (big blind) folded before Flop
+Seat 9: MrFalll folded on the Flop
+
+
+
+PokerStars Hand #228677354222:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:43:57 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 2: Medved219 ($79.38 in chips) 
+Seat 3: DOA1980 ($68.26 in chips) 
+Seat 4: daria130399 ($78.89 in chips) 
+Seat 5: VinnerG ($34.61 in chips) 
+Seat 6: okroznaj ($29.81 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($61.48 in chips) 
+Seat 9: MrFalll ($20.18 in chips) 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: posts small blind $0.25
+MrFalll: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+DOA1980: folds 
+daria130399: raises $0.75 to $1.25
+VinnerG: folds 
+okroznaj: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+MrFalll: folds 
+Uncalled bet ($0.75) returned to daria130399
+daria130399 collected $1.25 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 collected ($1.25)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj (button) folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R (small blind) folded before Flop
+Seat 9: MrFalll (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677357752:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:44:13 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 2: Medved219 ($79.38 in chips) 
+Seat 3: DOA1980 ($68.26 in chips) 
+Seat 4: daria130399 ($79.64 in chips) 
+Seat 5: VinnerG ($34.61 in chips) 
+Seat 6: okroznaj ($29.81 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($61.23 in chips) 
+Seat 9: MrFalll ($19.68 in chips) 
+MrFalll: posts small blind $0.25
+Medved219: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980: folds 
+daria130399: raises $1 to $1.50
+VinnerG: folds 
+okroznaj: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+MrFalll: folds 
+Medved219: folds 
+Uncalled bet ($1) returned to daria130399
+daria130399 collected $1.25 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Medved219 (big blind) folded before Flop
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 collected ($1.25)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R (button) folded before Flop (didn't bet)
+Seat 9: MrFalll (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677361600:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:44:30 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 2: Medved219 ($78.88 in chips) 
+Seat 3: DOA1980 ($68.26 in chips) 
+Seat 4: daria130399 ($80.39 in chips) 
+Seat 5: VinnerG ($34.61 in chips) 
+Seat 6: okroznaj ($29.81 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($61.23 in chips) 
+Seat 9: MrFalll ($19.43 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: folds 
+VinnerG: folds 
+okroznaj: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+MrFalll: raises $1 to $1.50
+Medved219: folds 
+DOA1980: folds 
+Uncalled bet ($1) returned to MrFalll
+MrFalll collected $1.25 from pot
+MrFalll: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Medved219 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) folded before Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 9: MrFalll (button) collected ($1.25)
+
+
+
+PokerStars Hand #228677365046:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:44:45 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 2: Medved219 ($78.63 in chips) 
+Seat 3: DOA1980 ($67.76 in chips) 
+Seat 4: daria130399 ($80.39 in chips) 
+Seat 5: VinnerG ($34.61 in chips) 
+Seat 6: okroznaj ($29.81 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($61.23 in chips) 
+Seat 9: MrFalll ($20.18 in chips) 
+DOA1980: posts small blind $0.25
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+VinnerG: folds 
+okroznaj: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+MrFalll: folds 
+Medved219: folds 
+DOA1980: folds 
+Uncalled bet ($0.25) returned to daria130399
+daria130399 collected $0.50 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Medved219 (button) folded before Flop (didn't bet)
+Seat 3: DOA1980 (small blind) folded before Flop
+Seat 4: daria130399 (big blind) collected ($0.50)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 9: MrFalll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677369400:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:45:05 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 2: Medved219 ($78.63 in chips) 
+Seat 3: DOA1980 ($67.51 in chips) 
+Seat 4: daria130399 ($80.64 in chips) 
+Seat 5: VinnerG ($34.61 in chips) 
+Seat 6: okroznaj ($29.81 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($61.23 in chips) 
+Seat 9: MrFalll ($20.18 in chips) 
+daria130399: posts small blind $0.25
+VinnerG: posts big blind $0.50
+*** HOLE CARDS ***
+okroznaj: calls $0.50
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+MrFalll: raises $1.75 to $2.25
+Medved219: folds 
+DOA1980: folds 
+daria130399: folds 
+VinnerG: folds 
+okroznaj: raises $27.56 to $29.81 and is all-in
+MrFalll: calls $17.93 and is all-in
+Uncalled bet ($9.63) returned to okroznaj
+MrFalll:  
+okroznaj has timed out
+okroznaj:  
+*** FLOP *** [As 3c 8c]
+*** TURN *** [As 3c 8c] [4h]
+*** RIVER *** [As 3c 8c 4h] [2d]
+*** SHOW DOWN ***
+okroznaj: shows [Ac Qh] (a pair of Aces)
+MrFalll: shows [5d Qd] (a straight, Ace to Five)
+MrFalll collected $39.11 from pot
+*** SUMMARY ***
+Total pot $41.11 | Rake $2 
+Board [As 3c 8c 4h 2d]
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 5: VinnerG (big blind) folded before Flop
+Seat 6: okroznaj showed [Ac Qh] and lost with a pair of Aces
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+Seat 9: MrFalll showed [5d Qd] and won ($39.11) with a straight, Ace to Five
+
+
+
+PokerStars Hand #228677415694:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:48:30 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 2: Medved219 ($66.07 in chips) 
+Seat 3: DOA1980 ($67.51 in chips) 
+Seat 4: daria130399 ($81.21 in chips) 
+Seat 5: VinnerG ($33.86 in chips) 
+Seat 6: okroznaj ($10.21 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($60.73 in chips) 
+Seat 9: MrFalll ($48.83 in chips) 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: posts small blind $0.25
+MrFalll: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+DOA1980: folds 
+daria130399: raises $1 to $1.50
+VinnerG: folds 
+okroznaj: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Slami4 joins the table at seat #1 
+MrFalll: folds 
+Uncalled bet ($1) returned to daria130399
+daria130399 collected $1.25 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 collected ($1.25)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj (button) folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R (small blind) folded before Flop
+Seat 9: MrFalll (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677420300:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:48:50 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: Medved219 ($66.07 in chips) 
+Seat 3: DOA1980 ($67.51 in chips) 
+Seat 4: daria130399 ($81.96 in chips) 
+Seat 5: VinnerG ($33.86 in chips) 
+Seat 6: okroznaj ($10.21 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($60.48 in chips) 
+Seat 9: MrFalll ($48.33 in chips) 
+MrFalll: posts small blind $0.25
+Slami4: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+DOA1980: folds 
+daria130399: folds 
+VinnerG: folds 
+okroznaj: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+MrFalll: folds 
+Uncalled bet ($0.25) returned to Slami4
+MrFalll leaves the table
+Slami4 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Slami4 (big blind) collected ($0.50)
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R (button) folded before Flop (didn't bet)
+Seat 9: MrFalll (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677425191:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:49:12 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: Slami4 ($50.25 in chips) 
+Seat 2: Medved219 ($66.07 in chips) 
+Seat 3: DOA1980 ($67.51 in chips) 
+Seat 4: daria130399 ($81.96 in chips) 
+Seat 5: VinnerG ($33.86 in chips) 
+Seat 6: okroznaj ($10.21 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($60.48 in chips) 
+Medved219: posts small blind $0.25
+DOA1980: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: folds 
+VinnerG: folds 
+Mmago24 joins the table at seat #9 
+okroznaj has timed out
+okroznaj: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Slami4: raises $0.75 to $1.25
+Medved219: folds 
+DOA1980: folds 
+Uncalled bet ($0.75) returned to Slami4
+Slami4 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 (button) collected ($1.25)
+Seat 2: Medved219 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) folded before Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677432119:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:49:43 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: Slami4 ($51 in chips) 
+Seat 2: Medved219 ($65.82 in chips) 
+Seat 3: DOA1980 ($67.01 in chips) 
+Seat 4: daria130399 ($81.96 in chips) 
+Seat 5: VinnerG ($33.86 in chips) 
+Seat 6: okroznaj ($10.21 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($60.48 in chips) 
+DOA1980: posts small blind $0.25
+daria130399: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+VinnerG: folds 
+okroznaj: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Slami4: folds 
+Medved219: folds 
+DOA1980: folds 
+Uncalled bet ($0.25) returned to daria130399
+daria130399 collected $0.50 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: Medved219 (button) folded before Flop (didn't bet)
+Seat 3: DOA1980 (small blind) folded before Flop
+Seat 4: daria130399 (big blind) collected ($0.50)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677437874:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:50:08 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: Slami4 ($51 in chips) 
+Seat 2: Medved219 ($65.82 in chips) 
+Seat 3: DOA1980 ($66.76 in chips) 
+Seat 4: daria130399 ($82.21 in chips) 
+Seat 5: VinnerG ($33.86 in chips) 
+Seat 6: okroznaj ($10.21 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($60.48 in chips) 
+daria130399: posts small blind $0.25
+VinnerG: posts big blind $0.50
+dikanmax: sits out 
+Mmago24: sits out 
+*** HOLE CARDS ***
+okroznaj: calls $0.50
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Slami4: folds 
+Medved219: folds 
+DOA1980: folds 
+daria130399: calls $0.25
+VinnerG: checks 
+*** FLOP *** [7s 5c 2d]
+daria130399: checks 
+VinnerG: checks 
+okroznaj: checks 
+*** TURN *** [7s 5c 2d] [8c]
+daria130399: checks 
+VinnerG: checks 
+okroznaj: checks 
+*** RIVER *** [7s 5c 2d 8c] [4h]
+daria130399: checks 
+VinnerG: checks 
+okroznaj: checks 
+*** SHOW DOWN ***
+daria130399: shows [5s 3c] (a pair of Fives)
+VinnerG: mucks hand 
+okroznaj: mucks hand 
+daria130399 collected $1.42 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [7s 5c 2d 8c 4h]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) showed [5s 3c] and won ($1.42) with a pair of Fives
+Seat 5: VinnerG (big blind) mucked
+Seat 6: okroznaj mucked
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677448782:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:50:58 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 1: Slami4 ($51 in chips) 
+Seat 2: Medved219 ($65.82 in chips) 
+Seat 3: DOA1980 ($66.76 in chips) 
+Seat 4: daria130399 ($83.13 in chips) 
+Seat 5: VinnerG ($33.36 in chips) 
+Seat 6: okroznaj ($9.71 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($60.48 in chips) 
+VinnerG: posts small blind $0.25
+okroznaj: posts big blind $0.50
+dikanmax: sits out 
+Mmago24: sits out 
+*** HOLE CARDS ***
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Slami4: raises $1 to $1.50
+Medved219: folds 
+DOA1980: folds 
+daria130399: folds 
+VinnerG: folds 
+okroznaj: folds 
+Uncalled bet ($1) returned to Slami4
+Slami4 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 collected ($1.25)
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 5: VinnerG (small blind) folded before Flop
+Seat 6: okroznaj (big blind) folded before Flop
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677452416:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:51:13 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 1: Slami4 ($51.75 in chips) 
+Seat 2: Medved219 ($65.82 in chips) 
+Seat 3: DOA1980 ($66.76 in chips) 
+Seat 4: daria130399 ($83.13 in chips) 
+Seat 5: VinnerG ($33.11 in chips) 
+Seat 6: okroznaj ($9.21 in chips) 
+Seat 7: dikanmax ($57.29 in chips) 
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R ($60.48 in chips) 
+okroznaj: posts small blind $0.25
+dikanmax: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+D‚‚Ç¨†est7oye‚‚Ç¨†R: folds 
+Slami4: folds 
+Medved219: folds 
+DOA1980: folds 
+daria130399: raises $1 to $1.50
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Uncalled bet ($1) returned to daria130399
+daria130399 collected $1.25 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 collected ($1.25)
+Seat 5: VinnerG (button) folded before Flop (didn't bet)
+Seat 6: okroznaj (small blind) folded before Flop
+Seat 7: dikanmax (big blind) folded before Flop
+Seat 8: D‚‚Ç¨†est7oye‚‚Ç¨†R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677458524:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:51:40 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 1: Slami4 ($51.75 in chips) 
+Seat 2: Medved219 ($65.82 in chips) 
+Seat 3: DOA1980 ($66.76 in chips) 
+Seat 4: daria130399 ($83.88 in chips) 
+Seat 5: VinnerG ($33.11 in chips) 
+Seat 6: okroznaj ($8.96 in chips) 
+Seat 7: dikanmax ($56.79 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+dikanmax: posts small blind $0.25
+D‚‚Ç¨†est7oye‚‚Ç¨†R: is sitting out 
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Slami4: folds 
+Medved219: folds 
+DOA1980: folds 
+daria130399: raises $0.75 to $1.25
+VinnerG: folds 
+okroznaj: raises $7.71 to $8.96 and is all-in
+dikanmax: folds 
+Mmago24: folds 
+D‚‚Ç¨†est7oye‚‚Ç¨†R leaves the table
+daria130399: folds 
+Uncalled bet ($7.71) returned to okroznaj
+okroznaj collected $3.25 from pot
+okroznaj: doesn't show hand 
+Lisenok110 joins the table at seat #8 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj (button) collected ($3.25)
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 9: Mmago24 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677465385:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:52:11 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 1: Slami4 ($51.75 in chips) 
+Seat 2: Medved219 ($65.82 in chips) 
+Seat 3: DOA1980 ($66.76 in chips) 
+Seat 4: daria130399 ($82.63 in chips) 
+Seat 5: VinnerG ($33.11 in chips) 
+Seat 6: okroznaj ($10.96 in chips) 
+Seat 7: dikanmax ($56.54 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+Mmago24: posts small blind $0.25
+Slami4: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+Medved219 leaves the table
+DOA1980: folds 
+daria130399: folds 
+VinnerG: folds 
+okroznaj: calls $0.50
+dikanmax: raises $1.75 to $2.25
+Mmago24: folds 
+Slami4: folds 
+okroznaj: raises $8.71 to $10.96 and is all-in
+dikanmax: folds 
+Uncalled bet ($8.71) returned to okroznaj
+okroznaj collected $5.25 from pot
+okroznaj: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0 
+Seat 1: Slami4 (big blind) folded before Flop
+Seat 2: Medved219 folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj collected ($5.25)
+Seat 7: dikanmax (button) folded before Flop
+Seat 9: Mmago24 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677472436:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:52:42 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 1: Slami4 ($51.25 in chips) 
+Seat 3: DOA1980 ($66.76 in chips) 
+Seat 4: daria130399 ($82.63 in chips) 
+Seat 5: VinnerG ($33.11 in chips) 
+Seat 6: okroznaj ($13.96 in chips) 
+Seat 7: dikanmax ($54.29 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+Slami4: posts small blind $0.25
+DOA1980: posts big blind $0.50
+Lisenok110: sits out 
+*** HOLE CARDS ***
+daria130399: raises $0.75 to $1.25
+VinnerG: folds 
+hheman joins the table at seat #2 
+okroznaj: raises $12.71 to $13.96 and is all-in
+dikanmax: calls $13.96
+Mmago24: folds 
+Slami4: folds 
+DOA1980: folds 
+daria130399: folds 
+dikanmax:  
+okroznaj has timed out
+okroznaj:  
+*** FLOP *** [4s 4c 4d]
+*** TURN *** [4s 4c 4d] [Ah]
+*** RIVER *** [4s 4c 4d Ah] [Td]
+*** SHOW DOWN ***
+okroznaj: shows [Kd Ad] (a full house, Fours full of Aces)
+dikanmax: shows [Jh Js] (a full house, Fours full of Jacks)
+okroznaj collected $28.42 from pot
+*** SUMMARY ***
+Total pot $29.92 | Rake $1.50 
+Board [4s 4c 4d Ah Td]
+Seat 1: Slami4 (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) folded before Flop
+Seat 4: daria130399 folded before Flop
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj showed [Kd Ad] and won ($28.42) with a full house, Fours full of Aces
+Seat 7: dikanmax showed [Jh Js] and lost with a full house, Fours full of Jacks
+Seat 9: Mmago24 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677501607:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:54:51 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 1: Slami4 ($51 in chips) 
+Seat 3: DOA1980 ($66.01 in chips) 
+Seat 5: VinnerG ($40.33 in chips) 
+Seat 6: okroznaj ($28.87 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+okroznaj: posts small blind $0.25
+dikanmax: posts big blind $0.50
+Lisenok110: sits out 
+hheman: sits out 
+*** HOLE CARDS ***
+Mmago24: folds 
+Slami4: folds 
+DOA1980: folds 
+VinnerG: folds 
+okroznaj: calls $0.25
+dikanmax: checks 
+*** FLOP *** [Ts 2s 9s]
+okroznaj: checks 
+dikanmax: bets $0.50
+okroznaj: calls $0.50
+*** TURN *** [Ts 2s 9s] [Ad]
+okroznaj: checks 
+dikanmax: checks 
+*** RIVER *** [Ts 2s 9s Ad] [5h]
+okroznaj: bets $0.50
+dikanmax: folds 
+Uncalled bet ($0.50) returned to okroznaj
+okroznaj collected $1.90 from pot
+okroznaj: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Ts 2s 9s Ad 5h]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 5: VinnerG (button) folded before Flop (didn't bet)
+Seat 6: okroznaj (small blind) collected ($1.90)
+Seat 7: dikanmax (big blind) folded on the River
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677510685:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:55:35 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 1: Slami4 ($51 in chips) 
+Seat 3: DOA1980 ($66.01 in chips) 
+Seat 5: VinnerG ($40.33 in chips) 
+Seat 6: okroznaj ($29.77 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($50 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+dikanmax: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+hheman: sits out 
+*** HOLE CARDS ***
+Mmago24: folds 
+Slami4: raises $1 to $1.50
+DOA1980: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Uncalled bet ($1) returned to Slami4
+Slami4 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 collected ($1.25)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj (button) folded before Flop (didn't bet)
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 8: Lisenok110 (big blind) folded before Flop
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677514304:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:55:53 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 1: Slami4 ($51.75 in chips) 
+Seat 3: DOA1980 ($66.01 in chips) 
+Seat 5: VinnerG ($40.33 in chips) 
+Seat 6: okroznaj ($29.77 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($50 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+Lisenok110: posts small blind $0.25
+Mmago24: posts big blind $0.50
+hheman: sits out 
+*** HOLE CARDS ***
+Slami4: folds 
+DOA1980: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: raises $1 to $1.50
+Lisenok110: folds 
+Mmago24: folds 
+Uncalled bet ($1) returned to dikanmax
+dikanmax collected $1.25 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax (button) collected ($1.25)
+Seat 8: Lisenok110 (small blind) folded before Flop
+Seat 9: Mmago24 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677518081:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:56:13 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 1: Slami4 ($51.75 in chips) 
+Seat 3: DOA1980 ($66.01 in chips) 
+Seat 5: VinnerG ($40.33 in chips) 
+Seat 6: okroznaj ($29.77 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($50 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+Mmago24: posts small blind $0.25
+Slami4: posts big blind $0.50
+hheman: sits out 
+*** HOLE CARDS ***
+DOA1980: folds 
+VinnerG: calls $0.50
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: raises $1.75 to $2.25
+Slami4: folds 
+VinnerG: calls $1.75
+*** FLOP *** [7h Jh 3h]
+Mmago24: checks 
+VinnerG: bets $2.38
+Mmago24: folds 
+Uncalled bet ($2.38) returned to VinnerG
+VinnerG collected $4.75 from pot
+VinnerG: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [7h Jh 3h]
+Seat 1: Slami4 (big blind) folded before Flop
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 5: VinnerG collected ($4.75)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 (button) folded before Flop (didn't bet)
+Seat 9: Mmago24 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228677524506:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:56:46 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 1: Slami4 ($51.25 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($66.01 in chips) 
+Seat 5: VinnerG ($42.83 in chips) 
+Seat 6: okroznaj ($29.77 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($50 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+Slami4: posts small blind $0.25
+hheman: posts big blind $0.50
+*** HOLE CARDS ***
+DOA1980: folds 
+VinnerG: folds 
+okroznaj: raises $0.50 to $1
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+Uncalled bet ($0.50) returned to okroznaj
+okroznaj collected $1.25 from pot
+okroznaj: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 (small blind) folded before Flop
+Seat 2: hheman (big blind) folded before Flop
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj collected ($1.25)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677528064:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:57:04 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: Slami4 ($51 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($66.01 in chips) 
+Seat 5: VinnerG ($42.83 in chips) 
+Seat 6: okroznaj ($30.52 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($50 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+hheman: posts small blind $0.25
+DOA1980: posts big blind $0.50
+*** HOLE CARDS ***
+VinnerG: calls $0.50
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: raises $1.75 to $2.25
+hheman: folds 
+DOA1980: folds 
+VinnerG: calls $1.75
+*** FLOP *** [Qd Tc Qs]
+VinnerG: checks 
+Slami4: bets $1.65
+VinnerG: folds 
+Uncalled bet ($1.65) returned to Slami4
+Slami4 collected $4.99 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.26 
+Board [Qd Tc Qs]
+Seat 1: Slami4 (button) collected ($4.99)
+Seat 2: hheman (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) folded before Flop
+Seat 5: VinnerG folded on the Flop
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677533726:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:57:33 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: Slami4 ($53.74 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($65.51 in chips) 
+Seat 5: VinnerG ($40.58 in chips) 
+Seat 6: okroznaj ($30.52 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($50 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+DOA1980: posts small blind $0.25
+VinnerG: posts big blind $0.50
+*** HOLE CARDS ***
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+DOA1980: folds 
+VinnerG: calls $0.75
+*** FLOP *** [8s 3s Th]
+VinnerG: checks 
+Lisenok110: bets $0.84
+VinnerG: calls $0.84
+*** TURN *** [8s 3s Th] [5s]
+VinnerG: checks 
+Lisenok110: checks 
+*** RIVER *** [8s 3s Th 5s] [Jh]
+VinnerG: checks 
+Lisenok110: bets $1.35
+VinnerG: calls $1.35
+*** SHOW DOWN ***
+Lisenok110: shows [Jc Qh] (a pair of Jacks)
+VinnerG: mucks hand 
+Lisenok110 collected $6.77 from pot
+*** SUMMARY ***
+Total pot $7.13 | Rake $0.36 
+Board [8s 3s Th 5s Jh]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman (button) folded before Flop (didn't bet)
+Seat 3: DOA1980 (small blind) folded before Flop
+Seat 5: VinnerG (big blind) mucked
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 showed [Jc Qh] and won ($6.77) with a pair of Jacks
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677541541:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:58:13 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: Slami4 ($53.74 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($65.26 in chips) 
+Seat 5: VinnerG ($37.14 in chips) 
+Seat 6: okroznaj ($30.52 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($53.33 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+VinnerG: posts small blind $0.25
+okroznaj: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: raises $0.75 to $1.25
+hheman: folds 
+DOA1980: folds 
+VinnerG: folds 
+okroznaj: folds 
+Uncalled bet ($0.75) returned to Slami4
+Slami4 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 collected ($1.25)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: DOA1980 (button) folded before Flop (didn't bet)
+Seat 5: VinnerG (small blind) folded before Flop
+Seat 6: okroznaj (big blind) folded before Flop
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677547584:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:58:44 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 1: Slami4 ($54.49 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($65.26 in chips) 
+Seat 5: VinnerG ($36.89 in chips) 
+Seat 6: okroznaj ($30.02 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($53.33 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+okroznaj: posts small blind $0.25
+dikanmax: posts big blind $0.50
+daria130399: sits out 
+*** HOLE CARDS ***
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+DOA1980: folds 
+VinnerG: folds 
+okroznaj: folds 
+Uncalled bet ($0.25) returned to dikanmax
+dikanmax collected $0.50 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 5: VinnerG (button) folded before Flop (didn't bet)
+Seat 6: okroznaj (small blind) folded before Flop
+Seat 7: dikanmax (big blind) collected ($0.50)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677561305:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:59:14 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 1: Slami4 ($54.49 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($65.26 in chips) 
+Seat 5: VinnerG ($36.89 in chips) 
+Seat 6: okroznaj ($29.77 in chips) 
+Seat 7: dikanmax ($51 in chips) 
+Seat 8: Lisenok110 ($53.33 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+dikanmax: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+daria130399: sits out 
+*** HOLE CARDS ***
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+DOA1980: folds 
+VinnerG: raises $0.50 to $1
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: calls $0.50
+*** FLOP *** [Js 9c 9h]
+Lisenok110: checks 
+VinnerG: bets $1
+Lisenok110: calls $1
+*** TURN *** [Js 9c 9h] [2d]
+Lisenok110: checks 
+VinnerG: bets $2.50
+daria130399 leaves the table
+Lisenok110: folds 
+Uncalled bet ($2.50) returned to VinnerG
+VinnerG collected $4.04 from pot
+VinnerG: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.21 
+Board [Js 9c 9h 2d]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 5: VinnerG collected ($4.04)
+Seat 6: okroznaj (button) folded before Flop (didn't bet)
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 8: Lisenok110 (big blind) folded on the Turn
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677569915:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 7:59:59 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 1: Slami4 ($54.49 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($65.26 in chips) 
+Seat 5: VinnerG ($38.93 in chips) 
+Seat 6: okroznaj ($29.77 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($51.33 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+Lisenok110: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Slami4: raises $1 to $1.50
+hheman: folds 
+DOA1980: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: calls $1.25
+Mmago24: folds 
+*** FLOP *** [8s 4d 8c]
+Lisenok110: checks 
+Slami4: bets $1.10
+Lisenok110: calls $1.10
+*** TURN *** [8s 4d 8c] [3c]
+Lisenok110: checks 
+Slami4: bets $3.58
+Lisenok110: folds 
+Uncalled bet ($3.58) returned to Slami4
+Slami4 collected $5.42 from pot
+*** SUMMARY ***
+Total pot $5.70 | Rake $0.28 
+Board [8s 4d 8c 3c]
+Seat 1: Slami4 collected ($5.42)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax (button) folded before Flop (didn't bet)
+Seat 8: Lisenok110 (small blind) folded on the Turn
+Seat 9: Mmago24 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677580984:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:00:52 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 1: Slami4 ($57.31 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($65.26 in chips) 
+Seat 5: VinnerG ($38.93 in chips) 
+Seat 6: okroznaj ($29.77 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($50 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+Mmago24: posts small blind $0.25
+Slami4: posts big blind $0.50
+*** HOLE CARDS ***
+hheman: folds 
+DOA1980: folds 
+VinnerG: folds 
+Dragonclawss joins the table at seat #4 
+okroznaj has timed out
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Slami4: folds 
+Uncalled bet ($0.75) returned to Lisenok110
+Lisenok110 collected $1.25 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 (big blind) folded before Flop
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 (button) collected ($1.25)
+Seat 9: Mmago24 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228678129188:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:37:45 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 1: Slami4 ($60.57 in chips) 
+Seat 2: hheman ($52.84 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: akbloger ($51.76 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($63.02 in chips) 
+Seat 9: Mmago24 ($70.58 in chips) 
+dikanmax: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+gambleruin: folds 
+akbloger: folds 
+dikanmax: calls $0.25
+Lisenok110: checks 
+*** FLOP *** [Kd 5d 2c]
+dikanmax: bets $0.50
+Lisenok110: calls $0.50
+*** TURN *** [Kd 5d 2c] [5c]
+dikanmax: bets $1.27
+Lisenok110: folds 
+Uncalled bet ($1.27) returned to dikanmax
+dikanmax collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [Kd 5d 2c 5c]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: akbloger (button) folded before Flop (didn't bet)
+Seat 7: dikanmax (small blind) collected ($1.90)
+Seat 8: Lisenok110 (big blind) folded on the Turn
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678281584:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:47:36 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 1: Slami4 ($60.57 in chips) 
+Seat 2: Dreamer246 ($28.48 in chips) 
+Seat 4: dstrola ($52.30 in chips) 
+Seat 5: gambleruin ($50.50 in chips) 
+Seat 6: ANZIFER1986 ($50.75 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($77.39 in chips) 
+Seat 9: Mmago24 ($69.33 in chips) 
+Mmago24: posts small blind $0.25
+Slami4: posts big blind $0.50
+*** HOLE CARDS ***
+Dreamer246: folds 
+dstrola has timed out
+dstrola: folds 
+gambleruin: folds 
+ANZIFER1986: raises $0.73 to $1.23
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: calls $0.73
+*** FLOP *** [Kd 5c 3d]
+Slami4: checks 
+ANZIFER1986: bets $1.41
+Slami4: folds 
+Uncalled bet ($1.41) returned to ANZIFER1986
+ANZIFER1986 collected $2.57 from pot
+*** SUMMARY ***
+Total pot $2.71 | Rake $0.14 
+Board [Kd 5c 3d]
+Seat 1: Slami4 (big blind) folded on the Flop
+Seat 2: Dreamer246 folded before Flop (didn't bet)
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 collected ($2.57)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 (button) folded before Flop (didn't bet)
+Seat 9: Mmago24 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677586713:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:01:18 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 1: Slami4 ($56.81 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($65.26 in chips) 
+Seat 5: VinnerG ($38.93 in chips) 
+Seat 6: okroznaj ($29.77 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($50.75 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+Slami4: posts small blind $0.25
+hheman: posts big blind $0.50
+Dragonclawss: sits out 
+*** HOLE CARDS ***
+DOA1980: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Slami4: raises $3.25 to $4.50
+hheman: folds 
+Lisenok110: calls $3.25
+*** FLOP *** [9s 6s 8c]
+Slami4: bets $5.95
+Lisenok110: raises $10.55 to $16.50
+Slami4: calls $10.55
+*** TURN *** [9s 6s 8c] [3d]
+Slami4: checks 
+Lisenok110: bets $29.75 and is all-in
+Slami4: calls $29.75
+*** RIVER *** [9s 6s 8c 3d] [2c]
+*** SHOW DOWN ***
+Slami4: shows [Qh Qs] (a pair of Queens)
+Lisenok110: shows [6d 9d] (two pair, Nines and Sixes)
+Lisenok110 collected $100 from pot
+*** SUMMARY ***
+Total pot $102 | Rake $2 
+Board [9s 6s 8c 3d 2c]
+Seat 1: Slami4 (small blind) showed [Qh Qs] and lost with a pair of Queens
+Seat 2: hheman (big blind) folded before Flop
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 showed [6d 9d] and won ($100) with two pair, Nines and Sixes
+Seat 9: Mmago24 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677602373:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:02:29 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($65.26 in chips) 
+Seat 5: VinnerG ($38.93 in chips) 
+Seat 6: okroznaj ($29.77 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($100 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+hheman: posts small blind $0.25
+DOA1980: posts big blind $0.50
+Dragonclawss: sits out 
+*** HOLE CARDS ***
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+DOA1980: calls $0.75
+*** FLOP *** [7c 3s 6h]
+DOA1980: checks 
+Lisenok110: bets $0.84
+DOA1980: folds 
+Uncalled bet ($0.84) returned to Lisenok110
+Lisenok110 collected $2.61 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [7c 3s 6h]
+Seat 1: Slami4 (button) folded before Flop (didn't bet)
+Seat 2: hheman (small blind) folded before Flop
+Seat 3: DOA1980 (big blind) folded on the Flop
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 collected ($2.61)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677614126:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:03:20 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($64.01 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($38.93 in chips) 
+Seat 6: okroznaj ($29.77 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($101.36 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+DOA1980: posts small blind $0.25
+Dragonclawss: posts big blind $0.50
+*** HOLE CARDS ***
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: folds 
+hheman has timed out
+hheman: folds 
+DOA1980: raises $0.75 to $1.25
+Dragonclawss: folds 
+Uncalled bet ($0.75) returned to DOA1980
+DOA1980 collected $1 from pot
+DOA1980: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman (button) folded before Flop (didn't bet)
+Seat 3: DOA1980 (small blind) collected ($1)
+Seat 4: Dragonclawss (big blind) folded before Flop
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677621510:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:03:52 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($64.51 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($38.93 in chips) 
+Seat 6: okroznaj ($29.77 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($101.36 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+Dragonclawss: posts small blind $0.25
+VinnerG: posts big blind $0.50
+*** HOLE CARDS ***
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+DOA1980: raises $0.55 to $1.05
+Dragonclawss: folds 
+VinnerG: folds 
+Uncalled bet ($0.55) returned to DOA1980
+DOA1980 collected $1.25 from pot
+DOA1980: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: DOA1980 (button) collected ($1.25)
+Seat 4: Dragonclawss (small blind) folded before Flop
+Seat 5: VinnerG (big blind) folded before Flop
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677626975:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:04:16 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: DOA1980 ($65.26 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($38.43 in chips) 
+Seat 6: okroznaj ($29.77 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($101.36 in chips) 
+Seat 9: Mmago24 ($50 in chips) 
+VinnerG: posts small blind $0.25
+okroznaj: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: raises $0.72 to $1.22
+Slami4: folds 
+hheman: calls $1.22
+DOA1980: folds 
+Dragonclawss: folds 
+VinnerG: calls $0.97
+okroznaj: calls $0.72
+*** FLOP *** [4d 8s 9s]
+VinnerG: bets $0.50
+okroznaj: calls $0.50
+Mmago24: raises $2.50 to $3
+hheman: folds 
+VinnerG: calls $2.50
+okroznaj: folds 
+*** TURN *** [4d 8s 9s] [7h]
+VinnerG: checks 
+Mmago24: bets $6.32
+DOA1980 leaves the table
+VinnerG: folds 
+Uncalled bet ($6.32) returned to Mmago24
+Mmago24 collected $10.81 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.38 | Rake $0.57 
+Board [4d 8s 9s 7h]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded on the Flop
+Seat 3: DOA1980 folded before Flop (didn't bet)
+Seat 4: Dragonclawss (button) folded before Flop (didn't bet)
+Seat 5: VinnerG (small blind) folded on the Turn
+Seat 6: okroznaj (big blind) folded on the Flop
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 collected ($10.81)
+
+
+
+PokerStars Hand #228677645945:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:05:37 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($34.21 in chips) 
+Seat 6: okroznaj ($28.05 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($101.36 in chips) 
+Seat 9: Mmago24 ($56.59 in chips) 
+okroznaj: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: raises $0.75 to $1.25
+hheman: folds 
+Dragonclawss: folds 
+VinnerG: calls $1.25
+podumci joins the table at seat #3 
+okroznaj: calls $1
+dikanmax: folds 
+*** FLOP *** [7c 6h Qc]
+okroznaj: checks 
+Slami4: checks 
+VinnerG: checks 
+*** TURN *** [7c 6h Qc] [9c]
+okroznaj: checks 
+Slami4: checks 
+VinnerG: bets $0.50
+okroznaj: calls $0.50
+Slami4: folds 
+*** RIVER *** [7c 6h Qc 9c] [4h]
+okroznaj: checks 
+VinnerG: bets $0.50
+okroznaj: calls $0.50
+*** SHOW DOWN ***
+VinnerG: shows [Ks 7s] (a pair of Sevens)
+okroznaj: shows [9h 8h] (a pair of Nines)
+okroznaj collected $5.94 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.31 
+Board [7c 6h Qc 9c 4h]
+Seat 1: Slami4 folded on the Turn
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG (button) showed [Ks 7s] and lost with a pair of Sevens
+Seat 6: okroznaj (small blind) showed [9h 8h] and won ($5.94) with a pair of Nines
+Seat 7: dikanmax (big blind) folded before Flop
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677657107:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:06:25 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($40 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($31.96 in chips) 
+Seat 6: okroznaj ($31.74 in chips) 
+Seat 7: dikanmax ($50.25 in chips) 
+Seat 8: Lisenok110 ($101.36 in chips) 
+Seat 9: Mmago24 ($56.59 in chips) 
+dikanmax: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+podumci: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+Slami4: folds 
+hheman: calls $0.50
+podumci: checks 
+Dragonclawss: folds 
+VinnerG: raises $0.50 to $1
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+hheman: calls $0.50
+podumci: calls $0.50
+*** FLOP *** [Kh Jd 2s]
+hheman: checks 
+podumci: checks 
+VinnerG: bets $0.50
+hheman: folds 
+podumci: calls $0.50
+*** TURN *** [Kh Jd 2s] [3h]
+podumci: checks 
+VinnerG: checks 
+*** RIVER *** [Kh Jd 2s 3h] [9s]
+podumci: checks 
+VinnerG: checks 
+*** SHOW DOWN ***
+podumci: shows [Qd 2d] (a pair of Deuces)
+VinnerG: mucks hand 
+podumci collected $4.51 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [Kh Jd 2s 3h 9s]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded on the Flop
+Seat 3: podumci showed [Qd 2d] and won ($4.51) with a pair of Deuces
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG mucked
+Seat 6: okroznaj (button) folded before Flop (didn't bet)
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 8: Lisenok110 (big blind) folded before Flop
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677673679:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:07:36 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($43.01 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($30.46 in chips) 
+Seat 6: okroznaj ($31.74 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($100.86 in chips) 
+Seat 9: Mmago24 ($56.59 in chips) 
+Lisenok110: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Slami4: folds 
+hheman: folds 
+podumci: folds 
+Dragonclawss: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: raises $1 to $1.50
+Mmago24: folds 
+Uncalled bet ($1) returned to Lisenok110
+Lisenok110 collected $1 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci folded before Flop (didn't bet)
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax (button) folded before Flop (didn't bet)
+Seat 8: Lisenok110 (small blind) collected ($1)
+Seat 9: Mmago24 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677677632:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:07:53 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($43.01 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($30.46 in chips) 
+Seat 6: okroznaj ($31.74 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($101.36 in chips) 
+Seat 9: Mmago24 ($56.09 in chips) 
+Mmago24: posts small blind $0.25
+Slami4: posts big blind $0.50
+*** HOLE CARDS ***
+hheman: raises $1 to $1.50
+podumci: calls $1.50
+Dragonclawss: folds 
+VinnerG: raises $5.25 to $6.75
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: raises $15.50 to $22.25
+Mmago24: folds 
+Slami4: folds 
+hheman: raises $27.75 to $50 and is all-in
+podumci: folds 
+VinnerG: calls $23.71 and is all-in
+Lisenok110: calls $27.75
+*** FLOP *** [3h 9c 6d]
+*** TURN *** [3h 9c 6d] [4c]
+*** RIVER *** [3h 9c 6d 4c] [9d]
+*** SHOW DOWN ***
+hheman: shows [As Ah] (two pair, Aces and Nines)
+Lisenok110: shows [Kh Ac] (a pair of Nines)
+hheman collected $39.08 from side pot
+VinnerG: shows [4h 4s] (a full house, Fours full of Nines)
+VinnerG collected $91.63 from main pot
+*** SUMMARY ***
+Total pot $132.71 Main pot $91.63. Side pot $39.08. | Rake $2 
+Board [3h 9c 6d 4c 9d]
+Seat 1: Slami4 (big blind) folded before Flop
+Seat 2: hheman showed [As Ah] and won ($39.08) with two pair, Aces and Nines
+Seat 3: podumci folded before Flop
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG showed [4h 4s] and won ($91.63) with a full house, Fours full of Nines
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 (button) showed [Kh Ac] and lost with a pair of Nines
+Seat 9: Mmago24 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677690104:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:08:47 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($41.51 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($91.63 in chips) 
+Seat 6: okroznaj ($31.74 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($51.36 in chips) 
+Seat 9: Mmago24 ($55.84 in chips) 
+Slami4: posts small blind $0.25
+hheman: posts big blind $0.50
+*** HOLE CARDS ***
+podumci: calls $0.50
+Dragonclawss: calls $0.50
+VinnerG: calls $0.50
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: calls $0.50
+Slami4: folds 
+hheman: checks 
+*** FLOP *** [6s 8s 3c]
+hheman: checks 
+podumci: checks 
+Dragonclawss: checks 
+VinnerG: checks 
+Mmago24: bets $1.20
+hheman: folds 
+podumci: calls $1.20
+Dragonclawss: folds 
+VinnerG: folds 
+*** TURN *** [6s 8s 3c] [4c]
+podumci: checks 
+Mmago24: bets $3
+podumci: calls $3
+*** RIVER *** [6s 8s 3c 4c] [2h]
+podumci: checks 
+Mmago24: checks 
+*** SHOW DOWN ***
+podumci: shows [9h 6h] (a pair of Sixes)
+Mmago24: shows [8d 7d] (a pair of Eights)
+Mmago24 collected $10.59 from pot
+*** SUMMARY ***
+Total pot $11.15 | Rake $0.56 
+Board [6s 8s 3c 4c 2h]
+Seat 1: Slami4 (small blind) folded before Flop
+Seat 2: hheman (big blind) folded on the Flop
+Seat 3: podumci showed [9h 6h] and lost with a pair of Sixes
+Seat 4: Dragonclawss folded on the Flop
+Seat 5: VinnerG folded on the Flop
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 (button) showed [8d 7d] and won ($10.59) with a pair of Eights
+
+
+
+PokerStars Hand #228677707353:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:10:01 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($36.81 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($91.13 in chips) 
+Seat 6: okroznaj ($31.74 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($51.36 in chips) 
+Seat 9: Mmago24 ($61.73 in chips) 
+hheman: posts small blind $0.25
+podumci: posts big blind $0.50
+*** HOLE CARDS ***
+Dragonclawss: raises $0.75 to $1.25
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: calls $1.25
+Mmago24: folds 
+Slami4: calls $1.25
+hheman: folds 
+podumci: calls $0.75
+*** FLOP *** [2s 9h 4h]
+podumci: checks 
+Dragonclawss: checks 
+Lisenok110: bets $1.60
+Slami4: folds 
+podumci: folds 
+Dragonclawss: folds 
+Uncalled bet ($1.60) returned to Lisenok110
+Lisenok110 collected $4.99 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.26 
+Board [2s 9h 4h]
+Seat 1: Slami4 (button) folded on the Flop
+Seat 2: hheman (small blind) folded before Flop
+Seat 3: podumci (big blind) folded on the Flop
+Seat 4: Dragonclawss folded on the Flop
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 collected ($4.99)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677718079:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:10:47 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($35.56 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($91.13 in chips) 
+Seat 6: okroznaj ($31.74 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($55.10 in chips) 
+Seat 9: Mmago24 ($61.73 in chips) 
+podumci: posts small blind $0.25
+Dragonclawss: posts big blind $0.50
+*** HOLE CARDS ***
+VinnerG: folds 
+okroznaj: calls $0.50
+dikanmax: folds 
+Lisenok110: raises $1 to $1.50
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+podumci: folds 
+Dragonclawss: folds 
+okroznaj: calls $1
+*** FLOP *** [5s Jc 9d]
+okroznaj: checks 
+Lisenok110: checks 
+*** TURN *** [5s Jc 9d] [8c]
+okroznaj: checks 
+Lisenok110: checks 
+*** RIVER *** [5s Jc 9d 8c] [9c]
+okroznaj: bets $1.78
+Lisenok110: folds 
+Uncalled bet ($1.78) returned to okroznaj
+okroznaj collected $3.56 from pot
+okroznaj: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [5s Jc 9d 8c 9c]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman (button) folded before Flop (didn't bet)
+Seat 3: podumci (small blind) folded before Flop
+Seat 4: Dragonclawss (big blind) folded before Flop
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj collected ($3.56)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded on the River
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677730712:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:11:40 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($35.31 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($91.13 in chips) 
+Seat 6: okroznaj ($33.80 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($53.60 in chips) 
+Seat 9: Mmago24 ($61.73 in chips) 
+Dragonclawss: posts small blind $0.25
+VinnerG: posts big blind $0.50
+*** HOLE CARDS ***
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: raises $0.72 to $1.22
+Slami4: folds 
+hheman: folds 
+podumci has timed out
+podumci: folds 
+Dragonclawss: folds 
+VinnerG: folds 
+Uncalled bet ($0.72) returned to Mmago24
+Mmago24 collected $1.25 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci (button) folded before Flop (didn't bet)
+Seat 4: Dragonclawss (small blind) folded before Flop
+Seat 5: VinnerG (big blind) folded before Flop
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 collected ($1.25)
+
+
+
+PokerStars Hand #228677738028:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:12:11 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($35.31 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($90.63 in chips) 
+Seat 6: okroznaj ($33.80 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($53.60 in chips) 
+Seat 9: Mmago24 ($62.48 in chips) 
+VinnerG: posts small blind $0.25
+okroznaj: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+podumci has timed out
+podumci: folds 
+Dragonclawss: folds 
+VinnerG: calls $0.25
+okroznaj: checks 
+*** FLOP *** [5s 2d 4c]
+VinnerG: checks 
+okroznaj: checks 
+*** TURN *** [5s 2d 4c] [Qh]
+VinnerG: checks 
+okroznaj: checks 
+*** RIVER *** [5s 2d 4c Qh] [8h]
+VinnerG: checks 
+okroznaj: checks 
+*** SHOW DOWN ***
+VinnerG: shows [As 7s] (high card Ace)
+okroznaj: shows [2s 9c] (a pair of Deuces)
+okroznaj collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [5s 2d 4c Qh 8h]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci folded before Flop (didn't bet)
+Seat 4: Dragonclawss (button) folded before Flop (didn't bet)
+Seat 5: VinnerG (small blind) showed [As 7s] and lost with high card Ace
+Seat 6: okroznaj (big blind) showed [2s 9c] and won ($0.95) with a pair of Deuces
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677758032:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:13:35 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($90.13 in chips) 
+Seat 6: okroznaj ($34.25 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($53.60 in chips) 
+Seat 9: Mmago24 ($62.48 in chips) 
+okroznaj: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: raises $0.75 to $1.25
+Mmago24: raises $3.25 to $4.50
+Slami4: folds 
+hheman: folds 
+Dragonclawss: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: calls $3.25
+*** FLOP *** [8d 9c 7h]
+Lisenok110: checks 
+Mmago24: checks 
+*** TURN *** [8d 9c 7h] [2d]
+Lisenok110: bets $2.96
+Mmago24: calls $2.96
+*** RIVER *** [8d 9c 7h 2d] [Ah]
+Lisenok110: checks 
+Mmago24: checks 
+*** SHOW DOWN ***
+Lisenok110: shows [Jd Kd] (high card Ace)
+Mmago24: shows [Qh Qd] (a pair of Queens)
+Mmago24 collected $14.89 from pot
+*** SUMMARY ***
+Total pot $15.67 | Rake $0.78 
+Board [8d 9c 7h 2d Ah]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG (button) folded before Flop (didn't bet)
+Seat 6: okroznaj (small blind) folded before Flop
+Seat 7: dikanmax (big blind) folded before Flop
+Seat 8: Lisenok110 showed [Jd Kd] and lost with high card Ace
+Seat 9: Mmago24 showed [Qh Qd] and won ($14.89) with a pair of Queens
+
+
+
+PokerStars Hand #228677770944:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:14:29 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($35.31 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($90.13 in chips) 
+Seat 6: okroznaj ($34 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($50 in chips) 
+Seat 9: Mmago24 ($69.91 in chips) 
+dikanmax: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+Slami4: raises $1 to $1.50
+hheman: folds 
+podumci: calls $1.50
+Dragonclawss: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+*** FLOP *** [7h Jh Kc]
+Slami4: checks 
+podumci: checks 
+*** TURN *** [7h Jh Kc] [Kh]
+Slami4: checks 
+podumci: checks 
+*** RIVER *** [7h Jh Kc Kh] [Ks]
+Slami4: checks 
+podumci: checks 
+*** SHOW DOWN ***
+Slami4: shows [As 5s] (three of a kind, Kings)
+podumci: mucks hand 
+Slami4 collected $3.56 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [7h Jh Kc Kh Ks]
+Seat 1: Slami4 showed [As 5s] and won ($3.56) with three of a kind, Kings
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci mucked
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj (button) folded before Flop (didn't bet)
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 8: Lisenok110 (big blind) folded before Flop
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677779015:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:15:03 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 1: Slami4 ($52.06 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($33.81 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($90.13 in chips) 
+Seat 6: okroznaj ($34 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($50 in chips) 
+Seat 9: Mmago24 ($69.91 in chips) 
+Lisenok110: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Slami4: folds 
+hheman: folds 
+podumci: folds 
+Dragonclawss: folds 
+VinnerG: calls $0.50
+okroznaj: calls $0.50
+dikanmax: calls $0.50
+Lisenok110: calls $0.25
+Mmago24: checks 
+*** FLOP *** [2s Qs 7s]
+Lisenok110: bets $1.59
+Mmago24: folds 
+VinnerG: calls $1.59
+okroznaj: folds 
+dikanmax: folds 
+*** TURN *** [2s Qs 7s] [5c]
+Lisenok110: bets $3.60
+VinnerG: folds 
+Uncalled bet ($3.60) returned to Lisenok110
+Lisenok110 collected $5.40 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.68 | Rake $0.28 
+Board [2s Qs 7s 5c]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci folded before Flop (didn't bet)
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG folded on the Turn
+Seat 6: okroznaj folded on the Flop
+Seat 7: dikanmax (button) folded on the Flop
+Seat 8: Lisenok110 (small blind) collected ($5.40)
+Seat 9: Mmago24 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228677793733:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:16:04 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 1: Slami4 ($52.06 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($33.81 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($88.04 in chips) 
+Seat 6: okroznaj ($33.50 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($53.31 in chips) 
+Seat 9: Mmago24 ($69.41 in chips) 
+Mmago24: posts small blind $0.25
+Slami4: posts big blind $0.50
+*** HOLE CARDS ***
+hheman: folds 
+podumci: folds 
+Dragonclawss: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Slami4: raises $3.25 to $4.50
+Lisenok110: folds 
+Uncalled bet ($3.25) returned to Slami4
+Slami4 collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0 
+Seat 1: Slami4 (big blind) collected ($2.75)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci folded before Flop (didn't bet)
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 (button) folded before Flop
+Seat 9: Mmago24 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677798992:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:16:26 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 1: Slami4 ($53.56 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($33.81 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($88.04 in chips) 
+Seat 6: okroznaj ($33.50 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($52.06 in chips) 
+Seat 9: Mmago24 ($69.16 in chips) 
+Slami4: posts small blind $0.25
+hheman: posts big blind $0.50
+*** HOLE CARDS ***
+podumci: folds 
+Dragonclawss: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: raises $0.72 to $1.22
+Slami4: folds 
+hheman: folds 
+Uncalled bet ($0.72) returned to Mmago24
+Mmago24 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 (small blind) folded before Flop
+Seat 2: hheman (big blind) folded before Flop
+Seat 3: podumci folded before Flop (didn't bet)
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 (button) collected ($1.25)
+
+
+
+PokerStars Hand #228677805023:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:16:51 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: Slami4 ($53.31 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($33.81 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($88.04 in chips) 
+Seat 6: okroznaj ($33.50 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($52.06 in chips) 
+Seat 9: Mmago24 ($69.91 in chips) 
+hheman: posts small blind $0.25
+podumci: posts big blind $0.50
+*** HOLE CARDS ***
+Dragonclawss: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: raises $1 to $1.50
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+podumci: folds 
+Uncalled bet ($1) returned to dikanmax
+dikanmax collected $1.25 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 (button) folded before Flop (didn't bet)
+Seat 2: hheman (small blind) folded before Flop
+Seat 3: podumci (big blind) folded before Flop
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax collected ($1.25)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677810556:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:17:14 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: Slami4 ($53.31 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($33.31 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($88.04 in chips) 
+Seat 6: okroznaj ($33.50 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($52.06 in chips) 
+Seat 9: Mmago24 ($69.91 in chips) 
+podumci: posts small blind $0.25
+Dragonclawss: posts big blind $0.50
+*** HOLE CARDS ***
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: raises $1 to $1.50
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+podumci: calls $1.25
+Dragonclawss: folds 
+*** FLOP *** [As 4c Ad]
+podumci: checks 
+dikanmax: bets $1.66
+podumci: folds 
+Uncalled bet ($1.66) returned to dikanmax
+dikanmax collected $3.32 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [As 4c Ad]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman (button) folded before Flop (didn't bet)
+Seat 3: podumci (small blind) folded on the Flop
+Seat 4: Dragonclawss (big blind) folded before Flop
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax collected ($3.32)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677821158:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:17:58 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: Slami4 ($53.31 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($31.81 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($88.04 in chips) 
+Seat 6: okroznaj ($33.50 in chips) 
+Seat 7: dikanmax ($52.57 in chips) 
+Seat 8: Lisenok110 ($52.06 in chips) 
+Seat 9: Mmago24 ($69.91 in chips) 
+Dragonclawss: posts small blind $0.25
+VinnerG: posts big blind $0.50
+*** HOLE CARDS ***
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+podumci: folds 
+Dragonclawss: folds 
+Uncalled bet ($0.25) returned to VinnerG
+VinnerG collected $0.50 from pot
+VinnerG: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci (button) folded before Flop (didn't bet)
+Seat 4: Dragonclawss (small blind) folded before Flop
+Seat 5: VinnerG (big blind) collected ($0.50)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677824879:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:18:13 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 1: Slami4 ($53.31 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 3: podumci ($31.81 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($88.29 in chips) 
+Seat 6: okroznaj ($33.50 in chips) 
+Seat 7: dikanmax ($52.57 in chips) 
+Seat 8: Lisenok110 ($52.06 in chips) 
+Seat 9: Mmago24 ($69.91 in chips) 
+VinnerG: posts small blind $0.25
+okroznaj: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+podumci has timed out
+podumci: folds 
+Dragonclawss: folds 
+VinnerG: folds 
+okroznaj: folds 
+Uncalled bet ($0.75) returned to Lisenok110
+Lisenok110 collected $1.25 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci folded before Flop (didn't bet)
+Seat 4: Dragonclawss (button) folded before Flop (didn't bet)
+Seat 5: VinnerG (small blind) folded before Flop
+Seat 6: okroznaj (big blind) folded before Flop
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 collected ($1.25)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677831668:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:18:41 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 1: Slami4 ($53.31 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($88.04 in chips) 
+Seat 6: okroznaj ($33 in chips) 
+Seat 7: dikanmax ($52.57 in chips) 
+Seat 8: Lisenok110 ($52.81 in chips) 
+Seat 9: Mmago24 ($69.91 in chips) 
+okroznaj: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: folds 
+Mmago24: raises $0.72 to $1.22
+Slami4: folds 
+hheman: folds 
+Dragonclawss: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Uncalled bet ($0.72) returned to Mmago24
+Mmago24 collected $1.25 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG (button) folded before Flop (didn't bet)
+Seat 6: okroznaj (small blind) folded before Flop
+Seat 7: dikanmax (big blind) folded before Flop
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 collected ($1.25)
+
+
+
+PokerStars Hand #228677839113:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:19:12 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 1: Slami4 ($53.31 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($88.04 in chips) 
+Seat 6: okroznaj ($32.75 in chips) 
+Seat 7: dikanmax ($52.07 in chips) 
+Seat 8: Lisenok110 ($52.81 in chips) 
+Seat 9: Mmago24 ($70.66 in chips) 
+dikanmax: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+Slami4: raises $1 to $1.50
+hheman: folds 
+Dragonclawss: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Uncalled bet ($1) returned to Slami4
+Slami4 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 collected ($1.25)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj (button) folded before Flop (didn't bet)
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 8: Lisenok110 (big blind) folded before Flop
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677844065:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:19:32 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 1: Slami4 ($54.06 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 4: Dragonclawss ($50 in chips) 
+Seat 5: VinnerG ($88.04 in chips) 
+Seat 6: okroznaj ($32.75 in chips) 
+Seat 7: dikanmax ($51.82 in chips) 
+Seat 8: Lisenok110 ($52.31 in chips) 
+Seat 9: Mmago24 ($70.66 in chips) 
+Lisenok110: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Slami4: folds 
+hheman: folds 
+Dragonclawss: raises $0.75 to $1.25
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: calls $1
+Mmago24: folds 
+*** FLOP *** [Kd Qs 3h]
+Lisenok110: checks 
+Dragonclawss: bets $2
+Lisenok110: folds 
+Uncalled bet ($2) returned to Dragonclawss
+Dragonclawss collected $2.85 from pot
+Dragonclawss: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Kd Qs 3h]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 4: Dragonclawss collected ($2.85)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax (button) folded before Flop (didn't bet)
+Seat 8: Lisenok110 (small blind) folded on the Flop
+Seat 9: Mmago24 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677851425:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:20:02 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 1: Slami4 ($54.06 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 4: Dragonclawss ($51.60 in chips) 
+Seat 5: VinnerG ($88.04 in chips) 
+Seat 6: okroznaj ($32.75 in chips) 
+Seat 7: dikanmax ($51.82 in chips) 
+Seat 8: Lisenok110 ($51.06 in chips) 
+Seat 9: Mmago24 ($70.16 in chips) 
+Mmago24: posts small blind $0.25
+Slami4: posts big blind $0.50
+*** HOLE CARDS ***
+hheman: folds 
+Dragonclawss: folds 
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: raises $1 to $1.50
+Slami4: calls $1
+*** FLOP *** [Ad Ts Ah]
+Mmago24: bets $1
+Slami4: calls $1
+*** TURN *** [Ad Ts Ah] [2c]
+Mmago24: bets $2
+Slami4: calls $2
+*** RIVER *** [Ad Ts Ah 2c] [8d]
+Mmago24: bets $5.70
+Slami4: folds 
+Uncalled bet ($5.70) returned to Mmago24
+Mmago24 collected $8.55 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Ad Ts Ah 2c 8d]
+Seat 1: Slami4 (big blind) folded on the River
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 (button) folded before Flop (didn't bet)
+Seat 9: Mmago24 (small blind) collected ($8.55)
+
+
+
+PokerStars Hand #228677864279:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:20:53 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 4: Dragonclawss ($51.60 in chips) 
+Seat 5: VinnerG ($88.04 in chips) 
+Seat 6: okroznaj ($32.75 in chips) 
+Seat 7: dikanmax ($51.82 in chips) 
+Seat 8: Lisenok110 ($51.06 in chips) 
+Seat 9: Mmago24 ($74.21 in chips) 
+Slami4: posts small blind $0.25
+hheman: posts big blind $0.50
+*** HOLE CARDS ***
+Dragonclawss: folds 
+VinnerG has timed out
+VinnerG: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+Uncalled bet ($0.75) returned to Lisenok110
+Lisenok110 collected $1.25 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 (small blind) folded before Flop
+Seat 2: hheman (big blind) folded before Flop
+Seat 4: Dragonclawss folded before Flop (didn't bet)
+Seat 5: VinnerG folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 collected ($1.25)
+Seat 9: Mmago24 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677869759:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:21:15 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 6: okroznaj ($32.75 in chips) 
+Seat 7: dikanmax ($51.82 in chips) 
+Seat 8: Lisenok110 ($51.81 in chips) 
+Seat 9: Mmago24 ($74.21 in chips) 
+hheman: posts small blind $0.25
+Dragonclawss: is sitting out 
+okroznaj: posts big blind $0.50
+*** HOLE CARDS ***
+Dragonclawss leaves the table
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+dstrola joins the table at seat #4 
+Mmago24: folds 
+Slami4: calls $1.25
+hheman: folds 
+okroznaj: folds 
+*** FLOP *** [Qc Jh Kd]
+Lisenok110: checks 
+Slami4: checks 
+*** TURN *** [Qc Jh Kd] [Jd]
+Lisenok110: bets $0.99
+Slami4: folds 
+Uncalled bet ($0.99) returned to Lisenok110
+Lisenok110 collected $3.09 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [Qc Jh Kd Jd]
+Seat 1: Slami4 (button) folded on the Turn
+Seat 2: hheman (small blind) folded before Flop
+Seat 6: okroznaj (big blind) folded before Flop
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 collected ($3.09)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677875737:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:21:39 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 6: okroznaj ($32.25 in chips) 
+Seat 7: dikanmax ($51.82 in chips) 
+Seat 8: Lisenok110 ($53.65 in chips) 
+Seat 9: Mmago24 ($74.21 in chips) 
+okroznaj: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+okroznaj: folds 
+dikanmax: folds 
+Uncalled bet ($0.75) returned to Lisenok110
+Lisenok110 collected $1.25 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman (button) folded before Flop (didn't bet)
+Seat 6: okroznaj (small blind) folded before Flop
+Seat 7: dikanmax (big blind) folded before Flop
+Seat 8: Lisenok110 collected ($1.25)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677880092:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:21:56 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 6: okroznaj ($32 in chips) 
+Seat 7: dikanmax ($51.32 in chips) 
+Seat 8: Lisenok110 ($54.40 in chips) 
+Seat 9: Mmago24 ($74.21 in chips) 
+dikanmax: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+dstrola: sits out 
+VinnerG: sits out 
+*** HOLE CARDS ***
+Mmago24: raises $0.72 to $1.22
+Slami4: folds 
+hheman: folds 
+okroznaj: calls $1.22
+dikanmax: folds 
+Lisenok110: folds 
+*** FLOP *** [Tc Th 6s]
+Mmago24: bets $1.20
+okroznaj: folds 
+Uncalled bet ($1.20) returned to Mmago24
+Mmago24 collected $3.03 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.19 | Rake $0.16 
+Board [Tc Th 6s]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 6: okroznaj (button) folded on the Flop
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 8: Lisenok110 (big blind) folded before Flop
+Seat 9: Mmago24 collected ($3.03)
+
+
+
+PokerStars Hand #228677887973:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:22:27 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 6: okroznaj ($30.78 in chips) 
+Seat 7: dikanmax ($51.07 in chips) 
+Seat 8: Lisenok110 ($53.90 in chips) 
+Seat 9: Mmago24 ($76.02 in chips) 
+Lisenok110: posts small blind $0.25
+Mmago24: posts big blind $0.50
+dstrola: sits out 
+VinnerG: sits out 
+*** HOLE CARDS ***
+Slami4: folds 
+hheman: folds 
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: raises $1 to $1.50
+Mmago24: folds 
+Uncalled bet ($1) returned to Lisenok110
+Lisenok110 collected $1 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax (button) folded before Flop (didn't bet)
+Seat 8: Lisenok110 (small blind) collected ($1)
+Seat 9: Mmago24 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228677891590:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:22:42 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 6: okroznaj ($30.78 in chips) 
+Seat 7: dikanmax ($51.07 in chips) 
+Seat 8: Lisenok110 ($54.40 in chips) 
+Seat 9: Mmago24 ($75.52 in chips) 
+Mmago24: posts small blind $0.25
+Slami4: posts big blind $0.50
+dstrola: sits out 
+VinnerG: sits out 
+*** HOLE CARDS ***
+hheman: folds 
+okroznaj: raises $1 to $1.50
+VinnerG leaves the table
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: folds 
+Uncalled bet ($1) returned to okroznaj
+okroznaj collected $1.25 from pot
+okroznaj: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 (big blind) folded before Flop
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 6: okroznaj collected ($1.25)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 (button) folded before Flop (didn't bet)
+Seat 9: Mmago24 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228677898689:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:23:10 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($50 in chips) 
+Seat 6: okroznaj ($31.53 in chips) 
+Seat 7: dikanmax ($51.07 in chips) 
+Seat 8: Lisenok110 ($54.40 in chips) 
+Seat 9: Mmago24 ($75.27 in chips) 
+Slami4: posts small blind $0.25
+hheman: posts big blind $0.50
+dstrola: sits out 
+*** HOLE CARDS ***
+okroznaj: folds 
+gambleruin joins the table at seat #5 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: raises $0.72 to $1.22
+Slami4: folds 
+hheman: raises $2.78 to $4
+Mmago24: calls $2.78
+*** FLOP *** [5d Qd 2h]
+hheman: bets $5.23
+Mmago24: folds 
+Uncalled bet ($5.23) returned to hheman
+hheman collected $7.84 from pot
+hheman: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.41 
+Board [5d Qd 2h]
+Seat 1: Slami4 (small blind) folded before Flop
+Seat 2: hheman (big blind) collected ($7.84)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 (button) folded on the Flop
+
+
+
+PokerStars Hand #228677911182:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:23:47 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: Slami4 ($50 in chips) 
+Seat 2: hheman ($53.84 in chips) 
+Seat 3: podumci ($31.81 in chips) 
+Seat 6: okroznaj ($31.53 in chips) 
+Seat 7: dikanmax ($51.07 in chips) 
+Seat 8: Lisenok110 ($54.40 in chips) 
+Seat 9: Mmago24 ($71.27 in chips) 
+hheman: posts small blind $0.25
+podumci: posts big blind $0.50
+dstrola: sits out 
+gambleruin: sits out 
+*** HOLE CARDS ***
+okroznaj: calls $0.50
+dikanmax: folds 
+Lisenok110: raises $1 to $1.50
+Mmago24: folds 
+Slami4: calls $1.50
+hheman: folds 
+podumci: folds 
+okroznaj: calls $1
+*** FLOP *** [Qs 4h Jd]
+okroznaj: checks 
+Lisenok110: checks 
+Slami4: bets $3.29
+okroznaj: folds 
+Lisenok110: folds 
+Uncalled bet ($3.29) returned to Slami4
+Slami4 collected $4.99 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.26 
+Board [Qs 4h Jd]
+Seat 1: Slami4 (button) collected ($4.99)
+Seat 2: hheman (small blind) folded before Flop
+Seat 3: podumci (big blind) folded before Flop
+Seat 6: okroznaj folded on the Flop
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded on the Flop
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677919599:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:24:20 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: Slami4 ($53.49 in chips) 
+Seat 2: hheman ($53.59 in chips) 
+Seat 3: podumci ($31.31 in chips) 
+Seat 4: dstrola ($50 in chips) 
+Seat 6: okroznaj ($30.03 in chips) 
+Seat 7: dikanmax ($51.07 in chips) 
+Seat 8: Lisenok110 ($52.90 in chips) 
+Seat 9: Mmago24 ($71.27 in chips) 
+podumci: posts small blind $0.25
+dstrola: posts big blind $0.50
+gambleruin: sits out 
+*** HOLE CARDS ***
+okroznaj: folds 
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+podumci: folds 
+dstrola: raises $3.25 to $4.50
+Lisenok110: folds 
+Uncalled bet ($3.25) returned to dstrola
+dstrola collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman (button) folded before Flop (didn't bet)
+Seat 3: podumci (small blind) folded before Flop
+Seat 4: dstrola (big blind) collected ($2.75)
+Seat 6: okroznaj folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677931034:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:25:05 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 1: Slami4 ($53.49 in chips) 
+Seat 2: hheman ($53.59 in chips) 
+Seat 3: podumci ($31.06 in chips) 
+Seat 4: dstrola ($51.25 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: okroznaj ($30.78 in chips) 
+Seat 7: dikanmax ($51.07 in chips) 
+Seat 8: Lisenok110 ($51.65 in chips) 
+Seat 9: Mmago24 ($71.27 in chips) 
+gambleruin: posts small blind $0.25
+okroznaj: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: raises $0.72 to $1.22
+Slami4: folds 
+hheman: folds 
+podumci: folds 
+dstrola: folds 
+gambleruin: folds 
+okroznaj: calls $0.72
+*** FLOP *** [9h 8d Jh]
+okroznaj: checks 
+Mmago24: bets $1.36
+okroznaj: folds 
+Uncalled bet ($1.36) returned to Mmago24
+Mmago24 collected $2.56 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.69 | Rake $0.13 
+Board [9h 8d Jh]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci folded before Flop (didn't bet)
+Seat 4: dstrola (button) folded before Flop (didn't bet)
+Seat 5: gambleruin (small blind) folded before Flop
+Seat 6: okroznaj (big blind) folded on the Flop
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 collected ($2.56)
+
+
+
+PokerStars Hand #228677944200:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:25:58 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 1: Slami4 ($53.49 in chips) 
+Seat 2: hheman ($53.59 in chips) 
+Seat 3: podumci ($31.06 in chips) 
+Seat 4: dstrola ($51.25 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: okroznaj ($29.56 in chips) 
+Seat 7: dikanmax ($51.07 in chips) 
+Seat 8: Lisenok110 ($51.65 in chips) 
+Seat 9: Mmago24 ($72.61 in chips) 
+okroznaj: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+podumci: folds 
+dstrola: raises $0.75 to $1.25
+gambleruin: folds 
+okroznaj: folds 
+dikanmax: folds 
+Uncalled bet ($0.75) returned to dstrola
+dstrola collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci folded before Flop (didn't bet)
+Seat 4: dstrola collected ($1.25)
+Seat 5: gambleruin (button) folded before Flop (didn't bet)
+Seat 6: okroznaj (small blind) folded before Flop
+Seat 7: dikanmax (big blind) folded before Flop
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228677950631:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:26:24 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 1: Slami4 ($53.49 in chips) 
+Seat 2: hheman ($53.59 in chips) 
+Seat 3: podumci ($31.06 in chips) 
+Seat 4: dstrola ($52 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: okroznaj ($29.31 in chips) 
+Seat 7: dikanmax ($50.57 in chips) 
+Seat 8: Lisenok110 ($51.65 in chips) 
+Seat 9: Mmago24 ($72.61 in chips) 
+dikanmax: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: raises $0.72 to $1.22
+Slami4: calls $1.22
+hheman: folds 
+podumci: calls $1.22
+dstrola: folds 
+gambleruin: folds 
+okroznaj: raises $5.63 to $6.85
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: calls $5.63
+Slami4: folds 
+podumci: folds 
+*** FLOP *** [Ah 7s 6h]
+Mmago24: checks 
+okroznaj: checks 
+*** TURN *** [Ah 7s 6h] [6c]
+Mmago24: bets $6
+okroznaj: folds 
+Uncalled bet ($6) returned to Mmago24
+Mmago24 collected $16.05 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.89 | Rake $0.84 
+Board [Ah 7s 6h 6c]
+Seat 1: Slami4 folded before Flop
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci folded before Flop
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: okroznaj (button) folded on the Turn
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 8: Lisenok110 (big blind) folded before Flop
+Seat 9: Mmago24 collected ($16.05)
+
+
+
+PokerStars Hand #228677970378:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:27:41 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 1: Slami4 ($52.27 in chips) 
+Seat 2: hheman ($53.59 in chips) 
+Seat 3: podumci ($29.84 in chips) 
+Seat 4: dstrola ($52 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: okroznaj ($22.46 in chips) 
+Seat 7: dikanmax ($50.32 in chips) 
+Seat 8: Lisenok110 ($51.15 in chips) 
+Seat 9: Mmago24 ($81.81 in chips) 
+Lisenok110: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Slami4: folds 
+hheman: folds 
+podumci: folds 
+dstrola: folds 
+gambleruin: folds 
+okroznaj: calls $0.50
+dikanmax: folds 
+Lisenok110: calls $0.25
+Mmago24: raises $2 to $2.50
+okroznaj: calls $2
+Lisenok110: calls $2
+*** FLOP *** [Th Kd 4c]
+Lisenok110: checks 
+Mmago24: bets $3
+okroznaj: raises $16.96 to $19.96 and is all-in
+Lisenok110: folds 
+Mmago24: calls $16.96
+okroznaj has timed out
+*** TURN *** [Th Kd 4c] [Tc]
+*** RIVER *** [Th Kd 4c Tc] [2s]
+*** SHOW DOWN ***
+Mmago24: shows [Kc Qs] (two pair, Kings and Tens)
+okroznaj: shows [Qc Jc] (a pair of Tens)
+Mmago24 cashed out the hand for $29.71 | Cash Out Fee $0.30
+*** SUMMARY ***
+Total pot $47.42 | Rake $2 
+Board [Th Kd 4c Tc 2s]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci folded before Flop (didn't bet)
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: okroznaj showed [Qc Jc] and lost with a pair of Tens
+Seat 7: dikanmax (button) folded before Flop (didn't bet)
+Seat 8: Lisenok110 (small blind) folded on the Flop
+Seat 9: Mmago24 (big blind) showed [Kc Qs] and won ($45.42) with two pair, Kings and Tens (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #228678010709:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:30:01 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 2: hheman ($53.59 in chips) 
+Seat 3: podumci ($27.34 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: akbloger ($50 in chips) 
+Seat 7: dikanmax ($50.32 in chips) 
+Seat 8: Lisenok110 ($50.75 in chips) 
+Seat 9: Mmago24 ($88.81 in chips) 
+gambleruin: posts small blind $0.25
+akbloger: posts big blind $0.50
+Slami4: sits out 
+*** HOLE CARDS ***
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+hheman: folds 
+podumci: folds 
+gambleruin: raises $1 to $1.50
+akbloger: folds 
+Uncalled bet ($1) returned to gambleruin
+gambleruin collected $1 from pot
+gambleruin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci (button) folded before Flop (didn't bet)
+Seat 5: gambleruin (small blind) collected ($1)
+Seat 6: akbloger (big blind) folded before Flop
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678014134:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:30:13 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 2: hheman ($53.59 in chips) 
+Seat 3: podumci ($27.34 in chips) 
+Seat 5: gambleruin ($50.50 in chips) 
+Seat 6: akbloger ($50 in chips) 
+Seat 7: dikanmax ($50.32 in chips) 
+Seat 8: Lisenok110 ($50.75 in chips) 
+Seat 9: Mmago24 ($88.81 in chips) 
+akbloger: posts small blind $0.25
+dikanmax: posts big blind $0.50
+Slami4: sits out 
+*** HOLE CARDS ***
+Lisenok110: folds 
+Mmago24: folds 
+hheman: folds 
+podumci: folds 
+gambleruin: raises $0.75 to $1.25
+akbloger: folds 
+dikanmax: folds 
+Uncalled bet ($0.75) returned to gambleruin
+gambleruin collected $1.25 from pot
+gambleruin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci folded before Flop (didn't bet)
+Seat 5: gambleruin (button) collected ($1.25)
+Seat 6: akbloger (small blind) folded before Flop
+Seat 7: dikanmax (big blind) folded before Flop
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678022552:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:30:47 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 2: hheman ($53.59 in chips) 
+Seat 3: podumci ($27.34 in chips) 
+Seat 5: gambleruin ($51.25 in chips) 
+Seat 6: akbloger ($50 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($50.75 in chips) 
+Seat 9: Mmago24 ($88.81 in chips) 
+dikanmax: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+Slami4: sits out 
+*** HOLE CARDS ***
+Mmago24: folds 
+hheman: folds 
+podumci: calls $0.50
+gambleruin: raises $1.25 to $1.75
+akbloger: folds 
+dikanmax: folds 
+Lisenok110: raises $4.25 to $6
+podumci: calls $5.50
+gambleruin: calls $4.25
+*** FLOP *** [7c 6h 2c]
+Lisenok110: bets $12
+podumci: folds 
+gambleruin: folds 
+Uncalled bet ($12) returned to Lisenok110
+Lisenok110 collected $17.34 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.25 | Rake $0.91 
+Board [7c 6h 2c]
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci folded on the Flop
+Seat 5: gambleruin folded on the Flop
+Seat 6: akbloger (button) folded before Flop (didn't bet)
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 8: Lisenok110 (big blind) collected ($17.34)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678043258:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:32:07 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 2: hheman ($53.59 in chips) 
+Seat 3: podumci ($21.34 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: akbloger ($50 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($62.09 in chips) 
+Seat 9: Mmago24 ($88.81 in chips) 
+Lisenok110: posts small blind $0.25
+Mmago24: posts big blind $0.50
+Slami4: sits out 
+*** HOLE CARDS ***
+hheman: folds 
+podumci: calls $0.50
+gambleruin: folds 
+akbloger: raises $1.50 to $2
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+podumci: calls $1.50
+*** FLOP *** [Jh 7s Qd]
+podumci: checks 
+akbloger: bets $1.49
+podumci: folds 
+Uncalled bet ($1.49) returned to akbloger
+akbloger collected $4.51 from pot
+akbloger: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [Jh 7s Qd]
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci folded on the Flop
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: akbloger collected ($4.51)
+Seat 7: dikanmax (button) folded before Flop (didn't bet)
+Seat 8: Lisenok110 (small blind) folded before Flop
+Seat 9: Mmago24 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228678052640:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:32:44 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 1: Slami4 ($52.27 in chips) 
+Seat 2: hheman ($53.59 in chips) 
+Seat 3: podumci ($19.34 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: akbloger ($52.51 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($61.84 in chips) 
+Seat 9: Mmago24 ($88.31 in chips) 
+Mmago24: posts small blind $0.25
+Slami4: posts big blind $0.50
+*** HOLE CARDS ***
+hheman: folds 
+podumci: calls $0.50
+gambleruin: folds 
+akbloger: folds 
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: raises $3.75 to $5
+Slami4: folds 
+podumci: calls $4.50
+Lisenok110: calls $3.75
+*** FLOP *** [2s 8c As]
+Mmago24: checks 
+podumci: bets $7.36
+Lisenok110: folds 
+Mmago24: folds 
+Uncalled bet ($7.36) returned to podumci
+podumci collected $14.72 from pot
+podumci: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.78 
+Board [2s 8c As]
+Seat 1: Slami4 (big blind) folded before Flop
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci collected ($14.72)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: akbloger folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 (button) folded on the Flop
+Seat 9: Mmago24 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228678063909:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:33:28 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 1: Slami4 ($51.77 in chips) 
+Seat 2: hheman ($53.59 in chips) 
+Seat 3: podumci ($29.06 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: akbloger ($52.51 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($56.84 in chips) 
+Seat 9: Mmago24 ($83.31 in chips) 
+Slami4: posts small blind $0.25
+hheman: posts big blind $0.50
+*** HOLE CARDS ***
+podumci: calls $0.50
+gambleruin: raises $1.50 to $2
+akbloger: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+podumci: calls $1.50
+*** FLOP *** [7c 5s 7h]
+podumci: bets $27.06 and is all-in
+gambleruin: folds 
+Uncalled bet ($27.06) returned to podumci
+podumci collected $4.51 from pot
+podumci: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [7c 5s 7h]
+Seat 1: Slami4 (small blind) folded before Flop
+Seat 2: hheman (big blind) folded before Flop
+Seat 3: podumci collected ($4.51)
+Seat 5: gambleruin folded on the Flop
+Seat 6: akbloger folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678068950:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:33:48 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: Slami4 ($51.52 in chips) 
+Seat 2: hheman ($53.09 in chips) 
+Seat 3: podumci ($31.57 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: akbloger ($52.51 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($56.84 in chips) 
+Seat 9: Mmago24 ($83.31 in chips) 
+hheman: posts small blind $0.25
+podumci: posts big blind $0.50
+*** HOLE CARDS ***
+gambleruin: folds 
+akbloger: folds 
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: calls $1.25
+Slami4: folds 
+hheman: folds 
+podumci: folds 
+*** FLOP *** [Th 4c 9d]
+Lisenok110: checks 
+Mmago24: checks 
+*** TURN *** [Th 4c 9d] [8s]
+Lisenok110: bets $0.99
+Mmago24: calls $0.99
+*** RIVER *** [Th 4c 9d 8s] [Jc]
+Lisenok110: checks 
+Mmago24: bets $3
+Lisenok110: raises $16 to $19
+Mmago24: folds 
+Uncalled bet ($16) returned to Lisenok110
+Lisenok110 collected $10.67 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.23 | Rake $0.56 
+Board [Th 4c 9d 8s Jc]
+Seat 1: Slami4 (button) folded before Flop (didn't bet)
+Seat 2: hheman (small blind) folded before Flop
+Seat 3: podumci (big blind) folded before Flop
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: akbloger folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 collected ($10.67)
+Seat 9: Mmago24 folded on the River
+
+
+
+PokerStars Hand #228678091532:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:35:17 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: Slami4 ($51.52 in chips) 
+Seat 2: hheman ($52.84 in chips) 
+Seat 3: podumci ($31.07 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: akbloger ($52.51 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($62.27 in chips) 
+Seat 9: Mmago24 ($78.07 in chips) 
+podumci: posts small blind $0.25
+gambleruin: posts big blind $0.50
+*** HOLE CARDS ***
+akbloger: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: raises $0.75 to $1.25
+hheman: folds 
+podumci: calls $1
+gambleruin: folds 
+*** FLOP *** [7h Th 7c]
+podumci: checks 
+Slami4: bets $1.38
+podumci: folds 
+Uncalled bet ($1.38) returned to Slami4
+Slami4 collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [7h Th 7c]
+Seat 1: Slami4 collected ($2.85)
+Seat 2: hheman (button) folded before Flop (didn't bet)
+Seat 3: podumci (small blind) folded on the Flop
+Seat 5: gambleruin (big blind) folded before Flop
+Seat 6: akbloger folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678101040:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:35:55 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: Slami4 ($53.12 in chips) 
+Seat 2: hheman ($52.84 in chips) 
+Seat 3: podumci ($29.82 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: akbloger ($52.51 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($62.27 in chips) 
+Seat 9: Mmago24 ($78.07 in chips) 
+gambleruin: posts small blind $0.25
+akbloger: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: raises $0.72 to $1.22
+Slami4: calls $1.22
+hheman: folds 
+podumci has timed out
+podumci: folds 
+gambleruin: folds 
+akbloger: folds 
+*** FLOP *** [3s 4h Kc]
+Mmago24: bets $1.20
+Slami4: calls $1.20
+*** TURN *** [3s 4h Kc] [Kd]
+Mmago24: checks 
+Slami4: checks 
+*** RIVER *** [3s 4h Kc Kd] [4c]
+Mmago24: bets $2
+Slami4: raises $3.07 to $5.07
+Mmago24: calls $3.07
+*** SHOW DOWN ***
+Slami4: shows [Ks Jh] (a full house, Kings full of Fours)
+Mmago24: mucks hand 
+Slami4 collected $14.94 from pot
+*** SUMMARY ***
+Total pot $15.73 | Rake $0.79 
+Board [3s 4h Kc Kd 4c]
+Seat 1: Slami4 showed [Ks Jh] and won ($14.94) with a full house, Kings full of Fours
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 3: podumci (button) folded before Flop (didn't bet)
+Seat 5: gambleruin (small blind) folded before Flop
+Seat 6: akbloger (big blind) folded before Flop
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 mucked
+
+
+
+PokerStars Hand #228678124760:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:37:28 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 1: Slami4 ($60.57 in chips) 
+Seat 2: hheman ($52.84 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: akbloger ($52.01 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($62.27 in chips) 
+Seat 9: Mmago24 ($70.58 in chips) 
+akbloger: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Slami4: folds 
+hheman: folds 
+gambleruin: folds 
+akbloger: folds 
+dikanmax: folds 
+Uncalled bet ($0.75) returned to Lisenok110
+Lisenok110 collected $1.25 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop (didn't bet)
+Seat 5: gambleruin (button) folded before Flop (didn't bet)
+Seat 6: akbloger (small blind) folded before Flop
+Seat 7: dikanmax (big blind) folded before Flop
+Seat 8: Lisenok110 collected ($1.25)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678138972:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:38:23 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 1: Slami4 ($60.57 in chips) 
+Seat 2: hheman ($52.84 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: akbloger ($51.76 in chips) 
+Seat 7: dikanmax ($50.90 in chips) 
+Seat 8: Lisenok110 ($62.02 in chips) 
+Seat 9: Mmago24 ($70.58 in chips) 
+Lisenok110: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Slami4: folds 
+hheman: raises $0.75 to $1.25
+gambleruin: folds 
+akbloger: folds 
+dikanmax: raises $3.25 to $4.50
+Lisenok110: folds 
+Mmago24: folds 
+hheman: folds 
+Uncalled bet ($3.25) returned to dikanmax
+dikanmax collected $3.25 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: hheman folded before Flop
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: akbloger folded before Flop (didn't bet)
+Seat 7: dikanmax (button) collected ($3.25)
+Seat 8: Lisenok110 (small blind) folded before Flop
+Seat 9: Mmago24 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228678145018:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:38:47 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: akbloger ($51.76 in chips) 
+Seat 7: dikanmax ($52.90 in chips) 
+Seat 8: Lisenok110 ($61.77 in chips) 
+Seat 9: Mmago24 ($70.08 in chips) 
+Mmago24: posts small blind $0.25
+Slami4: is sitting out 
+hheman: is sitting out 
+gambleruin: posts big blind $0.50
+*** HOLE CARDS ***
+akbloger: folds 
+akbloger leaves the table
+dikanmax: raises $1 to $1.50
+ANZIFER1986 joins the table at seat #6 
+Lisenok110: folds 
+Mmago24: folds 
+gambleruin: folds 
+Uncalled bet ($1) returned to dikanmax
+dikanmax collected $1.25 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 5: gambleruin (big blind) folded before Flop
+Seat 6: akbloger folded before Flop (didn't bet)
+Seat 7: dikanmax collected ($1.25)
+Seat 8: Lisenok110 (button) folded before Flop (didn't bet)
+Seat 9: Mmago24 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228678149281:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:39:03 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 5: gambleruin ($50 in chips) 
+Seat 6: ANZIFER1986 ($50 in chips) 
+Seat 7: dikanmax ($53.65 in chips) 
+Seat 8: Lisenok110 ($61.77 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+gambleruin: posts small blind $0.25
+ANZIFER1986: posts big blind $0.50
+*** HOLE CARDS ***
+hheman leaves the table
+kars0n joins the table at seat #2 
+kars0n leaves the table
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+gambleruin: raises $1 to $1.50
+ANZIFER1986: folds 
+Uncalled bet ($1) returned to gambleruin
+Dreamer246 joins the table at seat #2 
+gambleruin collected $1 from pot
+gambleruin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: gambleruin (small blind) collected ($1)
+Seat 6: ANZIFER1986 (big blind) folded before Flop
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678156589:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:39:32 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 5: gambleruin ($50.50 in chips) 
+Seat 6: ANZIFER1986 ($50 in chips) 
+Seat 7: dikanmax ($53.65 in chips) 
+Seat 8: Lisenok110 ($61.77 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+ANZIFER1986: posts small blind $0.25
+dikanmax: posts big blind $0.50
+Dreamer246: sits out 
+*** HOLE CARDS ***
+Lisenok110: folds 
+Mmago24: folds 
+gambleruin: folds 
+ANZIFER1986: raises $1 to $1.50
+podumci is disconnected 
+dikanmax: folds 
+Uncalled bet ($1) returned to ANZIFER1986
+ANZIFER1986 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: gambleruin (button) folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 (small blind) collected ($1)
+Seat 7: dikanmax (big blind) folded before Flop
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678161697:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:39:52 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 5: gambleruin ($50.50 in chips) 
+Seat 6: ANZIFER1986 ($50.50 in chips) 
+Seat 7: dikanmax ($53.15 in chips) 
+Seat 8: Lisenok110 ($61.77 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+dikanmax: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+Dreamer246: sits out 
+*** HOLE CARDS ***
+Mmago24: folds 
+gambleruin: raises $0.75 to $1.25
+ANZIFER1986: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Uncalled bet ($0.75) returned to gambleruin
+gambleruin collected $1.25 from pot
+gambleruin: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 5: gambleruin collected ($1.25)
+Seat 6: ANZIFER1986 (button) folded before Flop (didn't bet)
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 8: Lisenok110 (big blind) folded before Flop
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678166103:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:40:09 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 5: gambleruin ($51.25 in chips) 
+Seat 6: ANZIFER1986 ($50.50 in chips) 
+Seat 7: dikanmax ($52.90 in chips) 
+Seat 8: Lisenok110 ($61.27 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+Lisenok110: posts small blind $0.25
+Mmago24: posts big blind $0.50
+Dreamer246: sits out 
+*** HOLE CARDS ***
+gambleruin: folds 
+ANZIFER1986: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Uncalled bet ($0.25) returned to Mmago24
+Mmago24 collected $0.50 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 folded before Flop (didn't bet)
+Seat 7: dikanmax (button) folded before Flop (didn't bet)
+Seat 8: Lisenok110 (small blind) folded before Flop
+Seat 9: Mmago24 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228678169051:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:40:20 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 2: Dreamer246 ($40 in chips) 
+Seat 5: gambleruin ($51.25 in chips) 
+Seat 6: ANZIFER1986 ($50.50 in chips) 
+Seat 7: dikanmax ($52.90 in chips) 
+Seat 8: Lisenok110 ($61.02 in chips) 
+Seat 9: Mmago24 ($70.08 in chips) 
+Mmago24: posts small blind $0.25
+Dreamer246: posts big blind $0.50
+dstrola: sits out 
+*** HOLE CARDS ***
+gambleruin: folds 
+ANZIFER1986: folds 
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Dreamer246: calls $0.75
+*** FLOP *** [Js 3h 7s]
+Dreamer246: bets $2
+Lisenok110: calls $2
+*** TURN *** [Js 3h 7s] [Ad]
+Dreamer246: bets $1.50
+Lisenok110: raises $4.50 to $6
+Dreamer246: calls $4.50
+*** RIVER *** [Js 3h 7s Ad] [5c]
+Dreamer246: checks 
+Lisenok110: bets $11.87
+Dreamer246: calls $11.87
+*** SHOW DOWN ***
+Lisenok110: shows [Ac Jc] (two pair, Aces and Jacks)
+Dreamer246: mucks hand 
+Lisenok110 collected $40.49 from pot
+*** SUMMARY ***
+Total pot $42.49 | Rake $2 
+Board [Js 3h 7s Ad 5c]
+Seat 2: Dreamer246 (big blind) mucked
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 (button) showed [Ac Jc] and won ($40.49) with two pair, Aces and Jacks
+Seat 9: Mmago24 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228678189078:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:41:39 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 2: Dreamer246 ($18.88 in chips) 
+Seat 4: dstrola ($53.80 in chips) 
+Seat 5: gambleruin ($51.25 in chips) 
+Seat 6: ANZIFER1986 ($50.50 in chips) 
+Seat 7: dikanmax ($52.90 in chips) 
+Seat 8: Lisenok110 ($80.39 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+Dreamer246: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+gambleruin: folds 
+ANZIFER1986: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Dreamer246: raises $1 to $1.50
+dstrola: folds 
+Uncalled bet ($1) returned to Dreamer246
+Dreamer246 collected $1 from pot
+Dreamer246: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Dreamer246 (small blind) collected ($1)
+Seat 4: dstrola (big blind) folded before Flop
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678194244:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:41:59 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 2: Dreamer246 ($19.38 in chips) 
+Seat 4: dstrola ($53.30 in chips) 
+Seat 5: gambleruin ($51.25 in chips) 
+Seat 6: ANZIFER1986 ($50.50 in chips) 
+Seat 7: dikanmax ($52.90 in chips) 
+Seat 8: Lisenok110 ($80.39 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+dstrola: posts small blind $0.25
+gambleruin: posts big blind $0.50
+*** HOLE CARDS ***
+ANZIFER1986: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24 has timed out
+Mmago24: folds 
+Dreamer246: folds 
+dstrola: folds 
+Uncalled bet ($0.25) returned to gambleruin
+gambleruin collected $0.50 from pot
+gambleruin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Dreamer246 (button) folded before Flop (didn't bet)
+Seat 4: dstrola (small blind) folded before Flop
+Seat 5: gambleruin (big blind) collected ($0.50)
+Seat 6: ANZIFER1986 folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678199294:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:42:18 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 2: Dreamer246 ($19.38 in chips) 
+Seat 4: dstrola ($53.05 in chips) 
+Seat 5: gambleruin ($51.50 in chips) 
+Seat 6: ANZIFER1986 ($50.50 in chips) 
+Seat 7: dikanmax ($52.90 in chips) 
+Seat 8: Lisenok110 ($80.39 in chips) 
+gambleruin: posts small blind $0.25
+ANZIFER1986: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: raises $1 to $1.50
+Lisenok110: folds 
+Dreamer246: raises $1.50 to $3
+dstrola: folds 
+gambleruin: folds 
+ANZIFER1986: folds 
+dikanmax: calls $1.50
+*** FLOP *** [Th Kh Kd]
+dikanmax: checks 
+Dreamer246: bets $4
+dikanmax: folds 
+Uncalled bet ($4) returned to Dreamer246
+Dreamer246 collected $6.41 from pot
+Dreamer246: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.34 
+Board [Th Kh Kd]
+Seat 2: Dreamer246 collected ($6.41)
+Seat 4: dstrola (button) folded before Flop (didn't bet)
+Seat 5: gambleruin (small blind) folded before Flop
+Seat 6: ANZIFER1986 (big blind) folded before Flop
+Seat 7: dikanmax folded on the Flop
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678213835:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:43:15 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 2: Dreamer246 ($22.79 in chips) 
+Seat 4: dstrola ($53.05 in chips) 
+Seat 5: gambleruin ($51.25 in chips) 
+Seat 6: ANZIFER1986 ($50 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($80.39 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+ANZIFER1986: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Dreamer246: folds 
+dstrola: folds 
+gambleruin: folds 
+ANZIFER1986: folds 
+dikanmax: folds 
+Uncalled bet ($0.75) returned to Lisenok110
+Lisenok110 collected $1.25 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Dreamer246 folded before Flop (didn't bet)
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin (button) folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 (small blind) folded before Flop
+Seat 7: dikanmax (big blind) folded before Flop
+Seat 8: Lisenok110 collected ($1.25)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678219699:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:43:37 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 2: Dreamer246 ($22.79 in chips) 
+Seat 4: dstrola ($53.05 in chips) 
+Seat 5: gambleruin ($51.25 in chips) 
+Seat 6: ANZIFER1986 ($50 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($81.14 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+dikanmax: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+Dreamer246: raises $1 to $1.50
+dstrola: folds 
+gambleruin: folds 
+ANZIFER1986: folds 
+dikanmax: folds 
+Lisenok110: calls $1
+*** FLOP *** [Jh Tc 4s]
+Lisenok110: checks 
+Dreamer246: bets $1.50
+Lisenok110: calls $1.50
+*** TURN *** [Jh Tc 4s] [Qs]
+Lisenok110: checks 
+Dreamer246: checks 
+*** RIVER *** [Jh Tc 4s Qs] [Jc]
+Lisenok110: checks 
+Dreamer246: bets $2
+Lisenok110: folds 
+Uncalled bet ($2) returned to Dreamer246
+Dreamer246 collected $5.94 from pot
+Dreamer246: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.31 
+Board [Jh Tc 4s Qs Jc]
+Seat 2: Dreamer246 collected ($5.94)
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 (button) folded before Flop (didn't bet)
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 8: Lisenok110 (big blind) folded on the River
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678233475:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:44:30 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 2: Dreamer246 ($25.73 in chips) 
+Seat 4: dstrola ($53.05 in chips) 
+Seat 5: gambleruin ($51.25 in chips) 
+Seat 6: ANZIFER1986 ($50 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($78.14 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+Lisenok110: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Dreamer246: folds 
+dstrola: folds 
+gambleruin: folds 
+ANZIFER1986: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Uncalled bet ($0.25) returned to Mmago24
+Mmago24 collected $0.50 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Dreamer246 folded before Flop (didn't bet)
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 folded before Flop (didn't bet)
+Seat 7: dikanmax (button) folded before Flop (didn't bet)
+Seat 8: Lisenok110 (small blind) folded before Flop
+Seat 9: Mmago24 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228678237965:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:44:48 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 2: Dreamer246 ($25.73 in chips) 
+Seat 4: dstrola ($53.05 in chips) 
+Seat 5: gambleruin ($51.25 in chips) 
+Seat 6: ANZIFER1986 ($50 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($77.89 in chips) 
+Seat 9: Mmago24 ($70.08 in chips) 
+Mmago24: posts small blind $0.25
+Dreamer246: posts big blind $0.50
+*** HOLE CARDS ***
+dstrola: folds 
+gambleruin: folds 
+ANZIFER1986: folds 
+dikanmax: raises $1 to $1.50
+Lisenok110: folds 
+Mmago24: folds 
+Dreamer246: folds 
+Uncalled bet ($1) returned to dikanmax
+dikanmax collected $1.25 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Dreamer246 (big blind) folded before Flop
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 folded before Flop (didn't bet)
+Seat 7: dikanmax collected ($1.25)
+Seat 8: Lisenok110 (button) folded before Flop (didn't bet)
+Seat 9: Mmago24 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228678244136:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:45:11 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 2: Dreamer246 ($25.23 in chips) 
+Seat 4: dstrola ($53.05 in chips) 
+Seat 5: gambleruin ($51.25 in chips) 
+Seat 6: ANZIFER1986 ($50 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($77.89 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+Dreamer246: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+gambleruin: folds 
+ANZIFER1986: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Dreamer246: raises $1 to $1.50
+dstrola: folds 
+Uncalled bet ($1) returned to Dreamer246
+Dreamer246 collected $1 from pot
+Dreamer246: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Dreamer246 (small blind) collected ($1)
+Seat 4: dstrola (big blind) folded before Flop
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678248892:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:45:29 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 2: Dreamer246 ($25.73 in chips) 
+Seat 4: dstrola ($52.55 in chips) 
+Seat 5: gambleruin ($51.25 in chips) 
+Seat 6: ANZIFER1986 ($50 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($77.89 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+dstrola: posts small blind $0.25
+gambleruin: posts big blind $0.50
+*** HOLE CARDS ***
+ANZIFER1986: folds 
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Dreamer246: folds 
+dstrola: folds 
+gambleruin: folds 
+Uncalled bet ($0.75) returned to Lisenok110
+Lisenok110 collected $1.25 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Dreamer246 (button) folded before Flop (didn't bet)
+Seat 4: dstrola (small blind) folded before Flop
+Seat 5: gambleruin (big blind) folded before Flop
+Seat 6: ANZIFER1986 folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 collected ($1.25)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678256567:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:45:59 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 2: Dreamer246 ($25.73 in chips) 
+Seat 4: dstrola ($52.30 in chips) 
+Seat 5: gambleruin ($50.75 in chips) 
+Seat 6: ANZIFER1986 ($50 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($78.64 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+gambleruin: posts small blind $0.25
+ANZIFER1986: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Dreamer246: raises $3.75 to $5
+dstrola: folds 
+gambleruin: folds 
+ANZIFER1986: folds 
+Lisenok110: folds 
+Uncalled bet ($3.75) returned to Dreamer246
+Dreamer246 collected $3.25 from pot
+Dreamer246: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 2: Dreamer246 collected ($3.25)
+Seat 4: dstrola (button) folded before Flop (didn't bet)
+Seat 5: gambleruin (small blind) folded before Flop
+Seat 6: ANZIFER1986 (big blind) folded before Flop
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678265959:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:46:35 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 2: Dreamer246 ($27.73 in chips) 
+Seat 4: dstrola ($52.30 in chips) 
+Seat 5: gambleruin ($50.50 in chips) 
+Seat 6: ANZIFER1986 ($50 in chips) 
+Seat 7: dikanmax ($50.75 in chips) 
+Seat 8: Lisenok110 ($77.39 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+ANZIFER1986: posts small blind $0.25
+dikanmax: posts big blind $0.50
+Slami4: sits out 
+*** HOLE CARDS ***
+Lisenok110: raises $0.75 to $1.25
+Mmago24: folds 
+Dreamer246: folds 
+dstrola: folds 
+gambleruin: folds 
+ANZIFER1986: folds 
+dikanmax: folds 
+Uncalled bet ($0.75) returned to Lisenok110
+Lisenok110 collected $1.25 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Dreamer246 folded before Flop (didn't bet)
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin (button) folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 (small blind) folded before Flop
+Seat 7: dikanmax (big blind) folded before Flop
+Seat 8: Lisenok110 collected ($1.25)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678269265:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:46:48 ET
+Table 'Holmia II' 9-max Seat #6 is the button
+Seat 2: Dreamer246 ($27.73 in chips) 
+Seat 4: dstrola ($52.30 in chips) 
+Seat 5: gambleruin ($50.50 in chips) 
+Seat 6: ANZIFER1986 ($50 in chips) 
+Seat 7: dikanmax ($50.25 in chips) 
+Seat 8: Lisenok110 ($78.14 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+dikanmax: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+Slami4: sits out 
+*** HOLE CARDS ***
+Mmago24: folds 
+Dreamer246: folds 
+dstrola: folds 
+gambleruin: folds 
+ANZIFER1986: raises $0.73 to $1.23
+dikanmax: folds 
+Lisenok110: folds 
+Uncalled bet ($0.73) returned to ANZIFER1986
+ANZIFER1986 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Dreamer246 folded before Flop (didn't bet)
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 (button) collected ($1.25)
+Seat 7: dikanmax (small blind) folded before Flop
+Seat 8: Lisenok110 (big blind) folded before Flop
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678273976:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:47:06 ET
+Table 'Holmia II' 9-max Seat #7 is the button
+Seat 2: Dreamer246 ($27.73 in chips) 
+Seat 4: dstrola ($52.30 in chips) 
+Seat 5: gambleruin ($50.50 in chips) 
+Seat 6: ANZIFER1986 ($50.75 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($77.64 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+Lisenok110: posts small blind $0.25
+Mmago24: posts big blind $0.50
+Slami4: sits out 
+*** HOLE CARDS ***
+Dreamer246: raises $1 to $1.50
+dstrola: folds 
+gambleruin: folds 
+ANZIFER1986: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Uncalled bet ($1) returned to Dreamer246
+Dreamer246 collected $1.25 from pot
+Dreamer246: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Dreamer246 collected ($1.25)
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 folded before Flop (didn't bet)
+Seat 7: dikanmax (button) folded before Flop (didn't bet)
+Seat 8: Lisenok110 (small blind) folded before Flop
+Seat 9: Mmago24 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228678294036:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:48:23 ET
+Table 'Holmia II' 9-max Seat #9 is the button
+Seat 1: Slami4 ($59.34 in chips) 
+Seat 2: Dreamer246 ($28.48 in chips) 
+Seat 4: dstrola ($52.30 in chips) 
+Seat 5: gambleruin ($50.50 in chips) 
+Seat 6: ANZIFER1986 ($52.09 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($77.39 in chips) 
+Seat 9: Mmago24 ($69.08 in chips) 
+Slami4: posts small blind $0.25
+Dreamer246: posts big blind $0.50
+*** HOLE CARDS ***
+dstrola: folds 
+gambleruin: folds 
+ANZIFER1986: raises $1 to $1.50
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: folds 
+Dreamer246: calls $1
+*** FLOP *** [Jd 5c 9h]
+Dreamer246: checks 
+ANZIFER1986: bets $1.70
+Dreamer246: folds 
+Uncalled bet ($1.70) returned to ANZIFER1986
+ANZIFER1986 collected $3.09 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [Jd 5c 9h]
+Seat 1: Slami4 (small blind) folded before Flop
+Seat 2: Dreamer246 (big blind) folded on the Flop
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 collected ($3.09)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678301776:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:48:52 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: Slami4 ($59.09 in chips) 
+Seat 2: Dreamer246 ($26.98 in chips) 
+Seat 4: dstrola ($52.30 in chips) 
+Seat 5: gambleruin ($50.50 in chips) 
+Seat 6: ANZIFER1986 ($53.68 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($77.39 in chips) 
+Seat 9: Mmago24 ($69.08 in chips) 
+Dreamer246: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+gambleruin: folds 
+ANZIFER1986: raises $1 to $1.50
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: folds 
+Slami4: raises $3 to $4.50
+Dreamer246: folds 
+dstrola: folds 
+ANZIFER1986: folds 
+Uncalled bet ($3) returned to Slami4
+Slami4 collected $3.75 from pot
+podumci was removed from the table for failing to post
+podumci leaves the table
+*** SUMMARY ***
+Total pot $3.75 | Rake $0 
+Seat 1: Slami4 (button) collected ($3.75)
+Seat 2: Dreamer246 (small blind) folded before Flop
+Seat 4: dstrola (big blind) folded before Flop
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 6: ANZIFER1986 folded before Flop
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678313046:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:49:36 ET
+Table 'Holmia II' 9-max Seat #2 is the button
+Seat 1: Slami4 ($61.34 in chips) 
+Seat 2: Dreamer246 ($26.73 in chips) 
+Seat 4: dstrola ($51.80 in chips) 
+Seat 5: gambleruin ($50.50 in chips) 
+Seat 6: ANZIFER1986 ($52.18 in chips) 
+Seat 7: dikanmax ($50 in chips) 
+Seat 8: Lisenok110 ($77.39 in chips) 
+Seat 9: Mmago24 ($69.08 in chips) 
+dstrola: posts small blind $0.25
+gambleruin: posts big blind $0.50
+*** HOLE CARDS ***
+ANZIFER1986: folds 
+dikanmax: folds 
+Lisenok110: folds 
+Mmago24: raises $0.72 to $1.22
+Slami4: folds 
+Dreamer246: folds 
+dstrola: folds 
+gambleruin: folds 
+Uncalled bet ($0.72) returned to Mmago24
+Mmago24 collected $1.25 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: Dreamer246 (button) folded before Flop (didn't bet)
+Seat 4: dstrola (small blind) folded before Flop
+Seat 5: gambleruin (big blind) folded before Flop
+Seat 6: ANZIFER1986 folded before Flop (didn't bet)
+Seat 7: dikanmax folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+Seat 9: Mmago24 collected ($1.25)
+
+
+
+PokerStars Hand #228678317002:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:49:51 ET
+Table 'Holmia II' 9-max Seat #4 is the button
+Seat 1: Slami4 ($61.34 in chips) 
+Seat 2: Dreamer246 ($26.73 in chips) 
+Seat 4: dstrola ($51.55 in chips) 
+Seat 5: gambleruin ($50 in chips) 
+Seat 8: Lisenok110 ($77.39 in chips) 
+Seat 9: Mmago24 ($69.83 in chips) 
+gambleruin: posts small blind $0.25
+ANZIFER1986: is sitting out 
+dikanmax: is sitting out 
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+ANZIFER1986 leaves the table
+Mmago24 has timed out
+Mmago24: folds 
+Slami4: folds 
+Dreamer246: folds 
+Mmago24 leaves the table
+dstrola: folds 
+gambleruin: raises $1 to $1.50
+Lisenok110: calls $1
+*** FLOP *** [Jd Ac Kc]
+xandr67 joins the table at seat #3 
+gambleruin: checks 
+Lisenok110: checks 
+*** TURN *** [Jd Ac Kc] [Qc]
+dikanmax leaves the table
+gambleruin: bets $2.14
+Lisenok110: folds 
+Uncalled bet ($2.14) returned to gambleruin
+gambleruin collected $2.85 from pot
+gambleruin: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Jd Ac Kc Qc]
+Seat 1: Slami4 folded before Flop (didn't bet)
+Seat 2: Dreamer246 folded before Flop (didn't bet)
+Seat 4: dstrola (button) folded before Flop (didn't bet)
+Seat 5: gambleruin (small blind) collected ($2.85)
+Seat 8: Lisenok110 (big blind) folded on the Turn
+Seat 9: Mmago24 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678331940:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:50:48 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 1: Slami4 ($61.34 in chips) 
+Seat 2: Dreamer246 ($26.73 in chips) 
+Seat 4: dstrola ($51.55 in chips) 
+Seat 5: gambleruin ($51.35 in chips) 
+Seat 8: Lisenok110 ($75.89 in chips) 
+Lisenok110: posts small blind $0.25
+Slami4: posts big blind $0.50
+xandr67: sits out 
+*** HOLE CARDS ***
+Dreamer246: folds 
+Dreamer246 leaves the table
+dstrola: folds 
+gambleruin: folds 
+Lisenok110: raises $1 to $1.50
+Slami4: folds 
+Uncalled bet ($1) returned to Lisenok110
+Lisenok110 collected $1 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Slami4 (big blind) folded before Flop
+Seat 2: Dreamer246 folded before Flop (didn't bet)
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin (button) folded before Flop (didn't bet)
+Seat 8: Lisenok110 (small blind) collected ($1)
+
+
+
+PokerStars Hand #228678337497:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:51:09 ET
+Table 'Holmia II' 9-max Seat #8 is the button
+Seat 1: Slami4 ($60.84 in chips) 
+Seat 3: xandr67 ($50 in chips) 
+Seat 4: dstrola ($51.55 in chips) 
+Seat 5: gambleruin ($51.35 in chips) 
+Seat 8: Lisenok110 ($76.39 in chips) 
+Slami4: posts small blind $0.25
+xandr67: posts big blind $0.50
+*** HOLE CARDS ***
+dstrola: folds 
+gambleruin: folds 
+Lisenok110: raises $0.75 to $1.25
+Slami4: folds 
+xandr67: folds 
+Uncalled bet ($0.75) returned to Lisenok110
+Lisenok110 collected $1.25 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 (small blind) folded before Flop
+Seat 3: xandr67 (big blind) folded before Flop
+Seat 4: dstrola folded before Flop (didn't bet)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 8: Lisenok110 (button) collected ($1.25)
+
+
+
+PokerStars Hand #228678341718:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:51:26 ET
+Table 'Holmia II' 9-max Seat #1 is the button
+Seat 1: Slami4 ($60.59 in chips) 
+Seat 3: xandr67 ($50 in chips) 
+Seat 4: dstrola ($51.55 in chips) 
+Seat 5: gambleruin ($51.35 in chips) 
+Seat 8: Lisenok110 ($77.14 in chips) 
+xandr67: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+gambleruin: folds 
+Lisenok110: folds 
+Slami4: folds 
+xandr67: folds 
+Uncalled bet ($0.25) returned to dstrola
+dstrola collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Slami4 (button) folded before Flop (didn't bet)
+Seat 3: xandr67 (small blind) folded before Flop
+Seat 4: dstrola (big blind) collected ($0.50)
+Seat 5: gambleruin folded before Flop (didn't bet)
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678344698:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:51:38 ET
+Table 'Holmia II' 9-max Seat #3 is the button
+Seat 1: Slami4 ($60.59 in chips) 
+Seat 3: xandr67 ($50 in chips) 
+Seat 4: dstrola ($51.80 in chips) 
+Seat 5: gambleruin ($51.35 in chips) 
+Seat 8: Lisenok110 ($77.14 in chips) 
+dstrola: posts small blind $0.25
+gambleruin: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: folds 
+Slami4: raises $0.75 to $1.25
+xandr67: folds 
+dstrola: folds 
+gambleruin: folds 
+Uncalled bet ($0.75) returned to Slami4
+Slami4 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Slami4 collected ($1.25)
+Seat 3: xandr67 (button) folded before Flop (didn't bet)
+Seat 4: dstrola (small blind) folded before Flop
+Seat 5: gambleruin (big blind) folded before Flop
+Seat 8: Lisenok110 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228678352624:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 8:52:08 ET
+Table 'Holmia II' 9-max Seat #5 is the button
+Seat 3: xandr67 ($50 in chips) 
+Seat 5: gambleruin ($50.85 in chips) 
+Seat 8: Lisenok110 ($77.14 in chips) 
+Lisenok110: posts small blind $0.25
+Slami4: is sitting out 
+xandr67: posts big blind $0.50
+*** HOLE CARDS ***
+gambleruin: folds 
+Lisenok110: folds 
+Uncalled bet ($0.25) returned to xandr67
+xandr67 collected $0.50 from pot
+xandr67: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: xandr67 (big blind) collected ($0.50)
+Seat 5: gambleruin (button) folded before Flop (didn't bet)
+Seat 8: Lisenok110 (small blind) folded before Flop
+
+
+

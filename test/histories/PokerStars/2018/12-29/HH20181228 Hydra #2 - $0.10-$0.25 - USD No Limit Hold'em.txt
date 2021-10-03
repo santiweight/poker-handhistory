@@ -1,0 +1,63 @@
+﻿PokerStars Zoom Hand #195021908833:  Hold'em No Limit ($0.10/$0.25) - 2018/12/29 2:29:03 UTC [2018/12/28 21:29:03 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: zdenekstavic ($42.64 in chips) 
+Seat 2: FrommyBu ($35.28 in chips) 
+Seat 3: SantiagoWeight ($25 in chips) 
+Seat 4: TERRORN89 ($26.67 in chips) 
+Seat 5: maximus25203 ($23.40 in chips) 
+Seat 6: benddo ($25 in chips) 
+FrommyBu: posts small blind $0.10
+SantiagoWeight: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [7d 6c]
+TERRORN89: raises $0.50 to $0.75
+maximus25203: folds 
+benddo: folds 
+zdenekstavic: folds 
+FrommyBu: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.50) returned to TERRORN89
+TERRORN89 collected $0.60 from pot
+TERRORN89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: zdenekstavic (button) folded before Flop (didn't bet)
+Seat 2: FrommyBu (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) folded before Flop
+Seat 4: TERRORN89 collected ($0.60)
+Seat 5: maximus25203 folded before Flop (didn't bet)
+Seat 6: benddo folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195021915353:  Hold'em No Limit ($0.10/$0.25) - 2018/12/29 2:29:20 UTC [2018/12/28 21:29:20 ET]
+Table 'Hydra' 6-max Seat #1 is the button
+Seat 1: hoodbya!r ($24.20 in chips) 
+Seat 2: SantiagoWeight ($24.75 in chips) 
+Seat 3: river plate9 ($48.24 in chips) 
+Seat 4: FrommyBu ($25.35 in chips) 
+Seat 5: ckriszee ($78.92 in chips) 
+Seat 6: franco373513 ($15.11 in chips) 
+SantiagoWeight: posts small blind $0.10
+river plate9: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2h 3s]
+FrommyBu: folds 
+ckriszee: folds 
+franco373513: folds 
+hoodbya!r: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.15) returned to river plate9
+river plate9 collected $0.20 from pot
+river plate9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: hoodbya!r (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: river plate9 (big blind) collected ($0.20)
+Seat 4: FrommyBu folded before Flop (didn't bet)
+Seat 5: ckriszee folded before Flop (didn't bet)
+Seat 6: franco373513 folded before Flop (didn't bet)
+
+
+

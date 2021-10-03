@@ -1,0 +1,772 @@
+﻿PokerStars Hand #228696381490:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:45:38 ET
+Table 'Limburgia II' 9-max Seat #2 is the button
+Seat 1: xobit26 ($50 in chips) 
+Seat 2: Pertti R ($50 in chips) 
+Pertti R: posts small blind $0.25
+xobit26: posts big blind $0.50
+*** HOLE CARDS ***
+Pertti R: calls $0.25
+xobit26: folds 
+xobit26 leaves the table
+Pertti R collected $1 from pot
+sw_iceman joins the table at seat #4 
+Pertti R: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: xobit26 (big blind) folded before Flop
+Seat 2: Pertti R (button) (small blind) collected ($1)
+
+
+
+PokerStars Hand #228696386285:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:46:00 ET
+Table 'Limburgia II' 9-max Seat #3 is the button
+Seat 2: Pertti R ($50.50 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: sw_iceman ($50 in chips) 
+Seat 5: xobit26 ($49.50 in chips) 
+Seat 6: TimmyO1111 ($36.80 in chips) 
+sw_iceman: posts small blind $0.25
+xobit26: posts big blind $0.50
+*** HOLE CARDS ***
+TimmyO1111: calls $0.50
+Pertti R: folds 
+AndyLu)|(ynski: folds 
+sw_iceman: folds 
+xobit26: checks 
+*** FLOP *** [8d 2d 4s]
+xobit26: checks 
+TimmyO1111: checks 
+*** TURN *** [8d 2d 4s] [Js]
+xobit26: bets $0.95
+TimmyO1111: folds 
+Uncalled bet ($0.95) returned to xobit26
+xobit26 collected $1.19 from pot
+xobit26: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [8d 2d 4s Js]
+Seat 2: Pertti R folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski (button) folded before Flop (didn't bet)
+Seat 4: sw_iceman (small blind) folded before Flop
+Seat 5: xobit26 (big blind) collected ($1.19)
+Seat 6: TimmyO1111 folded on the Turn
+
+
+
+PokerStars Hand #228696392180:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:46:28 ET
+Table 'Limburgia II' 9-max Seat #4 is the button
+Seat 2: Pertti R ($50.50 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: sw_iceman ($50 in chips) 
+Seat 5: xobit26 ($50.19 in chips) 
+Seat 6: TimmyO1111 ($36.30 in chips) 
+xobit26: posts small blind $0.25
+TimmyO1111: posts big blind $0.50
+*** HOLE CARDS ***
+Pertti R: raises $0.50 to $1
+fatboy139 joins the table at seat #1 
+AndyLu)|(ynski: folds 
+sw_iceman: folds 
+xobit26: folds 
+TimmyO1111: folds 
+Uncalled bet ($0.50) returned to Pertti R
+Pertti R collected $1.25 from pot
+Pertti R: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Pertti R collected ($1.25)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: sw_iceman (button) folded before Flop (didn't bet)
+Seat 5: xobit26 (small blind) folded before Flop
+Seat 6: TimmyO1111 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228696397333:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:46:52 ET
+Table 'Limburgia II' 9-max Seat #5 is the button
+Seat 1: fatboy139 ($28.93 in chips) 
+Seat 2: Pertti R ($51.25 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: sw_iceman ($50 in chips) 
+Seat 5: xobit26 ($50 in chips) 
+Seat 6: TimmyO1111 ($35.80 in chips) 
+TimmyO1111: posts small blind $0.25
+fatboy139: posts big blind $0.50
+*** HOLE CARDS ***
+Pertti R has timed out
+Pertti R: folds 
+AndyLu)|(ynski: folds 
+sw_iceman: folds 
+xobit26: folds 
+TimmyO1111: raises $1 to $1.50
+fatboy139: calls $1
+*** FLOP *** [Td 7h Kh]
+oudine2 joins the table at seat #7 
+TimmyO1111: bets $2
+fatboy139: calls $2
+*** TURN *** [Td 7h Kh] [9h]
+TimmyO1111: checks 
+fatboy139: bets $3.50
+TimmyO1111: folds 
+Uncalled bet ($3.50) returned to fatboy139
+fatboy139 collected $6.65 from pot
+fatboy139: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Td 7h Kh 9h]
+Seat 1: fatboy139 (big blind) collected ($6.65)
+Seat 2: Pertti R folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: sw_iceman folded before Flop (didn't bet)
+Seat 5: xobit26 (button) folded before Flop (didn't bet)
+Seat 6: TimmyO1111 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #228696408209:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:47:36 ET
+Table 'Limburgia II' 9-max Seat #6 is the button
+Seat 1: fatboy139 ($32.08 in chips) 
+Seat 2: Pertti R ($51.25 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: sw_iceman ($50 in chips) 
+Seat 5: xobit26 ($50 in chips) 
+Seat 6: TimmyO1111 ($32.30 in chips) 
+fatboy139: posts small blind $0.25
+Pertti R: posts big blind $0.50
+*** HOLE CARDS ***
+Kaiser1952 joins the table at seat #9 
+AndyLu)|(ynski: folds 
+sw_iceman: folds 
+xobit26: raises $0.75 to $1.25
+TimmyO1111: folds 
+fatboy139: folds 
+Pertti R: calls $0.75
+*** FLOP *** [Th 4s 2c]
+zarplatka joins the table at seat #8 
+Pertti R: bets $1.31
+xobit26: folds 
+Uncalled bet ($1.31) returned to Pertti R
+Pertti R collected $2.61 from pot
+Pertti R: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [Th 4s 2c]
+Seat 1: fatboy139 (small blind) folded before Flop
+Seat 2: Pertti R (big blind) collected ($2.61)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: sw_iceman folded before Flop (didn't bet)
+Seat 5: xobit26 folded on the Flop
+Seat 6: TimmyO1111 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696420719:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:48:35 ET
+Table 'Limburgia II' 9-max Seat #1 is the button
+Seat 1: fatboy139 ($31.83 in chips) 
+Seat 2: Pertti R ($52.61 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: sw_iceman ($50 in chips) 
+Seat 5: xobit26 ($50 in chips) 
+Seat 6: TimmyO1111 ($32.30 in chips) 
+Seat 8: zarplatka ($40 in chips) 
+Seat 9: Kaiser1952 ($50 in chips) 
+Pertti R: posts small blind $0.25
+AndyLu)|(ynski: posts big blind $0.50
+oudine2: sits out 
+zarplatka: posts big blind $0.50
+Kaiser1952: posts big blind $0.50
+*** HOLE CARDS ***
+sw_iceman: folds 
+xobit26: folds 
+TimmyO1111: folds 
+zarplatka: checks 
+Kaiser1952: checks 
+fatboy139: calls $0.50
+Pertti R: raises $0.50 to $1
+AndyLu)|(ynski: folds 
+zarplatka: calls $0.50
+Kaiser1952: calls $0.50
+fatboy139: calls $0.50
+*** FLOP *** [7d 8c As]
+Pertti R: bets $2.14
+zarplatka: folds 
+Kaiser1952: folds 
+fatboy139: calls $2.14
+*** TURN *** [7d 8c As] [Ts]
+Pertti R: checks 
+fatboy139: checks 
+*** RIVER *** [7d 8c As Ts] [6h]
+Pertti R: bets $4.17
+fatboy139: raises $4.17 to $8.34
+Pertti R: calls $4.17
+*** SHOW DOWN ***
+fatboy139: shows [Qs 9s] (a straight, Six to Ten)
+Pertti R: mucks hand 
+fatboy139 collected $24.19 from pot
+*** SUMMARY ***
+Total pot $25.46 | Rake $1.27 
+Board [7d 8c As Ts 6h]
+Seat 1: fatboy139 (button) showed [Qs 9s] and won ($24.19) with a straight, Six to Ten
+Seat 2: Pertti R (small blind) mucked
+Seat 3: AndyLu)|(ynski (big blind) folded before Flop
+Seat 4: sw_iceman folded before Flop (didn't bet)
+Seat 5: xobit26 folded before Flop (didn't bet)
+Seat 6: TimmyO1111 folded before Flop (didn't bet)
+Seat 8: zarplatka folded on the Flop
+Seat 9: Kaiser1952 folded on the Flop
+
+
+
+PokerStars Hand #228696437749:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:49:56 ET
+Table 'Limburgia II' 9-max Seat #2 is the button
+Seat 1: fatboy139 ($44.54 in chips) 
+Seat 2: Pertti R ($41.13 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: sw_iceman ($50 in chips) 
+Seat 5: xobit26 ($50 in chips) 
+Seat 6: TimmyO1111 ($32.30 in chips) 
+Seat 8: zarplatka ($40 in chips) 
+Seat 9: Kaiser1952 ($49 in chips) 
+AndyLu)|(ynski: posts small blind $0.25
+sw_iceman: posts big blind $0.50
+oudine2: sits out 
+*** HOLE CARDS ***
+xobit26: folds 
+TimmyO1111: calls $0.50
+zarplatka: calls $0.50
+Kaiser1952: calls $0.50
+fatboy139: raises $0.50 to $1
+Pertti R: folds 
+Pertti R leaves the table
+AndyLu)|(ynski: folds 
+sw_iceman: folds 
+TimmyO1111: calls $0.50
+zarplatka: calls $0.50
+Kaiser1952: calls $0.50
+*** FLOP *** [7s 3d 4h]
+TimmyO1111: checks 
+zarplatka: checks 
+Kaiser1952: checks 
+SwimmingPooI joins the table at seat #2 
+fatboy139: bets $2.50
+TimmyO1111: calls $2.50
+zarplatka: calls $2.50
+Kaiser1952: calls $2.50
+*** TURN *** [7s 3d 4h] [6d]
+TimmyO1111: checks 
+zarplatka: checks 
+Kaiser1952: checks 
+fatboy139: bets $10.50
+TimmyO1111: folds 
+zarplatka: calls $10.50
+Kaiser1952: folds 
+*** RIVER *** [7s 3d 4h 6d] [3c]
+zarplatka: checks 
+fatboy139: bets $30.54 and is all-in
+zarplatka: folds 
+Uncalled bet ($30.54) returned to fatboy139
+fatboy139 collected $33.96 from pot
+fatboy139: doesn't show hand 
+*** SUMMARY ***
+Total pot $35.75 | Rake $1.79 
+Board [7s 3d 4h 6d 3c]
+Seat 1: fatboy139 collected ($33.96)
+Seat 2: Pertti R (button) folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski (small blind) folded before Flop
+Seat 4: sw_iceman (big blind) folded before Flop
+Seat 5: xobit26 folded before Flop (didn't bet)
+Seat 6: TimmyO1111 folded on the Turn
+Seat 8: zarplatka folded on the River
+Seat 9: Kaiser1952 folded on the Turn
+
+
+
+PokerStars Hand #228696469879:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:52:01 ET
+Table 'Limburgia II' 9-max Seat #3 is the button
+Seat 1: fatboy139 ($64.50 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: sw_iceman ($50 in chips) 
+Seat 5: xobit26 ($50 in chips) 
+Seat 6: TimmyO1111 ($28.80 in chips) 
+Seat 8: zarplatka ($40 in chips) 
+Seat 9: Kaiser1952 ($45.50 in chips) 
+sw_iceman: posts small blind $0.25
+xobit26: posts big blind $0.50
+oudine2: sits out 
+SwimmingPooI: sits out 
+*** HOLE CARDS ***
+TimmyO1111: calls $0.50
+zarplatka: folds 
+Kaiser1952: folds 
+fatboy139: calls $0.50
+AndyLu)|(ynski: folds 
+sw_iceman: folds 
+xobit26: checks 
+*** FLOP *** [8h 5h 6h]
+xobit26: checks 
+TimmyO1111: checks 
+fatboy139: bets $1.50
+xobit26: folds 
+TimmyO1111: folds 
+Uncalled bet ($1.50) returned to fatboy139
+fatboy139 collected $1.66 from pot
+fatboy139: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.09 
+Board [8h 5h 6h]
+Seat 1: fatboy139 collected ($1.66)
+Seat 3: AndyLu)|(ynski (button) folded before Flop (didn't bet)
+Seat 4: sw_iceman (small blind) folded before Flop
+Seat 5: xobit26 (big blind) folded on the Flop
+Seat 6: TimmyO1111 folded on the Flop
+Seat 8: zarplatka folded before Flop (didn't bet)
+Seat 9: Kaiser1952 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696479871:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:52:50 ET
+Table 'Limburgia II' 9-max Seat #4 is the button
+Seat 1: fatboy139 ($65.66 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: sw_iceman ($50 in chips) 
+Seat 5: xobit26 ($50 in chips) 
+Seat 6: TimmyO1111 ($28.30 in chips) 
+Seat 8: zarplatka ($40 in chips) 
+Seat 9: Kaiser1952 ($45.50 in chips) 
+xobit26: posts small blind $0.25
+TimmyO1111: posts big blind $0.50
+oudine2: sits out 
+SwimmingPooI: sits out 
+*** HOLE CARDS ***
+zarplatka: folds 
+Kaiser1952: folds 
+fatboy139: folds 
+AndyLu)|(ynski: folds 
+sw_iceman: folds 
+xobit26: folds 
+Uncalled bet ($0.25) returned to TimmyO1111
+TimmyO1111 collected $0.50 from pot
+TimmyO1111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: fatboy139 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: sw_iceman (button) folded before Flop (didn't bet)
+Seat 5: xobit26 (small blind) folded before Flop
+Seat 6: TimmyO1111 (big blind) collected ($0.50)
+Seat 8: zarplatka folded before Flop (didn't bet)
+Seat 9: Kaiser1952 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696490240:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:53:06 ET
+Table 'Limburgia II' 9-max Seat #5 is the button
+Seat 1: fatboy139 ($65.66 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: sw_iceman ($50 in chips) 
+Seat 5: xobit26 ($50 in chips) 
+Seat 6: TimmyO1111 ($28.55 in chips) 
+Seat 7: oudine2 ($50 in chips) 
+Seat 8: zarplatka ($40 in chips) 
+Seat 9: Kaiser1952 ($45.50 in chips) 
+TimmyO1111: posts small blind $0.25
+oudine2: posts big blind $0.50
+SwimmingPooI: sits out 
+*** HOLE CARDS ***
+zarplatka: folds 
+Kaiser1952: calls $0.50
+fatboy139: calls $0.50
+AndyLu)|(ynski: folds 
+sw_iceman has timed out
+sw_iceman: folds 
+xobit26: folds 
+TimmyO1111: folds 
+oudine2: checks 
+*** FLOP *** [Jd Jh 2d]
+oudine2: checks 
+Kaiser1952: checks 
+fatboy139: checks 
+*** TURN *** [Jd Jh 2d] [7h]
+oudine2: checks 
+Kaiser1952: checks 
+fatboy139: bets $1
+oudine2: folds 
+Kaiser1952: calls $1
+*** RIVER *** [Jd Jh 2d 7h] [9d]
+Kaiser1952: checks 
+fatboy139: checks 
+*** SHOW DOWN ***
+Kaiser1952: shows [Kh 9h] (two pair, Jacks and Nines)
+fatboy139: mucks hand 
+Kaiser1952 collected $3.56 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [Jd Jh 2d 7h 9d]
+Seat 1: fatboy139 mucked
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: sw_iceman folded before Flop (didn't bet)
+Seat 5: xobit26 (button) folded before Flop (didn't bet)
+Seat 6: TimmyO1111 (small blind) folded before Flop
+Seat 7: oudine2 (big blind) folded on the Turn
+Seat 8: zarplatka folded before Flop (didn't bet)
+Seat 9: Kaiser1952 showed [Kh 9h] and won ($3.56) with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #228696500285:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:53:54 ET
+Table 'Limburgia II' 9-max Seat #6 is the button
+Seat 1: fatboy139 ($64.16 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: sw_iceman ($50 in chips) 
+Seat 5: xobit26 ($50 in chips) 
+Seat 6: TimmyO1111 ($28.30 in chips) 
+Seat 7: oudine2 ($50 in chips) 
+Seat 8: zarplatka ($40 in chips) 
+Seat 9: Kaiser1952 ($47.56 in chips) 
+oudine2: posts small blind $0.25
+zarplatka: posts big blind $0.50
+SwimmingPooI: sits out 
+*** HOLE CARDS ***
+Kaiser1952: folds 
+fatboy139: folds 
+AndyLu)|(ynski: folds 
+sw_iceman: folds 
+xobit26: folds 
+TimmyO1111: calls $0.50
+oudine2: folds 
+zarplatka: checks 
+*** FLOP *** [Qc 5h 4s]
+zarplatka: checks 
+TimmyO1111: checks 
+*** TURN *** [Qc 5h 4s] [Js]
+zarplatka: checks 
+TimmyO1111: checks 
+*** RIVER *** [Qc 5h 4s Js] [8d]
+zarplatka: bets $0.75
+TimmyO1111: calls $0.75
+*** SHOW DOWN ***
+zarplatka: shows [Tc Jh] (a pair of Jacks)
+TimmyO1111: mucks hand 
+zarplatka collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [Qc 5h 4s Js 8d]
+Seat 1: fatboy139 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: sw_iceman folded before Flop (didn't bet)
+Seat 5: xobit26 folded before Flop (didn't bet)
+Seat 6: TimmyO1111 (button) mucked
+Seat 7: oudine2 (small blind) folded before Flop
+Seat 8: zarplatka (big blind) showed [Tc Jh] and won ($2.61) with a pair of Jacks
+Seat 9: Kaiser1952 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696509020:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:54:36 ET
+Table 'Limburgia II' 9-max Seat #7 is the button
+Seat 1: fatboy139 ($64.16 in chips) 
+Seat 3: AndyLu)|(ynski ($20.50 in chips) 
+Seat 4: sw_iceman ($50 in chips) 
+Seat 5: xobit26 ($50 in chips) 
+Seat 6: TimmyO1111 ($27.05 in chips) 
+Seat 7: oudine2 ($50 in chips) 
+Seat 8: zarplatka ($41.36 in chips) 
+Seat 9: Kaiser1952 ($47.56 in chips) 
+zarplatka: posts small blind $0.25
+Kaiser1952: posts big blind $0.50
+SwimmingPooI: sits out 
+*** HOLE CARDS ***
+fatboy139: folds 
+AndyLu)|(ynski: folds 
+fatboy139 leaves the table
+sw_iceman: folds 
+xobit26: folds 
+TimmyO1111: folds 
+AndyLu)|(ynski leaves the table
+oudine2: folds 
+zarplatka: raises $0.75 to $1.25
+Kaiser1952: folds 
+Uncalled bet ($0.75) returned to zarplatka
+zarplatka collected $1 from pot
+zarplatka: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: fatboy139 folded before Flop (didn't bet)
+Seat 3: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 4: sw_iceman folded before Flop (didn't bet)
+Seat 5: xobit26 folded before Flop (didn't bet)
+Seat 6: TimmyO1111 folded before Flop (didn't bet)
+Seat 7: oudine2 (button) folded before Flop (didn't bet)
+Seat 8: zarplatka (small blind) collected ($1)
+Seat 9: Kaiser1952 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228696514904:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:55:05 ET
+Table 'Limburgia II' 9-max Seat #8 is the button
+Seat 2: SwimmingPooI ($50 in chips) 
+Seat 4: sw_iceman ($50 in chips) 
+Seat 5: xobit26 ($50 in chips) 
+Seat 6: TimmyO1111 ($27.05 in chips) 
+Seat 7: oudine2 ($50 in chips) 
+Seat 8: zarplatka ($41.86 in chips) 
+Seat 9: Kaiser1952 ($47.06 in chips) 
+Kaiser1952: posts small blind $0.25
+SwimmingPooI: posts big blind $0.50
+*** HOLE CARDS ***
+sw_iceman: folds 
+xobit26: folds 
+TimmyO1111: raises $1 to $1.50
+oudine2: folds 
+zarplatka: folds 
+Kaiser1952: folds 
+SwimmingPooI: folds 
+Uncalled bet ($1) returned to TimmyO1111
+TimmyO1111 collected $1.25 from pot
+TimmyO1111: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: SwimmingPooI (big blind) folded before Flop
+Seat 4: sw_iceman folded before Flop (didn't bet)
+Seat 5: xobit26 folded before Flop (didn't bet)
+Seat 6: TimmyO1111 collected ($1.25)
+Seat 7: oudine2 folded before Flop (didn't bet)
+Seat 8: zarplatka (button) folded before Flop (didn't bet)
+Seat 9: Kaiser1952 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228696517825:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:55:21 ET
+Table 'Limburgia II' 9-max Seat #9 is the button
+Seat 2: SwimmingPooI ($50 in chips) 
+Seat 5: xobit26 ($50 in chips) 
+Seat 6: TimmyO1111 ($27.80 in chips) 
+Seat 7: oudine2 ($50 in chips) 
+Seat 8: zarplatka ($41.86 in chips) 
+Seat 9: Kaiser1952 ($46.81 in chips) 
+SwimmingPooI: posts small blind $0.25
+sw_iceman: is sitting out 
+xobit26: posts big blind $0.50
+*** HOLE CARDS ***
+TimmyO1111: folds 
+sw_iceman leaves the table
+oudine2: folds 
+zarplatka: raises $0.50 to $1
+Kaiser1952: folds 
+SwimmingPooI: folds 
+xobit26: folds 
+Uncalled bet ($0.50) returned to zarplatka
+zarplatka collected $1.25 from pot
+zarplatka: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: SwimmingPooI (small blind) folded before Flop
+Seat 5: xobit26 (big blind) folded before Flop
+Seat 6: TimmyO1111 folded before Flop (didn't bet)
+Seat 7: oudine2 folded before Flop (didn't bet)
+Seat 8: zarplatka collected ($1.25)
+Seat 9: Kaiser1952 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696520504:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:55:36 ET
+Table 'Limburgia II' 9-max Seat #2 is the button
+Seat 2: SwimmingPooI ($50 in chips) 
+Seat 6: TimmyO1111 ($27.80 in chips) 
+Seat 7: oudine2 ($50 in chips) 
+Seat 8: zarplatka ($42.61 in chips) 
+Seat 9: Kaiser1952 ($46.81 in chips) 
+TimmyO1111: posts small blind $0.25
+oudine2: posts big blind $0.50
+*** HOLE CARDS ***
+xobit26 leaves the table
+zarplatka: raises $0.50 to $1
+Kaiser1952: folds 
+SwimmingPooI: folds 
+TimmyO1111: folds 
+oudine2: folds 
+Uncalled bet ($0.50) returned to zarplatka
+zarplatka collected $1.25 from pot
+zarplatka: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: SwimmingPooI (button) folded before Flop (didn't bet)
+Seat 6: TimmyO1111 (small blind) folded before Flop
+Seat 7: oudine2 (big blind) folded before Flop
+Seat 8: zarplatka collected ($1.25)
+Seat 9: Kaiser1952 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228696522634:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:55:49 ET
+Table 'Limburgia II' 9-max Seat #6 is the button
+Seat 2: SwimmingPooI ($50 in chips) 
+Seat 6: TimmyO1111 ($27.55 in chips) 
+Seat 7: oudine2 ($50 in chips) 
+Seat 9: Kaiser1952 ($46.81 in chips) 
+oudine2: posts small blind $0.25
+zarplatka: is sitting out 
+Kaiser1952: posts big blind $0.50
+*** HOLE CARDS ***
+SwimmingPooI: folds 
+TimmyO1111: calls $0.50
+oudine2: folds 
+Kaiser1952: checks 
+*** FLOP *** [9s 2d Jh]
+Kaiser1952: checks 
+TimmyO1111: bets $1
+Kaiser1952: folds 
+Uncalled bet ($1) returned to TimmyO1111
+TimmyO1111 collected $1.19 from pot
+TimmyO1111: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [9s 2d Jh]
+Seat 2: SwimmingPooI folded before Flop (didn't bet)
+Seat 6: TimmyO1111 (button) collected ($1.19)
+Seat 7: oudine2 (small blind) folded before Flop
+Seat 9: Kaiser1952 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228696534109:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:56:16 ET
+Table 'Limburgia II' 9-max Seat #7 is the button
+Seat 2: SwimmingPooI ($50 in chips) 
+Seat 6: TimmyO1111 ($28.24 in chips) 
+Seat 7: oudine2 ($50 in chips) 
+Seat 9: Kaiser1952 ($46.31 in chips) 
+Kaiser1952: posts small blind $0.25
+SwimmingPooI: posts big blind $0.50
+*** HOLE CARDS ***
+TimmyO1111: folds 
+oudine2: folds 
+Kaiser1952: folds 
+Uncalled bet ($0.25) returned to SwimmingPooI
+SwimmingPooI collected $0.50 from pot
+SwimmingPooI: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: SwimmingPooI (big blind) collected ($0.50)
+Seat 6: TimmyO1111 folded before Flop (didn't bet)
+Seat 7: oudine2 (button) folded before Flop (didn't bet)
+Seat 9: Kaiser1952 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228696535182:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:56:22 ET
+Table 'Limburgia II' 9-max Seat #9 is the button
+Seat 2: SwimmingPooI ($50.25 in chips) 
+Seat 6: TimmyO1111 ($28.24 in chips) 
+Seat 7: oudine2 ($50 in chips) 
+Seat 9: Kaiser1952 ($46.06 in chips) 
+SwimmingPooI: posts small blind $0.25
+TimmyO1111: posts big blind $0.50
+*** HOLE CARDS ***
+oudine2: raises $0.75 to $1.25
+Kaiser1952: calls $1.25
+SwimmingPooI: raises $5.25 to $6.50
+TimmyO1111: folds 
+oudine2: raises $43.50 to $50 and is all-in
+zarplatka leaves the table
+Kaiser1952: folds 
+SwimmingPooI: calls $43.50
+*** FLOP *** [7h 3d 9c]
+*** TURN *** [7h 3d 9c] [3h]
+*** RIVER *** [7h 3d 9c 3h] [7c]
+*** SHOW DOWN ***
+SwimmingPooI: shows [As Kh] (two pair, Sevens and Threes)
+oudine2: shows [Ks Kc] (two pair, Kings and Sevens)
+oudine2 collected $101 from pot
+SwimmingPooI cashed out the hand for $30.19 | Cash Out Fee $0.30
+*** SUMMARY ***
+Total pot $101.75 | Rake $0.75 
+Board [7h 3d 9c 3h 7c]
+Seat 2: SwimmingPooI (small blind) showed [As Kh] and lost with two pair, Sevens and Threes (cashed out).
+Seat 6: TimmyO1111 (big blind) folded before Flop
+Seat 7: oudine2 showed [Ks Kc] and won ($101) with two pair, Kings and Sevens
+Seat 9: Kaiser1952 (button) folded before Flop
+
+
+
+PokerStars Hand #228696540427:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:56:52 ET
+Table 'Limburgia II' 9-max Seat #2 is the button
+Seat 2: SwimmingPooI ($50 in chips) 
+Seat 6: TimmyO1111 ($27.74 in chips) 
+Seat 9: Kaiser1952 ($44.81 in chips) 
+TimmyO1111: posts small blind $0.25
+oudine2: is sitting out 
+Kaiser1952: posts big blind $0.50
+*** HOLE CARDS ***
+oudine2 leaves the table
+SwimmingPooI: folds 
+TimmyO1111: calls $0.25
+Kaiser1952: checks 
+*** FLOP *** [3s 6c 6d]
+TimmyO1111: checks 
+Kaiser1952: checks 
+*** TURN *** [3s 6c 6d] [Td]
+TimmyO1111: bets $0.95
+Kaiser1952: calls $0.95
+*** RIVER *** [3s 6c 6d Td] [9c]
+TimmyO1111: checks 
+Kaiser1952: checks 
+*** SHOW DOWN ***
+TimmyO1111: shows [6s 8c] (three of a kind, Sixes)
+Kaiser1952: mucks hand 
+TimmyO1111 collected $2.76 from pot
+*** SUMMARY ***
+Total pot $2.90 | Rake $0.14 
+Board [3s 6c 6d Td 9c]
+Seat 2: SwimmingPooI (button) folded before Flop (didn't bet)
+Seat 6: TimmyO1111 (small blind) showed [6s 8c] and won ($2.76) with three of a kind, Sixes
+Seat 9: Kaiser1952 (big blind) mucked
+
+
+
+PokerStars Hand #228696544914:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:57:18 ET
+Table 'Limburgia II' 9-max Seat #6 is the button
+Seat 2: SwimmingPooI ($50 in chips) 
+Seat 6: TimmyO1111 ($29.05 in chips) 
+Seat 9: Kaiser1952 ($43.36 in chips) 
+Kaiser1952: posts small blind $0.25
+SwimmingPooI: posts big blind $0.50
+*** HOLE CARDS ***
+TimmyO1111: folds 
+Kaiser1952: calls $0.25
+SwimmingPooI: raises $1 to $1.50
+TimmyO1111 leaves the table
+Kaiser1952: calls $1
+*** FLOP *** [7h 7d 8d]
+Kaiser1952: checks 
+SwimmingPooI: bets $1.45
+Kaiser1952: folds 
+Uncalled bet ($1.45) returned to SwimmingPooI
+SwimmingPooI collected $2.85 from pot
+SwimmingPooI: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [7h 7d 8d]
+Seat 2: SwimmingPooI (big blind) collected ($2.85)
+Seat 6: TimmyO1111 (button) folded before Flop (didn't bet)
+Seat 9: Kaiser1952 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228696549183:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 22:57:43 ET
+Table 'Limburgia II' 9-max Seat #2 is the button
+Seat 2: SwimmingPooI ($51.35 in chips) 
+Seat 9: Kaiser1952 ($41.86 in chips) 
+SwimmingPooI: posts small blind $0.25
+Kaiser1952: posts big blind $0.50
+*** HOLE CARDS ***
+SwimmingPooI: folds 
+Uncalled bet ($0.25) returned to Kaiser1952
+Kaiser1952 collected $0.50 from pot
+Kaiser1952: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: SwimmingPooI (button) (small blind) folded before Flop
+Seat 9: Kaiser1952 (big blind) collected ($0.50)
+
+
+

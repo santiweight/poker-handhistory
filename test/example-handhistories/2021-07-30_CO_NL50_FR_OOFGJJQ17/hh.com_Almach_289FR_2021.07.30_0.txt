@@ -1,0 +1,4045 @@
+﻿PokerStars Hand #228679974933:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:27:11 ET
+Table 'Almach II' 9-max Seat #9 is the button
+Seat 1: SkapG47 ($17 in chips) 
+Seat 2: Mr_Ingvarr ($51.21 in chips) 
+Seat 3: $lavik88 ($63.76 in chips) 
+Seat 4: kalebans ($55.02 in chips) 
+Seat 5: Infinities4 ($64.53 in chips) 
+Seat 7: cartman177 ($59.38 in chips) 
+Seat 8: Urri_Tilt ($50 in chips) 
+Seat 9: vegas999789 ($48.07 in chips) 
+SkapG47: posts small blind $0.25
+Mr_Ingvarr: posts big blind $0.50
+*** HOLE CARDS ***
+$lavik88: folds 
+kalebans: folds 
+Infinities4: raises $0.74 to $1.24
+cartman177: folds 
+Urri_Tilt: folds 
+vegas999789: folds 
+SkapG47: calls $0.99
+Mr_Ingvarr: calls $0.74
+*** FLOP *** [5c 8s 4d]
+SkapG47: bets $1.76
+Mr_Ingvarr: folds 
+Infinities4: folds 
+Uncalled bet ($1.76) returned to SkapG47
+SkapG47 collected $3.53 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.72 | Rake $0.19 
+Board [5c 8s 4d]
+Seat 1: SkapG47 (small blind) collected ($3.53)
+Seat 2: Mr_Ingvarr (big blind) folded on the Flop
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded on the Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: vegas999789 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680004857:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:28:48 ET
+Table 'Almach II' 9-max Seat #3 is the button
+Seat 1: SkapG47 ($20.04 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($63.01 in chips) 
+Seat 4: kalebans ($54.52 in chips) 
+Seat 5: Infinities4 ($64.04 in chips) 
+Seat 7: cartman177 ($59.38 in chips) 
+Seat 8: Urri_Tilt ($50 in chips) 
+Seat 9: vegas999789 ($48.07 in chips) 
+kalebans: posts small blind $0.25
+Infinities4: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177: folds 
+Urri_Tilt: folds 
+vegas999789: folds 
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: checks 
+*** FLOP *** [Ts 3c As]
+Infinities4: checks 
+SkapG47: bets $0.59
+Infinities4: folds 
+Uncalled bet ($0.59) returned to SkapG47
+SkapG47 collected $1.19 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Ts 3c As]
+Seat 1: SkapG47 collected ($1.19)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 (button) folded before Flop (didn't bet)
+Seat 4: kalebans (small blind) folded before Flop
+Seat 5: Infinities4 (big blind) folded on the Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680011380:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:29:09 ET
+Table 'Almach II' 9-max Seat #4 is the button
+Seat 1: SkapG47 ($20.73 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($63.01 in chips) 
+Seat 4: kalebans ($54.27 in chips) 
+Seat 5: Infinities4 ($63.54 in chips) 
+Seat 7: cartman177 ($59.38 in chips) 
+Seat 8: Urri_Tilt ($50 in chips) 
+Seat 9: vegas999789 ($48.07 in chips) 
+Infinities4: posts small blind $0.25
+cartman177: posts big blind $0.50
+*** HOLE CARDS ***
+Urri_Tilt: folds 
+vegas999789: folds 
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+cartman177: checks 
+*** FLOP *** [Qs Ah 8c]
+cartman177: checks 
+SkapG47: checks 
+*** TURN *** [Qs Ah 8c] [Ks]
+cartman177: checks 
+SkapG47: checks 
+*** RIVER *** [Qs Ah 8c Ks] [8s]
+cartman177: bets $0.75
+SkapG47: raises $2.69 to $3.44
+cartman177: folds 
+Uncalled bet ($2.69) returned to SkapG47
+SkapG47 collected $2.61 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [Qs Ah 8c Ks 8s]
+Seat 1: SkapG47 collected ($2.61)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans (button) folded before Flop (didn't bet)
+Seat 5: Infinities4 (small blind) folded before Flop
+Seat 7: cartman177 (big blind) folded on the River
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680023459:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:29:49 ET
+Table 'Almach II' 9-max Seat #7 is the button
+Seat 1: SkapG47 ($22.09 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($63.01 in chips) 
+Seat 4: kalebans ($54.27 in chips) 
+Seat 7: cartman177 ($58.13 in chips) 
+Seat 8: Urri_Tilt ($50 in chips) 
+Seat 9: vegas999789 ($48.07 in chips) 
+Infinities4 leaves the table
+Urri_Tilt: posts small blind $0.25
+vegas999789: posts big blind $0.50
+*** HOLE CARDS ***
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+cartman177: raises $1.50 to $2
+Urri_Tilt: calls $1.75
+vegas999789: folds 
+SkapG47: calls $1.50
+*** FLOP *** [2d Qh Kc]
+Urri_Tilt: checks 
+SkapG47: checks 
+Dragonclawss joins the table at seat #5 
+cartman177: checks 
+*** TURN *** [2d Qh Kc] [5c]
+Urri_Tilt: bets $9.89
+SkapG47: folds 
+cartman177: folds 
+Uncalled bet ($9.89) returned to Urri_Tilt
+Urri_Tilt collected $6.18 from pot
+Urri_Tilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [2d Qh Kc 5c]
+Seat 1: SkapG47 folded on the Turn
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 7: cartman177 (button) folded on the Turn
+Seat 8: Urri_Tilt (small blind) collected ($6.18)
+Seat 9: vegas999789 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680039497:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:30:41 ET
+Table 'Almach II' 9-max Seat #8 is the button
+Seat 1: SkapG47 ($20.09 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($63.01 in chips) 
+Seat 4: kalebans ($54.27 in chips) 
+Seat 7: cartman177 ($56.13 in chips) 
+Seat 8: Urri_Tilt ($54.18 in chips) 
+Seat 9: vegas999789 ($47.57 in chips) 
+vegas999789: posts small blind $0.25
+SkapG47: posts big blind $0.50
+Dragonclawss: sits out 
+*** HOLE CARDS ***
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+vegas999789: folds 
+Uncalled bet ($0.25) returned to SkapG47
+SkapG47 collected $0.50 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: SkapG47 (big blind) collected ($0.50)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (button) folded before Flop (didn't bet)
+Seat 9: vegas999789 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680045687:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:31:01 ET
+Table 'Almach II' 9-max Seat #9 is the button
+Seat 1: SkapG47 ($20.34 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($63.01 in chips) 
+Seat 4: kalebans ($54.27 in chips) 
+Seat 7: cartman177 ($56.13 in chips) 
+Seat 8: Urri_Tilt ($54.18 in chips) 
+Seat 9: vegas999789 ($47.32 in chips) 
+SkapG47: posts small blind $0.25
+Mr_Ingvarr: posts big blind $0.50
+Dragonclawss: sits out 
+*** HOLE CARDS ***
+$lavik88: folds 
+kalebans: folds 
+cartman177: folds 
+Urri_Tilt: raises $0.75 to $1.25
+vegas999789: folds 
+SkapG47: folds 
+Mr_Ingvarr: calls $0.75
+*** FLOP *** [Jh 4d 6s]
+Mr_Ingvarr: checks 
+Urri_Tilt: checks 
+*** TURN *** [Jh 4d 6s] [4s]
+Mr_Ingvarr: bets $1.75
+Urri_Tilt: folds 
+Uncalled bet ($1.75) returned to Mr_Ingvarr
+Mr_Ingvarr collected $2.61 from pot
+Mr_Ingvarr: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [Jh 4d 6s 4s]
+Seat 1: SkapG47 (small blind) folded before Flop
+Seat 2: Mr_Ingvarr (big blind) collected ($2.61)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded on the Turn
+Seat 9: vegas999789 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680059398:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:31:45 ET
+Table 'Almach II' 9-max Seat #1 is the button
+Seat 1: SkapG47 ($20.09 in chips) 
+Seat 2: Mr_Ingvarr ($51.36 in chips) 
+Seat 3: $lavik88 ($63.01 in chips) 
+Seat 4: kalebans ($54.27 in chips) 
+Seat 7: cartman177 ($56.13 in chips) 
+Seat 8: Urri_Tilt ($52.93 in chips) 
+Seat 9: vegas999789 ($50 in chips) 
+Mr_Ingvarr: posts small blind $0.25
+$lavik88: posts big blind $0.50
+Dragonclawss: sits out 
+*** HOLE CARDS ***
+kalebans: folds 
+cartman177: raises $0.75 to $1.25
+Urri_Tilt: folds 
+vegas999789: folds 
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+Uncalled bet ($0.75) returned to cartman177
+cartman177 collected $1.25 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: SkapG47 (button) folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr (small blind) folded before Flop
+Seat 3: $lavik88 (big blind) folded before Flop
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 7: cartman177 collected ($1.25)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680066026:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:32:07 ET
+Table 'Almach II' 9-max Seat #2 is the button
+Seat 1: SkapG47 ($20.09 in chips) 
+Seat 2: Mr_Ingvarr ($51.11 in chips) 
+Seat 3: $lavik88 ($62.51 in chips) 
+Seat 4: kalebans ($54.27 in chips) 
+Seat 7: cartman177 ($56.88 in chips) 
+Seat 8: Urri_Tilt ($52.93 in chips) 
+Seat 9: vegas999789 ($50 in chips) 
+$lavik88: posts small blind $0.25
+kalebans: posts big blind $0.50
+Dragonclawss: sits out 
+*** HOLE CARDS ***
+cartman177: folds 
+Urri_Tilt: folds 
+vegas999789 has timed out
+vegas999789: folds 
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: calls $0.25
+kalebans: checks 
+*** FLOP *** [Qs 7c 6h]
+$lavik88: checks 
+kalebans: checks 
+SkapG47: bets $0.71
+$lavik88: folds 
+kalebans: folds 
+Uncalled bet ($0.71) returned to SkapG47
+SkapG47 collected $1.42 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [Qs 7c 6h]
+Seat 1: SkapG47 collected ($1.42)
+Seat 2: Mr_Ingvarr (button) folded before Flop (didn't bet)
+Seat 3: $lavik88 (small blind) folded on the Flop
+Seat 4: kalebans (big blind) folded on the Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680079240:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:32:50 ET
+Table 'Almach II' 9-max Seat #3 is the button
+Seat 1: SkapG47 ($21.01 in chips) 
+Seat 2: Mr_Ingvarr ($51.11 in chips) 
+Seat 3: $lavik88 ($62.01 in chips) 
+Seat 4: kalebans ($53.77 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 7: cartman177 ($56.88 in chips) 
+Seat 8: Urri_Tilt ($52.93 in chips) 
+Seat 9: vegas999789 ($50 in chips) 
+kalebans: posts small blind $0.25
+Dragonclawss: posts big blind $0.50
+dikanmax: sits out 
+*** HOLE CARDS ***
+cartman177: folds 
+Urri_Tilt: folds 
+vegas999789: folds 
+SkapG47: calls $0.50
+Mr_Ingvarr: raises $1.75 to $2.25
+$lavik88: folds 
+kalebans: folds 
+Dragonclawss: folds 
+SkapG47: folds 
+Uncalled bet ($1.75) returned to Mr_Ingvarr
+Mr_Ingvarr collected $1.75 from pot
+Mr_Ingvarr: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: SkapG47 folded before Flop
+Seat 2: Mr_Ingvarr collected ($1.75)
+Seat 3: $lavik88 (button) folded before Flop (didn't bet)
+Seat 4: kalebans (small blind) folded before Flop
+Seat 5: Dragonclawss (big blind) folded before Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680089750:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:33:24 ET
+Table 'Almach II' 9-max Seat #4 is the button
+Seat 1: SkapG47 ($20.51 in chips) 
+Seat 2: Mr_Ingvarr ($52.36 in chips) 
+Seat 3: $lavik88 ($62.01 in chips) 
+Seat 4: kalebans ($53.52 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: dikanmax ($54.39 in chips) 
+Seat 7: cartman177 ($56.88 in chips) 
+Seat 8: Urri_Tilt ($52.93 in chips) 
+Seat 9: vegas999789 ($50 in chips) 
+Dragonclawss: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177: folds 
+Urri_Tilt: raises $1 to $1.50
+vegas999789: folds 
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Dragonclawss: folds 
+dikanmax: folds 
+Uncalled bet ($1) returned to Urri_Tilt
+Urri_Tilt collected $1.25 from pot
+Urri_Tilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans (button) folded before Flop (didn't bet)
+Seat 5: Dragonclawss (small blind) folded before Flop
+Seat 6: dikanmax (big blind) folded before Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt collected ($1.25)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680094178:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:33:38 ET
+Table 'Almach II' 9-max Seat #5 is the button
+Seat 1: SkapG47 ($20.51 in chips) 
+Seat 2: Mr_Ingvarr ($52.36 in chips) 
+Seat 3: $lavik88 ($62.01 in chips) 
+Seat 4: kalebans ($53.52 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: dikanmax ($53.89 in chips) 
+Seat 7: cartman177 ($56.88 in chips) 
+Seat 8: Urri_Tilt ($53.68 in chips) 
+Seat 9: vegas999789 ($50 in chips) 
+dikanmax: posts small blind $0.25
+cartman177: posts big blind $0.50
+*** HOLE CARDS ***
+Urri_Tilt: folds 
+vegas999789 has timed out
+vegas999789: folds 
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Dragonclawss: folds 
+dikanmax: raises $1 to $1.50
+cartman177: calls $1
+*** FLOP *** [8h 4h Ah]
+dikanmax: checks 
+cartman177: bets $0.95
+dikanmax: calls $0.95
+*** TURN *** [8h 4h Ah] [6s]
+dikanmax: checks 
+cartman177: bets $2.33
+dikanmax: calls $2.33
+*** RIVER *** [8h 4h Ah 6s] [Qh]
+dikanmax: checks 
+cartman177: checks 
+*** SHOW DOWN ***
+dikanmax: shows [As Ad] (three of a kind, Aces)
+cartman177: mucks hand 
+dikanmax collected $9.08 from pot
+*** SUMMARY ***
+Total pot $9.56 | Rake $0.48 
+Board [8h 4h Ah 6s Qh]
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Dragonclawss (button) folded before Flop (didn't bet)
+Seat 6: dikanmax (small blind) showed [As Ad] and won ($9.08) with three of a kind, Aces
+Seat 7: cartman177 (big blind) mucked
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680123445:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:35:13 ET
+Table 'Almach II' 9-max Seat #6 is the button
+Seat 1: SkapG47 ($20.51 in chips) 
+Seat 2: Mr_Ingvarr ($52.36 in chips) 
+Seat 3: $lavik88 ($62.01 in chips) 
+Seat 4: kalebans ($53.52 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: dikanmax ($58.19 in chips) 
+Seat 7: cartman177 ($52.10 in chips) 
+Seat 8: Urri_Tilt ($53.68 in chips) 
+Seat 9: vegas999789 ($50 in chips) 
+cartman177: posts small blind $0.25
+Urri_Tilt: posts big blind $0.50
+*** HOLE CARDS ***
+vegas999789: folds 
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Dragonclawss: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: checks 
+*** FLOP *** [9d Qh 6c]
+Urri_Tilt: checks 
+SkapG47: checks 
+*** TURN *** [9d Qh 6c] [8d]
+Urri_Tilt: checks 
+SkapG47: checks 
+*** RIVER *** [9d Qh 6c 8d] [Kd]
+Urri_Tilt: checks 
+SkapG47: bets $1.19
+Urri_Tilt: folds 
+Uncalled bet ($1.19) returned to SkapG47
+SkapG47 collected $1.19 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [9d Qh 6c 8d Kd]
+Seat 1: SkapG47 collected ($1.19)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: dikanmax (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded before Flop
+Seat 8: Urri_Tilt (big blind) folded on the River
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680134931:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:35:50 ET
+Table 'Almach II' 9-max Seat #7 is the button
+Seat 1: SkapG47 ($21.20 in chips) 
+Seat 2: Mr_Ingvarr ($52.36 in chips) 
+Seat 3: $lavik88 ($62.01 in chips) 
+Seat 4: kalebans ($53.52 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: dikanmax ($58.19 in chips) 
+Seat 7: cartman177 ($51.85 in chips) 
+Seat 8: Urri_Tilt ($53.18 in chips) 
+Seat 9: vegas999789 ($50 in chips) 
+Urri_Tilt: posts small blind $0.25
+vegas999789: posts big blind $0.50
+*** HOLE CARDS ***
+SkapG47 has timed out
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Dragonclawss: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+Uncalled bet ($0.25) returned to vegas999789
+vegas999789 collected $0.50 from pot
+vegas999789: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 (button) folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (small blind) folded before Flop
+Seat 9: vegas999789 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228680143236:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:36:17 ET
+Table 'Almach II' 9-max Seat #8 is the button
+Seat 1: SkapG47 ($21.20 in chips) 
+Seat 2: Mr_Ingvarr ($52.36 in chips) 
+Seat 3: $lavik88 ($62.01 in chips) 
+Seat 4: kalebans ($53.52 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: dikanmax ($58.19 in chips) 
+Seat 7: cartman177 ($51.85 in chips) 
+Seat 8: Urri_Tilt ($52.93 in chips) 
+Seat 9: vegas999789 ($50.25 in chips) 
+vegas999789: posts small blind $0.25
+SkapG47: posts big blind $0.50
+*** HOLE CARDS ***
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Dragonclawss: raises $0.75 to $1.25
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+vegas999789: folds 
+SkapG47: calls $0.75
+*** FLOP *** [7d Tc 5d]
+SkapG47: checks 
+Dragonclawss: checks 
+*** TURN *** [7d Tc 5d] [2s]
+SkapG47: checks 
+Dragonclawss: checks 
+*** RIVER *** [7d Tc 5d 2s] [3h]
+SkapG47: bets $1.30
+Dragonclawss: folds 
+Uncalled bet ($1.30) returned to SkapG47
+SkapG47 collected $2.61 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [7d Tc 5d 2s 3h]
+Seat 1: SkapG47 (big blind) collected ($2.61)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded on the River
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (button) folded before Flop (didn't bet)
+Seat 9: vegas999789 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680155062:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:36:55 ET
+Table 'Almach II' 9-max Seat #9 is the button
+Seat 1: SkapG47 ($22.56 in chips) 
+Seat 2: Mr_Ingvarr ($52.36 in chips) 
+Seat 3: $lavik88 ($62.01 in chips) 
+Seat 4: kalebans ($53.52 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: dikanmax ($58.19 in chips) 
+Seat 7: cartman177 ($51.85 in chips) 
+Seat 8: Urri_Tilt ($52.93 in chips) 
+Seat 9: vegas999789 ($50 in chips) 
+SkapG47: posts small blind $0.25
+Mr_Ingvarr: posts big blind $0.50
+*** HOLE CARDS ***
+$lavik88: folds 
+kalebans: folds 
+Dragonclawss: folds 
+dikanmax: folds 
+cartman177: raises $0.75 to $1.25
+Urri_Tilt: calls $1.25
+vegas999789: folds 
+SkapG47: raises $4.25 to $5.50
+Mr_Ingvarr: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+Uncalled bet ($4.25) returned to SkapG47
+SkapG47 collected $4.25 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0 
+Seat 1: SkapG47 (small blind) collected ($4.25)
+Seat 2: Mr_Ingvarr (big blind) folded before Flop
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop
+Seat 8: Urri_Tilt folded before Flop
+Seat 9: vegas999789 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680168611:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:37:38 ET
+Table 'Almach II' 9-max Seat #1 is the button
+Seat 1: SkapG47 ($25.56 in chips) 
+Seat 2: Mr_Ingvarr ($51.86 in chips) 
+Seat 3: $lavik88 ($62.01 in chips) 
+Seat 4: kalebans ($53.52 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: dikanmax ($58.19 in chips) 
+Seat 7: cartman177 ($50.60 in chips) 
+Seat 8: Urri_Tilt ($51.68 in chips) 
+Seat 9: vegas999789 ($50 in chips) 
+Mr_Ingvarr: posts small blind $0.25
+$lavik88: posts big blind $0.50
+*** HOLE CARDS ***
+kalebans: folds 
+Dragonclawss: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+vegas999789: calls $0.50
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: checks 
+*** FLOP *** [3s Qs 8d]
+$lavik88: bets $0.91
+vegas999789: calls $0.91
+SkapG47: calls $0.91
+*** TURN *** [3s Qs 8d] [8s]
+$lavik88: checks 
+vegas999789: checks 
+SkapG47: checks 
+*** RIVER *** [3s Qs 8d 8s] [6h]
+$lavik88: bets $1.28
+vegas999789: folds 
+SkapG47: raises $2.78 to $4.06
+$lavik88: folds 
+Uncalled bet ($2.78) returned to SkapG47
+SkapG47 collected $6.69 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.04 | Rake $0.35 
+Board [3s Qs 8d 8s 6h]
+Seat 1: SkapG47 (button) collected ($6.69)
+Seat 2: Mr_Ingvarr (small blind) folded before Flop
+Seat 3: $lavik88 (big blind) folded on the River
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: vegas999789 folded on the River
+
+
+
+PokerStars Hand #228680194675:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:39:01 ET
+Table 'Almach II' 9-max Seat #2 is the button
+Seat 1: SkapG47 ($29.56 in chips) 
+Seat 2: Mr_Ingvarr ($51.61 in chips) 
+Seat 3: $lavik88 ($59.32 in chips) 
+Seat 4: kalebans ($53.52 in chips) 
+Seat 5: Dragonclawss ($50 in chips) 
+Seat 6: dikanmax ($58.19 in chips) 
+Seat 7: cartman177 ($50.60 in chips) 
+Seat 8: Urri_Tilt ($51.68 in chips) 
+Seat 9: vegas999789 ($48.59 in chips) 
+$lavik88: posts small blind $0.25
+kalebans: posts big blind $0.50
+*** HOLE CARDS ***
+Dragonclawss: folds 
+dikanmax: folds 
+Dragonclawss leaves the table
+cartman177: folds 
+Urri_Tilt: folds 
+vegas999789: folds 
+SkapG47: raises $0.50 to $1
+Infinities4 joins the table at seat #5 
+Mr_Ingvarr has timed out
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: calls $0.50
+*** FLOP *** [Ts 3c 8h]
+kalebans: checks 
+SkapG47: checks 
+*** TURN *** [Ts 3c 8h] [7s]
+kalebans: bets $0.71
+SkapG47: raises $1.78 to $2.49
+kalebans: calls $1.78
+*** RIVER *** [Ts 3c 8h 7s] [Qd]
+kalebans: checks 
+SkapG47: bets $2.93
+kalebans: folds 
+Uncalled bet ($2.93) returned to SkapG47
+SkapG47 collected $6.87 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.23 | Rake $0.36 
+Board [Ts 3c 8h 7s Qd]
+Seat 1: SkapG47 collected ($6.87)
+Seat 2: Mr_Ingvarr (button) folded before Flop (didn't bet)
+Seat 3: $lavik88 (small blind) folded before Flop
+Seat 4: kalebans (big blind) folded on the River
+Seat 5: Dragonclawss folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680215963:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:40:09 ET
+Table 'Almach II' 9-max Seat #3 is the button
+Seat 1: SkapG47 ($32.94 in chips) 
+Seat 2: Mr_Ingvarr ($51.61 in chips) 
+Seat 3: $lavik88 ($59.07 in chips) 
+Seat 4: kalebans ($50.03 in chips) 
+Seat 5: Infinities4 ($63.29 in chips) 
+Seat 6: dikanmax ($58.19 in chips) 
+Seat 7: cartman177 ($50.60 in chips) 
+Seat 8: Urri_Tilt ($51.68 in chips) 
+Seat 9: vegas999789 ($48.59 in chips) 
+kalebans: posts small blind $0.25
+Infinities4: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+vegas999789: folds 
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: raises $1.50 to $2
+SkapG47: calls $1.50
+*** FLOP *** [5d Ks Jc]
+Infinities4: bets $1.66
+SkapG47: folds 
+Uncalled bet ($1.66) returned to Infinities4
+Infinities4 collected $4.04 from pot
+Infinities4: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.21 
+Board [5d Ks Jc]
+Seat 1: SkapG47 folded on the Flop
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 (button) folded before Flop (didn't bet)
+Seat 4: kalebans (small blind) folded before Flop
+Seat 5: Infinities4 (big blind) collected ($4.04)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680224646:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:40:37 ET
+Table 'Almach II' 9-max Seat #4 is the button
+Seat 1: SkapG47 ($30.94 in chips) 
+Seat 2: Mr_Ingvarr ($51.61 in chips) 
+Seat 3: $lavik88 ($59.07 in chips) 
+Seat 4: kalebans ($50 in chips) 
+Seat 5: Infinities4 ($65.33 in chips) 
+Seat 6: dikanmax ($58.19 in chips) 
+Seat 7: cartman177 ($50.60 in chips) 
+Seat 8: Urri_Tilt ($51.68 in chips) 
+Seat 9: vegas999789 ($48.59 in chips) 
+Infinities4: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177: folds 
+Urri_Tilt: folds 
+vegas999789: folds 
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: raises $0.60 to $1.10
+Infinities4: folds 
+dikanmax: raises $3.90 to $5
+kalebans: calls $3.90
+*** FLOP *** [7c 2c 3d]
+dikanmax: bets $4.87
+kalebans: folds 
+Uncalled bet ($4.87) returned to dikanmax
+dikanmax collected $9.74 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.25 | Rake $0.51 
+Board [7c 2c 3d]
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans (button) folded on the Flop
+Seat 5: Infinities4 (small blind) folded before Flop
+Seat 6: dikanmax (big blind) collected ($9.74)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680242316:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:41:35 ET
+Table 'Almach II' 9-max Seat #5 is the button
+Seat 1: SkapG47 ($30.94 in chips) 
+Seat 2: Mr_Ingvarr ($51.61 in chips) 
+Seat 3: $lavik88 ($59.07 in chips) 
+Seat 4: kalebans ($50 in chips) 
+Seat 5: Infinities4 ($65.08 in chips) 
+Seat 6: dikanmax ($62.93 in chips) 
+Seat 7: cartman177 ($50.60 in chips) 
+Seat 8: Urri_Tilt ($51.68 in chips) 
+Seat 9: vegas999789 ($48.59 in chips) 
+dikanmax: posts small blind $0.25
+cartman177: posts big blind $0.50
+*** HOLE CARDS ***
+Urri_Tilt: folds 
+vegas999789: calls $0.50
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: raises $1.12 to $1.62
+dikanmax: folds 
+cartman177: folds 
+vegas999789: calls $1.12
+*** FLOP *** [5d 6s 3d]
+vegas999789: checks 
+Infinities4: bets $1.33
+vegas999789: folds 
+Uncalled bet ($1.33) returned to Infinities4
+Infinities4 collected $3.79 from pot
+Infinities4: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.99 | Rake $0.20 
+Board [5d 6s 3d]
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 (button) collected ($3.79)
+Seat 6: dikanmax (small blind) folded before Flop
+Seat 7: cartman177 (big blind) folded before Flop
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: vegas999789 folded on the Flop
+
+
+
+PokerStars Hand #228680257000:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:42:22 ET
+Table 'Almach II' 9-max Seat #6 is the button
+Seat 1: SkapG47 ($30.94 in chips) 
+Seat 2: Mr_Ingvarr ($51.61 in chips) 
+Seat 3: $lavik88 ($59.07 in chips) 
+Seat 4: kalebans ($50 in chips) 
+Seat 5: Infinities4 ($67.25 in chips) 
+Seat 6: dikanmax ($62.68 in chips) 
+Seat 7: cartman177 ($50.10 in chips) 
+Seat 8: Urri_Tilt ($51.68 in chips) 
+Seat 9: vegas999789 ($46.97 in chips) 
+cartman177: posts small blind $0.25
+Urri_Tilt: posts big blind $0.50
+*** HOLE CARDS ***
+vegas999789: folds 
+vegas999789 leaves the table
+SkapG47: folds 
+Mr_Ingvarr: raises $0.75 to $1.25
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+Uncalled bet ($0.75) returned to Mr_Ingvarr
+Mr_Ingvarr collected $1.25 from pot
+Mr_Ingvarr: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr collected ($1.25)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded before Flop
+Seat 8: Urri_Tilt (big blind) folded before Flop
+Seat 9: vegas999789 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680263494:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:42:43 ET
+Table 'Almach II' 9-max Seat #7 is the button
+Seat 1: SkapG47 ($30.94 in chips) 
+Seat 2: Mr_Ingvarr ($52.36 in chips) 
+Seat 3: $lavik88 ($59.07 in chips) 
+Seat 4: kalebans ($50 in chips) 
+Seat 5: Infinities4 ($67.25 in chips) 
+Seat 6: dikanmax ($62.68 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($51.18 in chips) 
+Urri_Tilt: posts small blind $0.25
+SkapG47: posts big blind $0.50
+*** HOLE CARDS ***
+Mr_Ingvarr: raises $1 to $1.50
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+SkapG47: calls $1
+*** FLOP *** [7d Td 9c]
+SkapG47: bets $1.54
+Mr_Ingvarr: calls $1.54
+*** TURN *** [7d Td 9c] [Ad]
+SkapG47: checks 
+Mr_Ingvarr: checks 
+*** RIVER *** [7d Td 9c Ad] [9s]
+beddows92 joins the table at seat #9 
+SkapG47: checks 
+Mr_Ingvarr: checks 
+*** SHOW DOWN ***
+SkapG47: shows [Kc Th] (two pair, Tens and Nines)
+Mr_Ingvarr: shows [Ah Jh] (two pair, Aces and Nines)
+Mr_Ingvarr collected $6.01 from pot
+*** SUMMARY ***
+Total pot $6.33 | Rake $0.32 
+Board [7d Td 9c Ad 9s]
+Seat 1: SkapG47 (big blind) showed [Kc Th] and lost with two pair, Tens and Nines
+Seat 2: Mr_Ingvarr showed [Ah Jh] and won ($6.01) with two pair, Aces and Nines
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 (button) folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680278395:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:43:30 ET
+Table 'Almach II' 9-max Seat #8 is the button
+Seat 1: SkapG47 ($27.90 in chips) 
+Seat 2: Mr_Ingvarr ($55.33 in chips) 
+Seat 3: $lavik88 ($59.07 in chips) 
+Seat 4: kalebans ($50 in chips) 
+Seat 5: Infinities4 ($67.25 in chips) 
+Seat 6: dikanmax ($62.68 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50.93 in chips) 
+SkapG47: posts small blind $0.25
+Mr_Ingvarr: posts big blind $0.50
+*** HOLE CARDS ***
+$lavik88: folds 
+kalebans: raises $0.75 to $1.25
+Infinities4: raises $2.75 to $4
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+SkapG47: calls $3.75
+Mr_Ingvarr: folds 
+kalebans: calls $2.75
+*** FLOP *** [8s 7s Qc]
+SkapG47: checks 
+kalebans: checks 
+Infinities4: bets $8.75
+SkapG47: calls $8.75
+kalebans: raises $37.25 to $46 and is all-in
+Infinities4: folds 
+SkapG47: folds 
+Uncalled bet ($37.25) returned to kalebans
+kalebans collected $36.81 from pot
+kalebans: doesn't show hand 
+*** SUMMARY ***
+Total pot $38.75 | Rake $1.94 
+Board [8s 7s Qc]
+Seat 1: SkapG47 (small blind) folded on the Flop
+Seat 2: Mr_Ingvarr (big blind) folded before Flop
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans collected ($36.81)
+Seat 5: Infinities4 folded on the Flop
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680308168:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:45:06 ET
+Table 'Almach II' 9-max Seat #1 is the button
+Seat 1: SkapG47 ($15.15 in chips) 
+Seat 2: Mr_Ingvarr ($54.83 in chips) 
+Seat 3: $lavik88 ($59.07 in chips) 
+Seat 4: kalebans ($74.06 in chips) 
+Seat 5: Infinities4 ($54.50 in chips) 
+Seat 6: dikanmax ($62.68 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50.93 in chips) 
+Seat 9: beddows92 ($40 in chips) 
+Mr_Ingvarr: posts small blind $0.25
+$lavik88: posts big blind $0.50
+beddows92: posts big blind $0.50
+*** HOLE CARDS ***
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: raises $1.25 to $1.75
+SkapG47: calls $1.75
+Mr_Ingvarr: folds 
+$lavik88: calls $1.25
+*** FLOP *** [Qc 4h 9s]
+$lavik88: checks 
+beddows92: bets $2.61
+SkapG47: raises $2.61 to $5.22
+$lavik88: folds 
+beddows92: calls $2.61
+*** TURN *** [Qc 4h 9s] [Jh]
+beddows92: checks 
+SkapG47: checks 
+*** RIVER *** [Qc 4h 9s Jh] [8h]
+beddows92: bets $7.57
+SkapG47: folds 
+Uncalled bet ($7.57) returned to beddows92
+beddows92 collected $15.14 from pot
+beddows92: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.94 | Rake $0.80 
+Board [Qc 4h 9s Jh 8h]
+Seat 1: SkapG47 (button) folded on the River
+Seat 2: Mr_Ingvarr (small blind) folded before Flop
+Seat 3: $lavik88 (big blind) folded on the Flop
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 collected ($15.14)
+
+
+
+PokerStars Hand #228680323427:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:45:55 ET
+Table 'Almach II' 9-max Seat #2 is the button
+Seat 1: SkapG47 ($8.18 in chips) 
+Seat 2: Mr_Ingvarr ($54.58 in chips) 
+Seat 3: $lavik88 ($57.32 in chips) 
+Seat 4: kalebans ($74.06 in chips) 
+Seat 5: Infinities4 ($54.50 in chips) 
+Seat 6: dikanmax ($62.68 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50.93 in chips) 
+Seat 9: beddows92 ($48.17 in chips) 
+$lavik88: posts small blind $0.25
+kalebans: posts big blind $0.50
+*** HOLE CARDS ***
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: raises $1 to $1.50
+beddows92: folds 
+SkapG47: raises $3.75 to $5.25
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Urri_Tilt: raises $3.75 to $9
+SkapG47: calls $2.93 and is all-in
+Uncalled bet ($0.82) returned to Urri_Tilt
+*** FLOP *** [Kh 9d 3c]
+*** TURN *** [Kh 9d 3c] [7s]
+*** RIVER *** [Kh 9d 3c 7s] [2h]
+*** SHOW DOWN ***
+Urri_Tilt: shows [Jd Ac] (high card Ace)
+SkapG47: shows [Td Th] (a pair of Tens)
+SkapG47 collected $16.25 from pot
+*** SUMMARY ***
+Total pot $17.11 | Rake $0.86 
+Board [Kh 9d 3c 7s 2h]
+Seat 1: SkapG47 showed [Td Th] and won ($16.25) with a pair of Tens
+Seat 2: Mr_Ingvarr (button) folded before Flop (didn't bet)
+Seat 3: $lavik88 (small blind) folded before Flop
+Seat 4: kalebans (big blind) folded before Flop
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt showed [Jd Ac] and lost with high card Ace
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680334438:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:46:30 ET
+Table 'Almach II' 9-max Seat #3 is the button
+Seat 1: SkapG47 ($16.25 in chips) 
+Seat 2: Mr_Ingvarr ($54.58 in chips) 
+Seat 3: $lavik88 ($57.07 in chips) 
+Seat 4: kalebans ($73.56 in chips) 
+Seat 5: Infinities4 ($54.50 in chips) 
+Seat 6: dikanmax ($62.68 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50 in chips) 
+Seat 9: beddows92 ($48.17 in chips) 
+kalebans: posts small blind $0.25
+Infinities4: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: folds 
+SkapG47: folds 
+Mr_Ingvarr: raises $0.75 to $1.25
+$lavik88: folds 
+kalebans: raises $3.75 to $5
+Infinities4: folds 
+Mr_Ingvarr: folds 
+Uncalled bet ($3.75) returned to kalebans
+kalebans collected $3 from pot
+kalebans: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr folded before Flop
+Seat 3: $lavik88 (button) folded before Flop (didn't bet)
+Seat 4: kalebans (small blind) collected ($3)
+Seat 5: Infinities4 (big blind) folded before Flop
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680347501:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:47:12 ET
+Table 'Almach II' 9-max Seat #4 is the button
+Seat 1: SkapG47 ($16.25 in chips) 
+Seat 2: Mr_Ingvarr ($53.33 in chips) 
+Seat 3: $lavik88 ($57.07 in chips) 
+Seat 4: kalebans ($75.31 in chips) 
+Seat 5: Infinities4 ($54 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50 in chips) 
+Seat 9: beddows92 ($48.17 in chips) 
+Infinities4: posts small blind $0.25
+dikanmax: is sitting out 
+cartman177: posts big blind $0.50
+*** HOLE CARDS ***
+Urri_Tilt: folds 
+beddows92: folds 
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+cartman177: checks 
+*** FLOP *** [8d Jd Ad]
+cartman177: checks 
+SkapG47: checks 
+*** TURN *** [8d Jd Ad] [2c]
+cartman177: checks 
+SkapG47: bets $1.19
+cartman177: folds 
+Uncalled bet ($1.19) returned to SkapG47
+SkapG47 collected $1.19 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [8d Jd Ad 2c]
+Seat 1: SkapG47 collected ($1.19)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans (button) folded before Flop (didn't bet)
+Seat 5: Infinities4 (small blind) folded before Flop
+Seat 7: cartman177 (big blind) folded on the Turn
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680358643:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:47:48 ET
+Table 'Almach II' 9-max Seat #5 is the button
+Seat 1: SkapG47 ($16.94 in chips) 
+Seat 2: Mr_Ingvarr ($53.33 in chips) 
+Seat 3: $lavik88 ($57.07 in chips) 
+Seat 4: kalebans ($75.31 in chips) 
+Seat 5: Infinities4 ($53.75 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50 in chips) 
+Seat 9: beddows92 ($48.17 in chips) 
+cartman177: posts small blind $0.25
+Urri_Tilt: posts big blind $0.50
+*** HOLE CARDS ***
+beddows92: raises $1.25 to $1.75
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+cartman177: folds 
+Urri_Tilt: calls $1.25
+*** FLOP *** [7h 6d 9s]
+Urri_Tilt: checks 
+beddows92: bets $1.78
+Urri_Tilt: calls $1.78
+*** TURN *** [7h 6d 9s] [5d]
+Urri_Tilt: checks 
+beddows92: bets $3.47
+Urri_Tilt: raises $7.22 to $10.69
+beddows92: calls $7.22
+*** RIVER *** [7h 6d 9s 5d] [Kh]
+Urri_Tilt: bets $17.99
+beddows92: calls $17.99
+*** SHOW DOWN ***
+Urri_Tilt: shows [Qc 6s] (a pair of Sixes)
+beddows92: shows [Jh 8d] (a straight, Five to Nine)
+beddows92 collected $62.67 from pot
+*** SUMMARY ***
+Total pot $64.67 | Rake $2 
+Board [7h 6d 9s 5d Kh]
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded before Flop
+Seat 8: Urri_Tilt (big blind) showed [Qc 6s] and lost with a pair of Sixes
+Seat 9: beddows92 showed [Jh 8d] and won ($62.67) with a straight, Five to Nine
+
+
+
+PokerStars Hand #228680369665:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:48:23 ET
+Table 'Almach II' 9-max Seat #7 is the button
+Seat 1: SkapG47 ($16.94 in chips) 
+Seat 2: Mr_Ingvarr ($53.33 in chips) 
+Seat 3: $lavik88 ($57.07 in chips) 
+Seat 4: kalebans ($75.31 in chips) 
+Seat 5: Infinities4 ($53.75 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50 in chips) 
+Seat 9: beddows92 ($78.63 in chips) 
+Urri_Tilt: posts small blind $0.25
+beddows92: posts big blind $0.50
+*** HOLE CARDS ***
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+cartman177: folds 
+Urri_Tilt: raises $2 to $2.50
+beddows92: calls $2
+SkapG47: calls $2
+*** FLOP *** [Kc 2d Js]
+Urri_Tilt: bets $4.70
+beddows92: calls $4.70
+SkapG47: folds 
+*** TURN *** [Kc 2d Js] [Qh]
+Urri_Tilt: bets $5.14
+beddows92: calls $5.14
+*** RIVER *** [Kc 2d Js Qh] [Ah]
+Urri_Tilt: bets $13.43
+beddows92: folds 
+Uncalled bet ($13.43) returned to Urri_Tilt
+Urri_Tilt collected $25.82 from pot
+Urri_Tilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.18 | Rake $1.36 
+Board [Kc 2d Js Qh Ah]
+Seat 1: SkapG47 folded on the Flop
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 7: cartman177 (button) folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (small blind) collected ($25.82)
+Seat 9: beddows92 (big blind) folded on the River
+
+
+
+PokerStars Hand #228680384665:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:49:12 ET
+Table 'Almach II' 9-max Seat #8 is the button
+Seat 1: SkapG47 ($14.44 in chips) 
+Seat 2: Mr_Ingvarr ($53.33 in chips) 
+Seat 3: $lavik88 ($57.07 in chips) 
+Seat 4: kalebans ($75.31 in chips) 
+Seat 5: Infinities4 ($53.75 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($63.48 in chips) 
+Seat 9: beddows92 ($66.29 in chips) 
+beddows92: posts small blind $0.25
+SkapG47: posts big blind $0.50
+*** HOLE CARDS ***
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: folds 
+Uncalled bet ($0.25) returned to SkapG47
+SkapG47 collected $0.50 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: SkapG47 (big blind) collected ($0.50)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (button) folded before Flop (didn't bet)
+Seat 9: beddows92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680390830:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:49:26 ET
+Table 'Almach II' 9-max Seat #9 is the button
+Seat 1: SkapG47 ($14.69 in chips) 
+Seat 2: Mr_Ingvarr ($53.33 in chips) 
+Seat 3: $lavik88 ($57.07 in chips) 
+Seat 4: kalebans ($75.31 in chips) 
+Seat 5: Infinities4 ($53.75 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($63.48 in chips) 
+Seat 9: beddows92 ($66.04 in chips) 
+SkapG47: posts small blind $0.25
+Mr_Ingvarr: posts big blind $0.50
+*** HOLE CARDS ***
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: calls $0.50
+SkapG47: calls $0.25
+Mr_Ingvarr: checks 
+*** FLOP *** [8c 5s 8d]
+SkapG47: checks 
+Mr_Ingvarr: bets $1
+beddows92: raises $1 to $2
+SkapG47: folds 
+Mr_Ingvarr: folds 
+Uncalled bet ($1) returned to beddows92
+beddows92 collected $3.32 from pot
+beddows92: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [8c 5s 8d]
+Seat 1: SkapG47 (small blind) folded on the Flop
+Seat 2: Mr_Ingvarr (big blind) folded on the Flop
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 (button) collected ($3.32)
+
+
+
+PokerStars Hand #228680401382:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:49:59 ET
+Table 'Almach II' 9-max Seat #1 is the button
+Seat 1: SkapG47 ($14.19 in chips) 
+Seat 2: Mr_Ingvarr ($51.83 in chips) 
+Seat 3: $lavik88 ($57.07 in chips) 
+Seat 4: kalebans ($75.31 in chips) 
+Seat 5: Infinities4 ($53.75 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($63.48 in chips) 
+Seat 9: beddows92 ($67.86 in chips) 
+Mr_Ingvarr: posts small blind $0.25
+$lavik88: posts big blind $0.50
+*** HOLE CARDS ***
+kalebans: folds 
+Infinities4: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: folds 
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: raises $1.50 to $2
+SkapG47: calls $1.50
+*** FLOP *** [Qc 7d Tc]
+$lavik88: bets $2.22
+SkapG47: calls $2.22
+*** TURN *** [Qc 7d Tc] [Jc]
+$lavik88: checks 
+SkapG47: checks 
+*** RIVER *** [Qc 7d Tc Jc] [6c]
+$lavik88: checks 
+SkapG47: checks 
+*** SHOW DOWN ***
+$lavik88: shows [8s 8d] (a pair of Eights)
+SkapG47: shows [Js 9h] (a pair of Jacks)
+SkapG47 collected $8.26 from pot
+*** SUMMARY ***
+Total pot $8.69 | Rake $0.43 
+Board [Qc 7d Tc Jc 6c]
+Seat 1: SkapG47 (button) showed [Js 9h] and won ($8.26) with a pair of Jacks
+Seat 2: Mr_Ingvarr (small blind) folded before Flop
+Seat 3: $lavik88 (big blind) showed [8s 8d] and lost with a pair of Eights
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680413609:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:50:38 ET
+Table 'Almach II' 9-max Seat #2 is the button
+Seat 1: SkapG47 ($18.23 in chips) 
+Seat 2: Mr_Ingvarr ($51.58 in chips) 
+Seat 3: $lavik88 ($52.85 in chips) 
+Seat 4: kalebans ($75.31 in chips) 
+Seat 5: Infinities4 ($53.75 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($63.48 in chips) 
+Seat 9: beddows92 ($67.86 in chips) 
+$lavik88: posts small blind $0.25
+kalebans: posts big blind $0.50
+*** HOLE CARDS ***
+Infinities4: folds 
+cartman177: folds 
+Urri_Tilt: raises $1 to $1.50
+beddows92: folds 
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Uncalled bet ($1) returned to Urri_Tilt
+Urri_Tilt collected $1.25 from pot
+Urri_Tilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr (button) folded before Flop (didn't bet)
+Seat 3: $lavik88 (small blind) folded before Flop
+Seat 4: kalebans (big blind) folded before Flop
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt collected ($1.25)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680423420:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:51:10 ET
+Table 'Almach II' 9-max Seat #3 is the button
+Seat 1: SkapG47 ($18.23 in chips) 
+Seat 2: Mr_Ingvarr ($51.58 in chips) 
+Seat 3: $lavik88 ($52.60 in chips) 
+Seat 4: kalebans ($74.81 in chips) 
+Seat 5: Infinities4 ($53.75 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($64.23 in chips) 
+Seat 9: beddows92 ($67.86 in chips) 
+kalebans: posts small blind $0.25
+Infinities4: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: raises $0.50 to $1
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+Uncalled bet ($0.50) returned to beddows92
+beddows92 collected $1.25 from pot
+beddows92: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 (button) folded before Flop (didn't bet)
+Seat 4: kalebans (small blind) folded before Flop
+Seat 5: Infinities4 (big blind) folded before Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 collected ($1.25)
+
+
+
+PokerStars Hand #228680428939:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:51:27 ET
+Table 'Almach II' 9-max Seat #4 is the button
+Seat 1: SkapG47 ($18.23 in chips) 
+Seat 2: Mr_Ingvarr ($51.58 in chips) 
+Seat 3: $lavik88 ($52.60 in chips) 
+Seat 4: kalebans ($74.56 in chips) 
+Seat 5: Infinities4 ($53.25 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($64.23 in chips) 
+Seat 9: beddows92 ($68.61 in chips) 
+Infinities4: posts small blind $0.25
+cartman177: posts big blind $0.50
+*** HOLE CARDS ***
+Urri_Tilt: folds 
+beddows92: raises $0.50 to $1
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+cartman177: folds 
+Uncalled bet ($0.50) returned to beddows92
+beddows92 collected $1.25 from pot
+beddows92: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans (button) folded before Flop (didn't bet)
+Seat 5: Infinities4 (small blind) folded before Flop
+Seat 7: cartman177 (big blind) folded before Flop
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 collected ($1.25)
+
+
+
+PokerStars Hand #228680434188:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:51:44 ET
+Table 'Almach II' 9-max Seat #5 is the button
+Seat 1: SkapG47 ($18.23 in chips) 
+Seat 2: Mr_Ingvarr ($51.58 in chips) 
+Seat 3: $lavik88 ($52.60 in chips) 
+Seat 4: kalebans ($74.56 in chips) 
+Seat 5: Infinities4 ($53 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($64.23 in chips) 
+Seat 9: beddows92 ($69.36 in chips) 
+cartman177: posts small blind $0.25
+Urri_Tilt: posts big blind $0.50
+*** HOLE CARDS ***
+beddows92: raises $0.50 to $1
+SkapG47: raises $0.50 to $1.50
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+cartman177: folds 
+Urri_Tilt: calls $1
+beddows92: raises $0.50 to $2
+SkapG47: raises $16.23 to $18.23 and is all-in
+Urri_Tilt: folds 
+beddows92: folds 
+Uncalled bet ($16.23) returned to SkapG47
+SkapG47 collected $5.75 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.75 | Rake $0 
+Seat 1: SkapG47 collected ($5.75)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded before Flop
+Seat 8: Urri_Tilt (big blind) folded before Flop
+Seat 9: beddows92 folded before Flop
+
+
+
+PokerStars Hand #228680446754:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:52:24 ET
+Table 'Almach II' 9-max Seat #7 is the button
+Seat 1: SkapG47 ($21.98 in chips) 
+Seat 2: Mr_Ingvarr ($51.58 in chips) 
+Seat 3: $lavik88 ($52.60 in chips) 
+Seat 4: kalebans ($74.56 in chips) 
+Seat 5: Infinities4 ($53 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($62.73 in chips) 
+Seat 9: beddows92 ($67.36 in chips) 
+Urri_Tilt: posts small blind $0.25
+beddows92: posts big blind $0.50
+*** HOLE CARDS ***
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: raises $1.25 to $1.75
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: folds 
+SkapG47: folds 
+Uncalled bet ($1.25) returned to Infinities4
+Infinities4 collected $1.75 from pot
+Infinities4: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: SkapG47 folded before Flop
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 collected ($1.75)
+Seat 7: cartman177 (button) folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (small blind) folded before Flop
+Seat 9: beddows92 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680461150:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:53:10 ET
+Table 'Almach II' 9-max Seat #8 is the button
+Seat 1: SkapG47 ($21.48 in chips) 
+Seat 2: Mr_Ingvarr ($51.58 in chips) 
+Seat 3: $lavik88 ($52.60 in chips) 
+Seat 4: kalebans ($74.56 in chips) 
+Seat 5: Infinities4 ($54.25 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($62.48 in chips) 
+Seat 9: beddows92 ($66.86 in chips) 
+beddows92: posts small blind $0.25
+SkapG47: posts big blind $0.50
+*** HOLE CARDS ***
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: raises $0.74 to $1.24
+cartman177: folds 
+Urri_Tilt: calls $1.24
+beddows92: raises $0.74 to $1.98
+SkapG47: folds 
+Infinities4: calls $0.74
+Urri_Tilt: raises $7.02 to $9
+beddows92: calls $7.02
+Infinities4: folds 
+*** FLOP *** [Td 8d Kh]
+beddows92: checks 
+Urri_Tilt: bets $6.23
+beddows92: calls $6.23
+*** TURN *** [Td 8d Kh] [2s]
+beddows92: checks 
+Urri_Tilt: checks 
+*** RIVER *** [Td 8d Kh 2s] [As]
+beddows92: bets $15.64
+Urri_Tilt: folds [Qh Qs]
+Uncalled bet ($15.64) returned to beddows92
+beddows92 collected $31.29 from pot
+beddows92: doesn't show hand 
+*** SUMMARY ***
+Total pot $32.94 | Rake $1.65 
+Board [Td 8d Kh 2s As]
+Seat 1: SkapG47 (big blind) folded before Flop
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (button) folded on the River
+Seat 9: beddows92 (small blind) collected ($31.29)
+
+
+
+PokerStars Hand #228680482094:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:54:17 ET
+Table 'Almach II' 9-max Seat #9 is the button
+Seat 1: SkapG47 ($20.98 in chips) 
+Seat 2: Mr_Ingvarr ($51.58 in chips) 
+Seat 3: $lavik88 ($52.60 in chips) 
+Seat 4: kalebans ($74.56 in chips) 
+Seat 5: Infinities4 ($52.27 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50 in chips) 
+Seat 9: beddows92 ($82.92 in chips) 
+SkapG47: posts small blind $0.25
+Mr_Ingvarr: posts big blind $0.50
+*** HOLE CARDS ***
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+cartman177: folds 
+Urri_Tilt: raises $1 to $1.50
+beddows92: folds 
+SkapG47: calls $1.25
+Mr_Ingvarr: folds 
+*** FLOP *** [6h 9s Kh]
+SkapG47: checks 
+Urri_Tilt: bets $1.06
+SkapG47: calls $1.06
+*** TURN *** [6h 9s Kh] [Ks]
+SkapG47: checks 
+Urri_Tilt: bets $4.54
+SkapG47: calls $4.54
+*** RIVER *** [6h 9s Kh Ks] [5h]
+SkapG47: checks 
+Urri_Tilt: checks 
+*** SHOW DOWN ***
+SkapG47: shows [6d 4d] (two pair, Kings and Sixes)
+Urri_Tilt: mucks hand 
+SkapG47 collected $13.96 from pot
+*** SUMMARY ***
+Total pot $14.70 | Rake $0.74 
+Board [6h 9s Kh Ks 5h]
+Seat 1: SkapG47 (small blind) showed [6d 4d] and won ($13.96) with two pair, Kings and Sixes
+Seat 2: Mr_Ingvarr (big blind) folded before Flop
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt mucked
+Seat 9: beddows92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680500942:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:55:18 ET
+Table 'Almach II' 9-max Seat #1 is the button
+Seat 1: SkapG47 ($27.84 in chips) 
+Seat 2: Mr_Ingvarr ($51.08 in chips) 
+Seat 3: $lavik88 ($52.60 in chips) 
+Seat 4: kalebans ($74.56 in chips) 
+Seat 5: Infinities4 ($52.27 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50 in chips) 
+Seat 9: beddows92 ($82.92 in chips) 
+Mr_Ingvarr: posts small blind $0.25
+$lavik88: posts big blind $0.50
+*** HOLE CARDS ***
+kalebans: raises $0.75 to $1.25
+Infinities4: raises $2.75 to $4
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: folds 
+SkapG47: calls $4
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: calls $2.75
+*** FLOP *** [Td 6d Jd]
+kalebans: checks 
+Infinities4: bets $4.24
+SkapG47: calls $4.24
+kalebans: folds 
+*** TURN *** [Td 6d Jd] [Ks]
+Infinities4: checks 
+SkapG47: checks 
+*** RIVER *** [Td 6d Jd Ks] [Th]
+Infinities4: checks 
+SkapG47: bets $8.08
+Infinities4: folds 
+Uncalled bet ($8.08) returned to SkapG47
+SkapG47 collected $20.17 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.23 | Rake $1.06 
+Board [Td 6d Jd Ks Th]
+Seat 1: SkapG47 (button) collected ($20.17)
+Seat 2: Mr_Ingvarr (small blind) folded before Flop
+Seat 3: $lavik88 (big blind) folded before Flop
+Seat 4: kalebans folded on the Flop
+Seat 5: Infinities4 folded on the River
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680519950:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:56:32 ET
+Table 'Almach II' 9-max Seat #2 is the button
+Seat 1: SkapG47 ($39.77 in chips) 
+Seat 2: Mr_Ingvarr ($50.83 in chips) 
+Seat 3: $lavik88 ($52.10 in chips) 
+Seat 4: kalebans ($70.56 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50 in chips) 
+Seat 9: beddows92 ($82.92 in chips) 
+$lavik88: posts small blind $0.25
+kalebans: posts big blind $0.50
+*** HOLE CARDS ***
+Infinities4: folds 
+cartman177: folds 
+Urri_Tilt: raises $1 to $1.50
+beddows92: folds 
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Uncalled bet ($1) returned to Urri_Tilt
+Urri_Tilt collected $1.25 from pot
+Urri_Tilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr (button) folded before Flop (didn't bet)
+Seat 3: $lavik88 (small blind) folded before Flop
+Seat 4: kalebans (big blind) folded before Flop
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt collected ($1.25)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680525772:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:56:54 ET
+Table 'Almach II' 9-max Seat #3 is the button
+Seat 1: SkapG47 ($39.77 in chips) 
+Seat 2: Mr_Ingvarr ($50.83 in chips) 
+Seat 3: $lavik88 ($51.85 in chips) 
+Seat 4: kalebans ($70.06 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50.75 in chips) 
+Seat 9: beddows92 ($82.92 in chips) 
+kalebans: posts small blind $0.25
+Infinities4: posts big blind $0.50
+dikanmax: sits out 
+*** HOLE CARDS ***
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: folds 
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: checks 
+*** FLOP *** [5d 2s 4c]
+Infinities4: bets $0.64
+SkapG47: calls $0.64
+*** TURN *** [5d 2s 4c] [Jh]
+Infinities4: checks 
+SkapG47: bets $1.20
+Infinities4: folds 
+Uncalled bet ($1.20) returned to SkapG47
+SkapG47 collected $2.40 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.53 | Rake $0.13 
+Board [5d 2s 4c Jh]
+Seat 1: SkapG47 collected ($2.40)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 (button) folded before Flop (didn't bet)
+Seat 4: kalebans (small blind) folded before Flop
+Seat 5: Infinities4 (big blind) folded on the Turn
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680533392:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:57:23 ET
+Table 'Almach II' 9-max Seat #4 is the button
+Seat 1: SkapG47 ($41.03 in chips) 
+Seat 2: Mr_Ingvarr ($50.83 in chips) 
+Seat 3: $lavik88 ($51.85 in chips) 
+Seat 4: kalebans ($69.81 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($62.68 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50.75 in chips) 
+Seat 9: beddows92 ($82.92 in chips) 
+Infinities4: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: calls $0.50
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: raises $1.50 to $2
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+beddows92: calls $1.50
+*** FLOP *** [2d 7s Qc]
+beddows92: bets $2.25
+$lavik88: folds 
+Uncalled bet ($2.25) returned to beddows92
+beddows92 collected $4.51 from pot
+beddows92: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [2d 7s Qc]
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded on the Flop
+Seat 4: kalebans (button) folded before Flop (didn't bet)
+Seat 5: Infinities4 (small blind) folded before Flop
+Seat 6: dikanmax (big blind) folded before Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 collected ($4.51)
+
+
+
+PokerStars Hand #228680541048:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:57:52 ET
+Table 'Almach II' 9-max Seat #5 is the button
+Seat 1: SkapG47 ($41.03 in chips) 
+Seat 2: Mr_Ingvarr ($50.83 in chips) 
+Seat 3: $lavik88 ($50 in chips) 
+Seat 4: kalebans ($69.81 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($62.18 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($50.75 in chips) 
+Seat 9: beddows92 ($85.43 in chips) 
+dikanmax: posts small blind $0.25
+cartman177: posts big blind $0.50
+*** HOLE CARDS ***
+Urri_Tilt: raises $1 to $1.50
+beddows92: calls $1.50
+SkapG47: calls $1.50
+Mr_Ingvarr: calls $1.50
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: calls $1
+*** FLOP *** [Ad 7s Qs]
+cartman177: checks 
+Urri_Tilt: bets $2.36
+beddows92: folds 
+SkapG47: calls $2.36
+Mr_Ingvarr: folds 
+cartman177: folds 
+*** TURN *** [Ad 7s Qs] [4c]
+Urri_Tilt: bets $10.07
+SkapG47: folds 
+Uncalled bet ($10.07) returned to Urri_Tilt
+Urri_Tilt collected $11.85 from pot
+Urri_Tilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.47 | Rake $0.62 
+Board [Ad 7s Qs 4c]
+Seat 1: SkapG47 folded on the Turn
+Seat 2: Mr_Ingvarr folded on the Flop
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 (button) folded before Flop (didn't bet)
+Seat 6: dikanmax (small blind) folded before Flop
+Seat 7: cartman177 (big blind) folded on the Flop
+Seat 8: Urri_Tilt collected ($11.85)
+Seat 9: beddows92 folded on the Flop
+
+
+
+PokerStars Hand #228680553941:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:58:42 ET
+Table 'Almach II' 9-max Seat #6 is the button
+Seat 1: SkapG47 ($37.17 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($50 in chips) 
+Seat 4: kalebans ($69.81 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($61.93 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($58.74 in chips) 
+Seat 9: beddows92 ($83.93 in chips) 
+cartman177: posts small blind $0.25
+Urri_Tilt: posts big blind $0.50
+*** HOLE CARDS ***
+beddows92: folds 
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: raises $0.75 to $1.25
+Urri_Tilt: folds 
+Uncalled bet ($0.75) returned to cartman177
+cartman177 collected $1 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) collected ($1)
+Seat 8: Urri_Tilt (big blind) folded before Flop
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680560100:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:59:06 ET
+Table 'Almach II' 9-max Seat #7 is the button
+Seat 1: SkapG47 ($37.17 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($50 in chips) 
+Seat 4: kalebans ($69.81 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($61.93 in chips) 
+Seat 7: cartman177 ($50.50 in chips) 
+Seat 8: Urri_Tilt ($58.24 in chips) 
+Seat 9: beddows92 ($83.93 in chips) 
+Urri_Tilt: posts small blind $0.25
+beddows92: posts big blind $0.50
+*** HOLE CARDS ***
+SkapG47 has timed out
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+dikanmax: raises $1 to $1.50
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: calls $1
+*** FLOP *** [Kc 7h Jh]
+beddows92: bets $0.50
+dikanmax: raises $2.75 to $3.25
+beddows92: calls $2.75
+*** TURN *** [Kc 7h Jh] [9h]
+beddows92: checks 
+dikanmax: bets $2.78
+beddows92: raises $2.78 to $5.56
+dikanmax: calls $2.78
+*** RIVER *** [Kc 7h Jh 9h] [Td]
+beddows92: checks 
+dikanmax: checks 
+*** SHOW DOWN ***
+beddows92: shows [8h Ts] (a straight, Seven to Jack)
+dikanmax: mucks hand 
+beddows92 collected $19.83 from pot
+*** SUMMARY ***
+Total pot $20.87 | Rake $1.04 
+Board [Kc 7h Jh 9h Td]
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax mucked
+Seat 7: cartman177 (button) folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (small blind) folded before Flop
+Seat 9: beddows92 (big blind) showed [8h Ts] and won ($19.83) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #228680582154:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:00:29 ET
+Table 'Almach II' 9-max Seat #8 is the button
+Seat 1: SkapG47 ($37.17 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($50 in chips) 
+Seat 4: kalebans ($69.81 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($51.62 in chips) 
+Seat 7: cartman177 ($50.50 in chips) 
+Seat 8: Urri_Tilt ($57.99 in chips) 
+Seat 9: beddows92 ($93.45 in chips) 
+beddows92: posts small blind $0.25
+SkapG47: posts big blind $0.50
+*** HOLE CARDS ***
+Mr_Ingvarr: raises $1 to $1.50
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: calls $1.25
+SkapG47: folds 
+*** FLOP *** [9d 2d 6s]
+beddows92: checks 
+Mr_Ingvarr: bets $1.13
+beddows92: raises $1.13 to $2.26
+Mr_Ingvarr: folds 
+Uncalled bet ($1.13) returned to beddows92
+beddows92 collected $5.47 from pot
+beddows92: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.76 | Rake $0.29 
+Board [9d 2d 6s]
+Seat 1: SkapG47 (big blind) folded before Flop
+Seat 2: Mr_Ingvarr folded on the Flop
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (button) folded before Flop (didn't bet)
+Seat 9: beddows92 (small blind) collected ($5.47)
+
+
+
+PokerStars Hand #228680594386:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:01:12 ET
+Table 'Almach II' 9-max Seat #9 is the button
+Seat 1: SkapG47 ($36.67 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($50 in chips) 
+Seat 4: kalebans ($69.81 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($51.62 in chips) 
+Seat 7: cartman177 ($50.50 in chips) 
+Seat 8: Urri_Tilt ($57.99 in chips) 
+Seat 9: beddows92 ($96.29 in chips) 
+SkapG47: posts small blind $0.25
+Mr_Ingvarr: posts big blind $0.50
+*** HOLE CARDS ***
+$lavik88: raises $1 to $1.50
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: raises $3 to $4.50
+Urri_Tilt: folds 
+beddows92: calls $4.50
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: calls $3
+*** FLOP *** [2s 8d Qs]
+$lavik88: checks 
+cartman177: checks 
+beddows92: bets $6.77
+$lavik88: calls $6.77
+cartman177: folds 
+*** TURN *** [2s 8d Qs] [Tc]
+$lavik88: checks 
+beddows92: checks 
+*** RIVER *** [2s 8d Qs Tc] [2c]
+$lavik88: checks 
+beddows92: bets $13.20
+$lavik88: calls $13.20
+*** SHOW DOWN ***
+beddows92: shows [Ah 7s] (a pair of Deuces)
+$lavik88: shows [Ts Ks] (two pair, Tens and Deuces)
+$lavik88 collected $52.19 from pot
+*** SUMMARY ***
+Total pot $54.19 | Rake $2 
+Board [2s 8d Qs Tc 2c]
+Seat 1: SkapG47 (small blind) folded before Flop
+Seat 2: Mr_Ingvarr (big blind) folded before Flop
+Seat 3: $lavik88 showed [Ts Ks] and won ($52.19) with two pair, Tens and Deuces
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded on the Flop
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 (button) showed [Ah 7s] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #228680620646:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:02:38 ET
+Table 'Almach II' 9-max Seat #1 is the button
+Seat 1: SkapG47 ($36.42 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($77.72 in chips) 
+Seat 4: kalebans ($69.81 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($51.62 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($57.99 in chips) 
+Seat 9: beddows92 ($71.82 in chips) 
+Mr_Ingvarr: posts small blind $0.25
+$lavik88: posts big blind $0.50
+*** HOLE CARDS ***
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: raises $0.75 to $1.25
+Urri_Tilt: calls $1.25
+beddows92: folds 
+SkapG47: folds 
+Mr_Ingvarr: folds 
+$lavik88: calls $0.75
+*** FLOP *** [3d 4s 7c]
+$lavik88: checks 
+cartman177: checks 
+Urri_Tilt: checks 
+*** TURN *** [3d 4s 7c] [Jc]
+$lavik88: bets $2.09
+cartman177: calls $2.09
+Urri_Tilt: raises $8.56 to $10.65
+$lavik88: calls $8.56
+cartman177: folds 
+*** RIVER *** [3d 4s 7c Jc] [Tc]
+$lavik88: checks 
+Urri_Tilt: bets $17.17
+$lavik88: calls $17.17
+*** SHOW DOWN ***
+Urri_Tilt: shows [6c Ac] (a flush, Ace high)
+$lavik88: mucks hand 
+Urri_Tilt collected $59.73 from pot
+*** SUMMARY ***
+Total pot $61.73 | Rake $2 
+Board [3d 4s 7c Jc Tc]
+Seat 1: SkapG47 (button) folded before Flop (didn't bet)
+Seat 2: Mr_Ingvarr (small blind) folded before Flop
+Seat 3: $lavik88 (big blind) mucked
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded on the Turn
+Seat 8: Urri_Tilt showed [6c Ac] and won ($59.73) with a flush, Ace high
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680673453:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:04:45 ET
+Table 'Almach II' 9-max Seat #2 is the button
+Seat 1: SkapG47 ($36.42 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($50 in chips) 
+Seat 4: kalebans ($69.81 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($51.62 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($88.65 in chips) 
+Seat 9: beddows92 ($71.82 in chips) 
+$lavik88: posts small blind $0.25
+kalebans: posts big blind $0.50
+*** HOLE CARDS ***
+Infinities4: raises $0.74 to $1.24
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: folds 
+SkapG47: calls $1.24
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+*** FLOP *** [Th Qh 5c]
+Infinities4: bets $1.07
+SkapG47: calls $1.07
+*** TURN *** [Th Qh 5c] [9d]
+Infinities4: bets $3.82
+SkapG47: calls $3.82
+*** RIVER *** [Th Qh 5c 9d] [5d]
+Infinities4: checks 
+SkapG47: bets $12.36
+Infinities4: folds 
+Uncalled bet ($12.36) returned to SkapG47
+SkapG47 collected $12.36 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.01 | Rake $0.65 
+Board [Th Qh 5c 9d 5d]
+Seat 1: SkapG47 collected ($12.36)
+Seat 2: Mr_Ingvarr (button) folded before Flop (didn't bet)
+Seat 3: $lavik88 (small blind) folded before Flop
+Seat 4: kalebans (big blind) folded before Flop
+Seat 5: Infinities4 folded on the River
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680695235:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:05:51 ET
+Table 'Almach II' 9-max Seat #3 is the button
+Seat 1: SkapG47 ($42.65 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($50 in chips) 
+Seat 4: kalebans ($69.31 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($51.62 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($88.65 in chips) 
+Seat 9: beddows92 ($71.82 in chips) 
+kalebans: posts small blind $0.25
+Infinities4: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: calls $0.50
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: raises $2 to $2.50
+kalebans: folds 
+Infinities4: folds 
+beddows92: calls $2
+SkapG47: calls $2
+*** FLOP *** [4h 5d Kh]
+beddows92: checks 
+SkapG47: checks 
+$lavik88: bets $4.31
+beddows92: folds 
+SkapG47: folds 
+Uncalled bet ($4.31) returned to $lavik88
+$lavik88 collected $7.84 from pot
+$lavik88: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.41 
+Board [4h 5d Kh]
+Seat 1: SkapG47 folded on the Flop
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 (button) collected ($7.84)
+Seat 4: kalebans (small blind) folded before Flop
+Seat 5: Infinities4 (big blind) folded before Flop
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded on the Flop
+
+
+
+PokerStars Hand #228680717215:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:06:58 ET
+Table 'Almach II' 9-max Seat #4 is the button
+Seat 1: SkapG47 ($40.15 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($55.34 in chips) 
+Seat 4: kalebans ($69.06 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($51.62 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($88.65 in chips) 
+Seat 9: beddows92 ($69.32 in chips) 
+Infinities4: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: raises $1 to $1.50
+SkapG47: calls $1.50
+Mr_Ingvarr: folds 
+$lavik88: raises $5 to $6.50
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+beddows92: calls $5
+SkapG47: folds 
+*** FLOP *** [4s Th 9c]
+beddows92: checks 
+$lavik88: bets $8
+beddows92: calls $8
+*** TURN *** [4s Th 9c] [6c]
+beddows92: checks 
+$lavik88: bets $40.84 and is all-in
+beddows92: folds 
+Uncalled bet ($40.84) returned to $lavik88
+$lavik88 collected $29.69 from pot
+$lavik88: doesn't show hand 
+*** SUMMARY ***
+Total pot $31.25 | Rake $1.56 
+Board [4s Th 9c 6c]
+Seat 1: SkapG47 folded before Flop
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 collected ($29.69)
+Seat 4: kalebans (button) folded before Flop (didn't bet)
+Seat 5: Infinities4 (small blind) folded before Flop
+Seat 6: dikanmax (big blind) folded before Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded on the Turn
+
+
+
+PokerStars Hand #228680746367:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:07:56 ET
+Table 'Almach II' 9-max Seat #5 is the button
+Seat 1: SkapG47 ($38.65 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($70.53 in chips) 
+Seat 4: kalebans ($69.06 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($51.12 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($88.65 in chips) 
+Seat 9: beddows92 ($54.82 in chips) 
+dikanmax: posts small blind $0.25
+cartman177: posts big blind $0.50
+*** HOLE CARDS ***
+Urri_Tilt: folds 
+beddows92: calls $0.50
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: raises $2.25 to $2.75
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+beddows92: calls $2.25
+SkapG47: calls $2.25
+*** FLOP *** [2c 6d 5h]
+beddows92: checks 
+SkapG47: bets $4.27
+kalebans: folds 
+beddows92: folds 
+Uncalled bet ($4.27) returned to SkapG47
+SkapG47 collected $8.55 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [2c 6d 5h]
+Seat 1: SkapG47 collected ($8.55)
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded on the Flop
+Seat 5: Infinities4 (button) folded before Flop (didn't bet)
+Seat 6: dikanmax (small blind) folded before Flop
+Seat 7: cartman177 (big blind) folded before Flop
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded on the Flop
+
+
+
+PokerStars Hand #228680762894:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:08:46 ET
+Table 'Almach II' 9-max Seat #6 is the button
+Seat 1: SkapG47 ($44.45 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($70.53 in chips) 
+Seat 4: kalebans ($66.31 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($50.87 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($88.65 in chips) 
+Seat 9: beddows92 ($52.07 in chips) 
+cartman177: posts small blind $0.25
+Urri_Tilt: posts big blind $0.50
+*** HOLE CARDS ***
+beddows92: calls $0.50
+SkapG47: calls $0.50
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: checks 
+*** FLOP *** [5s Ad Jc]
+Urri_Tilt: checks 
+beddows92: checks 
+SkapG47: checks 
+*** TURN *** [5s Ad Jc] [5d]
+Urri_Tilt: checks 
+beddows92: bets $0.50
+SkapG47: folds 
+Urri_Tilt: folds 
+Uncalled bet ($0.50) returned to beddows92
+beddows92 collected $1.66 from pot
+beddows92: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.09 
+Board [5s Ad Jc 5d]
+Seat 1: SkapG47 folded on the Turn
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded before Flop
+Seat 8: Urri_Tilt (big blind) folded on the Turn
+Seat 9: beddows92 collected ($1.66)
+
+
+
+PokerStars Hand #228680772430:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:09:14 ET
+Table 'Almach II' 9-max Seat #7 is the button
+Seat 1: SkapG47 ($43.95 in chips) 
+Seat 2: Mr_Ingvarr ($50 in chips) 
+Seat 3: $lavik88 ($70.53 in chips) 
+Seat 4: kalebans ($66.31 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($50.87 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($88.15 in chips) 
+Seat 9: beddows92 ($53.23 in chips) 
+Urri_Tilt: posts small blind $0.25
+beddows92: posts big blind $0.50
+*** HOLE CARDS ***
+SkapG47: calls $0.50
+Mr_Ingvarr: raises $1.75 to $2.25
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: folds 
+SkapG47: calls $1.75
+*** FLOP *** [3h 2c Ac]
+SkapG47: checks 
+Mr_Ingvarr: bets $2.64
+SkapG47: folds 
+Uncalled bet ($2.64) returned to Mr_Ingvarr
+Mr_Ingvarr collected $4.99 from pot
+Mr_Ingvarr: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.26 
+Board [3h 2c Ac]
+Seat 1: SkapG47 folded on the Flop
+Seat 2: Mr_Ingvarr collected ($4.99)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 (button) folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (small blind) folded before Flop
+Seat 9: beddows92 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680787023:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:09:57 ET
+Table 'Almach II' 9-max Seat #8 is the button
+Seat 1: SkapG47 ($41.70 in chips) 
+Seat 2: Mr_Ingvarr ($52.74 in chips) 
+Seat 3: $lavik88 ($70.53 in chips) 
+Seat 4: kalebans ($66.31 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($50.87 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($87.90 in chips) 
+Seat 9: beddows92 ($52.73 in chips) 
+beddows92: posts small blind $0.25
+SkapG47: posts big blind $0.50
+*** HOLE CARDS ***
+Mr_Ingvarr: folds 
+$lavik88: folds 
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+Mr_Ingvarr leaves the table
+cartman177: raises $0.62 to $1.12
+Urri_Tilt: folds 
+beddows92: folds 
+SkapG47: calls $0.62
+*** FLOP *** [7s 6s 2c]
+SkapG47: checks 
+cartman177: checks 
+*** TURN *** [7s 6s 2c] [Js]
+SkapG47: checks 
+cartman177: checks 
+*** RIVER *** [7s 6s 2c Js] [5h]
+SkapG47: checks 
+cartman177: checks 
+*** SHOW DOWN ***
+SkapG47: shows [Ac 8d] (high card Ace)
+cartman177: mucks hand 
+SkapG47 collected $2.37 from pot
+dstrola joins the table at seat #2 
+*** SUMMARY ***
+Total pot $2.49 | Rake $0.12 
+Board [7s 6s 2c Js 5h]
+Seat 1: SkapG47 (big blind) showed [Ac 8d] and won ($2.37) with high card Ace
+Seat 2: Mr_Ingvarr folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 mucked
+Seat 8: Urri_Tilt (button) folded before Flop (didn't bet)
+Seat 9: beddows92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680803965:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:10:47 ET
+Table 'Almach II' 9-max Seat #9 is the button
+Seat 1: SkapG47 ($42.95 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($70.53 in chips) 
+Seat 4: kalebans ($66.31 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($50.87 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($87.90 in chips) 
+Seat 9: beddows92 ($52.48 in chips) 
+SkapG47: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+$lavik88: raises $1 to $1.50
+kalebans: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: calls $1.50
+beddows92: folds 
+SkapG47: calls $1.25
+dstrola: folds 
+*** FLOP *** [8d 4d Tc]
+SkapG47: checks 
+$lavik88: bets $3.56
+Urri_Tilt: folds 
+SkapG47: folds 
+Uncalled bet ($3.56) returned to $lavik88
+$lavik88 collected $4.75 from pot
+$lavik88: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [8d 4d Tc]
+Seat 1: SkapG47 (small blind) folded on the Flop
+Seat 2: dstrola (big blind) folded before Flop
+Seat 3: $lavik88 collected ($4.75)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded on the Flop
+Seat 9: beddows92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680816798:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:11:25 ET
+Table 'Almach II' 9-max Seat #1 is the button
+Seat 1: SkapG47 ($41.45 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($73.78 in chips) 
+Seat 4: kalebans ($66.31 in chips) 
+Seat 5: Infinities4 ($50 in chips) 
+Seat 6: dikanmax ($50.87 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($86.40 in chips) 
+Seat 9: beddows92 ($52.48 in chips) 
+dstrola: posts small blind $0.25
+$lavik88: posts big blind $0.50
+*** HOLE CARDS ***
+kalebans: folds 
+Infinities4: raises $0.74 to $1.24
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: folds 
+SkapG47: folds 
+dstrola: raises $3.26 to $4.50
+$lavik88: folds 
+Infinities4: calls $3.26
+*** FLOP *** [6s 2c 2h]
+dstrola: bets $2.71
+Infinities4: calls $2.71
+*** TURN *** [6s 2c 2h] [8h]
+dstrola: checks 
+Infinities4: bets $4.96
+dstrola: folds 
+Uncalled bet ($4.96) returned to Infinities4
+Infinities4 collected $14.17 from pot
+Infinities4: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.92 | Rake $0.75 
+Board [6s 2c 2h 8h]
+Seat 1: SkapG47 (button) folded before Flop (didn't bet)
+Seat 2: dstrola (small blind) folded on the Turn
+Seat 3: $lavik88 (big blind) folded before Flop
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: Infinities4 collected ($14.17)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680837821:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:12:28 ET
+Table 'Almach II' 9-max Seat #2 is the button
+Seat 1: SkapG47 ($41.45 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($73.28 in chips) 
+Seat 5: Infinities4 ($56.96 in chips) 
+Seat 6: dikanmax ($50.87 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($86.40 in chips) 
+Seat 9: beddows92 ($52.48 in chips) 
+$lavik88: posts small blind $0.25
+Infinities4: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: calls $0.50
+SkapG47 has timed out
+SkapG47: folds 
+dstrola: raises $1.75 to $2.25
+$lavik88: folds 
+Infinities4: folds 
+beddows92: calls $1.75
+*** FLOP *** [3c 8d 9d]
+beddows92: checks 
+dstrola: bets $4
+beddows92: folds 
+Uncalled bet ($4) returned to dstrola
+dstrola collected $4.99 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.26 
+Board [3c 8d 9d]
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: dstrola (button) collected ($4.99)
+Seat 3: $lavik88 (small blind) folded before Flop
+Seat 5: Infinities4 (big blind) folded before Flop
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded on the Flop
+
+
+
+PokerStars Hand #228680856029:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:13:22 ET
+Table 'Almach II' 9-max Seat #3 is the button
+Seat 1: SkapG47 ($41.45 in chips) 
+Seat 2: dstrola ($52.74 in chips) 
+Seat 3: $lavik88 ($73.03 in chips) 
+Seat 5: Infinities4 ($56.46 in chips) 
+Seat 6: dikanmax ($50.87 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($86.40 in chips) 
+Seat 9: beddows92 ($50.23 in chips) 
+Infinities4: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92: folds 
+SkapG47: calls $0.50
+dstrola: folds 
+$lavik88: folds 
+Infinities4: raises $1.50 to $2
+dikanmax: calls $1.50
+SkapG47: folds 
+*** FLOP *** [4h Ts 6d]
+Infinities4: bets $1.50
+dikanmax: calls $1.50
+*** TURN *** [4h Ts 6d] [Ks]
+Infinities4: checks 
+dikanmax: checks 
+*** RIVER *** [4h Ts 6d Ks] [2c]
+Infinities4: checks 
+dikanmax: checks 
+*** SHOW DOWN ***
+Infinities4: shows [9d 9h] (a pair of Nines)
+dikanmax: mucks hand 
+Infinities4 collected $7.12 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0.38 
+Board [4h Ts 6d Ks 2c]
+Seat 1: SkapG47 folded before Flop
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 (button) folded before Flop (didn't bet)
+Seat 5: Infinities4 (small blind) showed [9d 9h] and won ($7.12) with a pair of Nines
+Seat 6: dikanmax (big blind) mucked
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680882581:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:14:42 ET
+Table 'Almach II' 9-max Seat #5 is the button
+Seat 1: SkapG47 ($40.95 in chips) 
+Seat 2: dstrola ($52.74 in chips) 
+Seat 3: $lavik88 ($73.03 in chips) 
+Seat 5: Infinities4 ($60.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($86.40 in chips) 
+Seat 9: beddows92 ($50.23 in chips) 
+dikanmax: posts small blind $0.25
+cartman177: posts big blind $0.50
+*** HOLE CARDS ***
+Urri_Tilt: folds 
+beddows92: raises $0.50 to $1
+SkapG47 has timed out
+SkapG47: folds 
+dstrola: folds 
+$lavik88: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: calls $0.50
+*** FLOP *** [3h 5c 3d]
+cartman177: checks 
+beddows92: checks 
+*** TURN *** [3h 5c 3d] [2c]
+cartman177: checks 
+beddows92: checks 
+*** RIVER *** [3h 5c 3d 2c] [Qs]
+cartman177: checks 
+beddows92: checks 
+*** SHOW DOWN ***
+cartman177: shows [7h Ad] (a pair of Threes)
+beddows92: mucks hand 
+cartman177 collected $2.14 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [3h 5c 3d 2c Qs]
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 5: Infinities4 (button) folded before Flop (didn't bet)
+Seat 6: dikanmax (small blind) folded before Flop
+Seat 7: cartman177 (big blind) showed [7h Ad] and won ($2.14) with a pair of Threes
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 mucked
+
+
+
+PokerStars Hand #228680906059:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:15:52 ET
+Table 'Almach II' 9-max Seat #6 is the button
+Seat 1: SkapG47 ($40.95 in chips) 
+Seat 2: dstrola ($52.74 in chips) 
+Seat 3: $lavik88 ($73.03 in chips) 
+Seat 5: Infinities4 ($60.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($51.14 in chips) 
+Seat 8: Urri_Tilt ($86.40 in chips) 
+Seat 9: beddows92 ($49.23 in chips) 
+cartman177: posts small blind $0.25
+Urri_Tilt: posts big blind $0.50
+*** HOLE CARDS ***
+beddows92: raises $1 to $1.50
+SkapG47: folds 
+dstrola: calls $1.50
+$lavik88: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+*** FLOP *** [2c 9h 8d]
+beddows92: checks 
+dstrola: bets $1.78
+beddows92: calls $1.78
+*** TURN *** [2c 9h 8d] [Tc]
+beddows92: checks 
+dstrola: checks 
+*** RIVER *** [2c 9h 8d Tc] [Ad]
+beddows92: bets $3.47
+dstrola: folds 
+Uncalled bet ($3.47) returned to beddows92
+beddows92 collected $6.94 from pot
+beddows92: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.31 | Rake $0.37 
+Board [2c 9h 8d Tc Ad]
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: dstrola folded on the River
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded before Flop
+Seat 8: Urri_Tilt (big blind) folded before Flop
+Seat 9: beddows92 collected ($6.94)
+
+
+
+PokerStars Hand #228680917901:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:16:28 ET
+Table 'Almach II' 9-max Seat #7 is the button
+Seat 1: SkapG47 ($40.95 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($73.03 in chips) 
+Seat 5: Infinities4 ($60.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($50.89 in chips) 
+Seat 8: Urri_Tilt ($85.90 in chips) 
+Seat 9: beddows92 ($52.89 in chips) 
+Urri_Tilt: posts small blind $0.25
+beddows92: posts big blind $0.50
+*** HOLE CARDS ***
+SkapG47: calls $0.50
+dstrola: folds 
+$lavik88: raises $1.50 to $2
+Infinities4: folds 
+dikanmax: folds 
+cartman177: raises $4 to $6
+Urri_Tilt: folds 
+beddows92: folds 
+SkapG47: folds 
+$lavik88: calls $4
+*** FLOP *** [7c 7d Ac]
+$lavik88: checks 
+cartman177: checks 
+*** TURN *** [7c 7d Ac] [6h]
+$lavik88: checks 
+cartman177: bets $4.15
+$lavik88: raises $5.85 to $10
+cartman177: calls $5.85
+*** RIVER *** [7c 7d Ac 6h] [8s]
+$lavik88: bets $10
+cartman177: calls $10
+*** SHOW DOWN ***
+$lavik88: shows [6d 6s] (a full house, Sixes full of Sevens)
+cartman177: mucks hand 
+$lavik88 collected $51.25 from pot
+*** SUMMARY ***
+Total pot $53.25 | Rake $2 
+Board [7c 7d Ac 6h 8s]
+Seat 1: SkapG47 folded before Flop
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 showed [6d 6s] and won ($51.25) with a full house, Sixes full of Sevens
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 (button) mucked
+Seat 8: Urri_Tilt (small blind) folded before Flop
+Seat 9: beddows92 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680955017:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:18:19 ET
+Table 'Almach II' 9-max Seat #8 is the button
+Seat 1: SkapG47 ($40.45 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.28 in chips) 
+Seat 5: Infinities4 ($60.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($85.65 in chips) 
+Seat 9: beddows92 ($52.39 in chips) 
+beddows92: posts small blind $0.25
+SkapG47: posts big blind $0.50
+*** HOLE CARDS ***
+dstrola: folds 
+$lavik88: folds 
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: raises $0.75 to $1.25
+beddows92: calls $1
+SkapG47: calls $0.75
+*** FLOP *** [8d 9s 8h]
+beddows92: checks 
+SkapG47: checks 
+Urri_Tilt: checks 
+*** TURN *** [8d 9s 8h] [9c]
+beddows92: bets $1.78
+SkapG47: calls $1.78
+Urri_Tilt: folds 
+*** RIVER *** [8d 9s 8h 9c] [Kd]
+beddows92: checks 
+SkapG47: bets $3.47
+beddows92: folds 
+Uncalled bet ($3.47) returned to SkapG47
+SkapG47 collected $6.94 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.31 | Rake $0.37 
+Board [8d 9s 8h 9c Kd]
+Seat 1: SkapG47 (big blind) collected ($6.94)
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (button) folded on the Turn
+Seat 9: beddows92 (small blind) folded on the River
+
+
+
+PokerStars Hand #228680974449:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:19:16 ET
+Table 'Almach II' 9-max Seat #9 is the button
+Seat 1: SkapG47 ($44.36 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.28 in chips) 
+Seat 5: Infinities4 ($60.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($84.40 in chips) 
+Seat 9: beddows92 ($49.36 in chips) 
+SkapG47: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+$lavik88: folds 
+Infinities4: folds 
+dikanmax: raises $1 to $1.50
+cartman177: folds 
+Urri_Tilt: calls $1.50
+beddows92: calls $1.50
+SkapG47: calls $1.25
+dstrola: folds 
+*** FLOP *** [Td Kc Kh]
+SkapG47: checks 
+dikanmax: checks 
+Urri_Tilt: checks 
+beddows92: checks 
+*** TURN *** [Td Kc Kh] [Th]
+SkapG47: bets $3.09
+dikanmax: folds 
+Urri_Tilt: folds 
+beddows92: folds 
+Uncalled bet ($3.09) returned to SkapG47
+SkapG47 collected $6.18 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Td Kc Kh Th]
+Seat 1: SkapG47 (small blind) collected ($6.18)
+Seat 2: dstrola (big blind) folded before Flop
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded on the Turn
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded on the Turn
+Seat 9: beddows92 (button) folded on the Turn
+
+
+
+PokerStars Hand #228681004167:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:20:35 ET
+Table 'Almach II' 9-max Seat #1 is the button
+Seat 1: SkapG47 ($49.04 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.28 in chips) 
+Seat 5: Infinities4 ($60.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($82.90 in chips) 
+Seat 9: beddows92 ($47.86 in chips) 
+dstrola: posts small blind $0.25
+$lavik88: posts big blind $0.50
+kalebans: sits out 
+*** HOLE CARDS ***
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92 has timed out
+beddows92: folds 
+SkapG47: calls $0.50
+dstrola: calls $0.25
+$lavik88: checks 
+*** FLOP *** [5c Qh Ks]
+dstrola: checks 
+$lavik88: checks 
+SkapG47: checks 
+*** TURN *** [5c Qh Ks] [5s]
+dstrola: checks 
+$lavik88: checks 
+SkapG47: checks 
+*** RIVER *** [5c Qh Ks 5s] [4d]
+dstrola: checks 
+$lavik88: checks 
+SkapG47: checks 
+*** SHOW DOWN ***
+dstrola: shows [6h 7c] (a pair of Fives)
+$lavik88: shows [Jh 9c] (a pair of Fives - King+Queen+Jack kicker)
+SkapG47: mucks hand 
+$lavik88 collected $1.42 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [5c Qh Ks 5s 4d]
+Seat 1: SkapG47 (button) mucked
+Seat 2: dstrola (small blind) showed [6h 7c] and lost with a pair of Fives
+Seat 3: $lavik88 (big blind) showed [Jh 9c] and won ($1.42) with a pair of Fives
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681027303:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:21:44 ET
+Table 'Almach II' 9-max Seat #2 is the button
+Seat 1: SkapG47 ($48.54 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($99.20 in chips) 
+Seat 4: kalebans ($66.31 in chips) 
+Seat 5: Infinities4 ($60.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($82.90 in chips) 
+Seat 9: beddows92 ($47.86 in chips) 
+$lavik88: posts small blind $0.25
+kalebans: posts big blind $0.50
+*** HOLE CARDS ***
+Infinities4: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+beddows92 has timed out
+beddows92: folds 
+SkapG47: calls $0.50
+dstrola: folds 
+$lavik88: folds 
+kalebans: checks 
+*** FLOP *** [4c Qc 7c]
+kalebans: checks 
+SkapG47: bets $1.19
+kalebans: folds 
+Uncalled bet ($1.19) returned to SkapG47
+SkapG47 collected $1.19 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [4c Qc 7c]
+Seat 1: SkapG47 collected ($1.19)
+Seat 2: dstrola (button) folded before Flop (didn't bet)
+Seat 3: $lavik88 (small blind) folded before Flop
+Seat 4: kalebans (big blind) folded on the Flop
+Seat 5: Infinities4 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681042881:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:22:31 ET
+Table 'Almach II' 9-max Seat #3 is the button
+Seat 1: SkapG47 ($49.23 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.95 in chips) 
+Seat 4: kalebans ($65.81 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($82.90 in chips) 
+Seat 9: beddows92 ($47.86 in chips) 
+kalebans: posts small blind $0.25
+Infinities4: is sitting out 
+Infinities4 leaves the table
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177: folds 
+Urri_Tilt: folds 
+holdemamn joins the table at seat #5 
+beddows92: calls $0.50
+SkapG47: folds 
+dstrola: folds 
+$lavik88: folds 
+kalebans: raises $2 to $2.50
+dikanmax: folds 
+beddows92: calls $2
+*** FLOP *** [5d 7h 2s]
+kalebans: checks 
+beddows92: checks 
+*** TURN *** [5d 7h 2s] [Ac]
+kalebans: bets $1.72
+beddows92: calls $1.72
+*** RIVER *** [5d 7h 2s Ac] [7c]
+kalebans: bets $6.37
+beddows92: folds 
+Uncalled bet ($6.37) returned to kalebans
+kalebans collected $8.49 from pot
+kalebans: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.45 
+Board [5d 7h 2s Ac 7c]
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 (button) folded before Flop (didn't bet)
+Seat 4: kalebans (small blind) collected ($8.49)
+Seat 6: dikanmax (big blind) folded before Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+Seat 9: beddows92 folded on the River
+
+
+
+PokerStars Hand #228681060203:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:23:22 ET
+Table 'Almach II' 9-max Seat #4 is the button
+Seat 1: SkapG47 ($49.23 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.95 in chips) 
+Seat 4: kalebans ($70.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($82.90 in chips) 
+Seat 9: beddows92 ($43.64 in chips) 
+dikanmax: posts small blind $0.25
+cartman177: posts big blind $0.50
+*** HOLE CARDS ***
+Urri_Tilt: raises $1 to $1.50
+beddows92: folds 
+SkapG47: folds 
+dstrola: folds 
+$lavik88: folds 
+kalebans: folds 
+dikanmax: folds 
+cartman177: calls $1
+*** FLOP *** [6h 6c Td]
+cartman177: checks 
+Urri_Tilt: bets $1.61
+cartman177: raises $3.39 to $5
+Urri_Tilt: raises $7.50 to $12.50
+cartman177: folds 
+Uncalled bet ($7.50) returned to Urri_Tilt
+Urri_Tilt collected $12.59 from pot
+Urri_Tilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.25 | Rake $0.66 
+Board [6h 6c Td]
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans (button) folded before Flop (didn't bet)
+Seat 6: dikanmax (small blind) folded before Flop
+Seat 7: cartman177 (big blind) folded on the Flop
+Seat 8: Urri_Tilt collected ($12.59)
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681094097:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:25:03 ET
+Table 'Almach II' 9-max Seat #6 is the button
+Seat 1: SkapG47 ($49.23 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.95 in chips) 
+Seat 4: kalebans ($70.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($88.99 in chips) 
+Seat 9: beddows92 ($43.64 in chips) 
+cartman177: posts small blind $0.25
+Urri_Tilt: posts big blind $0.50
+holdemamn: sits out 
+*** HOLE CARDS ***
+beddows92 has timed out
+beddows92: folds 
+SkapG47: calls $0.50
+dstrola: folds 
+$lavik88: folds 
+kalebans: folds 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: checks 
+*** FLOP *** [2c 8c Th]
+Urri_Tilt: checks 
+SkapG47: checks 
+*** TURN *** [2c 8c Th] [4h]
+Urri_Tilt: checks 
+SkapG47: bets $1.19
+Urri_Tilt: folds 
+Uncalled bet ($1.19) returned to SkapG47
+SkapG47 collected $1.19 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [2c 8c Th 4h]
+Seat 1: SkapG47 collected ($1.19)
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 6: dikanmax (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded before Flop
+Seat 8: Urri_Tilt (big blind) folded on the Turn
+Seat 9: beddows92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681108610:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:25:46 ET
+Table 'Almach II' 9-max Seat #7 is the button
+Seat 1: SkapG47 ($49.92 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.95 in chips) 
+Seat 4: kalebans ($70.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($88.49 in chips) 
+Urri_Tilt: posts small blind $0.25
+SkapG47: posts big blind $0.50
+holdemamn: sits out 
+*** HOLE CARDS ***
+dstrola: raises $1 to $1.50
+$lavik88: folds 
+kalebans: folds 
+beddows92 is disconnected 
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+SkapG47: folds 
+Uncalled bet ($1) returned to dstrola
+dstrola collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: SkapG47 (big blind) folded before Flop
+Seat 2: dstrola collected ($1.25)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 (button) folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (small blind) folded before Flop
+
+
+
+PokerStars Hand #228681119040:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:26:17 ET
+Table 'Almach II' 9-max Seat #8 is the button
+Seat 1: SkapG47 ($49.42 in chips) 
+Seat 2: dstrola ($50.75 in chips) 
+Seat 3: $lavik88 ($98.95 in chips) 
+Seat 4: kalebans ($70.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($88.24 in chips) 
+SkapG47: posts small blind $0.25
+dstrola: posts big blind $0.50
+holdemamn: sits out 
+*** HOLE CARDS ***
+$lavik88: folds 
+kalebans: folds 
+dikanmax: folds 
+cartman177: raises $0.62 to $1.12
+Urri_Tilt: calls $1.12
+SkapG47: folds 
+dstrola: folds 
+*** FLOP *** [9s Td Jh]
+cartman177: checks 
+Urri_Tilt: bets $1.48
+cartman177: calls $1.48
+*** TURN *** [9s Td Jh] [Ad]
+cartman177: checks 
+Urri_Tilt: bets $2.94
+cartman177: calls $2.94
+*** RIVER *** [9s Td Jh Ad] [3d]
+cartman177: checks 
+Urri_Tilt: checks 
+*** SHOW DOWN ***
+cartman177: shows [Qc 8c] (a straight, Eight to Queen)
+Urri_Tilt: mucks hand 
+cartman177 collected $11.24 from pot
+*** SUMMARY ***
+Total pot $11.83 | Rake $0.59 
+Board [9s Td Jh Ad 3d]
+Seat 1: SkapG47 (small blind) folded before Flop
+Seat 2: dstrola (big blind) folded before Flop
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 showed [Qc 8c] and won ($11.24) with a straight, Eight to Queen
+Seat 8: Urri_Tilt (button) mucked
+
+
+
+PokerStars Hand #228681149156:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:27:46 ET
+Table 'Almach II' 9-max Seat #1 is the button
+Seat 1: SkapG47 ($49.17 in chips) 
+Seat 2: dstrola ($50.25 in chips) 
+Seat 3: $lavik88 ($98.95 in chips) 
+Seat 4: kalebans ($70.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($55.70 in chips) 
+Seat 8: Urri_Tilt ($82.70 in chips) 
+dstrola: posts small blind $0.25
+$lavik88: posts big blind $0.50
+holdemamn: sits out 
+*** HOLE CARDS ***
+kalebans: folds 
+dikanmax: folds 
+cartman177: raises $0.75 to $1.25
+Urri_Tilt: folds 
+SkapG47: folds 
+dstrola: folds 
+$lavik88: folds 
+Uncalled bet ($0.75) returned to cartman177
+cartman177 collected $1.25 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: SkapG47 (button) folded before Flop (didn't bet)
+Seat 2: dstrola (small blind) folded before Flop
+Seat 3: $lavik88 (big blind) folded before Flop
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 collected ($1.25)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681155617:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:28:05 ET
+Table 'Almach II' 9-max Seat #2 is the button
+Seat 1: SkapG47 ($49.17 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.45 in chips) 
+Seat 4: kalebans ($70.08 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($56.45 in chips) 
+Seat 8: Urri_Tilt ($82.70 in chips) 
+$lavik88: posts small blind $0.25
+kalebans: posts big blind $0.50
+holdemamn: sits out 
+*** HOLE CARDS ***
+dikanmax: raises $1 to $1.50
+cartman177: folds 
+Urri_Tilt: folds 
+SkapG47: calls $1.50
+dstrola: folds 
+$lavik88: folds 
+kalebans: folds 
+*** FLOP *** [4s 3s 5s]
+dikanmax: checks 
+SkapG47: bets $1.78
+dikanmax: folds 
+Uncalled bet ($1.78) returned to SkapG47
+SkapG47 collected $3.56 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [4s 3s 5s]
+Seat 1: SkapG47 collected ($3.56)
+Seat 2: dstrola (button) folded before Flop (didn't bet)
+Seat 3: $lavik88 (small blind) folded before Flop
+Seat 4: kalebans (big blind) folded before Flop
+Seat 6: dikanmax folded on the Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681178292:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:29:12 ET
+Table 'Almach II' 9-max Seat #3 is the button
+Seat 1: SkapG47 ($51.23 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.20 in chips) 
+Seat 4: kalebans ($69.58 in chips) 
+Seat 5: holdemamn ($50 in chips) 
+Seat 6: dikanmax ($50 in chips) 
+Seat 7: cartman177 ($56.45 in chips) 
+Seat 8: Urri_Tilt ($82.70 in chips) 
+kalebans: posts small blind $0.25
+holdemamn: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+SkapG47: folds 
+dstrola: folds 
+$lavik88: folds 
+kalebans: raises $1 to $1.50
+holdemamn: raises $3 to $4.50
+kalebans: folds 
+Uncalled bet ($3) returned to holdemamn
+holdemamn collected $3 from pot
+holdemamn: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 (button) folded before Flop (didn't bet)
+Seat 4: kalebans (small blind) folded before Flop
+Seat 5: holdemamn (big blind) collected ($3)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681190244:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:29:48 ET
+Table 'Almach II' 9-max Seat #4 is the button
+Seat 1: SkapG47 ($51.23 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.20 in chips) 
+Seat 4: kalebans ($68.08 in chips) 
+Seat 5: holdemamn ($51.50 in chips) 
+Seat 7: cartman177 ($56.45 in chips) 
+Seat 8: Urri_Tilt ($82.70 in chips) 
+holdemamn: posts small blind $0.25
+dikanmax: is sitting out 
+cartman177: posts big blind $0.50
+*** HOLE CARDS ***
+Urri_Tilt: folds 
+SkapG47: folds 
+dstrola: folds 
+$lavik88: folds 
+kalebans: raises $0.60 to $1.10
+holdemamn: folds 
+cartman177: calls $0.60
+*** FLOP *** [3c 5c 7s]
+cartman177: checks 
+kalebans: checks 
+*** TURN *** [3c 5c 7s] [Kd]
+cartman177: checks 
+kalebans: bets $0.77
+cartman177: calls $0.77
+*** RIVER *** [3c 5c 7s Kd] [3s]
+cartman177: checks 
+kalebans: bets $2.27
+cartman177: calls $2.27
+*** SHOW DOWN ***
+kalebans: shows [9s Kh] (two pair, Kings and Threes)
+cartman177: mucks hand 
+kalebans collected $8.10 from pot
+*** SUMMARY ***
+Total pot $8.53 | Rake $0.43 
+Board [3c 5c 7s Kd 3s]
+Seat 1: SkapG47 folded before Flop (didn't bet)
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans (button) showed [9s Kh] and won ($8.10) with two pair, Kings and Threes
+Seat 5: holdemamn (small blind) folded before Flop
+Seat 7: cartman177 (big blind) mucked
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681207081:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:30:38 ET
+Table 'Almach II' 9-max Seat #5 is the button
+Seat 1: SkapG47 ($51.23 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.20 in chips) 
+Seat 4: kalebans ($72.04 in chips) 
+Seat 5: holdemamn ($51.25 in chips) 
+Seat 7: cartman177 ($52.31 in chips) 
+Seat 8: Urri_Tilt ($82.70 in chips) 
+cartman177: posts small blind $0.25
+Urri_Tilt: posts big blind $0.50
+*** HOLE CARDS ***
+SkapG47: calls $0.50
+dstrola: folds 
+$lavik88: folds 
+kalebans: folds 
+holdemamn: folds 
+cartman177: raises $1.75 to $2.25
+Urri_Tilt: folds 
+SkapG47: calls $1.75
+*** FLOP *** [3d 2s Kc]
+cartman177: bets $1.58
+SkapG47: calls $1.58
+*** TURN *** [3d 2s Kc] [8c]
+cartman177: checks 
+SkapG47: checks 
+*** RIVER *** [3d 2s Kc 8c] [9c]
+cartman177: bets $2
+SkapG47: raises $5 to $7
+cartman177: folds 
+Uncalled bet ($5) returned to SkapG47
+SkapG47 collected $11.55 from pot
+SkapG47: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.16 | Rake $0.61 
+Board [3d 2s Kc 8c 9c]
+Seat 1: SkapG47 collected ($11.55)
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: holdemamn (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded on the River
+Seat 8: Urri_Tilt (big blind) folded before Flop
+
+
+
+PokerStars Hand #228681230391:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:31:46 ET
+Table 'Almach II' 9-max Seat #7 is the button
+Seat 1: SkapG47 ($56.95 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.20 in chips) 
+Seat 4: kalebans ($72.04 in chips) 
+Seat 5: holdemamn ($51.25 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($82.20 in chips) 
+Urri_Tilt: posts small blind $0.25
+SkapG47: posts big blind $0.50
+*** HOLE CARDS ***
+dstrola: folds 
+$lavik88: folds 
+kalebans: folds 
+holdemamn: raises $0.75 to $1.25
+cartman177: folds 
+Urri_Tilt: folds 
+SkapG47: folds 
+Uncalled bet ($0.75) returned to holdemamn
+holdemamn collected $1.25 from pot
+holdemamn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: SkapG47 (big blind) folded before Flop
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: holdemamn collected ($1.25)
+Seat 7: cartman177 (button) folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (small blind) folded before Flop
+
+
+
+PokerStars Hand #228681238380:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:32:10 ET
+Table 'Almach II' 9-max Seat #8 is the button
+Seat 1: SkapG47 ($56.45 in chips) 
+Seat 2: dstrola ($50 in chips) 
+Seat 3: $lavik88 ($98.20 in chips) 
+Seat 4: kalebans ($72.04 in chips) 
+Seat 5: holdemamn ($52 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($81.95 in chips) 
+SkapG47: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+$lavik88: folds 
+kalebans: folds 
+holdemamn: folds 
+cartman177: folds 
+Urri_Tilt: raises $0.75 to $1.25
+SkapG47: calls $1
+dstrola: raises $4.25 to $5.50
+Urri_Tilt: folds 
+SkapG47: folds 
+Uncalled bet ($4.25) returned to dstrola
+dstrola collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0 
+Seat 1: SkapG47 (small blind) folded before Flop
+Seat 2: dstrola (big blind) collected ($3.75)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt (button) folded before Flop
+
+
+
+PokerStars Hand #228681247628:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:32:37 ET
+Table 'Almach II' 9-max Seat #1 is the button
+Seat 1: SkapG47 ($55.20 in chips) 
+Seat 2: dstrola ($52.50 in chips) 
+Seat 3: $lavik88 ($98.20 in chips) 
+Seat 4: kalebans ($72.04 in chips) 
+Seat 5: holdemamn ($52 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($80.70 in chips) 
+dstrola: posts small blind $0.25
+$lavik88: posts big blind $0.50
+*** HOLE CARDS ***
+kalebans: folds 
+holdemamn: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+SkapG47: folds 
+SkapG47 leaves the table
+Lisenok110 joins the table at seat #1 
+dstrola: folds 
+Uncalled bet ($0.25) returned to $lavik88
+$lavik88 collected $0.50 from pot
+$lavik88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: SkapG47 (button) folded before Flop (didn't bet)
+Seat 2: dstrola (small blind) folded before Flop
+Seat 3: $lavik88 (big blind) collected ($0.50)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681252156:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:32:51 ET
+Table 'Almach II' 9-max Seat #2 is the button
+Seat 2: dstrola ($52.25 in chips) 
+Seat 3: $lavik88 ($98.45 in chips) 
+Seat 4: kalebans ($72.04 in chips) 
+Seat 5: holdemamn ($52 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($80.70 in chips) 
+$lavik88: posts small blind $0.25
+kalebans: posts big blind $0.50
+Lisenok110: sits out 
+*** HOLE CARDS ***
+holdemamn: folds 
+cartman177: folds 
+Urri_Tilt: folds 
+dstrola: raises $1 to $1.50
+$lavik88: folds 
+kalebans: raises $3.50 to $5
+dstrola: folds 
+Uncalled bet ($3.50) returned to kalebans
+kalebans collected $3.25 from pot
+kalebans: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 2: dstrola (button) folded before Flop
+Seat 3: $lavik88 (small blind) folded before Flop
+Seat 4: kalebans (big blind) collected ($3.25)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681260138:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:33:15 ET
+Table 'Almach II' 9-max Seat #3 is the button
+Seat 2: dstrola ($50.75 in chips) 
+Seat 3: $lavik88 ($98.20 in chips) 
+Seat 4: kalebans ($73.79 in chips) 
+Seat 5: holdemamn ($52 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($80.70 in chips) 
+kalebans: posts small blind $0.25
+holdemamn: posts big blind $0.50
+Lisenok110: sits out 
+*** HOLE CARDS ***
+cartman177: folds 
+Urri_Tilt: folds 
+dstrola: raises $1 to $1.50
+$lavik88: folds 
+kalebans: folds 
+holdemamn: folds 
+Uncalled bet ($1) returned to dstrola
+dstrola collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: dstrola collected ($1.25)
+Seat 3: $lavik88 (button) folded before Flop (didn't bet)
+Seat 4: kalebans (small blind) folded before Flop
+Seat 5: holdemamn (big blind) folded before Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Urri_Tilt folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681269102:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:33:41 ET
+Table 'Almach II' 9-max Seat #4 is the button
+Seat 2: dstrola ($51.50 in chips) 
+Seat 3: $lavik88 ($98.20 in chips) 
+Seat 4: kalebans ($73.54 in chips) 
+Seat 5: holdemamn ($51.50 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Urri_Tilt ($80.70 in chips) 
+holdemamn: posts small blind $0.25
+cartman177: posts big blind $0.50
+Lisenok110: sits out 
+*** HOLE CARDS ***
+Urri_Tilt: raises $1 to $1.50
+dstrola: folds 
+$lavik88: folds 
+kalebans: raises $3.50 to $5
+holdemamn: folds 
+cartman177: folds 
+Urri_Tilt: raises $8 to $13
+kalebans: calls $8
+*** FLOP *** [Th 7h 6s]
+Urri_Tilt: bets $6.50
+kalebans: folds 
+Uncalled bet ($6.50) returned to Urri_Tilt
+Urri_Tilt collected $25.41 from pot
+Urri_Tilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.75 | Rake $1.34 
+Board [Th 7h 6s]
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans (button) folded on the Flop
+Seat 5: holdemamn (small blind) folded before Flop
+Seat 7: cartman177 (big blind) folded before Flop
+Seat 8: Urri_Tilt collected ($25.41)
+
+
+
+PokerStars Hand #228681306950:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:35:08 ET
+Table 'Almach II' 9-max Seat #5 is the button
+Seat 1: Lisenok110 ($50 in chips) 
+Seat 2: dstrola ($51.50 in chips) 
+Seat 3: $lavik88 ($98.20 in chips) 
+Seat 4: kalebans ($60.54 in chips) 
+Seat 5: holdemamn ($51.25 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+cartman177: posts small blind $0.25
+Urri_Tilt: is sitting out 
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+Urri_Tilt leaves the table
+dstrola: folds 
+$lavik88: folds 
+kalebans: folds 
+holdemamn: folds 
+cartman177: folds 
+Uncalled bet ($0.25) returned to Lisenok110
+Lisenok110 collected $0.50 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Lisenok110 (big blind) collected ($0.50)
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: holdemamn (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228681312952:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:35:26 ET
+Table 'Almach II' 9-max Seat #7 is the button
+Seat 1: Lisenok110 ($50.25 in chips) 
+Seat 2: dstrola ($51.50 in chips) 
+Seat 3: $lavik88 ($98.20 in chips) 
+Seat 4: kalebans ($60.54 in chips) 
+Seat 5: holdemamn ($51.25 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Lisenok110: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+$lavik88: folds 
+kalebans: folds 
+holdemamn: folds 
+cartman177: raises $0.50 to $1
+Lisenok110: folds 
+dstrola: calls $0.50
+*** FLOP *** [2d Qc 7h]
+dstrola: checks 
+cartman177: bets $0.71
+dstrola: folds 
+Uncalled bet ($0.71) returned to cartman177
+cartman177 collected $2.14 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [2d Qc 7h]
+Seat 1: Lisenok110 (small blind) folded before Flop
+Seat 2: dstrola (big blind) folded on the Flop
+Seat 3: $lavik88 folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 7: cartman177 (button) collected ($2.14)
+
+
+
+PokerStars Hand #228681319772:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:35:47 ET
+Table 'Almach II' 9-max Seat #1 is the button
+Seat 1: Lisenok110 ($50 in chips) 
+Seat 2: dstrola ($50.50 in chips) 
+Seat 4: kalebans ($60.54 in chips) 
+Seat 5: holdemamn ($51.25 in chips) 
+Seat 7: cartman177 ($51.14 in chips) 
+dstrola: posts small blind $0.25
+$lavik88: is sitting out 
+kalebans: posts big blind $0.50
+*** HOLE CARDS ***
+holdemamn: folds 
+cartman177: folds 
+Lisenok110: raises $0.75 to $1.25
+dstrola: raises $4.25 to $5.50
+kalebans: folds 
+Lisenok110: folds 
+Uncalled bet ($4.25) returned to dstrola
+beddows92 was removed from the table for failing to post
+beddows92 leaves the table
+dstrola collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: Lisenok110 (button) folded before Flop
+Seat 2: dstrola (small blind) collected ($3)
+Seat 4: kalebans (big blind) folded before Flop
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681325505:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:36:04 ET
+Table 'Almach II' 9-max Seat #2 is the button
+Seat 1: Lisenok110 ($50 in chips) 
+Seat 2: dstrola ($52.25 in chips) 
+Seat 4: kalebans ($60.04 in chips) 
+Seat 5: holdemamn ($51.25 in chips) 
+Seat 7: cartman177 ($51.14 in chips) 
+kalebans: posts small blind $0.25
+holdemamn: posts big blind $0.50
+*** HOLE CARDS ***
+cartman177: folds 
+Lisenok110: folds 
+dstrola: folds 
+kalebans: folds 
+Uncalled bet ($0.25) returned to holdemamn
+holdemamn collected $0.50 from pot
+holdemamn: doesn't show hand 
+ChristianPowers joins the table at seat #8 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Lisenok110 folded before Flop (didn't bet)
+Seat 2: dstrola (button) folded before Flop (didn't bet)
+Seat 4: kalebans (small blind) folded before Flop
+Seat 5: holdemamn (big blind) collected ($0.50)
+Seat 7: cartman177 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681326998:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:36:08 ET
+Table 'Almach II' 9-max Seat #4 is the button
+Seat 1: Lisenok110 ($50 in chips) 
+Seat 2: dstrola ($52.25 in chips) 
+Seat 4: kalebans ($59.79 in chips) 
+Seat 5: holdemamn ($51.50 in chips) 
+Seat 7: cartman177 ($51.14 in chips) 
+holdemamn: posts small blind $0.25
+cartman177: posts big blind $0.50
+$lavik88 leaves the table
+ChristianPowers: sits out 
+*** HOLE CARDS ***
+Lisenok110: folds 
+dstrola: raises $1 to $1.50
+kalebans: folds 
+holdemamn: folds 
+cartman177: folds 
+Uncalled bet ($1) returned to dstrola
+dstrola collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Lisenok110 folded before Flop (didn't bet)
+Seat 2: dstrola collected ($1.25)
+Seat 4: kalebans (button) folded before Flop (didn't bet)
+Seat 5: holdemamn (small blind) folded before Flop
+Seat 7: cartman177 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228681329908:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:36:17 ET
+Table 'Almach II' 9-max Seat #5 is the button
+Seat 1: Lisenok110 ($50 in chips) 
+Seat 2: dstrola ($53 in chips) 
+Seat 4: kalebans ($59.79 in chips) 
+Seat 5: holdemamn ($51.25 in chips) 
+Seat 7: cartman177 ($50.64 in chips) 
+Seat 8: ChristianPowers ($50 in chips) 
+cartman177: posts small blind $0.25
+ChristianPowers: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: folds 
+dstrola: folds 
+kalebans: folds 
+holdemamn: folds 
+cartman177: folds 
+Uncalled bet ($0.25) returned to ChristianPowers
+ChristianPowers collected $0.50 from pot
+ChristianPowers: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Lisenok110 folded before Flop (didn't bet)
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: holdemamn (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded before Flop
+Seat 8: ChristianPowers (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228681332909:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:36:26 ET
+Table 'Almach II' 9-max Seat #7 is the button
+Seat 1: Lisenok110 ($50 in chips) 
+Seat 2: dstrola ($53 in chips) 
+Seat 4: kalebans ($59.79 in chips) 
+Seat 5: holdemamn ($51.25 in chips) 
+Seat 7: cartman177 ($50.39 in chips) 
+Seat 8: ChristianPowers ($50.25 in chips) 
+ChristianPowers: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+dstrola: folds 
+kalebans: folds 
+holdemamn: folds 
+cartman177: folds 
+ChristianPowers: calls $0.25
+Lisenok110: checks 
+*** FLOP *** [7s 2d Jd]
+ChristianPowers: checks 
+Lisenok110: bets $0.50
+ChristianPowers: folds 
+Uncalled bet ($0.50) returned to Lisenok110
+Lisenok110 collected $0.95 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [7s 2d Jd]
+Seat 1: Lisenok110 (big blind) collected ($0.95)
+Seat 2: dstrola folded before Flop (didn't bet)
+Seat 4: kalebans folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 7: cartman177 (button) folded before Flop (didn't bet)
+Seat 8: ChristianPowers (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228681340578:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:36:49 ET
+Table 'Almach II' 9-max Seat #8 is the button
+Seat 1: Lisenok110 ($50.45 in chips) 
+Seat 5: holdemamn ($51.25 in chips) 
+Seat 7: cartman177 ($50.39 in chips) 
+Seat 8: ChristianPowers ($49.75 in chips) 
+Lisenok110: posts small blind $0.25
+dstrola: is sitting out 
+kalebans: is sitting out 
+holdemamn: posts big blind $0.50
+*** HOLE CARDS ***
+kalebans leaves the table
+cartman177: folds 
+ChristianPowers: folds 
+Lisenok110: raises $1 to $1.50
+holdemamn: folds 
+Uncalled bet ($1) returned to Lisenok110
+Lisenok110 collected $1 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Lisenok110 (small blind) collected ($1)
+Seat 5: holdemamn (big blind) folded before Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: ChristianPowers (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681345466:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:37:03 ET
+Table 'Almach II' 9-max Seat #1 is the button
+Seat 1: Lisenok110 ($50.95 in chips) 
+Seat 5: holdemamn ($50.75 in chips) 
+Seat 8: ChristianPowers ($49.75 in chips) 
+holdemamn: posts small blind $0.25
+cartman177: is sitting out 
+ChristianPowers: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: raises $0.75 to $1.25
+holdemamn: folds 
+cartman177 leaves the table
+ChristianPowers: calls $0.75
+*** FLOP *** [9s 3c Th]
+ChristianPowers: checks 
+Lisenok110: bets $1.74
+ChristianPowers: folds 
+Uncalled bet ($1.74) returned to Lisenok110
+Lisenok110 collected $2.61 from pot
+dikanmax was removed from the table for failing to post
+dikanmax leaves the table
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [9s 3c Th]
+Seat 1: Lisenok110 (button) collected ($2.61)
+Seat 5: holdemamn (small blind) folded before Flop
+Seat 8: ChristianPowers (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228681350496:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:37:18 ET
+Table 'Almach II' 9-max Seat #5 is the button
+Seat 1: Lisenok110 ($52.31 in chips) 
+Seat 2: dstrola ($53 in chips) 
+Seat 5: holdemamn ($50.50 in chips) 
+Lisenok110: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+ChristianPowers leaves the table
+holdemamn: folds 
+Lisenok110: folds 
+Uncalled bet ($0.25) returned to dstrola
+dstrola collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Lisenok110 (small blind) folded before Flop
+Seat 2: dstrola (big blind) collected ($0.50)
+Seat 5: holdemamn (button) folded before Flop (didn't bet)
+
+
+

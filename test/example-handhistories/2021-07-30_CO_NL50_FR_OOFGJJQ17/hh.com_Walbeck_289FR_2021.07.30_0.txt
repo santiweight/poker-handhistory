@@ -1,0 +1,1219 @@
+﻿PokerStars Hand #228694299066:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:31:57 ET
+Table 'Walbeck II' 9-max Seat #2 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 2: Rhythmicstep ($53.41 in chips) 
+Seat 3: ms1272 ($53.61 in chips) 
+Seat 4: Odinsluc ($37.82 in chips) 
+Seat 5: mcZAG ($50 in chips) 
+Seat 6: MaximUSNG ($51.46 in chips) 
+Seat 7: lonely fire ($52.14 in chips) 
+Seat 8: daria130399 ($50.75 in chips) 
+Seat 9: PleBeY95 ($50 in chips) 
+ms1272: posts small blind $0.25
+Odinsluc: posts big blind $0.50
+*** HOLE CARDS ***
+mcZAG: folds 
+MaximUSNG: raises $0.86 to $1.36
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+Rhythmicstep: folds 
+ms1272: raises $3.22 to $4.58
+Odinsluc: folds 
+MaximUSNG: raises $7.42 to $12
+ms1272: raises $41.61 to $53.61 and is all-in
+MaximUSNG: calls $39.46 and is all-in
+Uncalled bet ($2.15) returned to ms1272
+*** FIRST FLOP *** [3h Qs Th]
+*** FIRST TURN *** [3h Qs Th] [Ac]
+*** FIRST RIVER *** [3h Qs Th Ac] [2d]
+*** SECOND FLOP *** [2h 4s 2c]
+*** SECOND TURN *** [2h 4s 2c] [4h]
+*** SECOND RIVER *** [2h 4s 2c 4h] [4c]
+*** FIRST SHOW DOWN ***
+ms1272: shows [Kh Kc] (a pair of Kings)
+MaximUSNG: shows [Ad As] (three of a kind, Aces)
+MaximUSNG collected $50.71 from pot
+*** SECOND SHOW DOWN ***
+ms1272: shows [Kh Kc] (a full house, Fours full of Kings)
+MaximUSNG: shows [Ad As] (a full house, Fours full of Aces)
+MaximUSNG collected $50.71 from pot
+*** SUMMARY ***
+Total pot $103.42 | Rake $2 
+Hand was run twice
+FIRST Board [3h Qs Th Ac 2d]
+SECOND Board [2h 4s 2c 4h 4c]
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 2: Rhythmicstep (button) folded before Flop (didn't bet)
+Seat 3: ms1272 (small blind) showed [Kh Kc] and lost with a pair of Kings, and lost with a full house, Fours full of Kings
+Seat 4: Odinsluc (big blind) folded before Flop
+Seat 5: mcZAG folded before Flop (didn't bet)
+Seat 6: MaximUSNG showed [Ad As] and won ($50.71) with three of a kind, Aces, and won ($50.71) with a full house, Fours full of Aces
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694316901:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:33:01 ET
+Table 'Walbeck II' 9-max Seat #3 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 2: Rhythmicstep ($53.41 in chips) 
+Seat 3: ms1272 ($50 in chips) 
+Seat 4: Odinsluc ($37.32 in chips) 
+Seat 6: MaximUSNG ($101.42 in chips) 
+Seat 7: lonely fire ($52.14 in chips) 
+Seat 8: daria130399 ($50.75 in chips) 
+Seat 9: PleBeY95 ($50 in chips) 
+Odinsluc: posts small blind $0.25
+MaximUSNG: posts big blind $0.50
+*** HOLE CARDS ***
+lonely fire: folds 
+mcZAG leaves the table
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+Rhythmicstep: folds 
+ms1272: raises $0.50 to $1
+Odinsluc: folds 
+BoryaKGB joins the table at seat #5 
+MaximUSNG: calls $0.50
+*** FLOP *** [7d Kh 7s]
+MaximUSNG: checks 
+ms1272: bets $1.07
+MaximUSNG: calls $1.07
+*** TURN *** [7d Kh 7s] [4h]
+MaximUSNG: checks 
+ms1272: bets $2.08
+MaximUSNG: calls $2.08
+*** RIVER *** [7d Kh 7s 4h] [9s]
+MaximUSNG: checks 
+ms1272: checks 
+*** SHOW DOWN ***
+MaximUSNG: shows [Td Ks] (two pair, Kings and Sevens)
+ms1272: mucks hand 
+MaximUSNG collected $8.12 from pot
+*** SUMMARY ***
+Total pot $8.55 | Rake $0.43 
+Board [7d Kh 7s 4h 9s]
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 2: Rhythmicstep folded before Flop (didn't bet)
+Seat 3: ms1272 (button) mucked
+Seat 4: Odinsluc (small blind) folded before Flop
+Seat 6: MaximUSNG (big blind) showed [Td Ks] and won ($8.12) with two pair, Kings and Sevens
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694331050:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:33:51 ET
+Table 'Walbeck II' 9-max Seat #4 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 2: Rhythmicstep ($53.41 in chips) 
+Seat 3: ms1272 ($50 in chips) 
+Seat 4: Odinsluc ($37.07 in chips) 
+Seat 6: MaximUSNG ($105.39 in chips) 
+Seat 7: lonely fire ($52.14 in chips) 
+Seat 8: daria130399 ($50.75 in chips) 
+Seat 9: PleBeY95 ($50 in chips) 
+MaximUSNG: posts small blind $0.25
+lonely fire: posts big blind $0.50
+*** HOLE CARDS ***
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: raises $0.75 to $1.25
+Rhythmicstep: folds 
+ms1272: folds 
+Odinsluc has timed out
+Odinsluc: folds 
+MaximUSNG: folds 
+lonely fire: folds 
+Uncalled bet ($0.75) returned to Serotonin228
+Serotonin228 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Serotonin228 collected ($1.25)
+Seat 2: Rhythmicstep folded before Flop (didn't bet)
+Seat 3: ms1272 folded before Flop (didn't bet)
+Seat 4: Odinsluc (button) folded before Flop (didn't bet)
+Seat 6: MaximUSNG (small blind) folded before Flop
+Seat 7: lonely fire (big blind) folded before Flop
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694338877:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:34:19 ET
+Table 'Walbeck II' 9-max Seat #6 is the button
+Seat 1: Serotonin228 ($50.75 in chips) 
+Seat 2: Rhythmicstep ($53.41 in chips) 
+Seat 3: ms1272 ($50 in chips) 
+Seat 6: MaximUSNG ($105.14 in chips) 
+Seat 7: lonely fire ($51.64 in chips) 
+Seat 8: daria130399 ($50.75 in chips) 
+Seat 9: PleBeY95 ($50 in chips) 
+lonely fire: posts small blind $0.25
+daria130399: posts big blind $0.50
+BoryaKGB: sits out 
+*** HOLE CARDS ***
+PleBeY95: folds 
+Serotonin228: folds 
+Rhythmicstep: folds 
+ms1272: raises $0.50 to $1
+MaximUSNG: folds 
+lonely fire: folds 
+daria130399: calls $0.50
+*** FLOP *** [8d Td 3h]
+daria130399: checks 
+ms1272: bets $1.07
+daria130399: calls $1.07
+*** TURN *** [8d Td 3h] [Qs]
+daria130399: checks 
+ms1272: bets $2.08
+daria130399: folds 
+Uncalled bet ($2.08) returned to ms1272
+ms1272 collected $4.11 from pot
+ms1272: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.39 | Rake $0.28 
+Board [8d Td 3h Qs]
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 2: Rhythmicstep folded before Flop (didn't bet)
+Seat 3: ms1272 collected ($4.11)
+Seat 6: MaximUSNG (button) folded before Flop (didn't bet)
+Seat 7: lonely fire (small blind) folded before Flop
+Seat 8: daria130399 (big blind) folded on the Turn
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694345908:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:34:45 ET
+Table 'Walbeck II' 9-max Seat #7 is the button
+Seat 1: Serotonin228 ($50.75 in chips) 
+Seat 2: Rhythmicstep ($53.41 in chips) 
+Seat 3: ms1272 ($52.04 in chips) 
+Seat 4: Odinsluc ($37.07 in chips) 
+Seat 6: MaximUSNG ($105.14 in chips) 
+Seat 7: lonely fire ($51.39 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($50 in chips) 
+daria130399: posts small blind $0.25
+PleBeY95: posts big blind $0.50
+BoryaKGB: sits out 
+*** HOLE CARDS ***
+Serotonin228: folds 
+Rhythmicstep: folds 
+ms1272: raises $0.50 to $1
+Odinsluc: calls $1
+MaximUSNG: folds 
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: folds 
+*** FLOP *** [Js 6s Jd]
+ms1272: checks 
+Odinsluc: bets $2.61
+ms1272: folds 
+Uncalled bet ($2.61) returned to Odinsluc
+Odinsluc collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [Js 6s Jd]
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 2: Rhythmicstep folded before Flop (didn't bet)
+Seat 3: ms1272 folded on the Flop
+Seat 4: Odinsluc collected ($2.61)
+Seat 6: MaximUSNG folded before Flop (didn't bet)
+Seat 7: lonely fire (button) folded before Flop (didn't bet)
+Seat 8: daria130399 (small blind) folded before Flop
+Seat 9: PleBeY95 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228694353555:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:35:12 ET
+Table 'Walbeck II' 9-max Seat #8 is the button
+Seat 1: Serotonin228 ($50.75 in chips) 
+Seat 2: Rhythmicstep ($53.41 in chips) 
+Seat 3: ms1272 ($51.04 in chips) 
+Seat 4: Odinsluc ($38.68 in chips) 
+Seat 6: MaximUSNG ($105.14 in chips) 
+Seat 7: lonely fire ($51.39 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($50 in chips) 
+PleBeY95: posts small blind $0.25
+Serotonin228: posts big blind $0.50
+BoryaKGB: sits out 
+*** HOLE CARDS ***
+Rhythmicstep: folds 
+ms1272: folds 
+Odinsluc: calls $0.50
+MaximUSNG: raises $1.36 to $1.86
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: raises $4.64 to $6.50
+Serotonin228: folds 
+Odinsluc: folds 
+MaximUSNG: folds 
+Uncalled bet ($4.64) returned to PleBeY95
+PleBeY95 collected $4.72 from pot
+*** SUMMARY ***
+Total pot $4.72 | Rake $0 
+Seat 1: Serotonin228 (big blind) folded before Flop
+Seat 2: Rhythmicstep folded before Flop (didn't bet)
+Seat 3: ms1272 folded before Flop (didn't bet)
+Seat 4: Odinsluc folded before Flop
+Seat 6: MaximUSNG folded before Flop
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 (button) folded before Flop (didn't bet)
+Seat 9: PleBeY95 (small blind) collected ($4.72)
+
+
+
+PokerStars Hand #228694365197:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:35:54 ET
+Table 'Walbeck II' 9-max Seat #9 is the button
+Seat 1: Serotonin228 ($50.25 in chips) 
+Seat 3: ms1272 ($51.04 in chips) 
+Seat 4: Odinsluc ($38.18 in chips) 
+Seat 6: MaximUSNG ($103.28 in chips) 
+Seat 7: lonely fire ($51.39 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.86 in chips) 
+Serotonin228: posts small blind $0.25
+Rhythmicstep: is sitting out 
+ms1272: posts big blind $0.50
+BoryaKGB: sits out 
+*** HOLE CARDS ***
+Odinsluc: raises $0.50 to $1
+MaximUSNG: folds 
+lonely fire: folds 
+Rhythmicstep leaves the table
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+ms1272: calls $0.50
+*** FLOP *** [Td Kc 4d]
+ms1272: checks 
+Odinsluc: bets $2.14
+ms1272: folds 
+Uncalled bet ($2.14) returned to Odinsluc
+Odinsluc collected $2.14 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [Td Kc 4d]
+Seat 1: Serotonin228 (small blind) folded before Flop
+Seat 3: ms1272 (big blind) folded on the Flop
+Seat 4: Odinsluc collected ($2.14)
+Seat 6: MaximUSNG folded before Flop (didn't bet)
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694377057:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:36:36 ET
+Table 'Walbeck II' 9-max Seat #1 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 3: ms1272 ($50.04 in chips) 
+Seat 4: Odinsluc ($39.32 in chips) 
+Seat 6: MaximUSNG ($103.28 in chips) 
+Seat 7: lonely fire ($51.39 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.86 in chips) 
+ms1272: posts small blind $0.25
+Odinsluc: posts big blind $0.50
+BoryaKGB: sits out 
+*** HOLE CARDS ***
+MaximUSNG: folds 
+lonely fire: folds 
+daria130399: raises $0.75 to $1.25
+PleBeY95: folds 
+Serotonin228: raises $2.75 to $4
+ms1272: folds 
+Odinsluc: folds 
+daria130399: folds 
+Uncalled bet ($2.75) returned to Serotonin228
+Serotonin228 collected $3.25 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 1: Serotonin228 (button) collected ($3.25)
+Seat 3: ms1272 (small blind) folded before Flop
+Seat 4: Odinsluc (big blind) folded before Flop
+Seat 6: MaximUSNG folded before Flop (didn't bet)
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694385277:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:37:06 ET
+Table 'Walbeck II' 9-max Seat #3 is the button
+Seat 1: Serotonin228 ($52 in chips) 
+Seat 3: ms1272 ($50 in chips) 
+Seat 4: Odinsluc ($38.82 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($103.28 in chips) 
+Seat 7: lonely fire ($51.39 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.86 in chips) 
+Odinsluc: posts small blind $0.25
+BoryaKGB: posts big blind $0.50
+*** HOLE CARDS ***
+MaximUSNG: folds 
+lonely fire: raises $1 to $1.50
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+ms1272: folds 
+Odinsluc: folds 
+BoryaKGB: folds 
+Uncalled bet ($1) returned to lonely fire
+lonely fire collected $1.25 from pot
+lonely fire: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 3: ms1272 (button) folded before Flop (didn't bet)
+Seat 4: Odinsluc (small blind) folded before Flop
+Seat 5: BoryaKGB (big blind) folded before Flop
+Seat 6: MaximUSNG folded before Flop (didn't bet)
+Seat 7: lonely fire collected ($1.25)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694392533:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:37:32 ET
+Table 'Walbeck II' 9-max Seat #4 is the button
+Seat 1: Serotonin228 ($52 in chips) 
+Seat 3: ms1272 ($50 in chips) 
+Seat 4: Odinsluc ($38.57 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($103.28 in chips) 
+Seat 7: lonely fire ($52.14 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.86 in chips) 
+BoryaKGB: posts small blind $0.25
+MaximUSNG: posts big blind $0.50
+*** HOLE CARDS ***
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+ms1272: folds 
+Odinsluc: calls $0.50
+BoryaKGB: folds 
+MaximUSNG: checks 
+*** FLOP *** [Qh Jh 4s]
+MaximUSNG: checks 
+Odinsluc: bets $0.60
+ms1272 is disconnected 
+MaximUSNG: folds 
+Uncalled bet ($0.60) returned to Odinsluc
+summersj95 joins the table at seat #2 
+Odinsluc collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Qh Jh 4s]
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 3: ms1272 folded before Flop (didn't bet)
+Seat 4: Odinsluc (button) collected ($1.19)
+Seat 5: BoryaKGB (small blind) folded before Flop
+Seat 6: MaximUSNG (big blind) folded on the Flop
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694404467:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:38:15 ET
+Table 'Walbeck II' 9-max Seat #5 is the button
+Seat 1: Serotonin228 ($52 in chips) 
+Seat 3: ms1272 ($50 in chips) 
+Seat 4: Odinsluc ($39.26 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($102.78 in chips) 
+Seat 7: lonely fire ($52.14 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.86 in chips) 
+MaximUSNG: posts small blind $0.25
+lonely fire: posts big blind $0.50
+summersj95: sits out 
+*** HOLE CARDS ***
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+ms1272 is connected 
+ms1272: folds 
+Odinsluc: folds 
+BoryaKGB: folds 
+MaximUSNG: raises $0.86 to $1.36
+lonely fire: folds 
+Uncalled bet ($0.86) returned to MaximUSNG
+MaximUSNG collected $1 from pot
+MaximUSNG: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 3: ms1272 folded before Flop (didn't bet)
+Seat 4: Odinsluc folded before Flop (didn't bet)
+Seat 5: BoryaKGB (button) folded before Flop (didn't bet)
+Seat 6: MaximUSNG (small blind) collected ($1)
+Seat 7: lonely fire (big blind) folded before Flop
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694411233:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:38:40 ET
+Table 'Walbeck II' 9-max Seat #6 is the button
+Seat 1: Serotonin228 ($52 in chips) 
+Seat 2: summersj95 ($39.35 in chips) 
+Seat 3: ms1272 ($50 in chips) 
+Seat 4: Odinsluc ($39.26 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($103.28 in chips) 
+Seat 7: lonely fire ($51.64 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.86 in chips) 
+lonely fire: posts small blind $0.25
+daria130399: posts big blind $0.50
+summersj95: posts big blind $0.50
+*** HOLE CARDS ***
+PleBeY95: folds 
+Serotonin228 has timed out
+Serotonin228: folds 
+summersj95: raises $0.50 to $1
+ms1272: calls $1
+Odinsluc: folds 
+BoryaKGB: folds 
+MaximUSNG: folds 
+lonely fire: folds 
+daria130399: folds 
+*** FLOP *** [8c Qd Ad]
+summersj95: bets $1.30
+ms1272: calls $1.30
+*** TURN *** [8c Qd Ad] [Ac]
+summersj95: bets $2.54
+ms1272: calls $2.54
+*** RIVER *** [8c Qd Ad Ac] [2c]
+summersj95: bets $0.50
+ms1272: raises $5.46 to $5.96
+summersj95: calls $5.46
+*** SHOW DOWN ***
+ms1272: shows [Jd 5d] (a pair of Aces)
+summersj95: shows [5s Qc] (two pair, Aces and Queens)
+summersj95 collected $21.23 from pot
+*** SUMMARY ***
+Total pot $22.35 | Rake $1.12 
+Board [8c Qd Ad Ac 2c]
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 2: summersj95 showed [5s Qc] and won ($21.23) with two pair, Aces and Queens
+Seat 3: ms1272 showed [Jd 5d] and lost with a pair of Aces
+Seat 4: Odinsluc folded before Flop (didn't bet)
+Seat 5: BoryaKGB folded before Flop (didn't bet)
+Seat 6: MaximUSNG (button) folded before Flop (didn't bet)
+Seat 7: lonely fire (small blind) folded before Flop
+Seat 8: daria130399 (big blind) folded before Flop
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694424982:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:39:30 ET
+Table 'Walbeck II' 9-max Seat #7 is the button
+Seat 1: Serotonin228 ($52 in chips) 
+Seat 2: summersj95 ($49.78 in chips) 
+Seat 3: ms1272 ($50 in chips) 
+Seat 4: Odinsluc ($39.26 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($103.28 in chips) 
+Seat 7: lonely fire ($51.39 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.86 in chips) 
+daria130399: posts small blind $0.25
+PleBeY95: posts big blind $0.50
+*** HOLE CARDS ***
+Serotonin228: raises $1.25 to $1.75
+summersj95: folds 
+ms1272: folds 
+Odinsluc: folds 
+BoryaKGB: folds 
+MaximUSNG: folds 
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: folds 
+Uncalled bet ($1.25) returned to Serotonin228
+Serotonin228 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Serotonin228 collected ($1.25)
+Seat 2: summersj95 folded before Flop (didn't bet)
+Seat 3: ms1272 folded before Flop (didn't bet)
+Seat 4: Odinsluc folded before Flop (didn't bet)
+Seat 5: BoryaKGB folded before Flop (didn't bet)
+Seat 6: MaximUSNG folded before Flop (didn't bet)
+Seat 7: lonely fire (button) folded before Flop (didn't bet)
+Seat 8: daria130399 (small blind) folded before Flop
+Seat 9: PleBeY95 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228694429866:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:39:47 ET
+Table 'Walbeck II' 9-max Seat #8 is the button
+Seat 1: Serotonin228 ($52.75 in chips) 
+Seat 2: summersj95 ($49.78 in chips) 
+Seat 3: ms1272 ($50 in chips) 
+Seat 4: Odinsluc ($39.26 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($103.28 in chips) 
+Seat 7: lonely fire ($51.39 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.36 in chips) 
+PleBeY95: posts small blind $0.25
+Serotonin228: posts big blind $0.50
+*** HOLE CARDS ***
+summersj95: raises $0.50 to $1
+ms1272: raises $2.75 to $3.75
+Odinsluc: folds 
+BoryaKGB: folds 
+MaximUSNG: folds 
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+summersj95: calls $2.75
+*** FLOP *** [Th 5c 5h]
+summersj95: checks 
+ms1272: bets $3.92
+summersj95: folds 
+Uncalled bet ($3.92) returned to ms1272
+ms1272 collected $7.74 from pot
+ms1272: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.51 
+Board [Th 5c 5h]
+Seat 1: Serotonin228 (big blind) folded before Flop
+Seat 2: summersj95 folded on the Flop
+Seat 3: ms1272 collected ($7.74)
+Seat 4: Odinsluc folded before Flop (didn't bet)
+Seat 5: BoryaKGB folded before Flop (didn't bet)
+Seat 6: MaximUSNG folded before Flop (didn't bet)
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 (button) folded before Flop (didn't bet)
+Seat 9: PleBeY95 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228694439768:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:40:23 ET
+Table 'Walbeck II' 9-max Seat #9 is the button
+Seat 1: Serotonin228 ($52.25 in chips) 
+Seat 2: summersj95 ($46.03 in chips) 
+Seat 3: ms1272 ($53.99 in chips) 
+Seat 4: Odinsluc ($39.26 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($103.28 in chips) 
+Seat 7: lonely fire ($51.39 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.11 in chips) 
+Serotonin228: posts small blind $0.25
+summersj95: posts big blind $0.50
+*** HOLE CARDS ***
+ms1272: raises $0.50 to $1
+Odinsluc: folds 
+BoryaKGB: folds 
+MaximUSNG: folds 
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+summersj95: folds 
+Uncalled bet ($0.50) returned to ms1272
+ms1272 collected $1.25 from pot
+ms1272: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Serotonin228 (small blind) folded before Flop
+Seat 2: summersj95 (big blind) folded before Flop
+Seat 3: ms1272 collected ($1.25)
+Seat 4: Odinsluc folded before Flop (didn't bet)
+Seat 5: BoryaKGB folded before Flop (didn't bet)
+Seat 6: MaximUSNG folded before Flop (didn't bet)
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694444353:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:40:40 ET
+Table 'Walbeck II' 9-max Seat #1 is the button
+Seat 1: Serotonin228 ($52 in chips) 
+Seat 2: summersj95 ($45.53 in chips) 
+Seat 3: ms1272 ($54.74 in chips) 
+Seat 4: Odinsluc ($39.26 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($103.28 in chips) 
+Seat 7: lonely fire ($51.39 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.11 in chips) 
+summersj95: posts small blind $0.25
+ms1272: posts big blind $0.50
+*** HOLE CARDS ***
+Odinsluc: folds 
+BoryaKGB: folds 
+MaximUSNG: folds 
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+summersj95: raises $0.50 to $1
+ms1272: folds 
+Uncalled bet ($0.50) returned to summersj95
+summersj95 collected $1 from pot
+summersj95: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Serotonin228 (button) folded before Flop (didn't bet)
+Seat 2: summersj95 (small blind) collected ($1)
+Seat 3: ms1272 (big blind) folded before Flop
+Seat 4: Odinsluc folded before Flop (didn't bet)
+Seat 5: BoryaKGB folded before Flop (didn't bet)
+Seat 6: MaximUSNG folded before Flop (didn't bet)
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694448954:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:40:57 ET
+Table 'Walbeck II' 9-max Seat #2 is the button
+Seat 1: Serotonin228 ($52 in chips) 
+Seat 2: summersj95 ($46.03 in chips) 
+Seat 3: ms1272 ($54.24 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($103.28 in chips) 
+Seat 7: lonely fire ($51.39 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.11 in chips) 
+ms1272: posts small blind $0.25
+BoryaKGB: posts big blind $0.50
+*** HOLE CARDS ***
+MaximUSNG: folds 
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: raises $0.75 to $1.25
+summersj95: calls $1.25
+ms1272: folds 
+BoryaKGB: folds 
+*** FLOP *** [2c Th 9s]
+Serotonin228: bets $0.77
+summersj95: calls $0.77
+*** TURN *** [2c Th 9s] [7s]
+Serotonin228: bets $1.14
+summersj95: calls $1.14
+*** RIVER *** [2c Th 9s 7s] [Ad]
+Serotonin228: bets $5
+summersj95: calls $5
+*** SHOW DOWN ***
+Serotonin228: shows [As Jc] (a pair of Aces)
+summersj95: shows [Ks Ac] (a pair of Aces - King kicker)
+summersj95 collected $16.22 from pot
+*** SUMMARY ***
+Total pot $17.07 | Rake $0.85 
+Board [2c Th 9s 7s Ad]
+Seat 1: Serotonin228 showed [As Jc] and lost with a pair of Aces
+Seat 2: summersj95 (button) showed [Ks Ac] and won ($16.22) with a pair of Aces
+Seat 3: ms1272 (small blind) folded before Flop
+Seat 5: BoryaKGB (big blind) folded before Flop
+Seat 6: MaximUSNG folded before Flop (didn't bet)
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694471721:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:42:20 ET
+Table 'Walbeck II' 9-max Seat #3 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 2: summersj95 ($54.09 in chips) 
+Seat 3: ms1272 ($53.99 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($103.28 in chips) 
+Seat 7: lonely fire ($51.39 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.11 in chips) 
+BoryaKGB: posts small blind $0.25
+MaximUSNG: posts big blind $0.50
+*** HOLE CARDS ***
+lonely fire: folds 
+daria130399 has timed out
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+summersj95: folds 
+ms1272: raises $0.50 to $1
+BoryaKGB: folds 
+MaximUSNG: folds 
+Uncalled bet ($0.50) returned to ms1272
+ms1272 collected $1.25 from pot
+ms1272: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 2: summersj95 folded before Flop (didn't bet)
+Seat 3: ms1272 (button) collected ($1.25)
+Seat 5: BoryaKGB (small blind) folded before Flop
+Seat 6: MaximUSNG (big blind) folded before Flop
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694478525:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:42:45 ET
+Table 'Walbeck II' 9-max Seat #5 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 2: summersj95 ($54.09 in chips) 
+Seat 3: ms1272 ($54.74 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($102.78 in chips) 
+Seat 7: lonely fire ($51.39 in chips) 
+Seat 9: PleBeY95 ($52.11 in chips) 
+MaximUSNG: posts small blind $0.25
+lonely fire: posts big blind $0.50
+*** HOLE CARDS ***
+PleBeY95: folds 
+Serotonin228: raises $0.75 to $1.25
+summersj95: calls $1.25
+ms1272: raises $4.50 to $5.75
+BoryaKGB: folds 
+MaximUSNG: folds 
+lonely fire: folds 
+Serotonin228: folds 
+summersj95: calls $4.50
+*** FLOP *** [Qc Kh 3h]
+summersj95: checks 
+ms1272: checks 
+*** TURN *** [Qc Kh 3h] [3d]
+summersj95: checks 
+ms1272: checks 
+*** RIVER *** [Qc Kh 3h 3d] [Ks]
+Odinsluc leaves the table
+Chernovsky joins the table at seat #4 
+summersj95: checks 
+ms1272: bets $6.41
+summersj95: calls $6.41
+*** SHOW DOWN ***
+ms1272: shows [Qs As] (two pair, Kings and Queens)
+summersj95: mucks hand 
+ms1272 collected $24.67 from pot
+*** SUMMARY ***
+Total pot $26.32 | Rake $1.65 
+Board [Qc Kh 3h 3d Ks]
+Seat 1: Serotonin228 folded before Flop
+Seat 2: summersj95 mucked
+Seat 3: ms1272 showed [Qs As] and won ($24.67) with two pair, Kings and Queens
+Seat 5: BoryaKGB (button) folded before Flop (didn't bet)
+Seat 6: MaximUSNG (small blind) folded before Flop
+Seat 7: lonely fire (big blind) folded before Flop
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694491119:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:43:30 ET
+Table 'Walbeck II' 9-max Seat #6 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 2: summersj95 ($41.93 in chips) 
+Seat 3: ms1272 ($67.25 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($102.53 in chips) 
+Seat 7: lonely fire ($50.89 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.11 in chips) 
+lonely fire: posts small blind $0.25
+daria130399: posts big blind $0.50
+Chernovsky: sits out 
+*** HOLE CARDS ***
+PleBeY95: folds 
+Serotonin228: folds 
+summersj95: calls $0.50
+ms1272: raises $1 to $1.50
+BoryaKGB: folds 
+MaximUSNG: folds 
+lonely fire: folds 
+daria130399: folds 
+summersj95: calls $1
+*** FLOP *** [Kh 6s Jc]
+summersj95: bets $3.56
+ms1272: folds 
+Uncalled bet ($3.56) returned to summersj95
+summersj95 collected $3.56 from pot
+summersj95: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [Kh 6s Jc]
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 2: summersj95 collected ($3.56)
+Seat 3: ms1272 folded on the Flop
+Seat 5: BoryaKGB folded before Flop (didn't bet)
+Seat 6: MaximUSNG (button) folded before Flop (didn't bet)
+Seat 7: lonely fire (small blind) folded before Flop
+Seat 8: daria130399 (big blind) folded before Flop
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694498683:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:43:58 ET
+Table 'Walbeck II' 9-max Seat #7 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 2: summersj95 ($43.99 in chips) 
+Seat 3: ms1272 ($65.75 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($102.53 in chips) 
+Seat 7: lonely fire ($50.64 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($52.11 in chips) 
+daria130399: posts small blind $0.25
+PleBeY95: posts big blind $0.50
+Chernovsky: sits out 
+*** HOLE CARDS ***
+Serotonin228: folds 
+summersj95: calls $0.50
+ms1272: raises $1 to $1.50
+BoryaKGB: folds 
+MaximUSNG: folds 
+lonely fire: calls $1.50
+daria130399: folds 
+PleBeY95: folds 
+summersj95: calls $1
+*** FLOP *** [9h Tc Kc]
+summersj95: checks 
+ms1272: bets $2.49
+lonely fire: folds 
+summersj95: folds 
+Uncalled bet ($2.49) returned to ms1272
+ms1272 collected $4.93 from pot
+ms1272: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.32 
+Board [9h Tc Kc]
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 2: summersj95 folded on the Flop
+Seat 3: ms1272 collected ($4.93)
+Seat 5: BoryaKGB folded before Flop (didn't bet)
+Seat 6: MaximUSNG folded before Flop (didn't bet)
+Seat 7: lonely fire (button) folded on the Flop
+Seat 8: daria130399 (small blind) folded before Flop
+Seat 9: PleBeY95 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228694506503:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:44:27 ET
+Table 'Walbeck II' 9-max Seat #8 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 2: summersj95 ($42.49 in chips) 
+Seat 3: ms1272 ($69.18 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($102.53 in chips) 
+Seat 7: lonely fire ($50 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($51.61 in chips) 
+PleBeY95: posts small blind $0.25
+Serotonin228: posts big blind $0.50
+Chernovsky: sits out 
+*** HOLE CARDS ***
+summersj95: folds 
+ms1272: folds 
+BoryaKGB: folds 
+MaximUSNG: raises $0.86 to $1.36
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+Uncalled bet ($0.86) returned to MaximUSNG
+MaximUSNG collected $1.25 from pot
+MaximUSNG: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Serotonin228 (big blind) folded before Flop
+Seat 2: summersj95 folded before Flop (didn't bet)
+Seat 3: ms1272 folded before Flop (didn't bet)
+Seat 5: BoryaKGB folded before Flop (didn't bet)
+Seat 6: MaximUSNG collected ($1.25)
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 (button) folded before Flop (didn't bet)
+Seat 9: PleBeY95 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228694511752:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:44:43 ET
+Table 'Walbeck II' 9-max Seat #9 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 2: summersj95 ($42.49 in chips) 
+Seat 3: ms1272 ($69.18 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($103.28 in chips) 
+Seat 7: lonely fire ($50 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($51.36 in chips) 
+Serotonin228: posts small blind $0.25
+summersj95: posts big blind $0.50
+Chernovsky: sits out 
+*** HOLE CARDS ***
+ms1272: folds 
+BoryaKGB: folds 
+MaximUSNG: raises $0.86 to $1.36
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+summersj95: calls $0.86
+*** FLOP *** [3s 9h 6s]
+summersj95: bets $0.50
+MaximUSNG: raises $1.95 to $2.45
+summersj95: calls $1.95
+*** TURN *** [3s 9h 6s] [3d]
+summersj95: checks 
+MaximUSNG: bets $5.16
+summersj95: folds 
+Uncalled bet ($5.16) returned to MaximUSNG
+MaximUSNG collected $7.48 from pot
+MaximUSNG: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.87 | Rake $0.39 
+Board [3s 9h 6s 3d]
+Seat 1: Serotonin228 (small blind) folded before Flop
+Seat 2: summersj95 (big blind) folded on the Turn
+Seat 3: ms1272 folded before Flop (didn't bet)
+Seat 5: BoryaKGB folded before Flop (didn't bet)
+Seat 6: MaximUSNG collected ($7.48)
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694538370:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:45:35 ET
+Table 'Walbeck II' 9-max Seat #1 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 2: summersj95 ($38.68 in chips) 
+Seat 3: ms1272 ($69.18 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($106.95 in chips) 
+Seat 7: lonely fire ($50 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($51.36 in chips) 
+summersj95: posts small blind $0.25
+ms1272: posts big blind $0.50
+Chernovsky: sits out 
+*** HOLE CARDS ***
+BoryaKGB: folds 
+MaximUSNG: folds 
+lonely fire: raises $1 to $1.50
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+summersj95: raises $1 to $2.50
+ms1272: folds 
+lonely fire: calls $1
+*** FLOP *** [9d Ah Qs]
+summersj95: bets $5.22
+lonely fire: folds 
+Uncalled bet ($5.22) returned to summersj95
+summersj95 collected $5.22 from pot
+summersj95: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [9d Ah Qs]
+Seat 1: Serotonin228 (button) folded before Flop (didn't bet)
+Seat 2: summersj95 (small blind) collected ($5.22)
+Seat 3: ms1272 (big blind) folded before Flop
+Seat 5: BoryaKGB folded before Flop (didn't bet)
+Seat 6: MaximUSNG folded before Flop (didn't bet)
+Seat 7: lonely fire folded on the Flop
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694543937:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:45:56 ET
+Table 'Walbeck II' 9-max Seat #2 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 2: summersj95 ($41.40 in chips) 
+Seat 3: ms1272 ($68.68 in chips) 
+Seat 4: Chernovsky ($50 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($106.95 in chips) 
+Seat 7: lonely fire ($50 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Seat 9: PleBeY95 ($51.36 in chips) 
+ms1272: posts small blind $0.25
+Chernovsky: posts big blind $0.50
+*** HOLE CARDS ***
+BoryaKGB: folds 
+MaximUSNG: folds 
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: folds 
+Serotonin228: folds 
+summersj95: raises $0.50 to $1
+ms1272: folds 
+Chernovsky: calls $0.50
+*** FLOP *** [4s 8h 6d]
+Chernovsky: checks 
+summersj95: bets $2.14
+Chernovsky: calls $2.14
+*** TURN *** [4s 8h 6d] [5d]
+Chernovsky: checks 
+summersj95: bets $6.20
+Chernovsky: folds 
+Uncalled bet ($6.20) returned to summersj95
+summersj95 collected $6.20 from pot
+summersj95: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.53 | Rake $0.33 
+Board [4s 8h 6d 5d]
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 2: summersj95 (button) collected ($6.20)
+Seat 3: ms1272 (small blind) folded before Flop
+Seat 4: Chernovsky (big blind) folded on the Turn
+Seat 5: BoryaKGB folded before Flop (didn't bet)
+Seat 6: MaximUSNG folded before Flop (didn't bet)
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228694636752:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:51:12 ET
+Table 'Walbeck II' 9-max Seat #4 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 3: ms1272 ($66.93 in chips) 
+Seat 4: Chernovsky ($50 in chips) 
+Seat 5: BoryaKGB ($50.25 in chips) 
+Seat 6: MaximUSNG ($153.27 in chips) 
+Seat 7: lonely fire ($50 in chips) 
+Seat 8: daria130399 ($50.75 in chips) 
+Seat 9: PleBeY95 ($51.36 in chips) 
+BoryaKGB: posts small blind $0.25
+MaximUSNG: posts big blind $0.50
+*** HOLE CARDS ***
+lonely fire: folds 
+daria130399: folds 
+PleBeY95: raises $1 to $1.50
+summersj95 leaves the table
+Serotonin228: folds 
+ms1272: calls $1.50
+Chernovsky: folds 
+BoryaKGB: folds 
+MaximUSNG: folds 
+*** FLOP *** [Th Qc 7h]
+PleBeY95: checks 
+ms1272: checks 
+*** TURN *** [Th Qc 7h] [Jc]
+PleBeY95: bets $2.67
+ms1272: folds 
+Uncalled bet ($2.67) returned to PleBeY95
+PleBeY95 collected $3.56 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [Th Qc 7h Jc]
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 3: ms1272 folded on the Turn
+Seat 4: Chernovsky (button) folded before Flop (didn't bet)
+Seat 5: BoryaKGB (small blind) folded before Flop
+Seat 6: MaximUSNG (big blind) folded before Flop
+Seat 7: lonely fire folded before Flop (didn't bet)
+Seat 8: daria130399 folded before Flop (didn't bet)
+Seat 9: PleBeY95 collected ($3.56)
+
+
+
+PokerStars Hand #228694643156:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:51:36 ET
+Table 'Walbeck II' 9-max Seat #5 is the button
+Seat 1: Serotonin228 ($50 in chips) 
+Seat 3: ms1272 ($65.43 in chips) 
+Seat 4: Chernovsky ($50 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($152.77 in chips) 
+Seat 8: daria130399 ($50.75 in chips) 
+MaximUSNG: posts small blind $0.25
+lonely fire: is sitting out 
+PleBeY95 leaves the table
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+Serotonin228: folds 
+lonely fire leaves the table
+ms1272: folds 
+Chernovsky: raises $0.75 to $1.25
+BoryaKGB: folds 
+MaximUSNG: folds 
+daria130399: folds 
+Uncalled bet ($0.75) returned to Chernovsky
+Chernovsky collected $1.25 from pot
+Chernovsky: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Serotonin228 folded before Flop (didn't bet)
+Seat 3: ms1272 folded before Flop (didn't bet)
+Seat 4: Chernovsky collected ($1.25)
+Seat 5: BoryaKGB (button) folded before Flop (didn't bet)
+Seat 6: MaximUSNG (small blind) folded before Flop
+Seat 8: daria130399 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228694646252:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:51:47 ET
+Table 'Walbeck II' 9-max Seat #6 is the button
+Seat 4: Chernovsky ($50.75 in chips) 
+Seat 5: BoryaKGB ($50 in chips) 
+Seat 6: MaximUSNG ($152.52 in chips) 
+Seat 8: daria130399 ($50.25 in chips) 
+daria130399: posts small blind $0.25
+Serotonin228: is sitting out 
+Chernovsky: posts big blind $0.50
+*** HOLE CARDS ***
+BoryaKGB: folds 
+ms1272 leaves the table
+MaximUSNG: folds 
+BoryaKGB leaves the table
+daria130399: folds 
+Uncalled bet ($0.25) returned to Chernovsky
+Chernovsky collected $0.50 from pot
+Chernovsky: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 4: Chernovsky (big blind) collected ($0.50)
+Seat 5: BoryaKGB folded before Flop (didn't bet)
+Seat 6: MaximUSNG (button) folded before Flop (didn't bet)
+Seat 8: daria130399 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228694648423:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 20:51:55 ET
+Table 'Walbeck II' 9-max Seat #4 is the button
+Seat 4: Chernovsky ($51 in chips) 
+Seat 8: daria130399 ($50 in chips) 
+Chernovsky: posts small blind $0.25
+MaximUSNG: is sitting out 
+daria130399: posts big blind $0.50
+*** HOLE CARDS ***
+Chernovsky: raises $0.75 to $1.25
+MaximUSNG leaves the table
+daria130399: calls $0.75
+*** FLOP *** [5h 2c Ac]
+daria130399: checks 
+Chernovsky: bets $0.81
+daria130399: folds 
+Uncalled bet ($0.81) returned to Chernovsky
+Chernovsky collected $2.38 from pot
+Chernovsky: doesn't show hand 
+Serotonin228 leaves the table
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [5h 2c Ac]
+Seat 4: Chernovsky (button) (small blind) collected ($2.38)
+Seat 8: daria130399 (big blind) folded on the Flop
+
+
+

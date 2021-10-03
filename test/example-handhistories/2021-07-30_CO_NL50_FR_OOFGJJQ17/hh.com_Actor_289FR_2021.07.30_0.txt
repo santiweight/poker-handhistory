@@ -1,0 +1,36 @@
+﻿PokerStars Hand #228695023643:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 21:15:40 ET
+Table 'Actor II' 9-max Seat #4 is the button
+Seat 3: ikheetangelo ($23.67 in chips) 
+Seat 4: AndyLu)|(ynski ($20.50 in chips) 
+Seat 5: rpksn ($52.81 in chips) 
+Seat 6: xobit26 ($54.14 in chips) 
+rpksn: posts small blind $0.25
+xobit26: posts big blind $0.50
+*** HOLE CARDS ***
+ikheetangelo: calls $0.50
+AndyLu)|(ynski: folds 
+rpksn: folds 
+xobit26: checks 
+*** FLOP *** [Ks Ac Ad]
+xobit26: checks 
+ikheetangelo: checks 
+*** TURN *** [Ks Ac Ad] [5s]
+xobit26: bets $0.89
+ikheetangelo: calls $0.89
+*** RIVER *** [Ks Ac Ad 5s] [Qh]
+xobit26: checks 
+ikheetangelo: checks 
+*** SHOW DOWN ***
+xobit26: shows [6s 4s] (a pair of Aces)
+ikheetangelo: shows [5h 3h] (two pair, Aces and Fives)
+ikheetangelo collected $2.88 from pot
+*** SUMMARY ***
+Total pot $3.03 | Rake $0.15 
+Board [Ks Ac Ad 5s Qh]
+Seat 3: ikheetangelo showed [5h 3h] and won ($2.88) with two pair, Aces and Fives
+Seat 4: AndyLu)|(ynski (button) folded before Flop (didn't bet)
+Seat 5: rpksn (small blind) folded before Flop
+Seat 6: xobit26 (big blind) showed [6s 4s] and lost with a pair of Aces
+
+
+

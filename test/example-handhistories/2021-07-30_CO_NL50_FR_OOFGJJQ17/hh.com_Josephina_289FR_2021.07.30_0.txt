@@ -1,0 +1,815 @@
+﻿PokerStars Hand #228688767353:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:36:41 ET
+Table 'Josephina III' 9-max Seat #4 is the button
+Seat 1: Mrfloppy7 ($63.28 in chips) 
+Seat 2: happyyak ($40 in chips) 
+Seat 3: Rulet345 ($50.74 in chips) 
+Seat 4: artemxxl ($97.85 in chips) 
+Seat 5: wildermorph ($49.50 in chips) 
+Seat 6: eltonmiranda ($40 in chips) 
+Seat 8: grafFIN7 ($55.50 in chips) 
+wildermorph: posts small blind $0.25
+eltonmiranda: posts big blind $0.50
+holdemamn: sits out 
+galina8383: sits out 
+happyyak: posts big blind $0.50
+*** HOLE CARDS ***
+grafFIN7: folds 
+Mrfloppy7: folds 
+happyyak: checks 
+Rulet345: folds 
+artemxxl: raises $1.50 to $2
+wildermorph: folds 
+eltonmiranda: folds 
+happyyak: folds 
+Uncalled bet ($1.50) returned to artemxxl
+artemxxl collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Mrfloppy7 folded before Flop (didn't bet)
+Seat 2: happyyak folded before Flop (didn't bet)
+Seat 3: Rulet345 folded before Flop (didn't bet)
+Seat 4: artemxxl (button) collected ($1.75)
+Seat 5: wildermorph (small blind) folded before Flop
+Seat 6: eltonmiranda (big blind) folded before Flop
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688777403:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:37:02 ET
+Table 'Josephina III' 9-max Seat #5 is the button
+Seat 1: Mrfloppy7 ($63.28 in chips) 
+Seat 2: happyyak ($39.50 in chips) 
+Seat 3: Rulet345 ($50.74 in chips) 
+Seat 4: artemxxl ($99.10 in chips) 
+Seat 5: wildermorph ($49.25 in chips) 
+Seat 6: eltonmiranda ($39.50 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($55.50 in chips) 
+eltonmiranda: posts small blind $0.25
+holdemamn: posts big blind $0.50
+galina8383: sits out 
+*** HOLE CARDS ***
+grafFIN7: folds 
+Mrfloppy7: folds 
+happyyak: calls $0.50
+Rulet345: folds 
+artemxxl: raises $2.25 to $2.75
+wildermorph: folds 
+eltonmiranda: calls $2.50
+holdemamn: folds 
+happyyak: calls $2.25
+*** FLOP *** [8c 5h 4c]
+eltonmiranda: checks 
+happyyak: checks 
+artemxxl: checks 
+*** TURN *** [8c 5h 4c] [5d]
+eltonmiranda: bets $4.15
+happyyak: folds 
+artemxxl: folds 
+Uncalled bet ($4.15) returned to eltonmiranda
+eltonmiranda collected $8.31 from pot
+eltonmiranda: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.44 
+Board [8c 5h 4c 5d]
+Seat 1: Mrfloppy7 folded before Flop (didn't bet)
+Seat 2: happyyak folded on the Turn
+Seat 3: Rulet345 folded before Flop (didn't bet)
+Seat 4: artemxxl folded on the Turn
+Seat 5: wildermorph (button) folded before Flop (didn't bet)
+Seat 6: eltonmiranda (small blind) collected ($8.31)
+Seat 7: holdemamn (big blind) folded before Flop
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688794618:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:37:39 ET
+Table 'Josephina III' 9-max Seat #6 is the button
+Seat 1: Mrfloppy7 ($63.28 in chips) 
+Seat 2: happyyak ($36.75 in chips) 
+Seat 3: Rulet345 ($50.74 in chips) 
+Seat 4: artemxxl ($96.35 in chips) 
+Seat 5: wildermorph ($49.25 in chips) 
+Seat 6: eltonmiranda ($45.06 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($55.50 in chips) 
+holdemamn: posts small blind $0.25
+grafFIN7: posts big blind $0.50
+galina8383: sits out 
+*** HOLE CARDS ***
+Mrfloppy7: calls $0.50
+happyyak: folds 
+Rulet345: raises $1.50 to $2
+artemxxl: folds 
+wildermorph: folds 
+eltonmiranda: calls $2
+holdemamn: folds 
+grafFIN7: folds 
+Mrfloppy7: calls $1.50
+*** FLOP *** [Kc 6s 3c]
+Mrfloppy7: checks 
+Rulet345: checks 
+eltonmiranda: bets $3.20
+Mrfloppy7: folds 
+Rulet345: folds 
+Uncalled bet ($3.20) returned to eltonmiranda
+eltonmiranda collected $6.41 from pot
+eltonmiranda: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.34 
+Board [Kc 6s 3c]
+Seat 1: Mrfloppy7 folded on the Flop
+Seat 2: happyyak folded before Flop (didn't bet)
+Seat 3: Rulet345 folded on the Flop
+Seat 4: artemxxl folded before Flop (didn't bet)
+Seat 5: wildermorph folded before Flop (didn't bet)
+Seat 6: eltonmiranda (button) collected ($6.41)
+Seat 7: holdemamn (small blind) folded before Flop
+Seat 8: grafFIN7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228688810519:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:38:11 ET
+Table 'Josephina III' 9-max Seat #7 is the button
+Seat 1: Mrfloppy7 ($61.28 in chips) 
+Seat 2: happyyak ($36.75 in chips) 
+Seat 3: Rulet345 ($50 in chips) 
+Seat 4: artemxxl ($96.35 in chips) 
+Seat 5: wildermorph ($49.25 in chips) 
+Seat 6: eltonmiranda ($49.47 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($55 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+grafFIN7: posts small blind $0.25
+galina8383: posts big blind $0.50
+*** HOLE CARDS ***
+Mrfloppy7: folds 
+happyyak: folds 
+Rulet345: folds 
+artemxxl: folds 
+wildermorph: folds 
+eltonmiranda: raises $0.50 to $1
+holdemamn: folds 
+grafFIN7: folds 
+galina8383: folds 
+Uncalled bet ($0.50) returned to eltonmiranda
+eltonmiranda collected $1.25 from pot
+eltonmiranda: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mrfloppy7 folded before Flop (didn't bet)
+Seat 2: happyyak folded before Flop (didn't bet)
+Seat 3: Rulet345 folded before Flop (didn't bet)
+Seat 4: artemxxl folded before Flop (didn't bet)
+Seat 5: wildermorph folded before Flop (didn't bet)
+Seat 6: eltonmiranda collected ($1.25)
+Seat 7: holdemamn (button) folded before Flop (didn't bet)
+Seat 8: grafFIN7 (small blind) folded before Flop
+Seat 9: galina8383 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228688819744:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:38:30 ET
+Table 'Josephina III' 9-max Seat #8 is the button
+Seat 1: Mrfloppy7 ($61.28 in chips) 
+Seat 2: happyyak ($36.75 in chips) 
+Seat 3: Rulet345 ($50 in chips) 
+Seat 4: artemxxl ($96.35 in chips) 
+Seat 5: wildermorph ($49.25 in chips) 
+Seat 6: eltonmiranda ($50.22 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($54.75 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+galina8383: posts small blind $0.25
+Mrfloppy7: posts big blind $0.50
+*** HOLE CARDS ***
+happyyak: folds 
+Rulet345: raises $1 to $1.50
+artemxxl: folds 
+wildermorph: folds 
+eltonmiranda: folds 
+holdemamn: folds 
+grafFIN7: folds 
+galina8383: folds 
+Mrfloppy7: folds 
+Uncalled bet ($1) returned to Rulet345
+Rulet345 collected $1.25 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mrfloppy7 (big blind) folded before Flop
+Seat 2: happyyak folded before Flop (didn't bet)
+Seat 3: Rulet345 collected ($1.25)
+Seat 4: artemxxl folded before Flop (didn't bet)
+Seat 5: wildermorph folded before Flop (didn't bet)
+Seat 6: eltonmiranda folded before Flop (didn't bet)
+Seat 7: holdemamn folded before Flop (didn't bet)
+Seat 8: grafFIN7 (button) folded before Flop (didn't bet)
+Seat 9: galina8383 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688825456:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:38:43 ET
+Table 'Josephina III' 9-max Seat #9 is the button
+Seat 1: Mrfloppy7 ($60.78 in chips) 
+Seat 2: happyyak ($36.75 in chips) 
+Seat 3: Rulet345 ($50.75 in chips) 
+Seat 4: artemxxl ($96.35 in chips) 
+Seat 5: wildermorph ($49.25 in chips) 
+Seat 6: eltonmiranda ($50.22 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($54.75 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+Mrfloppy7: posts small blind $0.25
+happyyak: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: raises $1 to $1.50
+artemxxl: folds 
+wildermorph: folds 
+eltonmiranda: folds 
+holdemamn: folds 
+grafFIN7: folds 
+galina8383: folds 
+Mrfloppy7: folds 
+happyyak: folds 
+Uncalled bet ($1) returned to Rulet345
+Rulet345 collected $1.25 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mrfloppy7 (small blind) folded before Flop
+Seat 2: happyyak (big blind) folded before Flop
+Seat 3: Rulet345 collected ($1.25)
+Seat 4: artemxxl folded before Flop (didn't bet)
+Seat 5: wildermorph folded before Flop (didn't bet)
+Seat 6: eltonmiranda folded before Flop (didn't bet)
+Seat 7: holdemamn folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: galina8383 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688833892:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:39:00 ET
+Table 'Josephina III' 9-max Seat #1 is the button
+Seat 1: Mrfloppy7 ($60.53 in chips) 
+Seat 2: happyyak ($36.25 in chips) 
+Seat 3: Rulet345 ($51.50 in chips) 
+Seat 4: artemxxl ($96.35 in chips) 
+Seat 5: wildermorph ($49.25 in chips) 
+Seat 6: eltonmiranda ($50.22 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($54.75 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+happyyak: posts small blind $0.25
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+artemxxl: folds 
+wildermorph: folds 
+eltonmiranda: folds 
+holdemamn: folds 
+grafFIN7: folds 
+galina8383: folds 
+Mrfloppy7: folds 
+happyyak: folds 
+Uncalled bet ($0.25) returned to Rulet345
+Rulet345 collected $0.50 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Mrfloppy7 (button) folded before Flop (didn't bet)
+Seat 2: happyyak (small blind) folded before Flop
+Seat 3: Rulet345 (big blind) collected ($0.50)
+Seat 4: artemxxl folded before Flop (didn't bet)
+Seat 5: wildermorph folded before Flop (didn't bet)
+Seat 6: eltonmiranda folded before Flop (didn't bet)
+Seat 7: holdemamn folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: galina8383 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688842406:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:39:18 ET
+Table 'Josephina III' 9-max Seat #2 is the button
+Seat 1: Mrfloppy7 ($60.53 in chips) 
+Seat 2: happyyak ($36 in chips) 
+Seat 3: Rulet345 ($51.75 in chips) 
+Seat 4: artemxxl ($96.35 in chips) 
+Seat 5: wildermorph ($49.25 in chips) 
+Seat 6: eltonmiranda ($50.22 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($54.75 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+Rulet345: posts small blind $0.25
+artemxxl: posts big blind $0.50
+*** HOLE CARDS ***
+wildermorph: folds 
+eltonmiranda: folds 
+holdemamn: folds 
+grafFIN7: folds 
+galina8383: folds 
+Mrfloppy7 has timed out
+Mrfloppy7: folds 
+happyyak: folds 
+Rulet345: folds 
+Uncalled bet ($0.25) returned to artemxxl
+artemxxl collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Mrfloppy7 folded before Flop (didn't bet)
+Seat 2: happyyak (button) folded before Flop (didn't bet)
+Seat 3: Rulet345 (small blind) folded before Flop
+Seat 4: artemxxl (big blind) collected ($0.50)
+Seat 5: wildermorph folded before Flop (didn't bet)
+Seat 6: eltonmiranda folded before Flop (didn't bet)
+Seat 7: holdemamn folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: galina8383 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688854860:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:39:44 ET
+Table 'Josephina III' 9-max Seat #3 is the button
+Seat 2: happyyak ($36 in chips) 
+Seat 3: Rulet345 ($51.50 in chips) 
+Seat 4: artemxxl ($96.60 in chips) 
+Seat 5: wildermorph ($49.25 in chips) 
+Seat 6: eltonmiranda ($50.22 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($54.75 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+artemxxl: posts small blind $0.25
+wildermorph: posts big blind $0.50
+*** HOLE CARDS ***
+eltonmiranda: folds 
+holdemamn: folds 
+grafFIN7: raises $0.75 to $1.25
+galina8383: folds 
+happyyak: folds 
+Rulet345: folds 
+artemxxl: folds 
+wildermorph: folds 
+Uncalled bet ($0.75) returned to grafFIN7
+grafFIN7 collected $1.25 from pot
+grafFIN7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: happyyak folded before Flop (didn't bet)
+Seat 3: Rulet345 (button) folded before Flop (didn't bet)
+Seat 4: artemxxl (small blind) folded before Flop
+Seat 5: wildermorph (big blind) folded before Flop
+Seat 6: eltonmiranda folded before Flop (didn't bet)
+Seat 7: holdemamn folded before Flop (didn't bet)
+Seat 8: grafFIN7 collected ($1.25)
+Seat 9: galina8383 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688864231:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:40:04 ET
+Table 'Josephina III' 9-max Seat #4 is the button
+Seat 2: happyyak ($36 in chips) 
+Seat 3: Rulet345 ($51.50 in chips) 
+Seat 4: artemxxl ($96.35 in chips) 
+Seat 5: wildermorph ($48.75 in chips) 
+Seat 6: eltonmiranda ($50.22 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($55.50 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+wildermorph: posts small blind $0.25
+eltonmiranda: posts big blind $0.50
+*** HOLE CARDS ***
+holdemamn: folds 
+grafFIN7: folds 
+galina8383: folds 
+happyyak has timed out
+happyyak: folds 
+Rulet345: folds 
+artemxxl: folds 
+wildermorph: folds 
+Uncalled bet ($0.25) returned to eltonmiranda
+eltonmiranda collected $0.50 from pot
+eltonmiranda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: happyyak folded before Flop (didn't bet)
+Seat 3: Rulet345 folded before Flop (didn't bet)
+Seat 4: artemxxl (button) folded before Flop (didn't bet)
+Seat 5: wildermorph (small blind) folded before Flop
+Seat 6: eltonmiranda (big blind) collected ($0.50)
+Seat 7: holdemamn folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: galina8383 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688874706:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:40:26 ET
+Table 'Josephina III' 9-max Seat #5 is the button
+Seat 1: Mrfloppy7 ($60.53 in chips) 
+Seat 2: happyyak ($36 in chips) 
+Seat 3: Rulet345 ($51.50 in chips) 
+Seat 4: artemxxl ($96.35 in chips) 
+Seat 5: wildermorph ($48.50 in chips) 
+Seat 6: eltonmiranda ($50.47 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($55.50 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+eltonmiranda: posts small blind $0.25
+holdemamn: posts big blind $0.50
+*** HOLE CARDS ***
+grafFIN7: folds 
+galina8383: folds 
+Mrfloppy7: folds 
+happyyak: folds 
+Rulet345: folds 
+artemxxl: raises $0.75 to $1.25
+wildermorph: folds 
+eltonmiranda: folds 
+holdemamn: folds 
+Uncalled bet ($0.75) returned to artemxxl
+artemxxl collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mrfloppy7 folded before Flop (didn't bet)
+Seat 2: happyyak folded before Flop (didn't bet)
+Seat 3: Rulet345 folded before Flop (didn't bet)
+Seat 4: artemxxl collected ($1.25)
+Seat 5: wildermorph (button) folded before Flop (didn't bet)
+Seat 6: eltonmiranda (small blind) folded before Flop
+Seat 7: holdemamn (big blind) folded before Flop
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: galina8383 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688888654:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:40:48 ET
+Table 'Josephina III' 9-max Seat #6 is the button
+Seat 1: Mrfloppy7 ($60.53 in chips) 
+Seat 2: happyyak ($36 in chips) 
+Seat 3: Rulet345 ($51.50 in chips) 
+Seat 4: artemxxl ($97.10 in chips) 
+Seat 5: wildermorph ($48.50 in chips) 
+Seat 6: eltonmiranda ($50.22 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($55.50 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+holdemamn: posts small blind $0.25
+grafFIN7: posts big blind $0.50
+*** HOLE CARDS ***
+galina8383: folds 
+Mrfloppy7: calls $0.50
+happyyak: folds 
+Rulet345: folds 
+artemxxl: raises $2.25 to $2.75
+wildermorph: folds 
+eltonmiranda: folds 
+holdemamn: folds 
+grafFIN7: folds 
+Mrfloppy7: calls $2.25
+*** FLOP *** [5d 5s Js]
+Mrfloppy7: checks 
+artemxxl: bets $3.75
+Mrfloppy7: raises $3.75 to $7.50
+artemxxl: calls $3.75
+*** TURN *** [5d 5s Js] [2c]
+Mrfloppy7: bets $10.10
+artemxxl: calls $10.10
+*** RIVER *** [5d 5s Js 2c] [9c]
+Mrfloppy7: checks 
+artemxxl: checks 
+*** SHOW DOWN ***
+Mrfloppy7: shows [Jh Ts] (two pair, Jacks and Fives)
+artemxxl: shows [Ad As] (two pair, Aces and Fives)
+artemxxl collected $39.45 from pot
+*** SUMMARY ***
+Total pot $41.45 | Rake $2 
+Board [5d 5s Js 2c 9c]
+Seat 1: Mrfloppy7 showed [Jh Ts] and lost with two pair, Jacks and Fives
+Seat 2: happyyak folded before Flop (didn't bet)
+Seat 3: Rulet345 folded before Flop (didn't bet)
+Seat 4: artemxxl showed [Ad As] and won ($39.45) with two pair, Aces and Fives
+Seat 5: wildermorph folded before Flop (didn't bet)
+Seat 6: eltonmiranda (button) folded before Flop (didn't bet)
+Seat 7: holdemamn (small blind) folded before Flop
+Seat 8: grafFIN7 (big blind) folded before Flop
+Seat 9: galina8383 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688911377:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:41:36 ET
+Table 'Josephina III' 9-max Seat #7 is the button
+Seat 1: Mrfloppy7 ($40.18 in chips) 
+Seat 2: happyyak ($36 in chips) 
+Seat 3: Rulet345 ($51.50 in chips) 
+Seat 4: artemxxl ($116.20 in chips) 
+Seat 5: wildermorph ($48.50 in chips) 
+Seat 6: eltonmiranda ($50.22 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($55 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+grafFIN7: posts small blind $0.25
+galina8383: posts big blind $0.50
+*** HOLE CARDS ***
+Mrfloppy7: calls $0.50
+happyyak: folds 
+Rulet345: folds 
+artemxxl: folds 
+wildermorph: folds 
+eltonmiranda: folds 
+holdemamn: folds 
+grafFIN7: calls $0.25
+galina8383: checks 
+*** FLOP *** [7c 6s 5c]
+grafFIN7: checks 
+galina8383: checks 
+Mrfloppy7: bets $0.71
+grafFIN7: folds 
+galina8383: folds 
+Uncalled bet ($0.71) returned to Mrfloppy7
+Mrfloppy7 collected $1.42 from pot
+Mrfloppy7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [7c 6s 5c]
+Seat 1: Mrfloppy7 collected ($1.42)
+Seat 2: happyyak folded before Flop (didn't bet)
+Seat 3: Rulet345 folded before Flop (didn't bet)
+Seat 4: artemxxl folded before Flop (didn't bet)
+Seat 5: wildermorph folded before Flop (didn't bet)
+Seat 6: eltonmiranda folded before Flop (didn't bet)
+Seat 7: holdemamn (button) folded before Flop (didn't bet)
+Seat 8: grafFIN7 (small blind) folded on the Flop
+Seat 9: galina8383 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228688924484:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:42:04 ET
+Table 'Josephina III' 9-max Seat #8 is the button
+Seat 1: Mrfloppy7 ($41.10 in chips) 
+Seat 2: happyyak ($36 in chips) 
+Seat 3: Rulet345 ($51.50 in chips) 
+Seat 4: artemxxl ($116.20 in chips) 
+Seat 5: wildermorph ($48.50 in chips) 
+Seat 6: eltonmiranda ($50.22 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($54.50 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+galina8383: posts small blind $0.25
+Mrfloppy7: posts big blind $0.50
+*** HOLE CARDS ***
+happyyak: folds 
+happyyak leaves the table
+Rulet345: folds 
+artemxxl: folds 
+wildermorph: folds 
+SwimmingPooI joins the table at seat #2 
+eltonmiranda: folds 
+holdemamn: folds 
+grafFIN7: raises $0.94 to $1.44
+galina8383: folds 
+Mrfloppy7: folds 
+Uncalled bet ($0.94) returned to grafFIN7
+grafFIN7 collected $1.25 from pot
+grafFIN7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mrfloppy7 (big blind) folded before Flop
+Seat 2: happyyak folded before Flop (didn't bet)
+Seat 3: Rulet345 folded before Flop (didn't bet)
+Seat 4: artemxxl folded before Flop (didn't bet)
+Seat 5: wildermorph folded before Flop (didn't bet)
+Seat 6: eltonmiranda folded before Flop (didn't bet)
+Seat 7: holdemamn folded before Flop (didn't bet)
+Seat 8: grafFIN7 (button) collected ($1.25)
+Seat 9: galina8383 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688932817:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:42:22 ET
+Table 'Josephina III' 9-max Seat #9 is the button
+Seat 1: Mrfloppy7 ($40.60 in chips) 
+Seat 2: SwimmingPooI ($50 in chips) 
+Seat 3: Rulet345 ($51.50 in chips) 
+Seat 4: artemxxl ($116.20 in chips) 
+Seat 5: wildermorph ($48.50 in chips) 
+Seat 6: eltonmiranda ($50.22 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($55.25 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+Mrfloppy7: posts small blind $0.25
+SwimmingPooI: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+artemxxl: folds 
+wildermorph: folds 
+eltonmiranda: raises $1.25 to $1.75
+holdemamn: folds 
+grafFIN7: folds 
+galina8383: folds 
+Mrfloppy7: folds 
+SwimmingPooI: folds 
+Uncalled bet ($1.25) returned to eltonmiranda
+Mrfloppy7 leaves the table
+eltonmiranda collected $1.25 from pot
+eltonmiranda: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Mrfloppy7 (small blind) folded before Flop
+Seat 2: SwimmingPooI (big blind) folded before Flop
+Seat 3: Rulet345 folded before Flop (didn't bet)
+Seat 4: artemxxl folded before Flop (didn't bet)
+Seat 5: wildermorph folded before Flop (didn't bet)
+Seat 6: eltonmiranda collected ($1.25)
+Seat 7: holdemamn folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: galina8383 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688950166:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:42:59 ET
+Table 'Josephina III' 9-max Seat #2 is the button
+Seat 2: SwimmingPooI ($50 in chips) 
+Seat 3: Rulet345 ($51.50 in chips) 
+Seat 4: artemxxl ($116.20 in chips) 
+Seat 5: wildermorph ($48.50 in chips) 
+Seat 6: eltonmiranda ($50.97 in chips) 
+Seat 7: holdemamn ($50 in chips) 
+Seat 8: grafFIN7 ($55.25 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+Rulet345: posts small blind $0.25
+artemxxl: posts big blind $0.50
+*** HOLE CARDS ***
+wildermorph: folds 
+eltonmiranda has timed out
+eltonmiranda: folds 
+holdemamn: folds 
+grafFIN7: folds 
+holdemamn leaves the table
+galina8383: folds 
+SwimmingPooI: folds 
+Rulet345: raises $1 to $1.50
+artemxxl: folds 
+Uncalled bet ($1) returned to Rulet345
+Rulet345 collected $1 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: SwimmingPooI (button) folded before Flop (didn't bet)
+Seat 3: Rulet345 (small blind) collected ($1)
+Seat 4: artemxxl (big blind) folded before Flop
+Seat 5: wildermorph folded before Flop (didn't bet)
+Seat 6: eltonmiranda folded before Flop (didn't bet)
+Seat 7: holdemamn folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: galina8383 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688964414:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:43:29 ET
+Table 'Josephina III' 9-max Seat #3 is the button
+Seat 2: SwimmingPooI ($50 in chips) 
+Seat 3: Rulet345 ($52 in chips) 
+Seat 4: artemxxl ($115.70 in chips) 
+Seat 5: wildermorph ($48.50 in chips) 
+Seat 6: eltonmiranda ($50.97 in chips) 
+Seat 8: grafFIN7 ($55.25 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+artemxxl: posts small blind $0.25
+wildermorph: posts big blind $0.50
+*** HOLE CARDS ***
+eltonmiranda: folds 
+grafFIN7: folds 
+galina8383: folds 
+SwimmingPooI: folds 
+Rulet345: folds 
+artemxxl: raises $1 to $1.50
+wildermorph: folds 
+Uncalled bet ($1) returned to artemxxl
+artemxxl collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: SwimmingPooI folded before Flop (didn't bet)
+Seat 3: Rulet345 (button) folded before Flop (didn't bet)
+Seat 4: artemxxl (small blind) collected ($1)
+Seat 5: wildermorph (big blind) folded before Flop
+Seat 6: eltonmiranda folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: galina8383 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688974497:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:43:50 ET
+Table 'Josephina III' 9-max Seat #4 is the button
+Seat 2: SwimmingPooI ($50 in chips) 
+Seat 3: Rulet345 ($52 in chips) 
+Seat 4: artemxxl ($116.20 in chips) 
+Seat 5: wildermorph ($48 in chips) 
+Seat 6: eltonmiranda ($50.97 in chips) 
+Seat 8: grafFIN7 ($55.25 in chips) 
+Seat 9: galina8383 ($50 in chips) 
+wildermorph: posts small blind $0.25
+eltonmiranda: posts big blind $0.50
+*** HOLE CARDS ***
+grafFIN7: folds 
+grafFIN7 leaves the table
+galina8383: folds 
+SwimmingPooI: folds 
+Rulet345: raises $0.75 to $1.25
+artemxxl: folds 
+artemxxl leaves the table
+wildermorph: folds 
+eltonmiranda: folds 
+Uncalled bet ($0.75) returned to Rulet345
+Rulet345 collected $1.25 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: SwimmingPooI folded before Flop (didn't bet)
+Seat 3: Rulet345 collected ($1.25)
+Seat 4: artemxxl (button) folded before Flop (didn't bet)
+Seat 5: wildermorph (small blind) folded before Flop
+Seat 6: eltonmiranda (big blind) folded before Flop
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: galina8383 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688985447:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:44:14 ET
+Table 'Josephina III' 9-max Seat #5 is the button
+Seat 3: Rulet345 ($52.75 in chips) 
+Seat 5: wildermorph ($47.75 in chips) 
+Seat 6: eltonmiranda ($50.47 in chips) 
+eltonmiranda: posts small blind $0.25
+galina8383: is sitting out 
+SwimmingPooI: is sitting out 
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+wildermorph: folds 
+eltonmiranda: folds 
+Uncalled bet ($0.25) returned to Rulet345
+galina8383 leaves the table
+Rulet345 collected $0.50 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: Rulet345 (big blind) collected ($0.50)
+Seat 5: wildermorph (button) folded before Flop (didn't bet)
+Seat 6: eltonmiranda (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688988282:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:44:20 ET
+Table 'Josephina III' 9-max Seat #3 is the button
+Seat 3: Rulet345 ($53 in chips) 
+Seat 6: eltonmiranda ($50.22 in chips) 
+Rulet345: posts small blind $0.25
+eltonmiranda: posts big blind $0.50
+*** HOLE CARDS ***
+SwimmingPooI leaves the table
+Rulet345: folds 
+Uncalled bet ($0.25) returned to eltonmiranda
+eltonmiranda collected $0.50 from pot
+eltonmiranda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: Rulet345 (button) (small blind) folded before Flop
+Seat 6: eltonmiranda (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228688992232:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:44:28 ET
+Table 'Josephina III' 9-max Seat #6 is the button
+Seat 3: Rulet345 ($52.75 in chips) 
+Seat 6: eltonmiranda ($50.47 in chips) 
+eltonmiranda: posts small blind $0.25
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+eltonmiranda: raises $0.50 to $1
+Rulet345: folds 
+Uncalled bet ($0.50) returned to eltonmiranda
+eltonmiranda collected $1 from pot
+eltonmiranda: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Rulet345 (big blind) folded before Flop
+Seat 6: eltonmiranda (button) (small blind) collected ($1)
+
+
+
+PokerStars Hand #228688995210:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:44:35 ET
+Table 'Josephina III' 9-max Seat #3 is the button
+Seat 3: Rulet345 ($52.25 in chips) 
+Seat 6: eltonmiranda ($50.97 in chips) 
+Rulet345: posts small blind $0.25
+eltonmiranda: posts big blind $0.50
+*** HOLE CARDS ***
+wildermorph leaves the table
+Rulet345: folds 
+Uncalled bet ($0.25) returned to eltonmiranda
+eltonmiranda collected $0.50 from pot
+eltonmiranda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: Rulet345 (button) (small blind) folded before Flop
+Seat 6: eltonmiranda (big blind) collected ($0.50)
+
+
+

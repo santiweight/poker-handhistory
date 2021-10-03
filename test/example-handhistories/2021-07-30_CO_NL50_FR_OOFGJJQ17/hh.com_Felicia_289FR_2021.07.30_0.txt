@@ -1,0 +1,4368 @@
+﻿PokerStars Hand #228679989554:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:27:58 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 2: Zhud19 ($89.70 in chips) 
+Seat 3: cartman177 ($50 in chips) 
+Seat 4: Malotru67 ($50 in chips) 
+Seat 5: soncause ($50 in chips) 
+Malotru67: posts small blind $0.25
+soncause: posts big blind $0.50
+Zhud19: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+soncause: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: raises $1 to $1.50
+cartman177: folds 
+Malotru67: raises $4.50 to $6
+soncause: folds 
+Zhud19: folds 
+Uncalled bet ($4.50) returned to Malotru67
+Malotru67 collected $3.90 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.90 | Rake $0 
+Seat 2: Zhud19 folded before Flop
+Seat 3: cartman177 (button) folded before Flop (didn't bet)
+Seat 4: Malotru67 (small blind) collected ($3.90)
+Seat 5: soncause (big blind) folded before Flop
+
+
+
+PokerStars Hand #228679963198:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:26:33 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 2: Zhud19 ($89.80 in chips) 
+Seat 3: cartman177 ($50 in chips) 
+Seat 4: Malotru67 ($50 in chips) 
+cartman177: posts small blind $0.25
+Malotru67: posts big blind $0.50
+Zhud19: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+cartman177: raises $1 to $1.50
+Malotru67: raises $3 to $4.50
+cartman177: calls $3
+*** FLOP *** [4s Qs 7c]
+cartman177: checks 
+Malotru67: checks 
+*** TURN *** [4s Qs 7c] [9h]
+cartman177: bets $6.63
+Malotru67: calls $6.63
+*** RIVER *** [4s Qs 7c 9h] [4h]
+soncause joins the table at seat #5 
+cartman177: bets $16
+allbert844 leaves the table
+Malotru67: calls $16
+*** SHOW DOWN ***
+cartman177: shows [Qh Ac] (two pair, Queens and Fours)
+Malotru67: shows [Qc As] (two pair, Queens and Fours)
+cartman177 collected $26.91 from pot
+Malotru67 collected $26.90 from pot
+*** SUMMARY ***
+Total pot $54.56 | Rake $0.75 
+Board [4s Qs 7c 9h 4h]
+Seat 2: Zhud19 (button) folded before Flop (didn't bet)
+Seat 3: cartman177 (small blind) showed [Qh Ac] and won ($26.91) with two pair, Queens and Fours
+Seat 4: Malotru67 (big blind) showed [Qc As] and won ($26.90) with two pair, Queens and Fours
+
+
+
+PokerStars Hand #228679994997:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:28:16 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 2: Zhud19 ($88.10 in chips) 
+Seat 3: cartman177 ($50 in chips) 
+Seat 4: Malotru67 ($52.30 in chips) 
+Seat 5: soncause ($50 in chips) 
+soncause: posts small blind $0.25
+Zhud19: posts big blind $0.50
+Zhud19: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+soncause: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+cartman177 leaves the table
+Malotru67: folds 
+Malotru67 leaves the table
+soncause: raises $1 to $1.50
+Zhud19: folds 
+Uncalled bet ($1) returned to soncause
+soncause collected $1.40 from pot
+soncause: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.40 | Rake $0 
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 3: cartman177 folded before Flop (didn't bet)
+Seat 4: Malotru67 (button) folded before Flop (didn't bet)
+Seat 5: soncause (small blind) collected ($1.40)
+
+
+
+PokerStars Hand #228680000350:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:28:33 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 2: Zhud19 ($87.50 in chips) 
+Seat 5: soncause ($50.80 in chips) 
+Zhud19: posts small blind $0.25
+soncause: posts big blind $0.50
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+Uncalled bet ($0.25) returned to soncause
+soncause collected $0.70 from pot
+soncause: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 2: Zhud19 (button) (small blind) folded before Flop
+Seat 5: soncause (big blind) collected ($0.70)
+
+
+
+PokerStars Hand #228680006147:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:28:52 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 2: Zhud19 ($87.15 in chips) 
+Seat 5: soncause ($51.15 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+SpeeLy: posts small blind $0.25
+Zhud19: posts big blind $0.50
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: raises $1 to $1.50
+SpeeLy: folds 
+Zhud19: folds 
+Uncalled bet ($1) returned to soncause
+soncause collected $1.55 from pot
+soncause: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0 
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 5: soncause (button) collected ($1.55)
+Seat 6: SpeeLy (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680008677:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:29:00 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 2: Zhud19 ($86.55 in chips) 
+Seat 5: soncause ($52.10 in chips) 
+Seat 6: SpeeLy ($50 in chips) 
+Zhud19: posts small blind $0.25
+soncause: posts big blind $0.50
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+SpeeLy: raises $0.75 to $1.25
+Zhud19: folds 
+soncause: calls $0.75
+*** FLOP *** [Td 6c 5d]
+soncause: checks 
+SpeeLy: bets $1.48
+soncause: calls $1.48
+*** TURN *** [Td 6c 5d] [9d]
+soncause: checks 
+SpeeLy: bets $5
+soncause: folds 
+Uncalled bet ($5) returned to SpeeLy
+SpeeLy collected $5.71 from pot
+SpeeLy: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.01 | Rake $0.30 
+Board [Td 6c 5d 9d]
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 5: soncause (big blind) folded on the Turn
+Seat 6: SpeeLy (button) collected ($5.71)
+
+
+
+PokerStars Hand #228680016120:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:29:25 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 2: Zhud19 ($86.20 in chips) 
+Seat 5: soncause ($50 in chips) 
+Seat 6: SpeeLy ($52.88 in chips) 
+soncause: posts small blind $0.25
+SpeeLy: posts big blind $0.50
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: raises $1 to $1.50
+soncause: folds 
+SpeeLy: folds 
+Uncalled bet ($1) returned to Zhud19
+Zhud19 collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0 
+Seat 2: Zhud19 (button) collected ($1.55)
+Seat 5: soncause (small blind) folded before Flop
+Seat 6: SpeeLy (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680020566:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:29:39 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 2: Zhud19 ($87.15 in chips) 
+Seat 5: soncause ($50 in chips) 
+Seat 6: SpeeLy ($52.28 in chips) 
+SpeeLy: posts small blind $0.25
+Zhud19: posts big blind $0.50
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: raises $1 to $1.50
+SpeeLy: raises $3.50 to $5
+Zhud19: folds 
+soncause: folds 
+Uncalled bet ($3.50) returned to SpeeLy
+SpeeLy collected $3.80 from pot
+SpeeLy: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.80 | Rake $0 
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 5: soncause (button) folded before Flop
+Seat 6: SpeeLy (small blind) collected ($3.80)
+
+
+
+PokerStars Hand #228680026338:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:29:58 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 2: Zhud19 ($86.55 in chips) 
+Seat 5: soncause ($50 in chips) 
+Seat 6: SpeeLy ($54.48 in chips) 
+Zhud19: posts small blind $0.25
+soncause: posts big blind $0.50
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+SpeeLy: folds 
+Zhud19: raises $1 to $1.50
+soncause: calls $1
+*** FLOP *** [5h 7d 2s]
+Zhud19: bets $1
+soncause: calls $1
+*** TURN *** [5h 7d 2s] [Ah]
+Zhud19: bets $6.50
+soncause: folds 
+Uncalled bet ($6.50) returned to Zhud19
+Zhud19 collected $5.04 from pot
+*** SUMMARY ***
+Total pot $5.30 | Rake $0.26 
+Board [5h 7d 2s Ah]
+Seat 2: Zhud19 (small blind) collected ($5.04)
+Seat 5: soncause (big blind) folded on the Turn
+Seat 6: SpeeLy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680033926:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:30:23 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 2: Zhud19 ($88.99 in chips) 
+Seat 5: soncause ($50 in chips) 
+Seat 6: SpeeLy ($54.38 in chips) 
+soncause: posts small blind $0.25
+SpeeLy: posts big blind $0.50
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: raises $1 to $1.50
+soncause: calls $1.25
+SpeeLy: folds 
+*** FLOP *** [5c Td 7h]
+soncause: checks 
+Zhud19: checks 
+*** TURN *** [5c Td 7h] [5d]
+soncause: bets $1.80
+Zhud19: folds 
+Uncalled bet ($1.80) returned to soncause
+soncause collected $3.61 from pot
+soncause: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.19 
+Board [5c Td 7h 5d]
+Seat 2: Zhud19 (button) folded on the Turn
+Seat 5: soncause (small blind) collected ($3.61)
+Seat 6: SpeeLy (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680043544:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:30:54 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 2: Zhud19 ($87.39 in chips) 
+Seat 5: soncause ($52.01 in chips) 
+Seat 6: SpeeLy ($53.78 in chips) 
+SpeeLy: posts small blind $0.25
+Zhud19: posts big blind $0.50
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: raises $1 to $1.50
+SpeeLy: folds 
+Zhud19: folds 
+Uncalled bet ($1) returned to soncause
+soncause collected $1.55 from pot
+soncause: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0 
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 5: soncause (button) collected ($1.55)
+Seat 6: SpeeLy (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680047349:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:31:06 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 2: Zhud19 ($86.79 in chips) 
+Seat 5: soncause ($52.96 in chips) 
+Seat 6: SpeeLy ($53.43 in chips) 
+Zhud19: posts small blind $0.25
+soncause: posts big blind $0.50
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+SpeeLy: folds 
+Zhud19: raises $1 to $1.50
+soncause: calls $1
+*** FLOP *** [3s 6c Jc]
+dstrola joins the table at seat #1 
+Zhud19: bets $1
+soncause: calls $1
+*** TURN *** [3s 6c Jc] [7s]
+Zhud19: bets $3.50
+soncause: folds 
+Uncalled bet ($3.50) returned to Zhud19
+Zhud19 collected $5.04 from pot
+*** SUMMARY ***
+Total pot $5.30 | Rake $0.26 
+Board [3s 6c Jc 7s]
+Seat 2: Zhud19 (small blind) collected ($5.04)
+Seat 5: soncause (big blind) folded on the Turn
+Seat 6: SpeeLy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680053961:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:31:27 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 2: Zhud19 ($89.23 in chips) 
+Seat 5: soncause ($50.36 in chips) 
+Seat 6: SpeeLy ($53.33 in chips) 
+soncause: posts small blind $0.25
+SpeeLy: posts big blind $0.50
+dstrola: sits out 
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: raises $1 to $1.50
+soncause: calls $1.25
+SpeeLy: calls $1
+*** FLOP *** [7s Qd 7c]
+soncause: checks 
+SpeeLy: checks 
+Zhud19: bets $1
+soncause: calls $1
+SpeeLy: raises $4 to $5
+Zhud19: calls $4
+soncause: folds 
+*** TURN *** [7s Qd 7c] [Ac]
+SpeeLy: checks 
+Zhud19: checks 
+*** RIVER *** [7s Qd 7c Ac] [Kh]
+SpeeLy: checks 
+Zhud19: checks 
+*** SHOW DOWN ***
+SpeeLy: shows [5d 7d] (three of a kind, Sevens)
+Zhud19: mucks hand 
+SpeeLy collected $15.05 from pot
+*** SUMMARY ***
+Total pot $15.80 | Rake $0.75 
+Board [7s Qd 7c Ac Kh]
+Seat 2: Zhud19 (button) mucked
+Seat 5: soncause (small blind) folded on the Flop
+Seat 6: SpeeLy (big blind) showed [5d 7d] and won ($15.05) with three of a kind, Sevens
+
+
+
+PokerStars Hand #228680068851:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:32:16 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: dstrola ($50 in chips) 
+Seat 2: Zhud19 ($82.63 in chips) 
+Seat 5: soncause ($50 in chips) 
+Seat 6: SpeeLy ($61.78 in chips) 
+SpeeLy: posts small blind $0.25
+dstrola: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: raises $1 to $1.50
+soncause: folds 
+SpeeLy: folds 
+dstrola: raises $3.50 to $5
+Zhud19: raises $7.50 to $12.50
+dstrola: calls $7.50
+*** FLOP *** [Kc Qs 6h]
+dstrola: checks 
+Zhud19: bets $6
+dstrola: calls $6
+*** TURN *** [Kc Qs 6h] [6s]
+dstrola: checks 
+Zhud19: bets $36.90
+dstrola: folds 
+Uncalled bet ($36.90) returned to Zhud19
+Zhud19 collected $36.90 from pot
+*** SUMMARY ***
+Total pot $37.65 | Rake $0.75 
+Board [Kc Qs 6h 6s]
+Seat 1: dstrola (big blind) folded on the Turn
+Seat 2: Zhud19 collected ($36.90)
+Seat 5: soncause (button) folded before Flop (didn't bet)
+Seat 6: SpeeLy (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680080504:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:32:54 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: dstrola ($50 in chips) 
+Seat 2: Zhud19 ($100.93 in chips) 
+Seat 5: soncause ($50 in chips) 
+Seat 6: SpeeLy ($61.43 in chips) 
+dstrola: posts small blind $0.25
+Zhud19: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: raises $1 to $1.50
+SpeeLy: raises $3.50 to $5
+dstrola: folds 
+Zhud19: folds 
+soncause: calls $3.50
+*** FLOP *** [9c Js 4d]
+soncause: checks 
+SpeeLy: checks 
+*** TURN *** [9c Js 4d] [Jh]
+soncause: checks 
+SpeeLy: checks 
+*** RIVER *** [9c Js 4d Jh] [6d]
+soncause: checks 
+SpeeLy: checks 
+*** SHOW DOWN ***
+soncause: shows [7s Ah] (a pair of Jacks)
+SpeeLy: shows [Qs Ac] (a pair of Jacks - Ace+Queen kicker)
+SpeeLy collected $10.59 from pot
+*** SUMMARY ***
+Total pot $11.15 | Rake $0.56 
+Board [9c Js 4d Jh 6d]
+Seat 1: dstrola (small blind) folded before Flop
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 5: soncause showed [7s Ah] and lost with a pair of Jacks
+Seat 6: SpeeLy (button) showed [Qs Ac] and won ($10.59) with a pair of Jacks
+
+
+
+PokerStars Hand #228680093785:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:33:37 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: dstrola ($50 in chips) 
+Seat 2: Zhud19 ($100.33 in chips) 
+Seat 5: soncause ($50 in chips) 
+Seat 6: SpeeLy ($66.92 in chips) 
+Zhud19: posts small blind $0.25
+soncause: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+SpeeLy: raises $0.75 to $1.25
+dstrola: folds 
+Zhud19: folds 
+soncause: calls $0.75
+*** FLOP *** [3d 9s Jc]
+soncause: checks 
+SpeeLy: checks 
+*** TURN *** [3d 9s Jc] [9d]
+soncause: checks 
+SpeeLy: bets $0.99
+soncause: calls $0.99
+*** RIVER *** [3d 9s Jc 9d] [5h]
+soncause: checks 
+SpeeLy: checks 
+*** SHOW DOWN ***
+soncause: shows [5c Ad] (two pair, Nines and Fives)
+SpeeLy: mucks hand 
+soncause collected $4.87 from pot
+*** SUMMARY ***
+Total pot $5.13 | Rake $0.26 
+Board [3d 9s Jc 9d 5h]
+Seat 1: dstrola (button) folded before Flop (didn't bet)
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 5: soncause (big blind) showed [5c Ad] and won ($4.87) with two pair, Nines and Fives
+Seat 6: SpeeLy mucked
+
+
+
+PokerStars Hand #228680101315:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:34:02 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: dstrola ($50 in chips) 
+Seat 2: Zhud19 ($99.98 in chips) 
+Seat 5: soncause ($52.53 in chips) 
+Seat 6: SpeeLy ($64.58 in chips) 
+soncause: posts small blind $0.25
+SpeeLy: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+dstrola: folds 
+Zhud19: raises $1 to $1.50
+soncause: calls $1.25
+SpeeLy: folds 
+*** FLOP *** [Jc Td 9d]
+soncause: checks 
+Zhud19: checks 
+*** TURN *** [Jc Td 9d] [Kc]
+soncause: checks 
+Zhud19: checks 
+*** RIVER *** [Jc Td 9d Kc] [3c]
+soncause: checks 
+Zhud19: checks 
+*** SHOW DOWN ***
+soncause: shows [Qc 9h] (a straight, Nine to King)
+Zhud19: mucks hand 
+soncause collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.90 | Rake $0.20 
+Board [Jc Td 9d Kc 3c]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 (button) mucked
+Seat 5: soncause (small blind) showed [Qc 9h] and won ($3.70) with a straight, Nine to King
+Seat 6: SpeeLy (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680108051:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:34:23 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: dstrola ($50 in chips) 
+Seat 2: Zhud19 ($98.38 in chips) 
+Seat 5: soncause ($54.63 in chips) 
+Seat 6: SpeeLy ($63.98 in chips) 
+SpeeLy: posts small blind $0.25
+dstrola: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+soncause: raises $0.50 to $1
+SpeeLy: folds 
+dstrola: folds 
+Uncalled bet ($0.50) returned to soncause
+soncause collected $1.65 from pot
+soncause: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.65 | Rake $0 
+Seat 1: dstrola (big blind) folded before Flop
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 5: soncause (button) collected ($1.65)
+Seat 6: SpeeLy (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680110925:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:34:33 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: dstrola ($50 in chips) 
+Seat 2: Zhud19 ($98.28 in chips) 
+Seat 5: soncause ($55.68 in chips) 
+Seat 6: SpeeLy ($63.63 in chips) 
+dstrola: posts small blind $0.25
+Zhud19: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: folds 
+SpeeLy: folds 
+dstrola: raises $1 to $1.50
+Zhud19: folds 
+Uncalled bet ($1) returned to dstrola
+dstrola collected $1.40 from pot
+*** SUMMARY ***
+Total pot $1.40 | Rake $0 
+Seat 1: dstrola (small blind) collected ($1.40)
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 5: soncause folded before Flop (didn't bet)
+Seat 6: SpeeLy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680114157:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:34:43 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: dstrola ($50.80 in chips) 
+Seat 2: Zhud19 ($97.68 in chips) 
+Seat 5: soncause ($55.58 in chips) 
+Seat 6: SpeeLy ($63.53 in chips) 
+Zhud19: posts small blind $0.25
+soncause: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+SpeeLy: raises $0.75 to $1.25
+dstrola: folds 
+Zhud19: folds 
+soncause: calls $0.75
+*** FLOP *** [As 3s 2h]
+soncause: checks 
+SpeeLy: checks 
+*** TURN *** [As 3s 2h] [2c]
+soncause: checks 
+SpeeLy: bets $0.72
+soncause: calls $0.72
+*** RIVER *** [As 3s 2h 2c] [6h]
+soncause: checks 
+SpeeLy: bets $2.22
+soncause: folds 
+Uncalled bet ($2.22) returned to SpeeLy
+SpeeLy collected $4.36 from pot
+SpeeLy: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.59 | Rake $0.23 
+Board [As 3s 2h 2c 6h]
+Seat 1: dstrola (button) folded before Flop (didn't bet)
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 5: soncause (big blind) folded on the River
+Seat 6: SpeeLy collected ($4.36)
+
+
+
+PokerStars Hand #228680122288:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:35:09 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: dstrola ($50.70 in chips) 
+Seat 2: Zhud19 ($97.33 in chips) 
+Seat 5: soncause ($53.51 in chips) 
+Seat 6: SpeeLy ($65.82 in chips) 
+soncause: posts small blind $0.25
+SpeeLy: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+dstrola: folds 
+Zhud19: folds 
+soncause: folds 
+Uncalled bet ($0.25) returned to SpeeLy
+SpeeLy collected $0.90 from pot
+SpeeLy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0 
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 (button) folded before Flop (didn't bet)
+Seat 5: soncause (small blind) folded before Flop
+Seat 6: SpeeLy (big blind) collected ($0.90)
+
+
+
+PokerStars Hand #228680124083:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:35:15 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: dstrola ($50.60 in chips) 
+Seat 2: Zhud19 ($97.23 in chips) 
+Seat 5: soncause ($53.16 in chips) 
+Seat 6: SpeeLy ($66.37 in chips) 
+SpeeLy: posts small blind $0.25
+dstrola: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: raises $1 to $1.50
+soncause: folds 
+SpeeLy: folds 
+-The Don888- joins the table at seat #3 
+dstrola: calls $1
+*** FLOP *** [6h 5h 4d]
+dstrola: checks 
+Zhud19: checks 
+*** TURN *** [6h 5h 4d] [Js]
+dstrola: bets $3.47
+Zhud19: folds 
+Uncalled bet ($3.47) returned to dstrola
+dstrola collected $3.47 from pot
+daria130399 joins the table at seat #4 
+*** SUMMARY ***
+Total pot $3.65 | Rake $0.18 
+Board [6h 5h 4d Js]
+Seat 1: dstrola (big blind) collected ($3.47)
+Seat 2: Zhud19 folded on the Turn
+Seat 5: soncause (button) folded before Flop (didn't bet)
+Seat 6: SpeeLy (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680129539:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:35:33 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: dstrola ($52.47 in chips) 
+Seat 2: Zhud19 ($95.63 in chips) 
+Seat 5: soncause ($53.06 in chips) 
+Seat 6: SpeeLy ($66.02 in chips) 
+dstrola: posts small blind $0.25
+Zhud19: posts big blind $0.50
+-The Don888-: sits out 
+Erhan1956 joins the table at seat #9 
+daria130399: sits out 
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: raises $0.50 to $1
+Malotru67 joins the table at seat #8 
+SpeeLy: raises $3 to $4
+dstrola: raises $6 to $10
+Zhud19: folds 
+cartman177 joins the table at seat #7 
+soncause: folds 
+SpeeLy: folds 
+Uncalled bet ($6) returned to dstrola
+dstrola collected $9.90 from pot
+*** SUMMARY ***
+Total pot $9.90 | Rake $0 
+Seat 1: dstrola (small blind) collected ($9.90)
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 5: soncause folded before Flop
+Seat 6: SpeeLy (button) folded before Flop
+
+
+
+PokerStars Hand #228680138010:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:36:00 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: dstrola ($58.27 in chips) 
+Seat 2: Zhud19 ($95.03 in chips) 
+Seat 3: -The Don888- ($50 in chips) 
+Seat 5: soncause ($51.96 in chips) 
+Seat 6: SpeeLy ($61.92 in chips) 
+Seat 9: Erhan1956 ($40 in chips) 
+Zhud19: posts small blind $0.25
+-The Don888-: posts big blind $0.50
+daria130399: sits out 
+cartman177: sits out 
+Malotru67: sits out 
+Erhan1956: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: raises $1 to $1.50
+SpeeLy: folds 
+Erhan1956: calls $1
+dstrola: folds 
+Zhud19: folds 
+-The Don888-: folds 
+*** FLOP *** [3h Qd 4h]
+soncause: bets $1.56
+Erhan1956: raises $7.25 to $8.81
+soncause: calls $7.25
+*** TURN *** [3h Qd 4h] [9h]
+soncause: checks 
+Erhan1956: checks 
+*** RIVER *** [3h Qd 4h 9h] [As]
+soncause: bets $20.87
+Erhan1956: calls $20.87
+*** SHOW DOWN ***
+soncause: shows [7h Kh] (a flush, King high)
+Erhan1956: mucks hand 
+soncause collected $61.71 from pot
+*** SUMMARY ***
+Total pot $63.71 | Rake $2 
+Board [3h Qd 4h 9h As]
+Seat 1: dstrola (button) folded before Flop (didn't bet)
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 3: -The Don888- (big blind) folded before Flop
+Seat 5: soncause showed [7h Kh] and won ($61.71) with a flush, King high
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 9: Erhan1956 mucked
+
+
+
+PokerStars Hand #228680151626:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:36:44 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: dstrola ($58.17 in chips) 
+Seat 2: Zhud19 ($94.68 in chips) 
+Seat 3: -The Don888- ($49.40 in chips) 
+Seat 4: daria130399 ($50 in chips) 
+Seat 5: soncause ($82.39 in chips) 
+Seat 6: SpeeLy ($61.82 in chips) 
+Seat 9: Erhan1956 ($8.72 in chips) 
+-The Don888-: posts small blind $0.25
+daria130399: posts big blind $0.50
+cartman177: sits out 
+Malotru67: sits out 
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: folds 
+SpeeLy: folds 
+Erhan1956: calls $0.50
+dstrola: folds 
+Zhud19: folds 
+-The Don888-: calls $0.25
+daria130399: checks 
+*** FLOP *** [5c Ts 3d]
+-The Don888-: bets $1
+daria130399: folds 
+Erhan1956: calls $1
+*** TURN *** [5c Ts 3d] [Jd]
+-The Don888-: checks 
+Erhan1956: bets $3.99
+-The Don888-: folds 
+Uncalled bet ($3.99) returned to Erhan1956
+Erhan1956 collected $3.99 from pot
+*** SUMMARY ***
+Total pot $4.20 | Rake $0.21 
+Board [5c Ts 3d Jd]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 (button) folded before Flop (didn't bet)
+Seat 3: -The Don888- (small blind) folded on the Turn
+Seat 4: daria130399 (big blind) folded on the Flop
+Seat 5: soncause folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 9: Erhan1956 collected ($3.99)
+
+
+
+PokerStars Hand #228680170627:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:37:44 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: dstrola ($58.07 in chips) 
+Seat 2: Zhud19 ($94.58 in chips) 
+Seat 3: -The Don888- ($47.80 in chips) 
+Seat 4: daria130399 ($50 in chips) 
+Seat 5: soncause ($82.29 in chips) 
+Seat 6: SpeeLy ($61.72 in chips) 
+Seat 9: Erhan1956 ($11.11 in chips) 
+daria130399: posts small blind $0.25
+soncause: posts big blind $0.50
+cartman177: sits out 
+Malotru67: sits out 
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+SpeeLy: folds 
+Erhan1956: calls $0.50
+dstrola: folds 
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+soncause: checks 
+*** FLOP *** [Kd 7s Ad]
+soncause: checks 
+Erhan1956: bets $1.85
+soncause: folds 
+Uncalled bet ($1.85) returned to Erhan1956
+Erhan1956 collected $1.85 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.10 
+Board [Kd 7s Ad]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 5: soncause (big blind) folded on the Flop
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 9: Erhan1956 collected ($1.85)
+
+
+
+PokerStars Hand #228680180120:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:38:14 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: dstrola ($57.97 in chips) 
+Seat 2: Zhud19 ($94.48 in chips) 
+Seat 3: -The Don888- ($47.70 in chips) 
+Seat 4: daria130399 ($50 in chips) 
+Seat 5: soncause ($81.69 in chips) 
+Seat 6: SpeeLy ($61.62 in chips) 
+Seat 9: Erhan1956 ($12.36 in chips) 
+soncause: posts small blind $0.25
+SpeeLy: posts big blind $0.50
+cartman177: sits out 
+Malotru67: sits out 
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: calls $0.50
+dstrola: folds 
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+soncause: folds 
+SpeeLy: checks 
+*** FLOP *** [2c 2d 3c]
+SpeeLy: checks 
+Erhan1956: checks 
+*** TURN *** [2c 2d 3c] [Js]
+SpeeLy: checks 
+Erhan1956: checks 
+*** RIVER *** [2c 2d 3c Js] [Ks]
+SpeeLy: bets $0.75
+Erhan1956: folds 
+Uncalled bet ($0.75) returned to SpeeLy
+SpeeLy collected $1.85 from pot
+SpeeLy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.10 
+Board [2c 2d 3c Js Ks]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 5: soncause (small blind) folded before Flop
+Seat 6: SpeeLy (big blind) collected ($1.85)
+Seat 9: Erhan1956 folded on the River
+
+
+
+PokerStars Hand #228680188755:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:38:42 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: dstrola ($57.87 in chips) 
+Seat 2: Zhud19 ($94.38 in chips) 
+Seat 3: -The Don888- ($47.60 in chips) 
+Seat 4: daria130399 ($50 in chips) 
+Seat 5: soncause ($81.34 in chips) 
+Seat 6: SpeeLy ($62.87 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 9: Erhan1956 ($11.76 in chips) 
+SpeeLy: posts small blind $0.25
+cartman177: posts big blind $0.50
+Malotru67: sits out 
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: calls $0.50
+dstrola: folds 
+Zhud19: folds 
+-The Don888-: raises $1 to $1.50
+daria130399: folds 
+soncause: calls $1.50
+SpeeLy: folds 
+cartman177: folds 
+Erhan1956: calls $1
+*** FLOP *** [Qd Ts 8d]
+Erhan1956: checks 
+-The Don888-: bets $3.50
+soncause: folds 
+Erhan1956: folds 
+Uncalled bet ($3.50) returned to -The Don888-
+-The Don888- collected $5.75 from pot
+-The Don888-: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.05 | Rake $0.30 
+Board [Qd Ts 8d]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- collected ($5.75)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: soncause (button) folded on the Flop
+Seat 6: SpeeLy (small blind) folded before Flop
+Seat 7: cartman177 (big blind) folded before Flop
+Seat 9: Erhan1956 folded on the Flop
+
+
+
+PokerStars Hand #228680201254:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:39:22 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: dstrola ($57.77 in chips) 
+Seat 2: Zhud19 ($94.28 in chips) 
+Seat 3: -The Don888- ($51.75 in chips) 
+Seat 4: daria130399 ($50 in chips) 
+Seat 5: soncause ($79.74 in chips) 
+Seat 6: SpeeLy ($62.52 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Malotru67 ($52.20 in chips) 
+Seat 9: Erhan1956 ($10.16 in chips) 
+cartman177: posts small blind $0.25
+Malotru67: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: calls $0.50
+dstrola: folds 
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+soncause: calls $0.50
+SpeeLy: folds 
+cartman177: folds 
+Malotru67: checks 
+*** FLOP *** [6h 7c 9c]
+Malotru67: checks 
+Erhan1956: bets $2.52
+soncause: folds 
+Malotru67: folds 
+Uncalled bet ($2.52) returned to Erhan1956
+Erhan1956 collected $2.52 from pot
+*** SUMMARY ***
+Total pot $2.65 | Rake $0.13 
+Board [6h 7c 9c]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: soncause folded on the Flop
+Seat 6: SpeeLy (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded before Flop
+Seat 8: Malotru67 (big blind) folded on the Flop
+Seat 9: Erhan1956 collected ($2.52)
+
+
+
+PokerStars Hand #228680212847:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:39:59 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: dstrola ($57.67 in chips) 
+Seat 2: Zhud19 ($94.18 in chips) 
+Seat 3: -The Don888- ($51.65 in chips) 
+Seat 4: daria130399 ($50 in chips) 
+Seat 5: soncause ($79.14 in chips) 
+Seat 6: SpeeLy ($62.42 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Malotru67 ($51.60 in chips) 
+Seat 9: Erhan1956 ($12.08 in chips) 
+Malotru67: posts small blind $0.25
+Erhan1956: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+dstrola: folds 
+Zhud19: raises $1 to $1.50
+-The Don888-: folds 
+daria130399: folds 
+soncause: folds 
+SpeeLy: folds 
+cartman177: folds 
+Malotru67: folds 
+Erhan1956: folds 
+Uncalled bet ($1) returned to Zhud19
+Zhud19 collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.15 | Rake $0 
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 collected ($2.15)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: soncause folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 (button) folded before Flop (didn't bet)
+Seat 8: Malotru67 (small blind) folded before Flop
+Seat 9: Erhan1956 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680217478:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:40:14 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: dstrola ($57.57 in chips) 
+Seat 2: Zhud19 ($95.73 in chips) 
+Seat 3: -The Don888- ($51.55 in chips) 
+Seat 4: daria130399 ($50 in chips) 
+Seat 5: soncause ($79.04 in chips) 
+Seat 6: SpeeLy ($62.32 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Malotru67 ($51.25 in chips) 
+Seat 9: Erhan1956 ($11.48 in chips) 
+Erhan1956: posts small blind $0.25
+dstrola: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+soncause: raises $0.50 to $1
+SpeeLy: folds 
+cartman177: folds 
+Malotru67: raises $3 to $4
+Erhan1956: folds 
+dstrola: raises $7 to $11
+soncause: folds 
+Malotru67: folds 
+Uncalled bet ($7) returned to dstrola
+dstrola collected $10.15 from pot
+*** SUMMARY ***
+Total pot $10.15 | Rake $0 
+Seat 1: dstrola (big blind) collected ($10.15)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: soncause folded before Flop
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Malotru67 (button) folded before Flop
+Seat 9: Erhan1956 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680228369:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:40:49 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: dstrola ($63.62 in chips) 
+Seat 2: Zhud19 ($95.63 in chips) 
+Seat 3: -The Don888- ($51.45 in chips) 
+Seat 4: daria130399 ($50 in chips) 
+Seat 5: soncause ($77.94 in chips) 
+Seat 6: SpeeLy ($62.22 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Malotru67 ($50 in chips) 
+Seat 9: Erhan1956 ($11.13 in chips) 
+dstrola: posts small blind $0.25
+Zhud19: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+-The Don888-: folds 
+daria130399: folds 
+soncause: raises $0.50 to $1
+SpeeLy: folds 
+cartman177: folds 
+Malotru67: folds 
+Erhan1956: calls $1
+dstrola: calls $0.75
+Zhud19: folds 
+*** FLOP *** [8s 2d 5s]
+dstrola: checks 
+soncause: bets $1.59
+Erhan1956: folds 
+dstrola: folds 
+Uncalled bet ($1.59) returned to soncause
+soncause collected $4.18 from pot
+soncause: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.40 | Rake $0.22 
+Board [8s 2d 5s]
+Seat 1: dstrola (small blind) folded on the Flop
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: soncause collected ($4.18)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Malotru67 folded before Flop (didn't bet)
+Seat 9: Erhan1956 (button) folded on the Flop
+
+
+
+PokerStars Hand #228680236766:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:41:16 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: dstrola ($62.52 in chips) 
+Seat 2: Zhud19 ($95.03 in chips) 
+Seat 3: -The Don888- ($51.35 in chips) 
+Seat 4: daria130399 ($50 in chips) 
+Seat 5: soncause ($81.02 in chips) 
+Seat 6: SpeeLy ($62.12 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Malotru67 ($50 in chips) 
+Seat 9: Erhan1956 ($10.03 in chips) 
+Zhud19: posts small blind $0.25
+-The Don888-: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: raises $1 to $1.50
+soncause: calls $1.50
+SpeeLy: folds 
+cartman177: folds 
+Malotru67: folds 
+Erhan1956: calls $1.50
+dstrola: folds 
+Zhud19: folds 
+-The Don888-: calls $1
+*** FLOP *** [Ac 5c 6c]
+-The Don888-: checks 
+daria130399: checks 
+soncause: checks 
+Erhan1956: checks 
+*** TURN *** [Ac 5c 6c] [Ah]
+-The Don888-: checks 
+daria130399: bets $6.50
+soncause: folds 
+Erhan1956: folds 
+-The Don888-: folds 
+Uncalled bet ($6.50) returned to daria130399
+daria130399 collected $6.79 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.15 | Rake $0.36 
+Board [Ac 5c 6c Ah]
+Seat 1: dstrola (button) folded before Flop (didn't bet)
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 3: -The Don888- (big blind) folded on the Turn
+Seat 4: daria130399 collected ($6.79)
+Seat 5: soncause folded on the Turn
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Malotru67 folded before Flop (didn't bet)
+Seat 9: Erhan1956 folded on the Turn
+
+
+
+PokerStars Hand #228680250595:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:42:01 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: dstrola ($62.42 in chips) 
+Seat 2: Zhud19 ($94.68 in chips) 
+Seat 3: -The Don888- ($49.75 in chips) 
+Seat 4: daria130399 ($55.19 in chips) 
+Seat 5: soncause ($79.42 in chips) 
+Seat 6: SpeeLy ($62.02 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Malotru67 ($50 in chips) 
+Seat 9: Erhan1956 ($50 in chips) 
+-The Don888-: posts small blind $0.25
+daria130399: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+soncause: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: folds 
+SpeeLy: folds 
+cartman177: folds 
+Malotru67: raises $0.75 to $1.25
+Erhan1956: calls $1.25
+dstrola: folds 
+Zhud19: raises $3.75 to $5
+-The Don888-: folds 
+daria130399: folds 
+Malotru67: calls $3.75
+Erhan1956: calls $3.75
+*** FLOP *** [Qc Jc 9d]
+Malotru67: checks 
+Erhan1956: checks 
+Zhud19: checks 
+*** TURN *** [Qc Jc 9d] [Jh]
+Malotru67: checks 
+Erhan1956: bets $15.82
+Zhud19: folds 
+Malotru67: folds 
+Uncalled bet ($15.82) returned to Erhan1956
+Erhan1956 collected $15.82 from pot
+*** SUMMARY ***
+Total pot $16.65 | Rake $0.83 
+Board [Qc Jc 9d Jh]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 (button) folded on the Turn
+Seat 3: -The Don888- (small blind) folded before Flop
+Seat 4: daria130399 (big blind) folded before Flop
+Seat 5: soncause folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Malotru67 folded on the Turn
+Seat 9: Erhan1956 collected ($15.82)
+
+
+
+PokerStars Hand #228680268537:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:42:59 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: dstrola ($62.32 in chips) 
+Seat 2: Zhud19 ($89.58 in chips) 
+Seat 3: -The Don888- ($49.40 in chips) 
+Seat 4: daria130399 ($54.59 in chips) 
+Seat 6: SpeeLy ($61.92 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Malotru67 ($50 in chips) 
+Seat 9: Erhan1956 ($60.72 in chips) 
+daria130399: posts small blind $0.25
+soncause: is sitting out 
+SpeeLy: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+Malotru67: folds 
+Erhan1956: raises $0.50 to $1
+dstrola: folds 
+Zhud19: raises $2 to $3
+-The Don888-: folds 
+daria130399: folds 
+SpeeLy: folds 
+Erhan1956: calls $2
+*** FLOP *** [9c 2c Qs]
+Erhan1956: checks 
+Zhud19: checks 
+*** TURN *** [9c 2c Qs] [8h]
+Erhan1956: checks 
+Zhud19: bets $3.59
+Erhan1956: folds 
+Uncalled bet ($3.59) returned to Zhud19
+Zhud19 collected $7.17 from pot
+*** SUMMARY ***
+Total pot $7.55 | Rake $0.38 
+Board [9c 2c Qs 8h]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 collected ($7.17)
+Seat 3: -The Don888- (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 6: SpeeLy (big blind) folded before Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Malotru67 folded before Flop (didn't bet)
+Seat 9: Erhan1956 folded on the Turn
+
+
+
+PokerStars Hand #228680284106:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:43:49 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: dstrola ($62.22 in chips) 
+Seat 2: Zhud19 ($93.65 in chips) 
+Seat 3: -The Don888- ($49.30 in chips) 
+Seat 4: daria130399 ($54.24 in chips) 
+Seat 6: SpeeLy ($61.32 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Malotru67 ($50 in chips) 
+Seat 9: Erhan1956 ($57.62 in chips) 
+SpeeLy: posts small blind $0.25
+cartman177: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: raises $0.75 to $1.25
+Erhan1956: folds 
+dstrola: folds 
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+SpeeLy: folds 
+cartman177: folds 
+Uncalled bet ($0.75) returned to Malotru67
+Malotru67 collected $2.05 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0 
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 6: SpeeLy (small blind) folded before Flop
+Seat 7: cartman177 (big blind) folded before Flop
+Seat 8: Malotru67 collected ($2.05)
+Seat 9: Erhan1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680290361:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:44:09 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: dstrola ($62.12 in chips) 
+Seat 2: Zhud19 ($93.55 in chips) 
+Seat 3: -The Don888- ($49.20 in chips) 
+Seat 4: daria130399 ($54.14 in chips) 
+Seat 6: SpeeLy ($60.97 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Malotru67 ($51.45 in chips) 
+Seat 9: Erhan1956 ($57.52 in chips) 
+cartman177: posts small blind $0.25
+Malotru67: posts big blind $0.50
+soncause: sits out 
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: folds 
+dstrola: raises $1 to $1.50
+Zhud19: folds 
+-The Don888-: calls $1.50
+daria130399: folds 
+SpeeLy: folds 
+cartman177: folds 
+Malotru67: folds 
+*** FLOP *** [6c Ts 7d]
+dstrola: bets $1.30
+-The Don888-: folds 
+Uncalled bet ($1.30) returned to dstrola
+dstrola collected $4.32 from pot
+*** SUMMARY ***
+Total pot $4.55 | Rake $0.23 
+Board [6c Ts 7d]
+Seat 1: dstrola collected ($4.32)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded on the Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: SpeeLy (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded before Flop
+Seat 8: Malotru67 (big blind) folded before Flop
+Seat 9: Erhan1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680303576:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:44:51 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: dstrola ($64.84 in chips) 
+Seat 2: Zhud19 ($93.45 in chips) 
+Seat 3: -The Don888- ($47.60 in chips) 
+Seat 4: daria130399 ($54.04 in chips) 
+Seat 6: SpeeLy ($60.87 in chips) 
+Seat 7: cartman177 ($50 in chips) 
+Seat 8: Malotru67 ($50.85 in chips) 
+Seat 9: Erhan1956 ($57.42 in chips) 
+Malotru67: posts small blind $0.25
+Erhan1956: posts big blind $0.50
+soncause: sits out 
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+dstrola: raises $0.75 to $1.25
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+SpeeLy: folds 
+cartman177: calls $1.25
+Malotru67: folds 
+Erhan1956: calls $0.75
+*** FLOP *** [3h Qc 7s]
+Erhan1956: checks 
+dstrola: bets $2.28
+cartman177: calls $2.28
+Erhan1956: folds 
+*** TURN *** [3h Qc 7s] [Ac]
+dstrola: checks 
+cartman177: bets $2.93
+dstrola: folds 
+Uncalled bet ($2.93) returned to cartman177
+cartman177 collected $8.89 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.36 | Rake $0.47 
+Board [3h Qc 7s Ac]
+Seat 1: dstrola folded on the Turn
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 (button) collected ($8.89)
+Seat 8: Malotru67 (small blind) folded before Flop
+Seat 9: Erhan1956 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228680317455:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:45:36 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: dstrola ($61.21 in chips) 
+Seat 2: Zhud19 ($93.35 in chips) 
+Seat 3: -The Don888- ($47.50 in chips) 
+Seat 4: daria130399 ($53.94 in chips) 
+Seat 6: SpeeLy ($60.77 in chips) 
+Seat 7: cartman177 ($55.26 in chips) 
+Seat 8: Malotru67 ($50.50 in chips) 
+Seat 9: Erhan1956 ($56.07 in chips) 
+Erhan1956: posts small blind $0.25
+dstrola: posts big blind $0.50
+soncause: sits out 
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+-The Don888-: raises $1 to $1.50
+daria130399: folds 
+SpeeLy: folds 
+cartman177: folds 
+Malotru67: folds 
+Erhan1956: calls $1.25
+dstrola: folds 
+*** FLOP *** [Ts Qs 7d]
+Erhan1956: checks 
+-The Don888-: bets $2
+Erhan1956: calls $2
+*** TURN *** [Ts Qs 7d] [4d]
+Erhan1956: checks 
+-The Don888-: bets $4.50
+Erhan1956: folds 
+Uncalled bet ($4.50) returned to -The Don888-
+-The Don888- collected $7.88 from pot
+-The Don888-: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.30 | Rake $0.42 
+Board [Ts Qs 7d 4d]
+Seat 1: dstrola (big blind) folded before Flop
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- collected ($7.88)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Malotru67 (button) folded before Flop (didn't bet)
+Seat 9: Erhan1956 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #228680327244:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:46:07 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: dstrola ($60.61 in chips) 
+Seat 2: Zhud19 ($93.25 in chips) 
+Seat 3: -The Don888- ($51.78 in chips) 
+Seat 4: daria130399 ($53.84 in chips) 
+Seat 6: SpeeLy ($60.67 in chips) 
+Seat 7: cartman177 ($55.16 in chips) 
+Seat 8: Malotru67 ($50.40 in chips) 
+Seat 9: Erhan1956 ($52.47 in chips) 
+dstrola: posts small blind $0.25
+Zhud19: posts big blind $0.50
+soncause: sits out 
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+-The Don888-: folds 
+daria130399: raises $0.75 to $1.25
+SpeeLy: folds 
+cartman177: folds 
+Malotru67: raises $2.75 to $4
+Erhan1956: folds 
+dstrola: folds 
+Zhud19: folds 
+daria130399: folds 
+Uncalled bet ($2.75) returned to Malotru67
+Malotru67 collected $4.05 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.05 | Rake $0 
+Seat 1: dstrola (small blind) folded before Flop
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Malotru67 collected ($4.05)
+Seat 9: Erhan1956 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680336243:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:46:36 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: dstrola ($60.26 in chips) 
+Seat 2: Zhud19 ($92.65 in chips) 
+Seat 3: -The Don888- ($51.68 in chips) 
+Seat 4: daria130399 ($52.49 in chips) 
+Seat 6: SpeeLy ($60.57 in chips) 
+Seat 7: cartman177 ($55.06 in chips) 
+Seat 8: Malotru67 ($53.10 in chips) 
+Seat 9: Erhan1956 ($52.37 in chips) 
+Zhud19: posts small blind $0.25
+-The Don888-: posts big blind $0.50
+soncause: sits out 
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+SpeeLy: folds 
+cartman177: raises $0.75 to $1.25
+Malotru67: raises $2.75 to $4
+Erhan1956: folds 
+dstrola: folds 
+Zhud19: raises $10 to $14
+-The Don888-: folds 
+cartman177: folds 
+Malotru67: folds 
+Uncalled bet ($10) returned to Zhud19
+Zhud19 collected $10.55 from pot
+*** SUMMARY ***
+Total pot $10.55 | Rake $0 
+Seat 1: dstrola (button) folded before Flop (didn't bet)
+Seat 2: Zhud19 (small blind) collected ($10.55)
+Seat 3: -The Don888- (big blind) folded before Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop
+Seat 8: Malotru67 folded before Flop
+Seat 9: Erhan1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680346610:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:47:09 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: dstrola ($60.16 in chips) 
+Seat 2: Zhud19 ($99.10 in chips) 
+Seat 3: -The Don888- ($51.08 in chips) 
+Seat 4: daria130399 ($52.39 in chips) 
+Seat 6: SpeeLy ($60.47 in chips) 
+Seat 7: cartman177 ($53.71 in chips) 
+Seat 8: Malotru67 ($50 in chips) 
+Seat 9: Erhan1956 ($52.27 in chips) 
+-The Don888-: posts small blind $0.25
+daria130399: posts big blind $0.50
+soncause: sits out 
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+SpeeLy: folds 
+cartman177: folds 
+Malotru67: folds 
+Erhan1956: folds 
+dstrola: raises $1 to $1.50
+Zhud19: folds 
+-The Don888-: calls $1.25
+daria130399: raises $6 to $7.50
+dstrola: folds 
+-The Don888-: folds 
+Uncalled bet ($6) returned to daria130399
+daria130399 collected $5.30 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.30 | Rake $0 
+Seat 1: dstrola folded before Flop
+Seat 2: Zhud19 (button) folded before Flop (didn't bet)
+Seat 3: -The Don888- (small blind) folded before Flop
+Seat 4: daria130399 (big blind) collected ($5.30)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Malotru67 folded before Flop (didn't bet)
+Seat 9: Erhan1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680356078:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:47:40 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: dstrola ($58.56 in chips) 
+Seat 2: Zhud19 ($99 in chips) 
+Seat 3: -The Don888- ($49.48 in chips) 
+Seat 4: daria130399 ($56.09 in chips) 
+Seat 6: SpeeLy ($60.37 in chips) 
+Seat 7: cartman177 ($53.61 in chips) 
+Seat 8: Malotru67 ($50 in chips) 
+Seat 9: Erhan1956 ($52.17 in chips) 
+daria130399: posts small blind $0.25
+soncause: is sitting out 
+SpeeLy: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+Malotru67: folds 
+Erhan1956: calls $0.50
+dstrola: folds 
+soncause leaves the table
+Zhud19: raises $2.50 to $3
+-The Don888-: raises $7 to $10
+daria130399: folds 
+SpeeLy: folds 
+Erhan1956: calls $9.50
+Zhud19: folds 
+*** FLOP *** [Js 8d 3s]
+Erhan1956: checks 
+-The Don888-: bets $10
+Erhan1956: folds 
+Uncalled bet ($10) returned to -The Don888-
+-The Don888- collected $23.32 from pot
+-The Don888-: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.55 | Rake $1.23 
+Board [Js 8d 3s]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop
+Seat 3: -The Don888- (button) collected ($23.32)
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 6: SpeeLy (big blind) folded before Flop
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Malotru67 folded before Flop (didn't bet)
+Seat 9: Erhan1956 folded on the Flop
+
+
+
+PokerStars Hand #228680370952:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:48:27 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: dstrola ($58.46 in chips) 
+Seat 2: Zhud19 ($95.90 in chips) 
+Seat 3: -The Don888- ($62.70 in chips) 
+Seat 4: daria130399 ($55.74 in chips) 
+Seat 6: SpeeLy ($59.77 in chips) 
+Seat 7: cartman177 ($53.51 in chips) 
+Seat 8: Malotru67 ($50 in chips) 
+Seat 9: Erhan1956 ($42.07 in chips) 
+SpeeLy: posts small blind $0.25
+cartman177: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: folds 
+Erhan1956: calls $0.50
+dstrola: raises $1.50 to $2
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+SpeeLy: folds 
+cartman177: folds 
+Erhan1956: calls $1.50
+*** FLOP *** [Jd 3s 8h]
+Erhan1956: checks 
+dstrola: bets $2.64
+Erhan1956: calls $2.64
+*** TURN *** [Jd 3s 8h] [4h]
+Erhan1956: checks 
+dstrola: checks 
+*** RIVER *** [Jd 3s 8h 4h] [5s]
+Erhan1956: checks 
+dstrola: checks 
+*** SHOW DOWN ***
+Erhan1956: shows [8d 7h] (a pair of Eights)
+dstrola: mucks hand 
+Erhan1956 collected $10.29 from pot
+*** SUMMARY ***
+Total pot $10.83 | Rake $0.54 
+Board [Jd 3s 8h 4h 5s]
+Seat 1: dstrola mucked
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 6: SpeeLy (small blind) folded before Flop
+Seat 7: cartman177 (big blind) folded before Flop
+Seat 8: Malotru67 folded before Flop (didn't bet)
+Seat 9: Erhan1956 showed [8d 7h] and won ($10.29) with a pair of Eights
+
+
+
+PokerStars Hand #228680391689:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:49:29 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: dstrola ($53.72 in chips) 
+Seat 2: Zhud19 ($95.80 in chips) 
+Seat 3: -The Don888- ($62.60 in chips) 
+Seat 4: daria130399 ($55.64 in chips) 
+Seat 6: SpeeLy ($59.42 in chips) 
+Seat 7: cartman177 ($52.91 in chips) 
+Seat 8: Malotru67 ($50 in chips) 
+Seat 9: Erhan1956 ($47.62 in chips) 
+cartman177: posts small blind $0.25
+Malotru67: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: folds 
+dstrola: folds 
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+SpeeLy: folds 
+cartman177: folds 
+Uncalled bet ($0.25) returned to Malotru67
+Malotru67 collected $1.30 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.30 | Rake $0 
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: SpeeLy (button) folded before Flop (didn't bet)
+Seat 7: cartman177 (small blind) folded before Flop
+Seat 8: Malotru67 (big blind) collected ($1.30)
+Seat 9: Erhan1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680395075:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:49:39 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: dstrola ($53.62 in chips) 
+Seat 2: Zhud19 ($95.70 in chips) 
+Seat 3: -The Don888- ($62.50 in chips) 
+Seat 4: daria130399 ($55.54 in chips) 
+Seat 6: SpeeLy ($59.32 in chips) 
+Seat 7: cartman177 ($52.56 in chips) 
+Seat 8: Malotru67 ($50.95 in chips) 
+Seat 9: Erhan1956 ($47.52 in chips) 
+Malotru67: posts small blind $0.25
+Erhan1956: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+dstrola: folds 
+Zhud19: folds 
+-The Don888-: raises $0.50 to $1
+daria130399: folds 
+SpeeLy: folds 
+cartman177: folds 
+Malotru67: raises $4 to $5
+Erhan1956: folds 
+-The Don888-: folds 
+Uncalled bet ($4) returned to Malotru67
+Malotru67 collected $3.30 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.30 | Rake $0 
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 (button) folded before Flop (didn't bet)
+Seat 8: Malotru67 (small blind) collected ($3.30)
+Seat 9: Erhan1956 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680405598:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:50:13 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: dstrola ($53.52 in chips) 
+Seat 2: Zhud19 ($95.60 in chips) 
+Seat 3: -The Don888- ($61.40 in chips) 
+Seat 4: daria130399 ($55.44 in chips) 
+Seat 6: SpeeLy ($59.22 in chips) 
+Seat 7: cartman177 ($52.46 in chips) 
+Seat 8: Malotru67 ($53.15 in chips) 
+Seat 9: Erhan1956 ($46.92 in chips) 
+Erhan1956: posts small blind $0.25
+dstrola: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+SpeeLy: folds 
+cartman177: raises $0.62 to $1.12
+Malotru67: folds 
+Erhan1956: folds 
+dstrola: raises $4.38 to $5.50
+cartman177: raises $7.25 to $12.75
+dstrola: folds 
+Uncalled bet ($7.25) returned to cartman177
+cartman177 collected $12.05 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.05 | Rake $0 
+Seat 1: dstrola (big blind) folded before Flop
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 collected ($12.05)
+Seat 8: Malotru67 (button) folded before Flop (didn't bet)
+Seat 9: Erhan1956 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680419839:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:50:58 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: dstrola ($50 in chips) 
+Seat 2: Zhud19 ($95.50 in chips) 
+Seat 3: -The Don888- ($61.30 in chips) 
+Seat 4: daria130399 ($55.34 in chips) 
+Seat 6: SpeeLy ($59.12 in chips) 
+Seat 7: cartman177 ($58.91 in chips) 
+Seat 8: Malotru67 ($53.05 in chips) 
+Seat 9: Erhan1956 ($46.57 in chips) 
+dstrola: posts small blind $0.25
+Zhud19: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+-The Don888-: folds 
+daria130399: folds 
+SpeeLy: folds 
+cartman177: folds 
+Malotru67: folds 
+Erhan1956: raises $2.05 to $2.55
+dstrola: folds 
+Zhud19: folds 
+Uncalled bet ($2.05) returned to Erhan1956
+Erhan1956 collected $2.05 from pot
+*** SUMMARY ***
+Total pot $2.05 | Rake $0 
+Seat 1: dstrola (small blind) folded before Flop
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Malotru67 folded before Flop (didn't bet)
+Seat 9: Erhan1956 (button) collected ($2.05)
+
+
+
+PokerStars Hand #228680425838:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:51:18 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: dstrola ($50 in chips) 
+Seat 2: Zhud19 ($94.90 in chips) 
+Seat 3: -The Don888- ($61.20 in chips) 
+Seat 4: daria130399 ($55.24 in chips) 
+Seat 6: SpeeLy ($59.02 in chips) 
+Seat 7: cartman177 ($58.81 in chips) 
+Seat 8: Malotru67 ($52.95 in chips) 
+Seat 9: Erhan1956 ($48.02 in chips) 
+Zhud19: posts small blind $0.25
+-The Don888-: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+cartman177: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+SpeeLy: folds 
+cartman177: folds 
+cartman177 leaves the table
+Malotru67: raises $0.75 to $1.25
+Erhan1956: folds 
+dstrola: raises $4.05 to $5.30
+Zhud19: folds 
+-The Don888-: folds 
+Malotru67: folds 
+Uncalled bet ($4.05) returned to dstrola
+dstrola collected $4.05 from pot
+*** SUMMARY ***
+Total pot $4.05 | Rake $0 
+Seat 1: dstrola (button) collected ($4.05)
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 3: -The Don888- (big blind) folded before Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 7: cartman177 folded before Flop (didn't bet)
+Seat 8: Malotru67 folded before Flop
+Seat 9: Erhan1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680432509:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:51:39 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: dstrola ($52.70 in chips) 
+Seat 2: Zhud19 ($94.55 in chips) 
+Seat 3: -The Don888- ($60.60 in chips) 
+Seat 4: daria130399 ($55.14 in chips) 
+Seat 6: SpeeLy ($58.92 in chips) 
+Seat 8: Malotru67 ($51.60 in chips) 
+Seat 9: Erhan1956 ($47.92 in chips) 
+-The Don888-: posts small blind $0.25
+daria130399: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+SpeeLy: folds 
+Malotru67: folds 
+Erhan1956: calls $0.50
+dstrola: folds 
+Zhud19: folds 
+-The Don888-: raises $1 to $1.50
+daria130399: folds 
+Erhan1956: calls $1
+*** FLOP *** [Ac 4s 6s]
+-The Don888-: checks 
+Erhan1956: checks 
+*** TURN *** [Ac 4s 6s] [Qs]
+-The Don888-: bets $2
+Erhan1956: calls $2
+*** RIVER *** [Ac 4s 6s Qs] [4h]
+-The Don888-: bets $2.50
+Erhan1956: folds 
+Uncalled bet ($2.50) returned to -The Don888-
+-The Don888- collected $7.79 from pot
+-The Don888-: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.20 | Rake $0.41 
+Board [Ac 4s 6s Qs 4h]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 (button) folded before Flop (didn't bet)
+Seat 3: -The Don888- (small blind) collected ($7.79)
+Seat 4: daria130399 (big blind) folded before Flop
+Seat 6: SpeeLy folded before Flop (didn't bet)
+Seat 8: Malotru67 folded before Flop (didn't bet)
+Seat 9: Erhan1956 folded on the River
+
+
+
+PokerStars Hand #228680447571:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:52:27 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: dstrola ($52.60 in chips) 
+Seat 2: Zhud19 ($94.45 in chips) 
+Seat 3: -The Don888- ($64.79 in chips) 
+Seat 4: daria130399 ($54.54 in chips) 
+Seat 6: SpeeLy ($58.82 in chips) 
+Seat 8: Malotru67 ($51.50 in chips) 
+Seat 9: Erhan1956 ($44.32 in chips) 
+daria130399: posts small blind $0.25
+SpeeLy: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+SpeeLy: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: raises $0.75 to $1.25
+Erhan1956: folds 
+dstrola: folds 
+Zhud19: raises $2.75 to $4
+-The Don888-: folds 
+daria130399: folds 
+SpeeLy: folds 
+Malotru67: raises $7.50 to $11.50
+Zhud19: raises $82.85 to $94.35 and is all-in
+Malotru67: calls $39.90 and is all-in
+Uncalled bet ($42.95) returned to Zhud19
+Zhud19:  
+Malotru67:  
+*** FIRST FLOP *** [Ah Th 2d]
+*** FIRST TURN *** [Ah Th 2d] [9c]
+*** FIRST RIVER *** [Ah Th 2d 9c] [7c]
+SpeeLy leaves the table
+*** SECOND FLOP *** [2h 8d 5h]
+*** SECOND TURN *** [2h 8d 5h] [8c]
+*** SECOND RIVER *** [2h 8d 5h 8c] [Qh]
+*** FIRST SHOW DOWN ***
+Malotru67: shows [Ac As] (three of a kind, Aces)
+Zhud19: shows [Ks Kc] (a pair of Kings)
+Malotru67 collected $51.13 from pot
+*** SECOND SHOW DOWN ***
+Malotru67: shows [Ac As] (two pair, Aces and Eights)
+Zhud19: shows [Ks Kc] (two pair, Kings and Eights)
+Malotru67 collected $51.12 from pot
+*** SUMMARY ***
+Total pot $104.25 | Rake $2 
+Hand was run twice
+FIRST Board [Ah Th 2d 9c 7c]
+SECOND Board [2h 8d 5h 8c Qh]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 showed [Ks Kc] and lost with a pair of Kings, and lost with two pair, Kings and Eights
+Seat 3: -The Don888- (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 6: SpeeLy (big blind) folded before Flop
+Seat 8: Malotru67 showed [Ac As] and won ($51.13) with three of a kind, Aces, and won ($51.12) with two pair, Aces and Eights
+Seat 9: Erhan1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680469251:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:53:36 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: dstrola ($52.50 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($64.69 in chips) 
+Seat 4: daria130399 ($54.19 in chips) 
+Seat 8: Malotru67 ($102.25 in chips) 
+Seat 9: Erhan1956 ($44.22 in chips) 
+Malotru67: posts small blind $0.25
+Erhan1956: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+dstrola: folds 
+Zhud19: folds 
+-The Don888-: raises $0.50 to $1
+daria130399: folds 
+Malotru67: folds 
+Erhan1956: calls $0.50
+*** FLOP *** [8c Ad 6s]
+Erhan1956: checks 
+-The Don888-: bets $1.50
+Erhan1956: calls $1.50
+*** TURN *** [8c Ad 6s] [6d]
+Erhan1956: checks 
+-The Don888-: checks 
+*** RIVER *** [8c Ad 6s 6d] [Ks]
+Erhan1956: bets $5.56
+-The Don888-: folds 
+Uncalled bet ($5.56) returned to Erhan1956
+Erhan1956 collected $5.56 from pot
+*** SUMMARY ***
+Total pot $5.85 | Rake $0.29 
+Board [8c Ad 6s 6d Ks]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded on the River
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 8: Malotru67 (small blind) folded before Flop
+Seat 9: Erhan1956 (big blind) collected ($5.56)
+
+
+
+PokerStars Hand #228680480722:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:54:13 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: dstrola ($52.40 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($62.09 in chips) 
+Seat 4: daria130399 ($54.09 in chips) 
+Seat 8: Malotru67 ($101.90 in chips) 
+Seat 9: Erhan1956 ($47.18 in chips) 
+Erhan1956: posts small blind $0.25
+dstrola: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: raises $1 to $1.50
+Malotru67: folds 
+Erhan1956: calls $1.25
+dstrola: folds 
+*** FLOP *** [Th Tc Kc]
+Erhan1956: bets $3.90
+daria130399: folds 
+Uncalled bet ($3.90) returned to Erhan1956
+Erhan1956 collected $3.90 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.20 
+Board [Th Tc Kc]
+Seat 1: dstrola (big blind) folded before Flop
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded on the Flop
+Seat 8: Malotru67 (button) folded before Flop (didn't bet)
+Seat 9: Erhan1956 (small blind) collected ($3.90)
+
+
+
+PokerStars Hand #228680487350:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:54:34 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: dstrola ($51.80 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($61.99 in chips) 
+Seat 4: daria130399 ($52.49 in chips) 
+Seat 8: Malotru67 ($101.80 in chips) 
+Seat 9: Erhan1956 ($49.48 in chips) 
+dstrola: posts small blind $0.25
+Zhud19: posts big blind $0.50
+dstrola: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+-The Don888-: folds 
+daria130399: folds 
+Malotru67: folds 
+Erhan1956: calls $0.50
+dstrola: folds 
+Zhud19: checks 
+*** FLOP *** [5d 3c Kc]
+Zhud19: checks 
+Erhan1956: bets $1.76
+Zhud19: calls $1.76
+*** TURN *** [5d 3c Kc] [Kh]
+Zhud19: checks 
+Erhan1956: bets $5.10
+Zhud19: calls $5.10
+*** RIVER *** [5d 3c Kc Kh] [Qs]
+Zhud19: checks 
+Erhan1956: bets $14.79
+Zhud19: calls $14.79
+*** SHOW DOWN ***
+Erhan1956: shows [Ks 2s] (three of a kind, Kings)
+Zhud19: shows [4h Kd] (three of a kind, Kings)
+Zhud19 collected $21.58 from pot
+Erhan1956 collected $21.57 from pot
+dstrola leaves the table
+*** SUMMARY ***
+Total pot $45.15 | Rake $2 
+Board [5d 3c Kc Kh Qs]
+Seat 1: dstrola (small blind) folded before Flop
+Seat 2: Zhud19 (big blind) showed [4h Kd] and won ($21.58) with three of a kind, Kings
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 8: Malotru67 folded before Flop (didn't bet)
+Seat 9: Erhan1956 (button) showed [Ks 2s] and won ($21.57) with three of a kind, Kings
+
+
+
+PokerStars Hand #228680500859:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:55:18 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($61.89 in chips) 
+Seat 4: daria130399 ($52.39 in chips) 
+Seat 8: Malotru67 ($101.70 in chips) 
+Seat 9: Erhan1956 ($48.80 in chips) 
+-The Don888-: posts small blind $0.25
+daria130399: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Malotru67: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: folds 
+Erhan1956: calls $0.50
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: raises $2.25 to $2.75
+Erhan1956: folds 
+Uncalled bet ($2.25) returned to daria130399
+daria130399 collected $1.75 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 2: Zhud19 (button) folded before Flop (didn't bet)
+Seat 3: -The Don888- (small blind) folded before Flop
+Seat 4: daria130399 (big blind) collected ($1.75)
+Seat 8: Malotru67 folded before Flop (didn't bet)
+Seat 9: Erhan1956 folded before Flop
+
+
+
+PokerStars Hand #228680506651:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:55:41 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($61.54 in chips) 
+Seat 4: daria130399 ($53.54 in chips) 
+Seat 9: Erhan1956 ($48.20 in chips) 
+daria130399: posts small blind $0.25
+Malotru67: is sitting out 
+Erhan1956: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67 leaves the table
+Zhud19: folds 
+-The Don888-: raises $0.50 to $1
+daria130399: folds 
+Erhan1956: calls $0.50
+*** FLOP *** [Qs Jh 4c]
+Erhan1956: checks 
+-The Don888-: bets $2
+Erhan1956: calls $2
+*** TURN *** [Qs Jh 4c] [8h]
+Erhan1956: checks 
+-The Don888-: checks 
+*** RIVER *** [Qs Jh 4c 8h] [7c]
+Erhan1956: checks 
+-The Don888-: bets $5
+Erhan1956: folds 
+Uncalled bet ($5) returned to -The Don888-
+-The Don888- collected $6.32 from pot
+-The Don888-: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.65 | Rake $0.33 
+Board [Qs Jh 4c 8h 7c]
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- (button) collected ($6.32)
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 9: Erhan1956 (big blind) folded on the River
+
+
+
+PokerStars Hand #228680514320:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:56:10 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($64.76 in chips) 
+Seat 4: daria130399 ($53.19 in chips) 
+Seat 9: Erhan1956 ($45.10 in chips) 
+Erhan1956: posts small blind $0.25
+Zhud19: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+-The Don888-: raises $1 to $1.50
+daria130399: folds 
+Erhan1956: calls $1.25
+Zhud19: folds 
+*** FLOP *** [4s Kd 8h]
+Erhan1956: checks 
+-The Don888-: bets $2
+Erhan1956: calls $2
+*** TURN *** [4s Kd 8h] [7c]
+Erhan1956: checks 
+-The Don888-: bets $3.50
+Erhan1956: raises $3.50 to $7
+-The Don888-: calls $3.50
+*** RIVER *** [4s Kd 8h 7c] [2s]
+Erhan1956: bets $10.58
+-The Don888-: calls $10.58
+*** SHOW DOWN ***
+Erhan1956: shows [6d 5c] (a straight, Four to Eight)
+-The Don888-: mucks hand 
+Erhan1956 collected $42.31 from pot
+*** SUMMARY ***
+Total pot $43.06 | Rake $0.75 
+Board [4s Kd 8h 7c 2s]
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 3: -The Don888- mucked
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 9: Erhan1956 (small blind) showed [6d 5c] and won ($42.31) with a straight, Four to Eight
+
+
+
+PokerStars Hand #228680527410:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:57:00 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 2: Zhud19 ($50 in chips) 
+Seat 4: daria130399 ($53.09 in chips) 
+Seat 9: Erhan1956 ($66.23 in chips) 
+Zhud19: posts small blind $0.25
+-The Don888-: is sitting out 
+daria130399: posts big blind $0.50
+Zhud19: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: calls $0.50
+Zhud19: folds 
+soncause joins the table at seat #1 
+daria130399: checks 
+*** FLOP *** [Jc 6c 9d]
+daria130399: checks 
+Erhan1956: bets $1.47
+daria130399: folds 
+Uncalled bet ($1.47) returned to Erhan1956
+Erhan1956 collected $1.47 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.08 
+Board [Jc 6c 9d]
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 4: daria130399 (big blind) folded on the Flop
+Seat 9: Erhan1956 (button) collected ($1.47)
+
+
+
+PokerStars Hand #228680534043:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:57:26 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 2: Zhud19 ($50 in chips) 
+Seat 4: daria130399 ($52.49 in chips) 
+Seat 9: Erhan1956 ($67.10 in chips) 
+daria130399: posts small blind $0.25
+Erhan1956: posts big blind $0.50
+soncause: sits out 
+Zhud19: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: raises $1 to $1.50
+daria130399: calls $1.25
+Erhan1956: calls $1
+*** FLOP *** [5d 5h Ah]
+daria130399: checks 
+Erhan1956: checks 
+Zhud19: bets $1.37
+daria130399: folds 
+Erhan1956: calls $1.37
+*** TURN *** [5d 5h Ah] [5c]
+Erhan1956: bets $7.16
+Zhud19: folds 
+Uncalled bet ($7.16) returned to Erhan1956
+Erhan1956 collected $7.16 from pot
+*** SUMMARY ***
+Total pot $7.54 | Rake $0.38 
+Board [5d 5h Ah 5c]
+Seat 2: Zhud19 (button) folded on the Turn
+Seat 4: daria130399 (small blind) folded on the Flop
+Seat 9: Erhan1956 (big blind) collected ($7.16)
+
+
+
+PokerStars Hand #228680541836:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:57:55 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: soncause ($79.32 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 4: daria130399 ($50.89 in chips) 
+Seat 9: Erhan1956 ($71.29 in chips) 
+Erhan1956: posts small blind $0.25
+soncause: posts big blind $0.50
+soncause: posts the ante $0.10
+Zhud19: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+daria130399: folds 
+Erhan1956: calls $0.25
+soncause: checks 
+*** FLOP *** [3d As 2h]
+Erhan1956: bets $1.33
+soncause: folds 
+Uncalled bet ($1.33) returned to Erhan1956
+Erhan1956 collected $1.33 from pot
+*** SUMMARY ***
+Total pot $1.40 | Rake $0.07 
+Board [3d As 2h]
+Seat 1: soncause (big blind) folded on the Flop
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 9: Erhan1956 (small blind) collected ($1.33)
+
+
+
+PokerStars Hand #228680546286:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:58:12 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: soncause ($78.72 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 4: daria130399 ($50.79 in chips) 
+Seat 9: Erhan1956 ($72.02 in chips) 
+soncause: posts small blind $0.25
+Zhud19: posts big blind $0.50
+-The Don888-: sits out 
+soncause: posts the ante $0.10
+Zhud19: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+Erhan1956: calls $0.50
+soncause: folds 
+Zhud19: raises $1.50 to $2
+Erhan1956: calls $1.50
+*** FLOP *** [8c Jc 5h]
+Zhud19: checks 
+Erhan1956: bets $4.42
+Zhud19: calls $4.42
+*** TURN *** [8c Jc 5h] [Kh]
+Zhud19: checks 
+Erhan1956: checks 
+*** RIVER *** [8c Jc 5h Kh] [3c]
+Zhud19: checks 
+Erhan1956: checks 
+*** SHOW DOWN ***
+Zhud19: shows [7s 7d] (a pair of Sevens)
+Erhan1956: shows [Td Tc] (a pair of Tens)
+Erhan1956 collected $12.82 from pot
+*** SUMMARY ***
+Total pot $13.49 | Rake $0.67 
+Board [8c Jc 5h Kh 3c]
+Seat 1: soncause (small blind) folded before Flop
+Seat 2: Zhud19 (big blind) showed [7s 7d] and lost with a pair of Sevens
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 9: Erhan1956 (button) showed [Td Tc] and won ($12.82) with a pair of Tens
+
+
+
+PokerStars Hand #228680558173:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:58:58 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: soncause ($78.37 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($43.58 in chips) 
+Seat 4: daria130399 ($50.69 in chips) 
+Seat 9: Erhan1956 ($78.32 in chips) 
+Zhud19: posts small blind $0.25
+-The Don888-: posts big blind $0.50
+soncause: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+Erhan1956: calls $0.50
+soncause: raises $1 to $1.50
+Zhud19: folds 
+-The Don888-: calls $1
+Erhan1956: calls $1
+*** FLOP *** [6c 7d 3h]
+-The Don888-: checks 
+Erhan1956: checks 
+soncause: checks 
+*** TURN *** [6c 7d 3h] [5d]
+-The Don888-: bets $4.50
+Erhan1956: folds 
+soncause: calls $4.50
+*** RIVER *** [6c 7d 3h 5d] [6d]
+-The Don888-: checks 
+soncause: checks 
+*** SHOW DOWN ***
+-The Don888-: shows [2h Jh] (a pair of Sixes)
+soncause: shows [9d Kh] (a pair of Sixes - King kicker)
+soncause collected $13.54 from pot
+*** SUMMARY ***
+Total pot $14.25 | Rake $0.71 
+Board [6c 7d 3h 5d 6d]
+Seat 1: soncause (button) showed [9d Kh] and won ($13.54) with a pair of Sixes
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 3: -The Don888- (big blind) showed [2h Jh] and lost with a pair of Sixes
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 9: Erhan1956 folded on the Turn
+
+
+
+PokerStars Hand #228680573826:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:59:58 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: soncause ($85.81 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($37.48 in chips) 
+Seat 4: daria130399 ($50.59 in chips) 
+Seat 9: Erhan1956 ($76.72 in chips) 
+-The Don888-: posts small blind $0.25
+daria130399: posts big blind $0.50
+soncause: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: calls $0.50
+soncause: folds 
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: raises $1.75 to $2.25
+Erhan1956: calls $1.75
+*** FLOP *** [Js Qh Qc]
+daria130399: bets $2.54
+Erhan1956: calls $2.54
+*** TURN *** [Js Qh Qc] [8c]
+daria130399: bets $5
+Erhan1956: folds 
+Uncalled bet ($5) returned to daria130399
+daria130399 collected $9.81 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.33 | Rake $0.52 
+Board [Js Qh Qc 8c]
+Seat 1: soncause folded before Flop (didn't bet)
+Seat 2: Zhud19 (button) folded before Flop (didn't bet)
+Seat 3: -The Don888- (small blind) folded before Flop
+Seat 4: daria130399 (big blind) collected ($9.81)
+Seat 9: Erhan1956 folded on the Turn
+
+
+
+PokerStars Hand #228680581549:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:00:27 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: soncause ($85.71 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($37.13 in chips) 
+Seat 4: daria130399 ($55.51 in chips) 
+Seat 9: Erhan1956 ($71.83 in chips) 
+daria130399: posts small blind $0.25
+Erhan1956: posts big blind $0.50
+soncause: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: raises $1 to $1.50
+Zhud19: folds 
+-The Don888-: raises $2 to $3.50
+daria130399: folds 
+Erhan1956: folds 
+soncause: calls $2
+*** FLOP *** [3d As 2s]
+soncause: checks 
+-The Don888-: checks 
+*** TURN *** [3d As 2s] [Ts]
+soncause: checks 
+-The Don888-: checks 
+*** RIVER *** [3d As 2s Ts] [6c]
+soncause: bets $7.84
+-The Don888-: calls $7.84
+*** SHOW DOWN ***
+soncause: shows [6h Ac] (two pair, Aces and Sixes)
+-The Don888-: mucks hand 
+soncause collected $22.73 from pot
+*** SUMMARY ***
+Total pot $23.93 | Rake $1.20 
+Board [3d As 2s Ts 6c]
+Seat 1: soncause showed [6h Ac] and won ($22.73) with two pair, Aces and Sixes
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- (button) mucked
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 9: Erhan1956 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680726200:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:07:25 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($50.83 in chips) 
+Seat 4: daria130399 ($53.46 in chips) 
+Seat 8: whitecillar3 ($44.64 in chips) 
+Seat 9: Erhan1956 ($84.26 in chips) 
+Erhan1956: posts small blind $0.25
+Zhud19: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+-The Don888-: folds 
+daria130399: folds 
+whitecillar3: raises $0.75 to $1.25
+Erhan1956: folds 
+Zhud19: calls $0.75
+*** FLOP *** [Kd Ah Td]
+Zhud19: checks 
+whitecillar3: bets $0.96
+Zhud19: folds 
+Uncalled bet ($0.96) returned to whitecillar3
+whitecillar3 collected $3.09 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [Kd Ah Td]
+Seat 2: Zhud19 (big blind) folded on the Flop
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 8: whitecillar3 (button) collected ($3.09)
+Seat 9: Erhan1956 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680742558:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:07:45 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($50.73 in chips) 
+Seat 4: daria130399 ($53.36 in chips) 
+Seat 8: whitecillar3 ($46.38 in chips) 
+Seat 9: Erhan1956 ($83.91 in chips) 
+Zhud19: posts small blind $0.25
+-The Don888-: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: raises $0.75 to $1.25
+whitecillar3: folds 
+Erhan1956: folds 
+Zhud19: folds 
+-The Don888-: calls $0.75
+*** FLOP *** [8h 2d Qc]
+-The Don888-: checks 
+daria130399: bets $1.58
+-The Don888-: calls $1.58
+*** TURN *** [8h 2d Qc] [4s]
+-The Don888-: checks 
+daria130399: bets $8.25
+-The Don888-: folds 
+Uncalled bet ($8.25) returned to daria130399
+daria130399 collected $6.09 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.41 | Rake $0.32 
+Board [8h 2d Qc 4s]
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 3: -The Don888- (big blind) folded on the Turn
+Seat 4: daria130399 collected ($6.09)
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+Seat 9: Erhan1956 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680763924:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:08:49 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($47.80 in chips) 
+Seat 4: daria130399 ($56.52 in chips) 
+Seat 8: whitecillar3 ($46.28 in chips) 
+Seat 9: Erhan1956 ($83.81 in chips) 
+-The Don888-: posts small blind $0.25
+daria130399: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+Erhan1956: folds 
+Zhud19: folds 
+-The Don888-: folds 
+Uncalled bet ($0.25) returned to daria130399
+daria130399 collected $1 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Zhud19 (button) folded before Flop (didn't bet)
+Seat 3: -The Don888- (small blind) folded before Flop
+Seat 4: daria130399 (big blind) collected ($1)
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+Seat 9: Erhan1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680767014:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:08:58 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($47.45 in chips) 
+Seat 4: daria130399 ($57.17 in chips) 
+Seat 8: whitecillar3 ($46.18 in chips) 
+Seat 9: Erhan1956 ($83.71 in chips) 
+daria130399: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: folds 
+Zhud19: raises $1 to $1.50
+-The Don888-: folds 
+daria130399: folds 
+whitecillar3: folds 
+Uncalled bet ($1) returned to Zhud19
+Zhud19 collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 2: Zhud19 collected ($1.75)
+Seat 3: -The Don888- (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 8: whitecillar3 (big blind) folded before Flop
+Seat 9: Erhan1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680770779:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:09:09 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 2: Zhud19 ($51.15 in chips) 
+Seat 3: -The Don888- ($47.35 in chips) 
+Seat 4: daria130399 ($56.82 in chips) 
+Seat 8: whitecillar3 ($45.58 in chips) 
+Seat 9: Erhan1956 ($83.61 in chips) 
+whitecillar3: posts small blind $0.25
+Erhan1956: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+goorest777 joins the table at seat #1 
+Zhud19: folds 
+-The Don888-: raises $1 to $1.50
+daria130399: folds 
+whitecillar3: folds 
+Erhan1956: calls $1
+*** FLOP *** [6c 9h Qd]
+Erhan1956: checks 
+-The Don888-: bets $2
+Erhan1956: calls $2
+*** TURN *** [6c 9h Qd] [Qs]
+Erhan1956: checks 
+-The Don888-: checks 
+*** RIVER *** [6c 9h Qd Qs] [7c]
+Erhan1956: bets $7.36
+-The Don888-: folds 
+Uncalled bet ($7.36) returned to Erhan1956
+Erhan1956 collected $7.36 from pot
+*** SUMMARY ***
+Total pot $7.75 | Rake $0.39 
+Board [6c 9h Qd Qs 7c]
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded on the River
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 8: whitecillar3 (small blind) folded before Flop
+Seat 9: Erhan1956 (big blind) collected ($7.36)
+
+
+
+PokerStars Hand #228680782523:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:09:44 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: goorest777 ($50 in chips) 
+Seat 2: Zhud19 ($51.05 in chips) 
+Seat 3: -The Don888- ($43.75 in chips) 
+Seat 4: daria130399 ($56.72 in chips) 
+Seat 8: whitecillar3 ($45.23 in chips) 
+Seat 9: Erhan1956 ($87.37 in chips) 
+Erhan1956: posts small blind $0.25
+goorest777: posts big blind $0.50
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+whitecillar3: folds 
+Erhan1956: calls $0.25
+goorest777: checks 
+*** FLOP *** [9h 4c 9c]
+Erhan1956: checks 
+goorest777: bets $0.52
+Erhan1956: calls $0.52
+*** TURN *** [9h 4c 9c] [3c]
+Erhan1956: checks 
+goorest777: checks 
+*** RIVER *** [9h 4c 9c 3c] [Qd]
+Erhan1956: checks 
+goorest777: bets $1.88
+Erhan1956: folds 
+Uncalled bet ($1.88) returned to goorest777
+goorest777 collected $2.51 from pot
+*** SUMMARY ***
+Total pot $2.64 | Rake $0.13 
+Board [9h 4c 9c 3c Qd]
+Seat 1: goorest777 (big blind) collected ($2.51)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 8: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 9: Erhan1956 (small blind) folded on the River
+
+
+
+PokerStars Hand #228680794113:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:10:18 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: goorest777 ($51.39 in chips) 
+Seat 2: Zhud19 ($50.95 in chips) 
+Seat 3: -The Don888- ($50 in chips) 
+Seat 4: daria130399 ($56.62 in chips) 
+Seat 8: whitecillar3 ($45.13 in chips) 
+Seat 9: Erhan1956 ($86.25 in chips) 
+goorest777: posts small blind $0.25
+Zhud19: posts big blind $0.50
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+-The Don888-: folds 
+daria130399: raises $1 to $1.50
+whitecillar3: folds 
+Erhan1956: calls $1.50
+goorest777: folds 
+Zhud19: raises $5.50 to $7
+daria130399: raises $49.52 to $56.52 and is all-in
+Erhan1956: folds 
+Zhud19: folds 
+Uncalled bet ($49.52) returned to daria130399
+daria130399 collected $16.35 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.35 | Rake $0 
+Seat 1: goorest777 (small blind) folded before Flop
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 collected ($16.35)
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+Seat 9: Erhan1956 (button) folded before Flop
+
+
+
+PokerStars Hand #228680812716:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:11:13 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: goorest777 ($51.04 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($49.90 in chips) 
+Seat 4: daria130399 ($65.87 in chips) 
+Seat 8: whitecillar3 ($45.03 in chips) 
+Seat 9: Erhan1956 ($84.65 in chips) 
+Zhud19: posts small blind $0.25
+-The Don888-: posts big blind $0.50
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+whitecillar3: folds 
+Erhan1956: calls $0.50
+goorest777: raises $1.50 to $2
+Zhud19: folds 
+-The Don888-: folds 
+Erhan1956: raises $6 to $8
+goorest777: folds 
+Uncalled bet ($6) returned to Erhan1956
+Erhan1956 collected $5.35 from pot
+*** SUMMARY ***
+Total pot $5.35 | Rake $0 
+Seat 1: goorest777 (button) folded before Flop
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 3: -The Don888- (big blind) folded before Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+Seat 9: Erhan1956 collected ($5.35)
+
+
+
+PokerStars Hand #228680824406:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:11:48 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: goorest777 ($50 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($49.30 in chips) 
+Seat 4: daria130399 ($65.77 in chips) 
+Seat 8: whitecillar3 ($44.93 in chips) 
+Seat 9: Erhan1956 ($87.90 in chips) 
+-The Don888-: posts small blind $0.25
+daria130399: posts big blind $0.50
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+Erhan1956: calls $0.50
+goorest777: raises $1 to $1.50
+Zhud19: folds 
+-The Don888-: calls $1.25
+daria130399: calls $1
+Erhan1956: calls $1
+*** FLOP *** [3s As Qs]
+-The Don888-: checks 
+daria130399: checks 
+Erhan1956: checks 
+goorest777: bets $2.13
+-The Don888-: folds 
+daria130399: folds 
+Erhan1956: folds 
+Uncalled bet ($2.13) returned to goorest777
+goorest777 collected $6.27 from pot
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.33 
+Board [3s As Qs]
+Seat 1: goorest777 collected ($6.27)
+Seat 2: Zhud19 (button) folded before Flop (didn't bet)
+Seat 3: -The Don888- (small blind) folded on the Flop
+Seat 4: daria130399 (big blind) folded on the Flop
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+Seat 9: Erhan1956 folded on the Flop
+
+
+
+PokerStars Hand #228680836731:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:12:25 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: goorest777 ($54.67 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($47.70 in chips) 
+Seat 4: daria130399 ($64.17 in chips) 
+Seat 8: whitecillar3 ($44.83 in chips) 
+Seat 9: Erhan1956 ($86.30 in chips) 
+daria130399: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: calls $0.50
+goorest777: folds 
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: calls $0.25
+whitecillar3: raises $3.50 to $4
+Erhan1956: calls $3.50
+daria130399: folds 
+*** FLOP *** [Js Ah 6s]
+whitecillar3: bets $6.57
+Erhan1956: raises $6.57 to $13.14
+whitecillar3: raises $27.59 to $40.73 and is all-in
+Erhan1956: calls $27.59
+whitecillar3:  
+Erhan1956:  
+*** TURN *** [Js Ah 6s] [3s]
+*** RIVER *** [Js Ah 6s 3s] [Tc]
+*** SHOW DOWN ***
+whitecillar3: shows [Kc Ad] (a pair of Aces)
+Erhan1956: shows [Jh Kd] (a pair of Jacks)
+whitecillar3 collected $88.56 from pot
+*** SUMMARY ***
+Total pot $90.56 | Rake $2 
+Board [Js Ah 6s 3s Tc]
+Seat 1: goorest777 folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 8: whitecillar3 (big blind) showed [Kc Ad] and won ($88.56) with a pair of Aces
+Seat 9: Erhan1956 showed [Jh Kd] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #228680855990:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:13:22 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: goorest777 ($54.57 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($47.60 in chips) 
+Seat 4: daria130399 ($63.57 in chips) 
+Seat 8: whitecillar3 ($88.56 in chips) 
+Seat 9: Erhan1956 ($41.47 in chips) 
+whitecillar3: posts small blind $0.25
+Erhan1956: posts big blind $0.50
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+goorest777: folds 
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: raises $1 to $1.50
+whitecillar3: folds 
+Erhan1956: calls $1
+*** FLOP *** [6h Jc 5d]
+Erhan1956: checks 
+daria130399: bets $1.87
+Erhan1956: folds 
+Uncalled bet ($1.87) returned to daria130399
+daria130399 collected $3.66 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.85 | Rake $0.19 
+Board [6h Jc 5d]
+Seat 1: goorest777 folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 (button) collected ($3.66)
+Seat 8: whitecillar3 (small blind) folded before Flop
+Seat 9: Erhan1956 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228680863315:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:13:44 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 1: goorest777 ($54.47 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($47.50 in chips) 
+Seat 4: daria130399 ($65.63 in chips) 
+Seat 8: whitecillar3 ($88.21 in chips) 
+Seat 9: Erhan1956 ($39.87 in chips) 
+Erhan1956: posts small blind $0.25
+goorest777: posts big blind $0.50
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: raises $1 to $1.50
+-The Don888-: folds 
+daria130399: folds 
+whitecillar3: folds 
+Erhan1956: calls $1.25
+goorest777: folds 
+*** FLOP *** [Th Tc Ad]
+Erhan1956: bets $3.90
+Zhud19: calls $3.90
+*** TURN *** [Th Tc Ad] [6h]
+Erhan1956: bets $11.30
+Zhud19: folds 
+Uncalled bet ($11.30) returned to Erhan1956
+Erhan1956 collected $11.30 from pot
+*** SUMMARY ***
+Total pot $11.90 | Rake $0.60 
+Board [Th Tc Ad 6h]
+Seat 1: goorest777 (big blind) folded before Flop
+Seat 2: Zhud19 folded on the Turn
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 8: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 9: Erhan1956 (small blind) collected ($11.30)
+
+
+
+PokerStars Hand #228680872071:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:14:11 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: goorest777 ($53.87 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($47.40 in chips) 
+Seat 4: daria130399 ($65.53 in chips) 
+Seat 8: whitecillar3 ($88.11 in chips) 
+Seat 9: Erhan1956 ($45.67 in chips) 
+goorest777: posts small blind $0.25
+Zhud19: posts big blind $0.50
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+-The Don888-: folds 
+daria130399: folds 
+whitecillar3: folds 
+Erhan1956: folds 
+goorest777: raises $1 to $1.50
+Zhud19: calls $1
+*** FLOP *** [5d 9c 4h]
+proStasUK joins the table at seat #5 
+goorest777: bets $2.57
+Zhud19: folds 
+Uncalled bet ($2.57) returned to goorest777
+goorest777 collected $3.42 from pot
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.18 
+Board [5d 9c 4h]
+Seat 1: goorest777 (small blind) collected ($3.42)
+Seat 2: Zhud19 (big blind) folded on the Flop
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+Seat 9: Erhan1956 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680880787:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:14:37 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: goorest777 ($55.69 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($47.30 in chips) 
+Seat 4: daria130399 ($65.43 in chips) 
+Seat 8: whitecillar3 ($88.01 in chips) 
+Seat 9: Erhan1956 ($45.57 in chips) 
+Zhud19: posts small blind $0.25
+-The Don888-: posts big blind $0.50
+proStasUK: sits out 
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+whitecillar3: folds 
+Erhan1956: calls $0.50
+goorest777: folds 
+Zhud19: raises $2.10 to $2.60
+-The Don888-: folds 
+Erhan1956: calls $2.10
+*** FLOP *** [6s Qh Ad]
+Zhud19: bets $1.79
+Erhan1956: calls $1.79
+*** TURN *** [6s Qh Ad] [Kh]
+Zhud19: bets $7.50
+Erhan1956: calls $7.50
+*** RIVER *** [6s Qh Ad Kh] [9s]
+Zhud19: checks 
+Erhan1956: checks 
+*** SHOW DOWN ***
+Zhud19: shows [Kd Ts] (a pair of Kings)
+Erhan1956: mucks hand 
+Zhud19 collected $23.64 from pot
+*** SUMMARY ***
+Total pot $24.88 | Rake $1.24 
+Board [6s Qh Ad Kh 9s]
+Seat 1: goorest777 (button) folded before Flop (didn't bet)
+Seat 2: Zhud19 (small blind) showed [Kd Ts] and won ($23.64) with a pair of Kings
+Seat 3: -The Don888- (big blind) folded before Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+Seat 9: Erhan1956 mucked
+
+
+
+PokerStars Hand #228680893451:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:15:15 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 1: goorest777 ($55.59 in chips) 
+Seat 2: Zhud19 ($61.65 in chips) 
+Seat 3: -The Don888- ($46.70 in chips) 
+Seat 4: daria130399 ($65.33 in chips) 
+Seat 8: whitecillar3 ($87.91 in chips) 
+Seat 9: Erhan1956 ($33.58 in chips) 
+-The Don888-: posts small blind $0.25
+daria130399: posts big blind $0.50
+proStasUK: sits out 
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+Erhan1956: calls $0.50
+goorest777: folds 
+Zhud19: folds 
+-The Don888-: calls $0.25
+daria130399: checks 
+*** FLOP *** [9d 3s Ah]
+-The Don888-: checks 
+daria130399: checks 
+Erhan1956: checks 
+*** TURN *** [9d 3s Ah] [5s]
+-The Don888-: checks 
+Hey_Mama584 joins the table at seat #6 
+daria130399: checks 
+Erhan1956: checks 
+*** RIVER *** [9d 3s Ah 5s] [9h]
+-The Don888-: checks 
+daria130399: checks 
+Erhan1956: checks 
+*** SHOW DOWN ***
+-The Don888-: shows [Ks 6c] (a pair of Nines)
+daria130399: shows [Ts 5d] (two pair, Nines and Fives)
+Erhan1956: mucks hand 
+daria130399 collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [9d 3s Ah 5s 9h]
+Seat 1: goorest777 folded before Flop (didn't bet)
+Seat 2: Zhud19 (button) folded before Flop (didn't bet)
+Seat 3: -The Don888- (small blind) showed [Ks 6c] and lost with a pair of Nines
+Seat 4: daria130399 (big blind) showed [Ts 5d] and won ($2) with two pair, Nines and Fives
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+Seat 9: Erhan1956 mucked
+
+
+
+PokerStars Hand #228680906500:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:15:54 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 1: goorest777 ($55.49 in chips) 
+Seat 2: Zhud19 ($61.55 in chips) 
+Seat 3: -The Don888- ($46.10 in chips) 
+Seat 4: daria130399 ($66.73 in chips) 
+Seat 5: proStasUK ($50 in chips) 
+Seat 8: whitecillar3 ($87.81 in chips) 
+Seat 9: Erhan1956 ($32.98 in chips) 
+daria130399: posts small blind $0.25
+proStasUK: posts big blind $0.50
+Hey_Mama584: sits out 
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+proStasUK: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+Erhan1956: raises $0.50 to $1
+goorest777: raises $1 to $2
+Zhud19: folds 
+-The Don888-: calls $2
+daria130399: folds 
+proStasUK: folds 
+Erhan1956: calls $1
+*** FLOP *** [3s 2c 8s]
+Erhan1956: checks 
+goorest777: bets $2.41
+-The Don888-: folds 
+Erhan1956: calls $2.41
+*** TURN *** [3s 2c 8s] [Jd]
+Erhan1956: checks 
+goorest777: bets $8.75
+Erhan1956: folds 
+Uncalled bet ($8.75) returned to goorest777
+goorest777 collected $11.66 from pot
+*** SUMMARY ***
+Total pot $12.27 | Rake $0.61 
+Board [3s 2c 8s Jd]
+Seat 1: goorest777 collected ($11.66)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- (button) folded on the Flop
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 5: proStasUK (big blind) folded before Flop
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+Seat 9: Erhan1956 folded on the Turn
+
+
+
+PokerStars Hand #228680919012:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:16:31 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: goorest777 ($62.64 in chips) 
+Seat 2: Zhud19 ($61.45 in chips) 
+Seat 3: -The Don888- ($44 in chips) 
+Seat 4: daria130399 ($66.38 in chips) 
+Seat 5: proStasUK ($50 in chips) 
+Seat 6: Hey_Mama584 ($50 in chips) 
+Seat 8: whitecillar3 ($87.71 in chips) 
+Seat 9: Erhan1956 ($28.47 in chips) 
+proStasUK: posts small blind $0.25
+Hey_Mama584: posts big blind $0.50
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+proStasUK: posts the ante $0.10
+Hey_Mama584: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+Erhan1956: folds 
+Antsu Man joins the table at seat #7 
+goorest777: folds 
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: raises $1 to $1.50
+proStasUK: folds 
+Hey_Mama584: folds 
+Uncalled bet ($1) returned to daria130399
+daria130399 collected $2.05 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0 
+Seat 1: goorest777 folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 (button) collected ($2.05)
+Seat 5: proStasUK (small blind) folded before Flop
+Seat 6: Hey_Mama584 (big blind) folded before Flop
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+Seat 9: Erhan1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680923460:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:16:45 ET
+Table 'Felicia III' 9-max Seat #5 is the button
+Seat 1: goorest777 ($62.54 in chips) 
+Seat 2: Zhud19 ($61.35 in chips) 
+Seat 3: -The Don888- ($43.90 in chips) 
+Seat 4: daria130399 ($67.83 in chips) 
+Seat 5: proStasUK ($50 in chips) 
+Seat 6: Hey_Mama584 ($49.40 in chips) 
+Seat 7: Antsu Man ($40 in chips) 
+Seat 8: whitecillar3 ($87.61 in chips) 
+Seat 9: Erhan1956 ($28.37 in chips) 
+Hey_Mama584: posts small blind $0.25
+Antsu Man: posts big blind $0.50
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+proStasUK: posts the ante $0.10
+Hey_Mama584: posts the ante $0.10
+Antsu Man: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+Erhan1956: calls $0.50
+goorest777: raises $1.50 to $2
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+proStasUK: folds 
+Hey_Mama584: folds 
+Antsu Man: folds 
+Erhan1956: calls $1.50
+*** FLOP *** [9d 5d Ah]
+Erhan1956: checks 
+goorest777: bets $1.83
+Erhan1956: calls $1.83
+*** TURN *** [9d 5d Ah] [9h]
+Erhan1956: checks 
+goorest777: bets $6.63
+Erhan1956: calls $6.63
+*** RIVER *** [9d 5d Ah 9h] [Ks]
+Erhan1956: checks 
+goorest777: checks 
+*** SHOW DOWN ***
+Erhan1956: shows [5h 2h] (two pair, Nines and Fives)
+goorest777: shows [Ad Jd] (two pair, Aces and Nines)
+goorest777 collected $21.44 from pot
+*** SUMMARY ***
+Total pot $22.57 | Rake $1.13 
+Board [9d 5d Ah 9h Ks]
+Seat 1: goorest777 showed [Ad Jd] and won ($21.44) with two pair, Aces and Nines
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: proStasUK (button) folded before Flop (didn't bet)
+Seat 6: Hey_Mama584 (small blind) folded before Flop
+Seat 7: Antsu Man (big blind) folded before Flop
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+Seat 9: Erhan1956 showed [5h 2h] and lost with two pair, Nines and Fives
+
+
+
+PokerStars Hand #228680940952:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:17:37 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 1: goorest777 ($73.42 in chips) 
+Seat 2: Zhud19 ($61.25 in chips) 
+Seat 3: -The Don888- ($43.80 in chips) 
+Seat 4: daria130399 ($67.73 in chips) 
+Seat 5: proStasUK ($50 in chips) 
+Seat 6: Hey_Mama584 ($49.05 in chips) 
+Seat 7: Antsu Man ($39.40 in chips) 
+Seat 8: whitecillar3 ($87.51 in chips) 
+Seat 9: Erhan1956 ($17.81 in chips) 
+Antsu Man: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+proStasUK: posts the ante $0.10
+Hey_Mama584: posts the ante $0.10
+Antsu Man: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: folds 
+goorest777: folds 
+Zhud19: folds 
+-The Don888-: raises $0.50 to $1
+daria130399: raises $3.50 to $4.50
+proStasUK: folds 
+Hey_Mama584: folds 
+Antsu Man: folds 
+whitecillar3: folds 
+-The Don888-: calls $3.50
+*** FLOP *** [4c 7d 3s]
+-The Don888-: checks 
+daria130399: bets $5.16
+-The Don888-: folds 
+Uncalled bet ($5.16) returned to daria130399
+daria130399 collected $10.12 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.65 | Rake $0.53 
+Board [4c 7d 3s]
+Seat 1: goorest777 folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded on the Flop
+Seat 4: daria130399 collected ($10.12)
+Seat 5: proStasUK folded before Flop (didn't bet)
+Seat 6: Hey_Mama584 (button) folded before Flop (didn't bet)
+Seat 7: Antsu Man (small blind) folded before Flop
+Seat 8: whitecillar3 (big blind) folded before Flop
+Seat 9: Erhan1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680953005:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:18:12 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 1: goorest777 ($73.32 in chips) 
+Seat 2: Zhud19 ($61.15 in chips) 
+Seat 3: -The Don888- ($39.20 in chips) 
+Seat 4: daria130399 ($73.25 in chips) 
+Seat 5: proStasUK ($50 in chips) 
+Seat 6: Hey_Mama584 ($48.95 in chips) 
+Seat 7: Antsu Man ($39.05 in chips) 
+Seat 8: whitecillar3 ($86.91 in chips) 
+Seat 9: Erhan1956 ($17.71 in chips) 
+whitecillar3: posts small blind $0.25
+Erhan1956: posts big blind $0.50
+goorest777: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+proStasUK: posts the ante $0.10
+Hey_Mama584: posts the ante $0.10
+Antsu Man: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+goorest777: folds 
+Zhud19: folds 
+-The Don888-: raises $0.50 to $1
+daria130399: calls $1
+proStasUK: folds 
+Hey_Mama584: folds 
+Antsu Man: folds 
+whitecillar3: folds 
+Erhan1956: calls $0.50
+*** FLOP *** [Qh 5h 8d]
+goorest777 leaves the table
+Erhan1956: checks 
+-The Don888-: bets $2.50
+daria130399: folds 
+Erhan1956: calls $2.50
+*** TURN *** [Qh 5h 8d] [Js]
+Erhan1956: checks 
+-The Don888-: bets $3.50
+Erhan1956: calls $3.50
+*** RIVER *** [Qh 5h 8d Js] [3d]
+Erhan1956: bets $10.61 and is all-in
+-The Don888-: calls $10.61
+*** SHOW DOWN ***
+Erhan1956: shows [5d 3c] (two pair, Fives and Threes)
+-The Don888-: shows [9d Td] (a straight, Eight to Queen)
+-The Don888- collected $35.50 from pot
+*** SUMMARY ***
+Total pot $37.37 | Rake $1.87 
+Board [Qh 5h 8d Js 3d]
+Seat 1: goorest777 folded before Flop (didn't bet)
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- showed [9d Td] and won ($35.50) with a straight, Eight to Queen
+Seat 4: daria130399 folded on the Flop
+Seat 5: proStasUK folded before Flop (didn't bet)
+Seat 6: Hey_Mama584 folded before Flop (didn't bet)
+Seat 7: Antsu Man (button) folded before Flop (didn't bet)
+Seat 8: whitecillar3 (small blind) folded before Flop
+Seat 9: Erhan1956 (big blind) showed [5d 3c] and lost with two pair, Fives and Threes
+
+
+
+PokerStars Hand #228680968212:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:18:58 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 2: Zhud19 ($61.05 in chips) 
+Seat 3: -The Don888- ($56.99 in chips) 
+Seat 4: daria130399 ($72.15 in chips) 
+Seat 5: proStasUK ($50 in chips) 
+Seat 6: Hey_Mama584 ($48.85 in chips) 
+Seat 7: Antsu Man ($38.95 in chips) 
+Seat 8: whitecillar3 ($86.56 in chips) 
+Zhud19: posts small blind $0.25
+-The Don888-: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+proStasUK: posts the ante $0.10
+Hey_Mama584: posts the ante $0.10
+Antsu Man: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956 leaves the table
+daria130399: folds 
+proStasUK: raises $1 to $1.50
+Hey_Mama584: folds 
+Antsu Man: folds 
+whitecillar3: raises $4 to $5.50
+Zhud19: folds 
+-The Don888-: folds 
+proStasUK: folds 
+Uncalled bet ($4) returned to whitecillar3
+whitecillar3 collected $4.45 from pot
+*** SUMMARY ***
+Total pot $4.45 | Rake $0 
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 3: -The Don888- (big blind) folded before Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 5: proStasUK folded before Flop
+Seat 6: Hey_Mama584 folded before Flop (didn't bet)
+Seat 7: Antsu Man folded before Flop (didn't bet)
+Seat 8: whitecillar3 (button) collected ($4.45)
+
+
+
+PokerStars Hand #228680986088:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:19:51 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 2: Zhud19 ($60.70 in chips) 
+Seat 3: -The Don888- ($56.39 in chips) 
+Seat 4: daria130399 ($72.05 in chips) 
+Seat 5: proStasUK ($50 in chips) 
+Seat 6: Hey_Mama584 ($48.75 in chips) 
+Seat 7: Antsu Man ($38.85 in chips) 
+Seat 8: whitecillar3 ($89.41 in chips) 
+-The Don888-: posts small blind $0.25
+daria130399: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+proStasUK: posts the ante $0.10
+Hey_Mama584: posts the ante $0.10
+Antsu Man: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+*** HOLE CARDS ***
+proStasUK: folds 
+Hey_Mama584: folds 
+Antsu Man: folds 
+whitecillar3: folds 
+Zhud19: folds 
+-The Don888-: folds 
+Uncalled bet ($0.25) returned to daria130399
+daria130399 collected $1.20 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0 
+Seat 2: Zhud19 (button) folded before Flop (didn't bet)
+Seat 3: -The Don888- (small blind) folded before Flop
+Seat 4: daria130399 (big blind) collected ($1.20)
+Seat 5: proStasUK folded before Flop (didn't bet)
+Seat 6: Hey_Mama584 folded before Flop (didn't bet)
+Seat 7: Antsu Man folded before Flop (didn't bet)
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680992716:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:20:02 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 2: Zhud19 ($60.60 in chips) 
+Seat 3: -The Don888- ($56.04 in chips) 
+Seat 4: daria130399 ($72.90 in chips) 
+Seat 6: Hey_Mama584 ($48.65 in chips) 
+Seat 7: Antsu Man ($38.75 in chips) 
+Seat 8: whitecillar3 ($89.31 in chips) 
+daria130399: posts small blind $0.25
+proStasUK: is sitting out 
+Hey_Mama584: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Hey_Mama584: posts the ante $0.10
+Antsu Man: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+*** HOLE CARDS ***
+Antsu Man: folds 
+whitecillar3: raises $0.90 to $1.40
+Zhud19: folds 
+-The Don888-: folds 
+proStasUK leaves the table
+daria130399: folds 
+Hey_Mama584: folds 
+Uncalled bet ($0.90) returned to whitecillar3
+whitecillar3 collected $1.85 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 6: Hey_Mama584 (big blind) folded before Flop
+Seat 7: Antsu Man folded before Flop (didn't bet)
+Seat 8: whitecillar3 collected ($1.85)
+
+
+
+PokerStars Hand #228680998887:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:20:20 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 2: Zhud19 ($60.50 in chips) 
+Seat 3: -The Don888- ($55.94 in chips) 
+Seat 4: daria130399 ($72.55 in chips) 
+Seat 6: Hey_Mama584 ($48.05 in chips) 
+Seat 7: Antsu Man ($38.65 in chips) 
+Seat 8: whitecillar3 ($90.56 in chips) 
+Hey_Mama584: posts small blind $0.25
+Antsu Man: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Hey_Mama584: posts the ante $0.10
+Antsu Man: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+Zhud19: raises $1 to $1.50
+-The Don888-: folds 
+daria130399: folds 
+Hey_Mama584: folds 
+Antsu Man: calls $1
+*** FLOP *** [9s Qd 5d]
+Antsu Man: bets $1
+Zhud19: raises $2 to $3
+Antsu Man: calls $2
+*** TURN *** [9s Qd 5d] [Qc]
+Antsu Man: bets $1
+Zhud19: raises $3.41 to $4.41
+Antsu Man: calls $3.41
+*** RIVER *** [9s Qd 5d Qc] [Ts]
+Antsu Man: checks 
+Zhud19: checks 
+*** SHOW DOWN ***
+Antsu Man: shows [Ad 4d] (a pair of Queens)
+Zhud19: shows [8s 8c] (two pair, Queens and Eights)
+Zhud19 collected $17.74 from pot
+*** SUMMARY ***
+Total pot $18.67 | Rake $0.93 
+Board [9s Qd 5d Qc Ts]
+Seat 2: Zhud19 showed [8s 8c] and won ($17.74) with two pair, Queens and Eights
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 6: Hey_Mama584 (small blind) folded before Flop
+Seat 7: Antsu Man (big blind) showed [Ad 4d] and lost with a pair of Queens
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681012079:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:20:59 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 2: Zhud19 ($69.23 in chips) 
+Seat 3: -The Don888- ($55.84 in chips) 
+Seat 4: daria130399 ($72.45 in chips) 
+Seat 6: Hey_Mama584 ($47.70 in chips) 
+Seat 7: Antsu Man ($29.64 in chips) 
+Seat 8: whitecillar3 ($90.46 in chips) 
+Antsu Man: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Hey_Mama584: posts the ante $0.10
+Antsu Man: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+Hey_Mama584: raises $1 to $1.50
+Antsu Man: folds 
+whitecillar3: folds 
+Uncalled bet ($1) returned to Hey_Mama584
+Hey_Mama584 collected $1.85 from pot
+Hey_Mama584: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 6: Hey_Mama584 (button) collected ($1.85)
+Seat 7: Antsu Man (small blind) folded before Flop
+Seat 8: whitecillar3 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228681016035:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:21:11 ET
+Table 'Felicia III' 9-max Seat #7 is the button
+Seat 6: Hey_Mama584 ($48.95 in chips) 
+Seat 7: Antsu Man ($29.29 in chips) 
+Seat 8: whitecillar3 ($89.86 in chips) 
+whitecillar3: posts small blind $0.25
+Zhud19: is sitting out 
+Zhud19 leaves the table
+-The Don888-: is sitting out 
+daria130399: is sitting out 
+Hey_Mama584: posts big blind $0.50
+Hey_Mama584: posts the ante $0.10
+Antsu Man: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+*** HOLE CARDS ***
+Antsu Man: folds 
+daria130399 leaves the table
+-The Don888- leaves the table
+whitecillar3: folds 
+Uncalled bet ($0.25) returned to Hey_Mama584
+Hey_Mama584 collected $0.80 from pot
+Hey_Mama584: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0 
+Seat 6: Hey_Mama584 (big blind) collected ($0.80)
+Seat 7: Antsu Man (button) folded before Flop (didn't bet)
+Seat 8: whitecillar3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228681019626:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:21:21 ET
+Table 'Felicia III' 9-max Seat #6 is the button
+Seat 6: Hey_Mama584 ($49.40 in chips) 
+Seat 8: whitecillar3 ($89.51 in chips) 
+Hey_Mama584: posts small blind $0.25
+Antsu Man: is sitting out 
+whitecillar3: posts big blind $0.50
+Hey_Mama584: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+*** HOLE CARDS ***
+Hey_Mama584: raises $1 to $1.50
+whitecillar3: folds 
+Uncalled bet ($1) returned to Hey_Mama584
+Antsu Man leaves the table
+Hey_Mama584 collected $1.20 from pot
+Hey_Mama584: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0 
+Seat 6: Hey_Mama584 (button) (small blind) collected ($1.20)
+Seat 8: whitecillar3 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228679958462:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:26:18 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 2: Zhud19 ($89.45 in chips) 
+Seat 3: cartman177 ($50 in chips) 
+cartman177: posts small blind $0.25
+Zhud19: posts big blind $0.50
+Zhud19: posts the ante $0.10
+cartman177: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+Uncalled bet ($0.25) returned to Zhud19
+Zhud19 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 2: Zhud19 (big blind) collected ($0.70)
+Seat 3: cartman177 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680596702:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:01:20 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 1: soncause ($97 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($25.69 in chips) 
+Seat 4: daria130399 ($55.16 in chips) 
+Seat 9: Erhan1956 ($71.23 in chips) 
+Erhan1956: posts small blind $0.25
+soncause: posts big blind $0.50
+soncause: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+Erhan1956: calls $0.25
+soncause: raises $1 to $1.50
+Erhan1956: calls $1
+*** FLOP *** [2c 3h Ac]
+Erhan1956: checks 
+soncause: checks 
+*** TURN *** [2c 3h Ac] [Qs]
+Erhan1956: bets $3.32
+soncause: calls $3.32
+*** RIVER *** [2c 3h Ac Qs] [5h]
+Erhan1956: checks 
+soncause: checks 
+*** SHOW DOWN ***
+Erhan1956: shows [Qc Jc] (a pair of Queens)
+soncause: shows [Kc Kh] (a pair of Kings)
+soncause collected $9.63 from pot
+*** SUMMARY ***
+Total pot $10.14 | Rake $0.51 
+Board [2c 3h Ac Qs 5h]
+Seat 1: soncause (big blind) showed [Kc Kh] and won ($9.63) with a pair of Kings
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 9: Erhan1956 (small blind) showed [Qc Jc] and lost with a pair of Queens
+
+
+
+PokerStars Hand #228680605934:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:01:51 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 1: soncause ($101.71 in chips) 
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($50 in chips) 
+Seat 4: daria130399 ($55.06 in chips) 
+Seat 9: Erhan1956 ($66.31 in chips) 
+soncause: posts small blind $0.25
+Zhud19: posts big blind $0.50
+soncause: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+-The Don888-: folds 
+daria130399: folds 
+Erhan1956: calls $0.50
+soncause: raises $1 to $1.50
+Zhud19: raises $4.50 to $6
+Erhan1956: folds 
+soncause: calls $4.50
+*** FLOP *** [Kc 5s 3d]
+soncause: checks 
+Zhud19: bets $3.50
+soncause: calls $3.50
+*** TURN *** [Kc 5s 3d] [Ah]
+soncause: checks 
+Zhud19: bets $11
+soncause: folds 
+Uncalled bet ($11) returned to Zhud19
+Zhud19 collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Kc 5s 3d Ah]
+Seat 1: soncause (small blind) folded on the Turn
+Seat 2: Zhud19 (big blind) collected ($19)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 9: Erhan1956 (button) folded before Flop
+
+
+
+PokerStars Hand #228680620127:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:02:37 ET
+Table 'Felicia III' 9-max Seat #1 is the button
+Seat 1: soncause ($92.11 in chips) 
+Seat 2: Zhud19 ($59.40 in chips) 
+Seat 3: -The Don888- ($49.90 in chips) 
+Seat 4: daria130399 ($54.96 in chips) 
+Seat 9: Erhan1956 ($65.71 in chips) 
+Zhud19: posts small blind $0.25
+-The Don888-: posts big blind $0.50
+soncause: posts the ante $0.10
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3 joins the table at seat #8 
+daria130399: folds 
+Erhan1956: raises $0.50 to $1
+soncause: folds 
+Zhud19: folds 
+-The Don888-: calls $0.50
+*** FLOP *** [3c Qd Qs]
+soncause leaves the table
+-The Don888-: checks 
+Erhan1956: bets $2.61
+-The Don888-: folds 
+Uncalled bet ($2.61) returned to Erhan1956
+Erhan1956 collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [3c Qd Qs]
+Seat 1: soncause (button) folded before Flop (didn't bet)
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 3: -The Don888- (big blind) folded on the Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 9: Erhan1956 collected ($2.61)
+
+
+
+PokerStars Hand #228680630732:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:03:11 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 2: Zhud19 ($59.05 in chips) 
+Seat 3: -The Don888- ($48.80 in chips) 
+Seat 4: daria130399 ($54.86 in chips) 
+Seat 9: Erhan1956 ($67.22 in chips) 
+-The Don888-: posts small blind $0.25
+daria130399: posts big blind $0.50
+whitecillar3: sits out 
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: folds 
+Zhud19: folds 
+-The Don888-: folds 
+Uncalled bet ($0.25) returned to daria130399
+daria130399 collected $0.90 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0 
+Seat 2: Zhud19 (button) folded before Flop (didn't bet)
+Seat 3: -The Don888- (small blind) folded before Flop
+Seat 4: daria130399 (big blind) collected ($0.90)
+Seat 9: Erhan1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680633629:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:03:20 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 2: Zhud19 ($58.95 in chips) 
+Seat 3: -The Don888- ($48.45 in chips) 
+Seat 4: daria130399 ($55.41 in chips) 
+Seat 8: whitecillar3 ($50 in chips) 
+Seat 9: Erhan1956 ($67.12 in chips) 
+daria130399: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: calls $0.50
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+whitecillar3: checks 
+*** FLOP *** [Jc 9h Qd]
+whitecillar3: checks 
+Erhan1956: bets $1.66
+whitecillar3: calls $1.66
+*** TURN *** [Jc 9h Qd] [4s]
+whitecillar3: checks 
+Erhan1956: checks 
+*** RIVER *** [Jc 9h Qd 4s] [Kd]
+whitecillar3: checks 
+Erhan1956: bets $4.82
+whitecillar3: folds 
+Uncalled bet ($4.82) returned to Erhan1956
+Erhan1956 collected $4.82 from pot
+*** SUMMARY ***
+Total pot $5.07 | Rake $0.25 
+Board [Jc 9h Qd 4s Kd]
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) folded before Flop
+Seat 8: whitecillar3 (big blind) folded on the River
+Seat 9: Erhan1956 collected ($4.82)
+
+
+
+PokerStars Hand #228680665965:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:04:21 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 2: Zhud19 ($58.85 in chips) 
+Seat 3: -The Don888- ($48.35 in chips) 
+Seat 4: daria130399 ($55.06 in chips) 
+Seat 8: whitecillar3 ($47.74 in chips) 
+Seat 9: Erhan1956 ($69.68 in chips) 
+whitecillar3: posts small blind $0.25
+Erhan1956: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+whitecillar3: calls $0.25
+Erhan1956: checks 
+*** FLOP *** [Tc 3d 9s]
+whitecillar3: checks 
+Erhan1956: checks 
+*** TURN *** [Tc 3d 9s] [Qs]
+whitecillar3: checks 
+Erhan1956: checks 
+*** RIVER *** [Tc 3d 9s Qs] [Jc]
+whitecillar3: checks 
+Erhan1956: bets $1.42
+whitecillar3: folds 
+Uncalled bet ($1.42) returned to Erhan1956
+Erhan1956 collected $1.42 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [Tc 3d 9s Qs Jc]
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 8: whitecillar3 (small blind) folded on the River
+Seat 9: Erhan1956 (big blind) collected ($1.42)
+
+
+
+PokerStars Hand #228680674785:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:04:49 ET
+Table 'Felicia III' 9-max Seat #8 is the button
+Seat 2: Zhud19 ($58.75 in chips) 
+Seat 3: -The Don888- ($48.25 in chips) 
+Seat 4: daria130399 ($54.96 in chips) 
+Seat 8: whitecillar3 ($47.14 in chips) 
+Seat 9: Erhan1956 ($70.50 in chips) 
+Erhan1956: posts small blind $0.25
+Zhud19: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+-The Don888-: raises $1 to $1.50
+daria130399: folds 
+whitecillar3: folds 
+Erhan1956: calls $1.25
+Zhud19: folds 
+*** FLOP *** [Jc 7s Ad]
+Erhan1956: bets $3.80
+-The Don888-: folds 
+Uncalled bet ($3.80) returned to Erhan1956
+Erhan1956 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Jc 7s Ad]
+Seat 2: Zhud19 (big blind) folded before Flop
+Seat 3: -The Don888- folded on the Flop
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 8: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 9: Erhan1956 (small blind) collected ($3.80)
+
+
+
+PokerStars Hand #228680682125:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:05:11 ET
+Table 'Felicia III' 9-max Seat #9 is the button
+Seat 2: Zhud19 ($58.15 in chips) 
+Seat 3: -The Don888- ($46.65 in chips) 
+Seat 4: daria130399 ($54.86 in chips) 
+Seat 8: whitecillar3 ($47.04 in chips) 
+Seat 9: Erhan1956 ($72.70 in chips) 
+Zhud19: posts small blind $0.25
+-The Don888-: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+whitecillar3: raises $0.75 to $1.25
+Erhan1956: calls $1.25
+Zhud19: folds 
+-The Don888-: calls $0.75
+*** FLOP *** [Qh 5s 4c]
+-The Don888-: checks 
+whitecillar3: checks 
+Erhan1956: checks 
+*** TURN *** [Qh 5s 4c] [4s]
+-The Don888-: bets $2
+whitecillar3: folds 
+Erhan1956: calls $2
+*** RIVER *** [Qh 5s 4c 4s] [5h]
+-The Don888-: checks 
+Erhan1956: checks 
+*** SHOW DOWN ***
+-The Don888-: shows [5d 3c] (a full house, Fives full of Fours)
+Erhan1956: mucks hand 
+-The Don888- collected $8.08 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [Qh 5s 4c 4s 5h]
+Seat 2: Zhud19 (small blind) folded before Flop
+Seat 3: -The Don888- (big blind) showed [5d 3c] and won ($8.08) with a full house, Fives full of Fours
+Seat 4: daria130399 folded before Flop (didn't bet)
+Seat 8: whitecillar3 folded on the Turn
+Seat 9: Erhan1956 (button) mucked
+
+
+
+PokerStars Hand #228680692133:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:05:42 ET
+Table 'Felicia III' 9-max Seat #2 is the button
+Seat 2: Zhud19 ($57.80 in chips) 
+Seat 3: -The Don888- ($51.38 in chips) 
+Seat 4: daria130399 ($54.76 in chips) 
+Seat 8: whitecillar3 ($45.69 in chips) 
+Seat 9: Erhan1956 ($69.35 in chips) 
+-The Don888-: posts small blind $0.25
+daria130399: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+Erhan1956: raises $0.50 to $1
+Zhud19: raises $2 to $3
+-The Don888-: folds 
+daria130399: folds 
+Erhan1956: calls $2
+*** FLOP *** [As Kh 2c]
+Erhan1956: checks 
+Zhud19: bets $2.07
+Erhan1956: calls $2.07
+*** TURN *** [As Kh 2c] [4h]
+Erhan1956: checks 
+Zhud19: bets $8.12
+Erhan1956: calls $8.12
+*** RIVER *** [As Kh 2c 4h] [Kc]
+Erhan1956: checks 
+Zhud19: checks 
+*** SHOW DOWN ***
+Erhan1956: shows [Jh Js] (two pair, Kings and Jacks)
+Zhud19: mucks hand 
+Erhan1956 collected $26.25 from pot
+*** SUMMARY ***
+Total pot $27.63 | Rake $1.38 
+Board [As Kh 2c 4h Kc]
+Seat 2: Zhud19 (button) mucked
+Seat 3: -The Don888- (small blind) folded before Flop
+Seat 4: daria130399 (big blind) folded before Flop
+Seat 8: whitecillar3 folded before Flop (didn't bet)
+Seat 9: Erhan1956 showed [Jh Js] and won ($26.25) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #228680707450:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:06:28 ET
+Table 'Felicia III' 9-max Seat #3 is the button
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($51.03 in chips) 
+Seat 4: daria130399 ($54.16 in chips) 
+Seat 8: whitecillar3 ($45.59 in chips) 
+Seat 9: Erhan1956 ($82.31 in chips) 
+daria130399: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Erhan1956: calls $0.50
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: calls $0.25
+whitecillar3: checks 
+*** FLOP *** [2c Ad 9h]
+daria130399: checks 
+whitecillar3: checks 
+Erhan1956: checks 
+*** TURN *** [2c Ad 9h] [Ts]
+daria130399: checks 
+whitecillar3: checks 
+Erhan1956: bets $1.90
+daria130399: folds 
+whitecillar3: folds 
+Uncalled bet ($1.90) returned to Erhan1956
+Erhan1956 collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [2c Ad 9h Ts]
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- (button) folded before Flop (didn't bet)
+Seat 4: daria130399 (small blind) folded on the Turn
+Seat 8: whitecillar3 (big blind) folded on the Turn
+Seat 9: Erhan1956 collected ($1.90)
+
+
+
+PokerStars Hand #228680717661:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:06:59 ET
+Table 'Felicia III' 9-max Seat #4 is the button
+Seat 2: Zhud19 ($50 in chips) 
+Seat 3: -The Don888- ($50.93 in chips) 
+Seat 4: daria130399 ($53.56 in chips) 
+Seat 8: whitecillar3 ($44.99 in chips) 
+Seat 9: Erhan1956 ($83.61 in chips) 
+whitecillar3: posts small blind $0.25
+Erhan1956: posts big blind $0.50
+Zhud19: posts the ante $0.10
+-The Don888-: posts the ante $0.10
+daria130399: posts the ante $0.10
+whitecillar3: posts the ante $0.10
+Erhan1956: posts the ante $0.10
+*** HOLE CARDS ***
+Zhud19: folds 
+-The Don888-: folds 
+daria130399: folds 
+whitecillar3: folds 
+Uncalled bet ($0.25) returned to Erhan1956
+Erhan1956 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Zhud19 folded before Flop (didn't bet)
+Seat 3: -The Don888- folded before Flop (didn't bet)
+Seat 4: daria130399 (button) folded before Flop (didn't bet)
+Seat 8: whitecillar3 (small blind) folded before Flop
+Seat 9: Erhan1956 (big blind) collected ($1)
+
+
+

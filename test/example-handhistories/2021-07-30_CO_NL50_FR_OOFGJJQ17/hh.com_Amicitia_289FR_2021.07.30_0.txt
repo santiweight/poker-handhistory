@@ -1,0 +1,4874 @@
+﻿PokerStars Hand #228686111037:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:02:05 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 1: Koppesh ($50 in chips) 
+Seat 2: Lisenok110 ($51.36 in chips) 
+Seat 3: RikaSunPay ($50.95 in chips) 
+Seat 4: reeser1987 ($50.51 in chips) 
+Seat 5: jasperge 40 ($19.75 in chips) 
+Seat 7: Rulet345 ($52.11 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($50 in chips) 
+reeser1987: posts small blind $0.25
+jasperge 40: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Koppesh: folds 
+Lisenok110: raises $0.75 to $1.25
+RikaSunPay: raises $2.50 to $3.75
+reeser1987: folds 
+jasperge 40: folds 
+Lisenok110: calls $2.50
+*** FLOP *** [Kh Ah 7d]
+Lisenok110: checks 
+Mmago24 joins the table at seat #6 
+RikaSunPay: bets $4
+Lisenok110: folds 
+Uncalled bet ($4) returned to RikaSunPay
+RikaSunPay collected $7.84 from pot
+RikaSunPay: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.41 
+Board [Kh Ah 7d]
+Seat 1: Koppesh folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded on the Flop
+Seat 3: RikaSunPay (button) collected ($7.84)
+Seat 4: reeser1987 (small blind) folded before Flop
+Seat 5: jasperge 40 (big blind) folded before Flop
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686131491:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:02:53 ET
+Table 'Amicitia III' 9-max Seat #4 is the button
+Seat 1: Koppesh ($50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($55.04 in chips) 
+Seat 4: reeser1987 ($50.26 in chips) 
+Seat 5: jasperge 40 ($19.25 in chips) 
+Seat 6: Mmago24 ($50 in chips) 
+Seat 7: Rulet345 ($52.11 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($50 in chips) 
+jasperge 40: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Koppesh: folds 
+Lisenok110: folds 
+RikaSunPay: folds 
+reeser1987: calls $0.50
+jasperge 40: calls $0.25
+Mmago24: raises $2 to $2.50
+reeser1987: folds 
+jasperge 40: calls $2
+*** FLOP *** [2c 7s 4d]
+jasperge 40: checks 
+Mmago24: bets $1.72
+jasperge 40: calls $1.72
+*** TURN *** [2c 7s 4d] [5s]
+jasperge 40: checks 
+Mmago24: bets $6.79
+jasperge 40: raises $8.24 to $15.03 and is all-in
+Mmago24: calls $8.24
+*** RIVER *** [2c 7s 4d 5s] [5d]
+*** SHOW DOWN ***
+jasperge 40: shows [8s 6s] (a straight, Four to Eight)
+Mmago24: shows [5c 5h] (four of a kind, Fives)
+Mmago24 collected $37.05 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.95 
+Board [2c 7s 4d 5s 5d]
+Seat 1: Koppesh folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: RikaSunPay folded before Flop (didn't bet)
+Seat 4: reeser1987 (button) folded before Flop
+Seat 5: jasperge 40 (small blind) showed [8s 6s] and lost with a straight, Four to Eight
+Seat 6: Mmago24 (big blind) showed [5c 5h] and won ($37.05) with four of a kind, Fives
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686161217:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:04:01 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 1: Koppesh ($50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($55.04 in chips) 
+Seat 4: reeser1987 ($49.76 in chips) 
+Seat 6: Mmago24 ($67.80 in chips) 
+Seat 7: Rulet345 ($52.11 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($50 in chips) 
+Rulet345: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+coolkook: raises $0.56 to $1.06
+Koppesh: folds 
+Lisenok110: folds 
+RikaSunPay: folds 
+reeser1987: folds 
+Mmago24: calls $1.06
+Rulet345: folds 
+dikanmax: folds 
+*** FLOP *** [Td Js 4d]
+coolkook: bets $0.81
+Mmago24: raises $2.19 to $3
+coolkook: folds 
+Uncalled bet ($2.19) returned to Mmago24
+Mmago24 collected $4.27 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.49 | Rake $0.22 
+Board [Td Js 4d]
+Seat 1: Koppesh folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: RikaSunPay folded before Flop (didn't bet)
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 6: Mmago24 (button) collected ($4.27)
+Seat 7: Rulet345 (small blind) folded before Flop
+Seat 8: dikanmax (big blind) folded before Flop
+Seat 9: coolkook folded on the Flop
+
+
+
+PokerStars Hand #228686179109:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:04:41 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 1: Koppesh ($50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($55.04 in chips) 
+Seat 4: reeser1987 ($49.76 in chips) 
+Seat 5: jasperge 40 ($20 in chips) 
+Seat 6: Mmago24 ($70.20 in chips) 
+Seat 7: Rulet345 ($51.86 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($50 in chips) 
+dikanmax: posts small blind $0.25
+coolkook: posts big blind $0.50
+*** HOLE CARDS ***
+Koppesh: folds 
+Lisenok110: folds 
+RikaSunPay: folds 
+reeser1987: raises $1 to $1.50
+jasperge 40: folds 
+Mmago24: folds 
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Uncalled bet ($1) returned to reeser1987
+reeser1987 collected $1.25 from pot
+reeser1987: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Koppesh folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: RikaSunPay folded before Flop (didn't bet)
+Seat 4: reeser1987 collected ($1.25)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Rulet345 (button) folded before Flop (didn't bet)
+Seat 8: dikanmax (small blind) folded before Flop
+Seat 9: coolkook (big blind) folded before Flop
+
+
+
+PokerStars Hand #228686186473:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:04:58 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 1: Koppesh ($50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($55.04 in chips) 
+Seat 4: reeser1987 ($50.51 in chips) 
+Seat 5: jasperge 40 ($20 in chips) 
+Seat 6: Mmago24 ($70.20 in chips) 
+Seat 7: Rulet345 ($51.86 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($50 in chips) 
+coolkook: posts small blind $0.25
+Koppesh: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: folds 
+RikaSunPay: folds 
+reeser1987: calls $0.50
+jasperge 40: folds 
+Mmago24: folds 
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Koppesh: checks 
+*** FLOP *** [Td Kh Qc]
+Koppesh: bets $0.68
+reeser1987: raises $2.18 to $2.86
+Koppesh: folds 
+Uncalled bet ($2.18) returned to reeser1987
+reeser1987 collected $2.48 from pot
+reeser1987: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.61 | Rake $0.13 
+Board [Td Kh Qc]
+Seat 1: Koppesh (big blind) folded on the Flop
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: RikaSunPay folded before Flop (didn't bet)
+Seat 4: reeser1987 collected ($2.48)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax (button) folded before Flop (didn't bet)
+Seat 9: coolkook (small blind) folded before Flop
+
+
+
+PokerStars Hand #228686205888:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:05:31 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 1: Koppesh ($50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($55.04 in chips) 
+Seat 4: reeser1987 ($51.81 in chips) 
+Seat 5: jasperge 40 ($20 in chips) 
+Seat 6: Mmago24 ($70.20 in chips) 
+Seat 7: Rulet345 ($51.86 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($50 in chips) 
+Koppesh: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+RikaSunPay: folds 
+reeser1987: folds 
+jasperge 40 has timed out
+jasperge 40: folds 
+Mmago24: raises $0.72 to $1.22
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Koppesh: folds 
+Lisenok110: calls $0.72
+*** FLOP *** [7d 9c 3h]
+Lisenok110: checks 
+Mmago24: checks 
+*** TURN *** [7d 9c 3h] [Jh]
+Lisenok110: checks 
+Mmago24: checks 
+*** RIVER *** [7d 9c 3h Jh] [Kd]
+Lisenok110: checks 
+Mmago24: checks 
+*** SHOW DOWN ***
+Lisenok110: shows [6d Qd] (high card King)
+Mmago24: shows [4d 4c] (a pair of Fours)
+Mmago24 collected $2.56 from pot
+*** SUMMARY ***
+Total pot $2.69 | Rake $0.13 
+Board [7d 9c 3h Jh Kd]
+Seat 1: Koppesh (small blind) folded before Flop
+Seat 2: Lisenok110 (big blind) showed [6d Qd] and lost with high card King
+Seat 3: RikaSunPay folded before Flop (didn't bet)
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 showed [4d 4c] and won ($2.56) with a pair of Fours
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686228637:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:06:21 ET
+Table 'Amicitia III' 9-max Seat #1 is the button
+Seat 1: Koppesh ($50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($55.04 in chips) 
+Seat 4: reeser1987 ($51.81 in chips) 
+Seat 5: jasperge 40 ($20 in chips) 
+Seat 6: Mmago24 ($71.54 in chips) 
+Seat 7: Rulet345 ($51.86 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($50 in chips) 
+Lisenok110: posts small blind $0.25
+RikaSunPay: posts big blind $0.50
+*** HOLE CARDS ***
+reeser1987: folds 
+jasperge 40: raises $0.75 to $1.25
+Mmago24: raises $2.95 to $4.20
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Koppesh: folds 
+Lisenok110: folds 
+RikaSunPay: folds 
+jasperge 40: calls $2.95
+*** FLOP *** [7h 8h Ad]
+jasperge 40: checks 
+Mmago24: bets $4.95
+jasperge 40: calls $4.95
+*** TURN *** [7h 8h Ad] [5s]
+jasperge 40: checks 
+Mmago24: bets $12.07
+jasperge 40: calls $10.85 and is all-in
+Uncalled bet ($1.22) returned to Mmago24
+*** RIVER *** [7h 8h Ad 5s] [Ah]
+*** SHOW DOWN ***
+jasperge 40: shows [Jd As] (three of a kind, Aces)
+Mmago24: shows [Kc Ac] (three of a kind, Aces - King kicker)
+Mmago24 cashed out the hand for $35.74 | Cash Out Fee $0.36
+*** SUMMARY ***
+Total pot $40.75 | Rake $2 
+Board [7h 8h Ad 5s Ah]
+Seat 1: Koppesh (button) folded before Flop (didn't bet)
+Seat 2: Lisenok110 (small blind) folded before Flop
+Seat 3: RikaSunPay (big blind) folded before Flop
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 showed [Jd As] and lost with three of a kind, Aces
+Seat 6: Mmago24 showed [Kc Ac] and won ($38.75) with three of a kind, Aces (pot not awarded as player cashed out)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686259970:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:07:29 ET
+Table 'Amicitia III' 9-max Seat #2 is the button
+Seat 1: Koppesh ($50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($54.54 in chips) 
+Seat 4: reeser1987 ($51.81 in chips) 
+Seat 6: Mmago24 ($87.28 in chips) 
+Seat 7: Rulet345 ($51.86 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($50 in chips) 
+RikaSunPay: posts small blind $0.25
+reeser1987: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Koppesh: folds 
+Lisenok110: folds 
+RikaSunPay: folds 
+Uncalled bet ($0.25) returned to reeser1987
+reeser1987 collected $0.50 from pot
+reeser1987: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Koppesh folded before Flop (didn't bet)
+Seat 2: Lisenok110 (button) folded before Flop (didn't bet)
+Seat 3: RikaSunPay (small blind) folded before Flop
+Seat 4: reeser1987 (big blind) collected ($0.50)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686267617:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:07:46 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 1: Koppesh ($50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($54.29 in chips) 
+Seat 4: reeser1987 ($52.06 in chips) 
+Seat 5: jasperge 40 ($20 in chips) 
+Seat 6: Mmago24 ($87.28 in chips) 
+Seat 7: Rulet345 ($51.86 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($50 in chips) 
+reeser1987: posts small blind $0.25
+jasperge 40: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+Rulet345: raises $1 to $1.50
+dikanmax: folds 
+coolkook: folds 
+Koppesh: folds 
+Lisenok110: folds 
+RikaSunPay: folds 
+reeser1987: calls $1.25
+jasperge 40: calls $1
+*** FLOP *** [7h Qd Qs]
+reeser1987: checks 
+jasperge 40: checks 
+Rulet345: checks 
+*** TURN *** [7h Qd Qs] [2h]
+reeser1987: checks 
+jasperge 40: bets $2.14
+Rulet345: folds 
+reeser1987: folds 
+Uncalled bet ($2.14) returned to jasperge 40
+jasperge 40 collected $4.28 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [7h Qd Qs 2h]
+Seat 1: Koppesh folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: RikaSunPay (button) folded before Flop (didn't bet)
+Seat 4: reeser1987 (small blind) folded on the Turn
+Seat 5: jasperge 40 (big blind) collected ($4.28)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded on the Turn
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686285931:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:08:25 ET
+Table 'Amicitia III' 9-max Seat #4 is the button
+Seat 1: Koppesh ($50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($54.29 in chips) 
+Seat 4: reeser1987 ($50.56 in chips) 
+Seat 5: jasperge 40 ($22.78 in chips) 
+Seat 6: Mmago24 ($87.28 in chips) 
+Seat 7: Rulet345 ($50.36 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($50 in chips) 
+jasperge 40: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Koppesh: folds 
+Lisenok110: folds 
+RikaSunPay: folds 
+reeser1987: raises $1.75 to $2.25
+jasperge 40: folds 
+Mmago24: folds 
+Uncalled bet ($1.75) returned to reeser1987
+reeser1987 collected $1.25 from pot
+reeser1987: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Koppesh folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: RikaSunPay folded before Flop (didn't bet)
+Seat 4: reeser1987 (button) collected ($1.25)
+Seat 5: jasperge 40 (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) folded before Flop
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686298352:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:08:52 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 1: Koppesh ($50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($54.29 in chips) 
+Seat 4: reeser1987 ($51.31 in chips) 
+Seat 5: jasperge 40 ($22.53 in chips) 
+Seat 6: Mmago24 ($86.78 in chips) 
+Seat 7: Rulet345 ($50.36 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($50 in chips) 
+Mmago24: posts small blind $0.25
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+coolkook: raises $0.56 to $1.06
+Koppesh: folds 
+Lisenok110: folds 
+RikaSunPay: folds 
+reeser1987: calls $1.06
+jasperge 40: folds 
+Mmago24: folds 
+Rulet345: folds 
+*** FLOP *** [Ah 6d 2h]
+Koppesh leaves the table
+coolkook: bets $1.50
+reeser1987: folds 
+Uncalled bet ($1.50) returned to coolkook
+coolkook collected $2.73 from pot
+coolkook: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.87 | Rake $0.14 
+Board [Ah 6d 2h]
+Seat 1: Koppesh folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: RikaSunPay folded before Flop (didn't bet)
+Seat 4: reeser1987 folded on the Flop
+Seat 5: jasperge 40 (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 7: Rulet345 (big blind) folded before Flop
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook collected ($2.73)
+
+
+
+PokerStars Hand #228686316805:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:09:32 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($54.29 in chips) 
+Seat 4: reeser1987 ($50.25 in chips) 
+Seat 5: jasperge 40 ($22.53 in chips) 
+Seat 6: Mmago24 ($86.53 in chips) 
+Seat 7: Rulet345 ($50 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($51.67 in chips) 
+Rulet345: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+coolkook: raises $0.56 to $1.06
+Lisenok110: folds 
+RikaSunPay: folds 
+reeser1987: folds 
+jasperge 40: calls $1.06
+Mmago24: folds 
+Rulet345: folds 
+dikanmax: folds 
+*** FLOP *** [5c 6h Jh]
+coolkook: checks 
+jasperge 40: bets $1.37
+coolkook: folds 
+Uncalled bet ($1.37) returned to jasperge 40
+jasperge 40 collected $2.73 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.87 | Rake $0.14 
+Board [5c 6h Jh]
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: RikaSunPay folded before Flop (didn't bet)
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 collected ($2.73)
+Seat 6: Mmago24 (button) folded before Flop (didn't bet)
+Seat 7: Rulet345 (small blind) folded before Flop
+Seat 8: dikanmax (big blind) folded before Flop
+Seat 9: coolkook folded on the Flop
+
+
+
+PokerStars Hand #228686329503:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:10:00 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($54.29 in chips) 
+Seat 4: reeser1987 ($50.25 in chips) 
+Seat 5: jasperge 40 ($24.20 in chips) 
+Seat 6: Mmago24 ($86.53 in chips) 
+Seat 7: Rulet345 ($50 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($50.61 in chips) 
+dikanmax: posts small blind $0.25
+coolkook: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: folds 
+RikaSunPay: folds 
+reeser1987: folds 
+jasperge 40: folds 
+Mmago24: folds 
+Rulet345: folds 
+dikanmax: raises $1 to $1.50
+coolkook: calls $1
+*** FLOP *** [7s 7h Th]
+dikanmax: bets $0.71
+coolkook: raises $1.79 to $2.50
+dikanmax: folds 
+Uncalled bet ($1.79) returned to coolkook
+coolkook collected $4.20 from pot
+coolkook: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.42 | Rake $0.22 
+Board [7s 7h Th]
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: RikaSunPay folded before Flop (didn't bet)
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Rulet345 (button) folded before Flop (didn't bet)
+Seat 8: dikanmax (small blind) folded on the Flop
+Seat 9: coolkook (big blind) collected ($4.20)
+
+
+
+PokerStars Hand #228686347356:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:10:39 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: RikaSunPay ($54.29 in chips) 
+Seat 4: reeser1987 ($50.25 in chips) 
+Seat 5: jasperge 40 ($24.20 in chips) 
+Seat 6: Mmago24 ($86.53 in chips) 
+Seat 7: Rulet345 ($50 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($52.60 in chips) 
+coolkook: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+RikaSunPay: folds 
+reeser1987: folds 
+jasperge 40: folds 
+Mmago24: raises $0.72 to $1.22
+Cuca Moruca joins the table at seat #1 
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Lisenok110: folds 
+Uncalled bet ($0.72) returned to Mmago24
+Mmago24 collected $1.25 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Lisenok110 (big blind) folded before Flop
+Seat 3: RikaSunPay folded before Flop (didn't bet)
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 collected ($1.25)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax (button) folded before Flop (didn't bet)
+Seat 9: coolkook (small blind) folded before Flop
+
+
+
+PokerStars Hand #228686354569:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:10:54 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 4: reeser1987 ($50.25 in chips) 
+Seat 5: jasperge 40 ($24.20 in chips) 
+Seat 6: Mmago24 ($87.28 in chips) 
+Seat 7: Rulet345 ($50 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+Seat 9: coolkook ($52.35 in chips) 
+Lisenok110: posts small blind $0.25
+RikaSunPay: is sitting out 
+reeser1987: posts big blind $0.50
+*** HOLE CARDS ***
+RikaSunPay leaves the table
+jasperge 40: folds 
+The_Reiver joins the table at seat #3 
+Mmago24 has timed out
+Mmago24: folds 
+Rulet345: folds 
+dikanmax: raises $1 to $1.50
+coolkook: folds 
+Lisenok110: folds 
+reeser1987: folds 
+Uncalled bet ($1) returned to dikanmax
+dikanmax collected $1.25 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Lisenok110 (small blind) folded before Flop
+Seat 4: reeser1987 (big blind) folded before Flop
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax collected ($1.25)
+Seat 9: coolkook (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686365829:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:11:18 ET
+Table 'Amicitia III' 9-max Seat #2 is the button
+Seat 1: Cuca Moruca ($50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 4: reeser1987 ($49.75 in chips) 
+Seat 5: jasperge 40 ($24.20 in chips) 
+Seat 7: Rulet345 ($50 in chips) 
+Seat 8: dikanmax ($50.75 in chips) 
+Seat 9: coolkook ($52.35 in chips) 
+reeser1987: posts small blind $0.25
+jasperge 40: posts big blind $0.50
+Cuca Moruca: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Cuca Moruca: checks 
+Lisenok110: raises $1.25 to $1.75
+reeser1987: calls $1.50
+jasperge 40: raises $5.75 to $7.50
+Cuca Moruca: folds 
+Lisenok110: folds 
+reeser1987: raises $42.25 to $49.75 and is all-in
+jasperge 40: calls $16.70 and is all-in
+Uncalled bet ($25.55) returned to reeser1987
+*** FLOP *** [7d 4s Qd]
+*** TURN *** [7d 4s Qd] [Qs]
+*** RIVER *** [7d 4s Qd Qs] [Kd]
+*** SHOW DOWN ***
+reeser1987: shows [Ah Qh] (three of a kind, Queens)
+jasperge 40: shows [Qc Kh] (a full house, Queens full of Kings)
+jasperge 40 collected $48.65 from pot
+*** SUMMARY ***
+Total pot $50.65 | Rake $2 
+Board [7d 4s Qd Qs Kd]
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 (button) folded before Flop
+Seat 4: reeser1987 (small blind) showed [Ah Qh] and lost with three of a kind, Queens
+Seat 5: jasperge 40 (big blind) showed [Qc Kh] and won ($48.65) with a full house, Queens full of Kings
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686386521:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:12:03 ET
+Table 'Amicitia III' 9-max Seat #4 is the button
+Seat 1: Cuca Moruca ($49.50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: The_Reiver ($50 in chips) 
+Seat 4: reeser1987 ($25.55 in chips) 
+Seat 5: jasperge 40 ($48.65 in chips) 
+Seat 7: Rulet345 ($50 in chips) 
+Seat 8: dikanmax ($50.75 in chips) 
+Seat 9: coolkook ($52.35 in chips) 
+jasperge 40: posts small blind $0.25
+Rulet345: posts big blind $0.50
+The_Reiver: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: raises $1.75 to $2.25
+coolkook: folds 
+Cuca Moruca: folds 
+Lisenok110: folds 
+The_Reiver: folds 
+reeser1987: folds 
+jasperge 40: folds 
+Rulet345: folds 
+Uncalled bet ($1.75) returned to dikanmax
+dikanmax collected $1.75 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 4: reeser1987 (button) folded before Flop (didn't bet)
+Seat 5: jasperge 40 (small blind) folded before Flop
+Seat 7: Rulet345 (big blind) folded before Flop
+Seat 8: dikanmax collected ($1.75)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686394907:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:12:21 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 1: Cuca Moruca ($49.50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: The_Reiver ($49.50 in chips) 
+Seat 4: reeser1987 ($25.55 in chips) 
+Seat 5: jasperge 40 ($48.40 in chips) 
+Seat 7: Rulet345 ($50 in chips) 
+Seat 8: dikanmax ($52 in chips) 
+Seat 9: coolkook ($52.35 in chips) 
+Rulet345: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+coolkook: folds 
+Cuca Moruca: folds 
+Lisenok110: raises $0.75 to $1.25
+The_Reiver: folds 
+reeser1987: calls $1.25
+jasperge 40: folds 
+Rulet345: folds 
+dikanmax: calls $0.75
+*** FLOP *** [Ah As Qd]
+dikanmax: checks 
+Lisenok110: checks 
+reeser1987: bets $1
+dikanmax: calls $1
+Lisenok110: folds 
+*** TURN *** [Ah As Qd] [7h]
+dikanmax: checks 
+reeser1987: bets $2.85
+dikanmax: calls $2.85
+*** RIVER *** [Ah As Qd 7h] [9d]
+dikanmax: checks 
+reeser1987: checks 
+*** SHOW DOWN ***
+dikanmax: shows [Kh Qc] (two pair, Aces and Queens)
+reeser1987: mucks hand 
+dikanmax collected $11.12 from pot
+*** SUMMARY ***
+Total pot $11.70 | Rake $0.58 
+Board [Ah As Qd 7h 9d]
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded on the Flop
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 4: reeser1987 mucked
+Seat 5: jasperge 40 (button) folded before Flop (didn't bet)
+Seat 7: Rulet345 (small blind) folded before Flop
+Seat 8: dikanmax (big blind) showed [Kh Qc] and won ($11.12) with two pair, Aces and Queens
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686434312:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:13:47 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 1: Cuca Moruca ($49.50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: The_Reiver ($49.50 in chips) 
+Seat 4: reeser1987 ($20.45 in chips) 
+Seat 5: jasperge 40 ($48.40 in chips) 
+Seat 7: Rulet345 ($50 in chips) 
+Seat 8: dikanmax ($58.02 in chips) 
+Seat 9: coolkook ($52.35 in chips) 
+dikanmax: posts small blind $0.25
+coolkook: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+Cuca Moruca: folds 
+Lisenok110: folds 
+The_Reiver: folds 
+reeser1987: folds 
+jasperge 40: folds 
+Rulet345: raises $0.75 to $1.25
+dikanmax: folds 
+coolkook: calls $0.75
+*** FLOP *** [4s 2s 7h]
+coolkook: checks 
+Rulet345: bets $0.86
+coolkook: calls $0.86
+*** TURN *** [4s 2s 7h] [Jc]
+coolkook: checks 
+Rulet345: bets $2.83
+coolkook: calls $2.83
+*** RIVER *** [4s 2s 7h Jc] [4d]
+coolkook: checks 
+Rulet345: bets $6.41
+coolkook: calls $6.41
+*** SHOW DOWN ***
+Rulet345: shows [Jh Ac] (two pair, Jacks and Fours)
+coolkook: mucks hand 
+Rulet345 collected $21.80 from pot
+*** SUMMARY ***
+Total pot $22.95 | Rake $1.15 
+Board [4s 2s 7h Jc 4d]
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 7: Rulet345 (button) showed [Jh Ac] and won ($21.80) with two pair, Jacks and Fours
+Seat 8: dikanmax (small blind) folded before Flop
+Seat 9: coolkook (big blind) mucked
+
+
+
+PokerStars Hand #228686477651:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:15:03 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 1: Cuca Moruca ($49.50 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: The_Reiver ($49.50 in chips) 
+Seat 4: reeser1987 ($20.45 in chips) 
+Seat 5: jasperge 40 ($48.40 in chips) 
+Seat 7: Rulet345 ($60.45 in chips) 
+Seat 8: dikanmax ($57.77 in chips) 
+Seat 9: coolkook ($50 in chips) 
+coolkook: posts small blind $0.25
+Cuca Moruca: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+Lisenok110: folds 
+The_Reiver: folds 
+reeser1987: folds 
+jasperge 40: folds 
+Rulet345: folds 
+dikanmax: folds 
+coolkook: raises $0.69 to $1.19
+Cuca Moruca: calls $0.69
+*** FLOP *** [Kc Jh 4s]
+coolkook: bets $0.70
+Cuca Moruca: calls $0.70
+*** TURN *** [Kc Jh 4s] [3c]
+coolkook: checks 
+Cuca Moruca: bets $1.80
+coolkook: folds 
+Uncalled bet ($1.80) returned to Cuca Moruca
+Cuca Moruca collected $3.59 from pot
+Cuca Moruca: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.78 | Rake $0.19 
+Board [Kc Jh 4s 3c]
+Seat 1: Cuca Moruca (big blind) collected ($3.59)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax (button) folded before Flop (didn't bet)
+Seat 9: coolkook (small blind) folded on the Turn
+
+
+
+PokerStars Hand #228686493761:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:15:37 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 1: Cuca Moruca ($51.20 in chips) 
+Seat 2: Lisenok110 ($50 in chips) 
+Seat 3: The_Reiver ($49.50 in chips) 
+Seat 4: reeser1987 ($20.45 in chips) 
+Seat 5: jasperge 40 ($48.40 in chips) 
+Seat 7: Rulet345 ($60.45 in chips) 
+Seat 8: dikanmax ($57.77 in chips) 
+Seat 9: coolkook ($50 in chips) 
+Cuca Moruca: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+The_Reiver: folds 
+reeser1987: folds 
+jasperge 40: folds 
+Rulet345: folds 
+dikanmax: folds 
+coolkook: raises $0.56 to $1.06
+Cuca Moruca: folds 
+Lisenok110: calls $0.56
+*** FLOP *** [4c Jc Jh]
+Lisenok110: checks 
+coolkook: bets $0.70
+Lisenok110: calls $0.70
+*** TURN *** [4c Jc Jh] [8d]
+Lisenok110: checks 
+coolkook: checks 
+*** RIVER *** [4c Jc Jh 8d] [Jd]
+Lisenok110: checks 
+coolkook: checks 
+*** SHOW DOWN ***
+Lisenok110: shows [2d 2s] (a full house, Jacks full of Deuces)
+coolkook: mucks hand 
+Lisenok110 collected $3.58 from pot
+*** SUMMARY ***
+Total pot $3.77 | Rake $0.19 
+Board [4c Jc Jh 8d Jd]
+Seat 1: Cuca Moruca (small blind) folded before Flop
+Seat 2: Lisenok110 (big blind) showed [2d 2s] and won ($3.58) with a full house, Jacks full of Deuces
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook (button) mucked
+
+
+
+PokerStars Hand #228686508528:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:16:09 ET
+Table 'Amicitia III' 9-max Seat #1 is the button
+Seat 1: Cuca Moruca ($50.95 in chips) 
+Seat 2: Lisenok110 ($51.82 in chips) 
+Seat 3: The_Reiver ($49.50 in chips) 
+Seat 4: reeser1987 ($20.45 in chips) 
+Seat 5: jasperge 40 ($48.40 in chips) 
+Seat 7: Rulet345 ($60.45 in chips) 
+Seat 8: dikanmax ($57.77 in chips) 
+Seat 9: coolkook ($50 in chips) 
+Lisenok110: posts small blind $0.25
+The_Reiver: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+reeser1987: folds 
+jasperge 40: folds 
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Cuca Moruca: raises $1 to $1.50
+Lisenok110: folds 
+The_Reiver: folds 
+Uncalled bet ($1) returned to Cuca Moruca
+Cuca Moruca collected $1.25 from pot
+Cuca Moruca: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Cuca Moruca (button) collected ($1.25)
+Seat 2: Lisenok110 (small blind) folded before Flop
+Seat 3: The_Reiver (big blind) folded before Flop
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686516829:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:16:27 ET
+Table 'Amicitia III' 9-max Seat #2 is the button
+Seat 1: Cuca Moruca ($51.70 in chips) 
+Seat 2: Lisenok110 ($51.57 in chips) 
+Seat 3: The_Reiver ($49 in chips) 
+Seat 4: reeser1987 ($20.45 in chips) 
+Seat 5: jasperge 40 ($48.40 in chips) 
+Seat 7: Rulet345 ($60.45 in chips) 
+Seat 8: dikanmax ($57.77 in chips) 
+Seat 9: coolkook ($50 in chips) 
+The_Reiver: posts small blind $0.25
+reeser1987: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+jasperge 40: calls $0.50
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Cuca Moruca: folds 
+Lisenok110: folds 
+The_Reiver: folds 
+reeser1987: raises $1 to $1.50
+jasperge 40: calls $1
+*** FLOP *** [5d Ah 8h]
+reeser1987: checks 
+jasperge 40: checks 
+*** TURN *** [5d Ah 8h] [9s]
+reeser1987: bets $3.09
+jasperge 40: calls $3.09
+*** RIVER *** [5d Ah 8h 9s] [2c]
+reeser1987: checks 
+jasperge 40: bets $4.48
+reeser1987: folds 
+Uncalled bet ($4.48) returned to jasperge 40
+jasperge 40 collected $8.96 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.43 | Rake $0.47 
+Board [5d Ah 8h 9s 2c]
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 (button) folded before Flop (didn't bet)
+Seat 3: The_Reiver (small blind) folded before Flop
+Seat 4: reeser1987 (big blind) folded on the River
+Seat 5: jasperge 40 collected ($8.96)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686539280:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:17:15 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 1: Cuca Moruca ($51.70 in chips) 
+Seat 2: Lisenok110 ($51.57 in chips) 
+Seat 3: The_Reiver ($48.75 in chips) 
+Seat 4: reeser1987 ($15.86 in chips) 
+Seat 5: jasperge 40 ($52.77 in chips) 
+Seat 7: Rulet345 ($60.45 in chips) 
+Seat 8: dikanmax ($57.77 in chips) 
+Seat 9: coolkook ($50 in chips) 
+reeser1987: posts small blind $0.25
+jasperge 40: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Cuca Moruca: folds 
+Lisenok110: folds 
+The_Reiver: folds 
+reeser1987: raises $2.25 to $2.75
+jasperge 40: calls $2.25
+*** FLOP *** [Qs 9d 9s]
+reeser1987: bets $5.22
+jasperge 40: folds 
+Uncalled bet ($5.22) returned to reeser1987
+reeser1987 collected $5.22 from pot
+reeser1987: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Qs 9d 9s]
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver (button) folded before Flop (didn't bet)
+Seat 4: reeser1987 (small blind) collected ($5.22)
+Seat 5: jasperge 40 (big blind) folded on the Flop
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686552768:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:17:44 ET
+Table 'Amicitia III' 9-max Seat #4 is the button
+Seat 1: Cuca Moruca ($51.70 in chips) 
+Seat 2: Lisenok110 ($51.57 in chips) 
+Seat 3: The_Reiver ($48.75 in chips) 
+Seat 4: reeser1987 ($18.33 in chips) 
+Seat 5: jasperge 40 ($50.02 in chips) 
+Seat 6: Mmago24 ($87.28 in chips) 
+Seat 7: Rulet345 ($60.45 in chips) 
+Seat 8: dikanmax ($57.77 in chips) 
+Seat 9: coolkook ($50 in chips) 
+jasperge 40: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Cuca Moruca: folds 
+Lisenok110: folds 
+The_Reiver: folds 
+reeser1987: raises $0.50 to $1
+jasperge 40: raises $2 to $3
+Mmago24: folds 
+reeser1987: calls $2
+*** FLOP *** [Jd 6h 4s]
+jasperge 40: bets $3.09
+reeser1987: raises $12.24 to $15.33 and is all-in
+jasperge 40: folds 
+Uncalled bet ($12.24) returned to reeser1987
+reeser1987 collected $12.05 from pot
+reeser1987: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.68 | Rake $0.63 
+Board [Jd 6h 4s]
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 4: reeser1987 (button) collected ($12.05)
+Seat 5: jasperge 40 (small blind) folded on the Flop
+Seat 6: Mmago24 (big blind) folded before Flop
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686580415:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:18:22 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 1: Cuca Moruca ($51.70 in chips) 
+Seat 2: Lisenok110 ($51.57 in chips) 
+Seat 3: The_Reiver ($48.75 in chips) 
+Seat 4: reeser1987 ($24.29 in chips) 
+Seat 5: jasperge 40 ($43.93 in chips) 
+Seat 6: Mmago24 ($86.78 in chips) 
+Seat 7: Rulet345 ($60.45 in chips) 
+Seat 8: dikanmax ($57.77 in chips) 
+Seat 9: coolkook ($50 in chips) 
+Mmago24: posts small blind $0.25
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+coolkook: raises $0.56 to $1.06
+Cuca Moruca: folds 
+Lisenok110: folds 
+The_Reiver: calls $1.06
+reeser1987: folds 
+jasperge 40: raises $1.44 to $2.50
+Mmago24: folds 
+Rulet345: folds 
+coolkook: calls $1.44
+The_Reiver: folds 
+*** FLOP *** [8s Th 3d]
+coolkook: checks 
+jasperge 40: bets $3.24
+coolkook: folds 
+Uncalled bet ($3.24) returned to jasperge 40
+jasperge 40 collected $6.47 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.81 | Rake $0.34 
+Board [8s Th 3d]
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver folded before Flop
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 (button) collected ($6.47)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 7: Rulet345 (big blind) folded before Flop
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded on the Flop
+
+
+
+PokerStars Hand #228686594314:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:18:52 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 1: Cuca Moruca ($51.70 in chips) 
+Seat 2: Lisenok110 ($51.57 in chips) 
+Seat 3: The_Reiver ($47.69 in chips) 
+Seat 4: reeser1987 ($24.29 in chips) 
+Seat 5: jasperge 40 ($47.90 in chips) 
+Seat 6: Mmago24 ($86.53 in chips) 
+Seat 7: Rulet345 ($59.95 in chips) 
+Seat 8: dikanmax ($57.77 in chips) 
+Seat 9: coolkook ($50 in chips) 
+Rulet345: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+coolkook: folds 
+Cuca Moruca has timed out
+Cuca Moruca: folds 
+Lisenok110: folds 
+The_Reiver: folds 
+reeser1987: folds 
+jasperge 40: raises $0.75 to $1.25
+Mmago24: calls $1.25
+Rulet345: folds 
+dikanmax: folds 
+*** FLOP *** [Kc Qc Qs]
+jasperge 40: bets $0.93
+Mmago24: folds 
+Uncalled bet ($0.93) returned to jasperge 40
+jasperge 40 collected $3.09 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [Kc Qc Qs]
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 collected ($3.09)
+Seat 6: Mmago24 (button) folded on the Flop
+Seat 7: Rulet345 (small blind) folded before Flop
+Seat 8: dikanmax (big blind) folded before Flop
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686614053:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:19:34 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 2: Lisenok110 ($51.57 in chips) 
+Seat 3: The_Reiver ($47.69 in chips) 
+Seat 4: reeser1987 ($24.29 in chips) 
+Seat 5: jasperge 40 ($49.74 in chips) 
+Seat 6: Mmago24 ($85.28 in chips) 
+Seat 7: Rulet345 ($59.70 in chips) 
+Seat 8: dikanmax ($57.27 in chips) 
+Seat 9: coolkook ($50 in chips) 
+dikanmax: posts small blind $0.25
+coolkook: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: folds 
+The_Reiver: folds 
+reeser1987: folds 
+jasperge 40: raises $0.75 to $1.25
+Mmago24: calls $1.25
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+*** FLOP *** [7s Ah Th]
+jasperge 40: bets $1.55
+Mmago24: folds 
+Uncalled bet ($1.55) returned to jasperge 40
+jasperge 40 collected $3.09 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [7s Ah Th]
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 collected ($3.09)
+Seat 6: Mmago24 folded on the Flop
+Seat 7: Rulet345 (button) folded before Flop (didn't bet)
+Seat 8: dikanmax (small blind) folded before Flop
+Seat 9: coolkook (big blind) folded before Flop
+
+
+
+PokerStars Hand #228686631189:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:20:10 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 1: Cuca Moruca ($51.70 in chips) 
+Seat 2: Lisenok110 ($51.57 in chips) 
+Seat 3: The_Reiver ($47.69 in chips) 
+Seat 4: reeser1987 ($24.29 in chips) 
+Seat 5: jasperge 40 ($51.58 in chips) 
+Seat 6: Mmago24 ($84.03 in chips) 
+Seat 7: Rulet345 ($59.70 in chips) 
+Seat 8: dikanmax ($57.02 in chips) 
+Seat 9: coolkook ($50 in chips) 
+coolkook: posts small blind $0.25
+Cuca Moruca: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: folds 
+The_Reiver: folds 
+reeser1987: folds 
+jasperge 40: folds 
+Mmago24: raises $0.72 to $1.22
+Rulet345: raises $3.28 to $4.50
+dikanmax: folds 
+coolkook: folds 
+Cuca Moruca: folds 
+Mmago24: folds 
+Uncalled bet ($3.28) returned to Rulet345
+Rulet345 collected $3.19 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.19 | Rake $0 
+Seat 1: Cuca Moruca (big blind) folded before Flop
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop
+Seat 7: Rulet345 collected ($3.19)
+Seat 8: dikanmax (button) folded before Flop (didn't bet)
+Seat 9: coolkook (small blind) folded before Flop
+
+
+
+PokerStars Hand #228687544831:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:52:33 ET
+Table 'Amicitia III' 9-max Seat #1 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52.28 in chips) 
+Seat 4: Xpredate ($26.93 in chips) 
+Seat 5: holdemamn ($50 in chips) 
+Seat 6: Mmago24 ($57.91 in chips) 
+Seat 8: grafFIN7 ($59.68 in chips) 
+l_The_Nuts_l: posts small blind $0.25
+Xpredate: posts big blind $0.50
+Nestle170: sits out 
+PleBeY95: sits out 
+*** HOLE CARDS ***
+holdemamn: folds 
+Mmago24: folds 
+grafFIN7: folds 
+badmadrabbit: folds 
+l_The_Nuts_l: raises $1 to $1.50
+Xpredate: calls $1
+*** FLOP *** [Th 6c 7c]
+l_The_Nuts_l: checks 
+Xpredate: checks 
+*** TURN *** [Th 6c 7c] [2c]
+l_The_Nuts_l: checks 
+Xpredate: checks 
+*** RIVER *** [Th 6c 7c 2c] [3s]
+l_The_Nuts_l: checks 
+Xpredate: checks 
+*** SHOW DOWN ***
+l_The_Nuts_l: shows [7d 8s] (a pair of Sevens)
+Xpredate: mucks hand 
+l_The_Nuts_l collected $2.85 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Th 6c 7c 2c 3s]
+Seat 1: badmadrabbit (button) folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l (small blind) showed [7d 8s] and won ($2.85) with a pair of Sevens
+Seat 4: Xpredate (big blind) mucked
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686656801:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:21:05 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 1: Cuca Moruca ($51.20 in chips) 
+Seat 2: Lisenok110 ($51.57 in chips) 
+Seat 3: The_Reiver ($47.69 in chips) 
+Seat 4: reeser1987 ($24.29 in chips) 
+Seat 5: jasperge 40 ($51.58 in chips) 
+Seat 6: Mmago24 ($82.81 in chips) 
+Seat 7: Rulet345 ($61.67 in chips) 
+Seat 8: dikanmax ($57.02 in chips) 
+Seat 9: coolkook ($50 in chips) 
+Cuca Moruca: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+The_Reiver: folds 
+reeser1987: raises $0.50 to $1
+jasperge 40: folds 
+Mmago24: folds 
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Cuca Moruca: folds 
+Lisenok110: calls $0.50
+*** FLOP *** [Qh 7h 3d]
+Lisenok110: checks 
+reeser1987: bets $1.07
+Lisenok110: folds 
+Uncalled bet ($1.07) returned to reeser1987
+reeser1987 collected $2.14 from pot
+reeser1987: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [Qh 7h 3d]
+Seat 1: Cuca Moruca (small blind) folded before Flop
+Seat 2: Lisenok110 (big blind) folded on the Flop
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 4: reeser1987 collected ($2.14)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686671078:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:21:36 ET
+Table 'Amicitia III' 9-max Seat #1 is the button
+Seat 1: Cuca Moruca ($50.95 in chips) 
+Seat 2: Lisenok110 ($50.57 in chips) 
+Seat 3: The_Reiver ($47.69 in chips) 
+Seat 4: reeser1987 ($25.43 in chips) 
+Seat 5: jasperge 40 ($51.58 in chips) 
+Seat 6: Mmago24 ($82.81 in chips) 
+Seat 7: Rulet345 ($61.67 in chips) 
+Seat 8: dikanmax ($57.02 in chips) 
+Seat 9: coolkook ($50 in chips) 
+Lisenok110: posts small blind $0.25
+The_Reiver: posts big blind $0.50
+*** HOLE CARDS ***
+reeser1987: folds 
+jasperge 40 has timed out
+jasperge 40: folds 
+Mmago24: folds 
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Cuca Moruca: folds 
+Lisenok110: raises $1 to $1.50
+The_Reiver: folds 
+Uncalled bet ($1) returned to Lisenok110
+Lisenok110 collected $1 from pot
+Lisenok110: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Cuca Moruca (button) folded before Flop (didn't bet)
+Seat 2: Lisenok110 (small blind) collected ($1)
+Seat 3: The_Reiver (big blind) folded before Flop
+Seat 4: reeser1987 folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686683075:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:22:02 ET
+Table 'Amicitia III' 9-max Seat #2 is the button
+Seat 1: Cuca Moruca ($50.95 in chips) 
+Seat 2: Lisenok110 ($51.07 in chips) 
+Seat 3: The_Reiver ($47.19 in chips) 
+Seat 4: reeser1987 ($25.43 in chips) 
+Seat 6: Mmago24 ($82.81 in chips) 
+Seat 7: Rulet345 ($61.67 in chips) 
+Seat 8: dikanmax ($57.02 in chips) 
+Seat 9: coolkook ($50 in chips) 
+The_Reiver: posts small blind $0.25
+reeser1987: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Cuca Moruca: raises $1 to $1.50
+Lisenok110: folds 
+The_Reiver: folds 
+reeser1987: folds 
+Uncalled bet ($1) returned to Cuca Moruca
+Cuca Moruca collected $1.25 from pot
+Cuca Moruca: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Cuca Moruca collected ($1.25)
+Seat 2: Lisenok110 (button) folded before Flop (didn't bet)
+Seat 3: The_Reiver (small blind) folded before Flop
+Seat 4: reeser1987 (big blind) folded before Flop
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686689339:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:22:15 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 1: Cuca Moruca ($51.70 in chips) 
+Seat 2: Lisenok110 ($51.07 in chips) 
+Seat 3: The_Reiver ($46.94 in chips) 
+Seat 4: reeser1987 ($24.93 in chips) 
+Seat 5: jasperge 40 ($51.58 in chips) 
+Seat 6: Mmago24 ($82.81 in chips) 
+Seat 7: Rulet345 ($61.67 in chips) 
+Seat 8: dikanmax ($57.02 in chips) 
+Seat 9: coolkook ($50 in chips) 
+reeser1987: posts small blind $0.25
+jasperge 40: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Cuca Moruca: folds 
+Lisenok110: raises $0.75 to $1.25
+The_Reiver: folds 
+reeser1987: folds 
+jasperge 40: calls $0.75
+*** FLOP *** [4h Tc 3d]
+jasperge 40: checks 
+Lisenok110: checks 
+*** TURN *** [4h Tc 3d] [Qd]
+jasperge 40: bets $1.31
+Lisenok110: calls $1.31
+*** RIVER *** [4h Tc 3d Qd] [9c]
+jasperge 40: bets $2.55
+Lisenok110: calls $2.55
+*** SHOW DOWN ***
+jasperge 40: shows [2h 2c] (a pair of Deuces)
+Lisenok110: shows [Ks Qh] (a pair of Queens)
+Lisenok110 collected $9.95 from pot
+*** SUMMARY ***
+Total pot $10.47 | Rake $0.52 
+Board [4h Tc 3d Qd 9c]
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 showed [Ks Qh] and won ($9.95) with a pair of Queens
+Seat 3: The_Reiver (button) folded before Flop (didn't bet)
+Seat 4: reeser1987 (small blind) folded before Flop
+Seat 5: jasperge 40 (big blind) showed [2h 2c] and lost with a pair of Deuces
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686712406:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:23:05 ET
+Table 'Amicitia III' 9-max Seat #4 is the button
+Seat 1: Cuca Moruca ($51.70 in chips) 
+Seat 2: Lisenok110 ($55.91 in chips) 
+Seat 3: The_Reiver ($46.94 in chips) 
+Seat 4: reeser1987 ($24.68 in chips) 
+Seat 5: jasperge 40 ($46.47 in chips) 
+Seat 6: Mmago24 ($82.81 in chips) 
+Seat 7: Rulet345 ($61.67 in chips) 
+Seat 8: dikanmax ($57.02 in chips) 
+Seat 9: coolkook ($50 in chips) 
+jasperge 40: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+dikanmax: folds 
+coolkook: folds 
+Cuca Moruca: folds 
+Lisenok110: folds 
+The_Reiver: raises $0.50 to $1
+reeser1987: calls $1
+jasperge 40: folds 
+Mmago24: folds 
+*** FLOP *** [Kd 2h Ah]
+The_Reiver: bets $1.31
+reeser1987: calls $1.31
+*** TURN *** [Kd 2h Ah] [7d]
+The_Reiver: bets $44.63 and is all-in
+reeser1987: calls $22.37 and is all-in
+Uncalled bet ($22.26) returned to The_Reiver
+*** RIVER *** [Kd 2h Ah 7d] [3s]
+*** SHOW DOWN ***
+The_Reiver: shows [Kc As] (two pair, Aces and Kings)
+reeser1987: shows [Ad 9d] (a pair of Aces)
+The_Reiver cashed out the hand for $37.89 | Cash Out Fee $0.38
+*** SUMMARY ***
+Total pot $50.11 | Rake $2 
+Board [Kd 2h Ah 7d 3s]
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver showed [Kc As] and won ($48.11) with two pair, Aces and Kings (pot not awarded as player cashed out)
+Seat 4: reeser1987 (button) showed [Ad 9d] and lost with a pair of Aces
+Seat 5: jasperge 40 (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) folded before Flop
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686742570:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:24:10 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 1: Cuca Moruca ($51.70 in chips) 
+Seat 2: Lisenok110 ($55.91 in chips) 
+Seat 3: The_Reiver ($60.15 in chips) 
+Seat 5: jasperge 40 ($46.22 in chips) 
+Seat 6: Mmago24 ($82.31 in chips) 
+Seat 7: Rulet345 ($61.67 in chips) 
+Seat 8: dikanmax ($57.02 in chips) 
+Seat 9: coolkook ($50 in chips) 
+Mmago24: posts small blind $0.25
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+coolkook: folds 
+Cuca Moruca: folds 
+reeser1987 leaves the table
+Lisenok110: folds 
+The_Reiver: folds 
+jasperge 40: raises $1.25 to $1.75
+Mmago24: folds 
+Rulet345: folds 
+Uncalled bet ($1.25) returned to jasperge 40
+jasperge 40 collected $1.25 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 5: jasperge 40 (button) collected ($1.25)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 7: Rulet345 (big blind) folded before Flop
+Seat 8: dikanmax folded before Flop (didn't bet)
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686752091:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:24:31 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 1: Cuca Moruca ($51.70 in chips) 
+Seat 2: Lisenok110 ($55.91 in chips) 
+Seat 3: The_Reiver ($60.15 in chips) 
+Seat 5: jasperge 40 ($46.97 in chips) 
+Seat 6: Mmago24 ($82.06 in chips) 
+Seat 7: Rulet345 ($61.17 in chips) 
+Seat 8: dikanmax ($57.02 in chips) 
+Seat 9: coolkook ($50 in chips) 
+Rulet345: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+coolkook: folds 
+Cuca Moruca: folds 
+Lisenok110: folds 
+The_Reiver: folds 
+jasperge 40: raises $0.75 to $1.25
+Mmago24: raises $2.95 to $4.20
+Rulet345: folds 
+dikanmax: folds 
+jasperge 40: calls $2.95
+*** FLOP *** [2h 2c 4s]
+jasperge 40: checks 
+Mmago24: bets $2.87
+jasperge 40: raises $7.22 to $10.09
+Mmago24: folds 
+Uncalled bet ($7.22) returned to jasperge 40
+jasperge 40 collected $14.15 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.89 | Rake $0.74 
+Board [2h 2c 4s]
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 5: jasperge 40 collected ($14.15)
+Seat 6: Mmago24 (button) folded on the Flop
+Seat 7: Rulet345 (small blind) folded before Flop
+Seat 8: dikanmax (big blind) folded before Flop
+Seat 9: coolkook folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686781419:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:25:34 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 1: Cuca Moruca ($51.70 in chips) 
+Seat 2: Lisenok110 ($55.91 in chips) 
+Seat 3: The_Reiver ($60.15 in chips) 
+Seat 5: jasperge 40 ($54.05 in chips) 
+Seat 6: Mmago24 ($74.99 in chips) 
+Seat 7: Rulet345 ($60.92 in chips) 
+Seat 8: dikanmax ($56.52 in chips) 
+dikanmax: posts small blind $0.25
+coolkook: is sitting out 
+Cuca Moruca: posts big blind $0.50
+*** HOLE CARDS ***
+Lisenok110: folds 
+coolkook leaves the table
+The_Reiver: folds 
+jasperge 40: folds 
+Mmago24: folds 
+Rulet345: folds 
+Zhud19 joins the table at seat #9 
+dikanmax: raises $1 to $1.50
+Cuca Moruca: calls $1
+*** FLOP *** [Ah 2c Qh]
+dikanmax: bets $0.71
+Cuca Moruca: calls $0.71
+*** TURN *** [Ah 2c Qh] [6s]
+dikanmax: checks 
+Cuca Moruca: bets $2.10
+dikanmax: folds 
+Uncalled bet ($2.10) returned to Cuca Moruca
+Cuca Moruca collected $4.20 from pot
+Cuca Moruca: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.42 | Rake $0.22 
+Board [Ah 2c Qh 6s]
+Seat 1: Cuca Moruca (big blind) collected ($4.20)
+Seat 2: Lisenok110 folded before Flop (didn't bet)
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Rulet345 (button) folded before Flop (didn't bet)
+Seat 8: dikanmax (small blind) folded on the Turn
+
+
+
+PokerStars Hand #228686806299:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:26:28 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 1: Cuca Moruca ($53.69 in chips) 
+Seat 2: Lisenok110 ($55.91 in chips) 
+Seat 3: The_Reiver ($60.15 in chips) 
+Seat 5: jasperge 40 ($54.05 in chips) 
+Seat 6: Mmago24 ($74.99 in chips) 
+Seat 7: Rulet345 ($60.92 in chips) 
+Seat 8: dikanmax ($54.31 in chips) 
+Cuca Moruca: posts small blind $0.25
+Lisenok110: posts big blind $0.50
+*** HOLE CARDS ***
+The_Reiver: folds 
+The_Reiver leaves the table
+jasperge 40: raises $0.75 to $1.25
+Mmago24: folds 
+Rulet345: folds 
+dikanmax: raises $2.75 to $4
+Cuca Moruca: folds 
+Lisenok110: folds 
+jasperge 40: calls $2.75
+*** FLOP *** [2s 2c 8d]
+jasperge 40: checks 
+Dragonclawss joins the table at seat #4 
+dikanmax: checks 
+*** TURN *** [2s 2c 8d] [Td]
+jasperge 40: bets $4.16
+dikanmax: calls $4.16
+*** RIVER *** [2s 2c 8d Td] [Jd]
+Lisenok110 leaves the table
+jasperge 40: checks 
+dikanmax: checks 
+*** SHOW DOWN ***
+jasperge 40: shows [8s 9d] (two pair, Eights and Deuces)
+dikanmax: mucks hand 
+jasperge 40 collected $16.22 from pot
+*** SUMMARY ***
+Total pot $17.07 | Rake $0.85 
+Board [2s 2c 8d Td Jd]
+Seat 1: Cuca Moruca (small blind) folded before Flop
+Seat 2: Lisenok110 (big blind) folded before Flop
+Seat 3: The_Reiver folded before Flop (didn't bet)
+Seat 5: jasperge 40 showed [8s 9d] and won ($16.22) with two pair, Eights and Deuces
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax (button) mucked
+
+
+
+PokerStars Hand #228686834446:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:27:29 ET
+Table 'Amicitia III' 9-max Seat #1 is the button
+Seat 1: Cuca Moruca ($53.44 in chips) 
+Seat 5: jasperge 40 ($62.11 in chips) 
+Seat 6: Mmago24 ($74.99 in chips) 
+Seat 7: Rulet345 ($60.92 in chips) 
+Seat 8: dikanmax ($50 in chips) 
+jasperge 40: posts small blind $0.25
+Mmago24: posts big blind $0.50
+Zhud19: sits out 
+*** HOLE CARDS ***
+Razum_BY joins the table at seat #2 
+Rulet345: folds 
+dikanmax: folds 
+Cuca Moruca: folds 
+Rulet345 leaves the table
+tomekpe joins the table at seat #7 
+jasperge 40: calls $0.25
+dikanmax was removed from the table for failing to post
+dikanmax leaves the table
+Mmago24: checks 
+*** FLOP *** [Ad 2s 8h]
+jasperge 40: checks 
+Mmago24: bets $0.50
+jasperge 40: folds 
+Uncalled bet ($0.50) returned to Mmago24
+Mmago24 collected $0.95 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Ad 2s 8h]
+Seat 1: Cuca Moruca (button) folded before Flop (didn't bet)
+Seat 5: jasperge 40 (small blind) folded on the Flop
+Seat 6: Mmago24 (big blind) collected ($0.95)
+Seat 7: Rulet345 folded before Flop (didn't bet)
+Seat 8: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686847285:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:27:57 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 1: Cuca Moruca ($53.44 in chips) 
+Seat 5: jasperge 40 ($61.61 in chips) 
+Seat 6: Mmago24 ($75.44 in chips) 
+Seat 7: tomekpe ($50 in chips) 
+Mmago24: posts small blind $0.25
+tomekpe: posts big blind $0.50
+Zhud19: sits out 
+Razum_BY: sits out 
+Dragonclawss: sits out 
+*** HOLE CARDS ***
+Cuca Moruca: calls $0.50
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: checks 
+*** FLOP *** [7c As Th]
+tomekpe: checks 
+Cuca Moruca: checks 
+*** TURN *** [7c As Th] [8h]
+tomekpe: bets $0.84
+Cuca Moruca: folds 
+Uncalled bet ($0.84) returned to tomekpe
+tomekpe collected $1.19 from pot
+tomekpe: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [7c As Th 8h]
+Seat 1: Cuca Moruca folded on the Turn
+Seat 5: jasperge 40 (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 7: tomekpe (big blind) collected ($1.19)
+
+
+
+PokerStars Hand #228686860982:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:28:27 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 1: Cuca Moruca ($52.94 in chips) 
+Seat 5: jasperge 40 ($61.61 in chips) 
+Seat 6: Mmago24 ($75.19 in chips) 
+Seat 7: tomekpe ($50.69 in chips) 
+Seat 9: Zhud19 ($50 in chips) 
+tomekpe: posts small blind $0.25
+Zhud19: posts big blind $0.50
+Razum_BY: sits out 
+*** HOLE CARDS ***
+Cuca Moruca: folds 
+jasperge 40: raises $0.50 to $1
+Mmago24: folds 
+tomekpe: folds 
+Zhud19: folds 
+Uncalled bet ($0.50) returned to jasperge 40
+jasperge 40 collected $1.25 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: Cuca Moruca folded before Flop (didn't bet)
+Seat 5: jasperge 40 collected ($1.25)
+Seat 6: Mmago24 (button) folded before Flop (didn't bet)
+Seat 7: tomekpe (small blind) folded before Flop
+Seat 9: Zhud19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228686867142:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:28:40 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 5: jasperge 40 ($62.36 in chips) 
+Seat 6: Mmago24 ($75.19 in chips) 
+Seat 7: tomekpe ($50.44 in chips) 
+Seat 9: Zhud19 ($50 in chips) 
+Zhud19: posts small blind $0.25
+Cuca Moruca: is sitting out 
+Razum_BY: posts big blind $0.50
+*** HOLE CARDS ***
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+Zhud19: folds 
+Uncalled bet ($0.25) returned to Razum_BY
+Razum_BY collected $0.50 from pot
+Razum_BY: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Razum_BY (big blind) collected ($0.50)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe (button) folded before Flop (didn't bet)
+Seat 9: Zhud19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228686872241:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:28:52 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 2: Razum_BY ($50.25 in chips) 
+Seat 5: jasperge 40 ($62.36 in chips) 
+Seat 6: Mmago24 ($75.19 in chips) 
+Seat 7: tomekpe ($50.44 in chips) 
+Seat 9: Zhud19 ($50 in chips) 
+Razum_BY: posts small blind $0.25
+jasperge 40: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: raises $0.72 to $1.22
+tomekpe: folds 
+Zhud19: folds 
+Razum_BY: folds 
+jasperge 40: calls $0.72
+*** FLOP *** [Ah Jc Qc]
+jasperge 40: checks 
+mercedes0515 joins the table at seat #8 
+Mmago24: bets $1.36
+jasperge 40: folds 
+Uncalled bet ($1.36) returned to Mmago24
+Mmago24 collected $2.56 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.69 | Rake $0.13 
+Board [Ah Jc Qc]
+Seat 2: Razum_BY (small blind) folded before Flop
+Seat 5: jasperge 40 (big blind) folded on the Flop
+Seat 6: Mmago24 collected ($2.56)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 9: Zhud19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686881864:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:29:12 ET
+Table 'Amicitia III' 9-max Seat #2 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 5: jasperge 40 ($61.14 in chips) 
+Seat 6: Mmago24 ($76.53 in chips) 
+Seat 7: tomekpe ($50.44 in chips) 
+Seat 8: mercedes0515 ($35.59 in chips) 
+Seat 9: Zhud19 ($50 in chips) 
+jasperge 40: posts small blind $0.25
+Mmago24: posts big blind $0.50
+mercedes0515: posts big blind $0.50
+*** HOLE CARDS ***
+tomekpe: folds 
+mercedes0515: checks 
+Zhud19: folds 
+Razum_BY: folds 
+jasperge 40: folds 
+Mmago24: checks 
+*** FLOP *** [Qc 5h 4d]
+Mmago24: checks 
+mercedes0515: bets $1
+l_The_Nuts_l joins the table at seat #3 
+Mmago24: folds 
+Uncalled bet ($1) returned to mercedes0515
+mercedes0515 collected $1.19 from pot
+mercedes0515: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Qc 5h 4d]
+Seat 2: Razum_BY (button) folded before Flop (didn't bet)
+Seat 5: jasperge 40 (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) folded on the Flop
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: mercedes0515 collected ($1.19)
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686892420:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:29:35 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 5: jasperge 40 ($60.89 in chips) 
+Seat 6: Mmago24 ($76.03 in chips) 
+Seat 7: tomekpe ($50.44 in chips) 
+Seat 8: mercedes0515 ($36.28 in chips) 
+Seat 9: Zhud19 ($50 in chips) 
+Mmago24: posts small blind $0.25
+tomekpe: posts big blind $0.50
+l_The_Nuts_l: sits out 
+*** HOLE CARDS ***
+mercedes0515: calls $0.50
+Zhud19: raises $1.50 to $2
+Razum_BY: folds 
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+mercedes0515: calls $1.50
+*** FLOP *** [Kc 2d 7d]
+mercedes0515: bets $0.50
+Zhud19: raises $2 to $2.50
+mercedes0515: folds 
+Uncalled bet ($2) returned to Zhud19
+Zhud19 collected $5.46 from pot
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.29 
+Board [Kc 2d 7d]
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 5: jasperge 40 (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 7: tomekpe (big blind) folded before Flop
+Seat 8: mercedes0515 folded on the Flop
+Seat 9: Zhud19 collected ($5.46)
+
+
+
+PokerStars Hand #228686910318:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:30:14 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 5: jasperge 40 ($60.89 in chips) 
+Seat 6: Mmago24 ($75.78 in chips) 
+Seat 7: tomekpe ($50 in chips) 
+Seat 8: mercedes0515 ($33.78 in chips) 
+Seat 9: Zhud19 ($52.96 in chips) 
+tomekpe: posts small blind $0.25
+mercedes0515: posts big blind $0.50
+l_The_Nuts_l: sits out 
+*** HOLE CARDS ***
+Zhud19: folds 
+Razum_BY: folds 
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+Uncalled bet ($0.25) returned to mercedes0515
+mercedes0515 collected $0.50 from pot
+mercedes0515: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 (button) folded before Flop (didn't bet)
+Seat 7: tomekpe (small blind) folded before Flop
+Seat 8: mercedes0515 (big blind) collected ($0.50)
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686916473:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:30:27 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 5: jasperge 40 ($60.89 in chips) 
+Seat 6: Mmago24 ($75.78 in chips) 
+Seat 7: tomekpe ($50 in chips) 
+Seat 8: mercedes0515 ($34.03 in chips) 
+Seat 9: Zhud19 ($52.96 in chips) 
+mercedes0515: posts small blind $0.25
+Zhud19: posts big blind $0.50
+l_The_Nuts_l: sits out 
+*** HOLE CARDS ***
+Razum_BY: folds 
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+mercedes0515: raises $1 to $1.50
+Zhud19: folds 
+Uncalled bet ($1) returned to mercedes0515
+mercedes0515 collected $1 from pot
+mercedes0515: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe (button) folded before Flop (didn't bet)
+Seat 8: mercedes0515 (small blind) collected ($1)
+Seat 9: Zhud19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228686922480:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:30:41 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 5: jasperge 40 ($60.89 in chips) 
+Seat 6: Mmago24 ($75.78 in chips) 
+Seat 7: tomekpe ($50 in chips) 
+Seat 8: mercedes0515 ($34.53 in chips) 
+Seat 9: Zhud19 ($52.46 in chips) 
+Zhud19: posts small blind $0.25
+Razum_BY: posts big blind $0.50
+l_The_Nuts_l: sits out 
+*** HOLE CARDS ***
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: raises $0.69 to $1.19
+mercedes0515: folds 
+Zhud19: raises $3.81 to $5
+Razum_BY: calls $4.50
+tomekpe: calls $3.81
+*** FLOP *** [2s 8c Jc]
+Zhud19: checks 
+Razum_BY: bets $5.50
+tomekpe: calls $5.50
+Zhud19: folds 
+*** TURN *** [2s 8c Jc] [2c]
+Razum_BY: bets $12.25
+tomekpe: calls $12.25
+*** RIVER *** [2s 8c Jc 2c] [9c]
+Razum_BY: checks 
+tomekpe: bets $27.25 and is all-in
+Razum_BY: folds 
+Uncalled bet ($27.25) returned to tomekpe
+tomekpe collected $48.50 from pot
+tomekpe: doesn't show hand 
+*** SUMMARY ***
+Total pot $50.50 | Rake $2 
+Board [2s 8c Jc 2c 9c]
+Seat 2: Razum_BY (big blind) folded on the River
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe collected ($48.50)
+Seat 8: mercedes0515 (button) folded before Flop (didn't bet)
+Seat 9: Zhud19 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228686964143:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:32:10 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 5: jasperge 40 ($60.89 in chips) 
+Seat 6: Mmago24 ($75.78 in chips) 
+Seat 7: tomekpe ($75.75 in chips) 
+Seat 8: mercedes0515 ($34.53 in chips) 
+Seat 9: Zhud19 ($50 in chips) 
+Razum_BY: posts small blind $0.25
+l_The_Nuts_l: posts big blind $0.50
+*** HOLE CARDS ***
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+mercedes0515: calls $0.50
+Zhud19: folds 
+Razum_BY: folds 
+Dragonclawss leaves the table
+l_The_Nuts_l: checks 
+*** FLOP *** [Js 8d 8c]
+l_The_Nuts_l: checks 
+mercedes0515: checks 
+*** TURN *** [Js 8d 8c] [Td]
+l_The_Nuts_l: checks 
+mercedes0515: bets $1
+l_The_Nuts_l: folds 
+Uncalled bet ($1) returned to mercedes0515
+mercedes0515 collected $1.19 from pot
+mercedes0515: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Js 8d 8c Td]
+Seat 2: Razum_BY (small blind) folded before Flop
+Seat 3: l_The_Nuts_l (big blind) folded on the Turn
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: mercedes0515 collected ($1.19)
+Seat 9: Zhud19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686981491:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:32:48 ET
+Table 'Amicitia III' 9-max Seat #2 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 5: jasperge 40 ($60.89 in chips) 
+Seat 6: Mmago24 ($75.78 in chips) 
+Seat 7: tomekpe ($75.75 in chips) 
+Seat 8: mercedes0515 ($35.22 in chips) 
+Seat 9: Zhud19 ($50 in chips) 
+l_The_Nuts_l: posts small blind $0.25
+jasperge 40: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+tomekpe: folds 
+mercedes0515: calls $0.50
+Zhud19: folds 
+Razum_BY: folds 
+l_The_Nuts_l: folds 
+Dragonclawss joins the table at seat #4 
+jasperge 40: checks 
+*** FLOP *** [Kc Kh 9d]
+jasperge 40: checks 
+mercedes0515: bets $0.60
+jasperge 40: folds 
+Uncalled bet ($0.60) returned to mercedes0515
+mercedes0515 collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Kc Kh 9d]
+Seat 2: Razum_BY (button) folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l (small blind) folded before Flop
+Seat 5: jasperge 40 (big blind) folded on the Flop
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: mercedes0515 collected ($1.19)
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687002597:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:33:33 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 5: jasperge 40 ($60.39 in chips) 
+Seat 6: Mmago24 ($75.78 in chips) 
+Seat 7: tomekpe ($75.75 in chips) 
+Seat 8: mercedes0515 ($35.91 in chips) 
+Seat 9: Zhud19 ($50 in chips) 
+jasperge 40: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+tomekpe: folds 
+mercedes0515: calls $0.50
+Zhud19: folds 
+Razum_BY: raises $1.25 to $1.75
+l_The_Nuts_l: folds 
+jasperge 40: calls $1.50
+Mmago24: calls $1.25
+mercedes0515: calls $1.25
+*** FLOP *** [2s 8h 4c]
+jasperge 40: checks 
+Mmago24: checks 
+mercedes0515: checks 
+Razum_BY: checks 
+*** TURN *** [2s 8h 4c] [5s]
+jasperge 40: bets $3.33
+Mmago24: calls $3.33
+mercedes0515: folds 
+Razum_BY: folds 
+*** RIVER *** [2s 8h 4c 5s] [9d]
+jasperge 40: bets $6.49
+Mmago24: folds 
+Uncalled bet ($6.49) returned to jasperge 40
+jasperge 40 collected $12.98 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.66 | Rake $0.68 
+Board [2s 8h 4c 5s 9d]
+Seat 2: Razum_BY folded on the Turn
+Seat 3: l_The_Nuts_l (button) folded before Flop (didn't bet)
+Seat 5: jasperge 40 (small blind) collected ($12.98)
+Seat 6: Mmago24 (big blind) folded on the River
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: mercedes0515 folded on the Turn
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687039534:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:34:52 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 5: jasperge 40 ($68.29 in chips) 
+Seat 6: Mmago24 ($70.70 in chips) 
+Seat 7: tomekpe ($75.75 in chips) 
+Seat 8: mercedes0515 ($34.16 in chips) 
+Seat 9: Zhud19 ($50 in chips) 
+Mmago24: posts small blind $0.25
+tomekpe: posts big blind $0.50
+*** HOLE CARDS ***
+mercedes0515: folds 
+Zhud19: folds 
+Razum_BY: raises $0.75 to $1.25
+l_The_Nuts_l: folds 
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+Uncalled bet ($0.75) returned to Razum_BY
+Razum_BY collected $1.25 from pot
+Razum_BY: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Razum_BY collected ($1.25)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 5: jasperge 40 (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 7: tomekpe (big blind) folded before Flop
+Seat 8: mercedes0515 folded before Flop (didn't bet)
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687051011:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:35:16 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 2: Razum_BY ($50.75 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 5: jasperge 40 ($68.29 in chips) 
+Seat 6: Mmago24 ($70.45 in chips) 
+Seat 7: tomekpe ($75.25 in chips) 
+Seat 8: mercedes0515 ($34.16 in chips) 
+Seat 9: Zhud19 ($50 in chips) 
+tomekpe: posts small blind $0.25
+mercedes0515: posts big blind $0.50
+*** HOLE CARDS ***
+Zhud19: folds 
+Razum_BY: folds 
+l_The_Nuts_l: folds 
+jasperge 40: folds 
+Mmago24: raises $0.72 to $1.22
+tomekpe: folds 
+mercedes0515: calls $0.72
+*** FLOP *** [8h Jh 3h]
+mercedes0515: checks 
+Mmago24: bets $1.36
+mercedes0515: calls $1.36
+*** TURN *** [8h Jh 3h] [2s]
+mercedes0515: checks 
+Mmago24: bets $3
+mercedes0515: calls $3
+*** RIVER *** [8h Jh 3h 2s] [Ks]
+mercedes0515: checks 
+Mmago24: bets $6.68
+mercedes0515: folds [Ah]
+Uncalled bet ($6.68) returned to Mmago24
+Mmago24 collected $10.84 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.41 | Rake $0.57 
+Board [8h Jh 3h 2s Ks]
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 (button) collected ($10.84)
+Seat 7: tomekpe (small blind) folded before Flop
+Seat 8: mercedes0515 (big blind) folded on the River
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687090258:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:36:40 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 2: Razum_BY ($50.75 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 5: jasperge 40 ($68.29 in chips) 
+Seat 6: Mmago24 ($75.71 in chips) 
+Seat 7: tomekpe ($75 in chips) 
+Seat 8: mercedes0515 ($28.58 in chips) 
+Seat 9: Zhud19 ($50 in chips) 
+mercedes0515: posts small blind $0.25
+Zhud19: posts big blind $0.50
+*** HOLE CARDS ***
+Razum_BY: folds 
+l_The_Nuts_l: folds 
+jasperge 40 has timed out
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+mercedes0515: raises $0.50 to $1
+Zhud19: calls $0.50
+*** FLOP *** [6s Ah 9c]
+mercedes0515: bets $1
+Zhud19: folds 
+Uncalled bet ($1) returned to mercedes0515
+mercedes0515 collected $1.90 from pot
+mercedes0515: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [6s Ah 9c]
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe (button) folded before Flop (didn't bet)
+Seat 8: mercedes0515 (small blind) collected ($1.90)
+Seat 9: Zhud19 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228687110948:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:37:25 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 2: Razum_BY ($50.75 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 5: jasperge 40 ($68.29 in chips) 
+Seat 6: Mmago24 ($75.71 in chips) 
+Seat 7: tomekpe ($75 in chips) 
+Seat 8: mercedes0515 ($29.48 in chips) 
+Seat 9: Zhud19 ($50 in chips) 
+Zhud19: posts small blind $0.25
+Razum_BY: posts big blind $0.50
+*** HOLE CARDS ***
+l_The_Nuts_l: folds 
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+mercedes0515: folds 
+Zhud19: raises $1 to $1.50
+Razum_BY: calls $1
+*** FLOP *** [7h Qs 5d]
+Zhud19: bets $0.86
+Razum_BY: raises $1.72 to $2.58
+Zhud19: calls $1.72
+*** TURN *** [7h Qs 5d] [6c]
+Zhud19: checks 
+Razum_BY: checks 
+*** RIVER *** [7h Qs 5d 6c] [8c]
+Zhud19: bets $2.33
+Razum_BY: calls $2.33
+*** SHOW DOWN ***
+Zhud19: shows [7d 7s] (three of a kind, Sevens)
+Razum_BY: mucks hand 
+Zhud19 collected $12.18 from pot
+*** SUMMARY ***
+Total pot $12.82 | Rake $0.64 
+Board [7h Qs 5d 6c 8c]
+Seat 2: Razum_BY (big blind) mucked
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: mercedes0515 (button) folded before Flop (didn't bet)
+Seat 9: Zhud19 (small blind) showed [7d 7s] and won ($12.18) with three of a kind, Sevens
+
+
+
+PokerStars Hand #228687139927:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:38:27 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 5: jasperge 40 ($68.29 in chips) 
+Seat 6: Mmago24 ($75.71 in chips) 
+Seat 7: tomekpe ($75 in chips) 
+Seat 8: mercedes0515 ($29.48 in chips) 
+Seat 9: Zhud19 ($55.77 in chips) 
+Razum_BY: posts small blind $0.25
+l_The_Nuts_l: posts big blind $0.50
+*** HOLE CARDS ***
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+mercedes0515: folds 
+Zhud19: folds 
+Razum_BY: raises $1 to $1.50
+l_The_Nuts_l: raises $2.50 to $4
+Razum_BY: folds 
+Uncalled bet ($2.50) returned to l_The_Nuts_l
+Dragonclawss leaves the table
+l_The_Nuts_l collected $3 from pot
+l_The_Nuts_l: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 2: Razum_BY (small blind) folded before Flop
+Seat 3: l_The_Nuts_l (big blind) collected ($3)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: mercedes0515 folded before Flop (didn't bet)
+Seat 9: Zhud19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687151387:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:38:52 ET
+Table 'Amicitia III' 9-max Seat #2 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($51.50 in chips) 
+Seat 5: jasperge 40 ($68.29 in chips) 
+Seat 6: Mmago24 ($75.71 in chips) 
+Seat 7: tomekpe ($75 in chips) 
+Seat 8: mercedes0515 ($29.48 in chips) 
+Seat 9: Zhud19 ($55.77 in chips) 
+l_The_Nuts_l: posts small blind $0.25
+jasperge 40: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+tomekpe: folds 
+mercedes0515: folds 
+Zhud19: folds 
+Razum_BY: folds 
+l_The_Nuts_l: raises $1 to $1.50
+jasperge 40: folds 
+Uncalled bet ($1) returned to l_The_Nuts_l
+l_The_Nuts_l collected $1 from pot
+l_The_Nuts_l: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Razum_BY (button) folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l (small blind) collected ($1)
+Seat 5: jasperge 40 (big blind) folded before Flop
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: mercedes0515 folded before Flop (didn't bet)
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687160689:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:39:12 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52 in chips) 
+Seat 5: jasperge 40 ($67.79 in chips) 
+Seat 6: Mmago24 ($75.71 in chips) 
+Seat 7: tomekpe ($75 in chips) 
+Seat 8: mercedes0515 ($29.48 in chips) 
+Seat 9: Zhud19 ($55.77 in chips) 
+jasperge 40: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+tomekpe: folds 
+Xpredate joins the table at seat #4 
+mercedes0515: calls $0.50
+Zhud19: raises $1.50 to $2
+Razum_BY: folds 
+l_The_Nuts_l: folds 
+jasperge 40: folds 
+Mmago24: calls $1.50
+mercedes0515: calls $1.50
+*** FLOP *** [Qs 5s 8d]
+Mmago24: checks 
+mercedes0515: checks 
+Zhud19: bets $4.46
+Mmago24: folds 
+mercedes0515: calls $4.46
+*** TURN *** [Qs 5s 8d] [3c]
+mercedes0515: checks 
+Zhud19: bets $17.50
+mercedes0515: raises $5.52 to $23.02 and is all-in
+Zhud19: calls $5.52
+*** RIVER *** [Qs 5s 8d 3c] [2d]
+*** SHOW DOWN ***
+mercedes0515: shows [5d 5c] (three of a kind, Fives)
+Zhud19: shows [8c 8h] (three of a kind, Eights)
+Zhud19 collected $59.21 from pot
+mercedes0515 cashed out the hand for $1.34 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $61.21 | Rake $2 
+Board [Qs 5s 8d 3c 2d]
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l (button) folded before Flop (didn't bet)
+Seat 5: jasperge 40 (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) folded on the Flop
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: mercedes0515 showed [5d 5c] and lost with three of a kind, Fives (cashed out).
+Seat 9: Zhud19 showed [8c 8h] and won ($59.21) with three of a kind, Eights
+
+
+
+PokerStars Hand #228687208619:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:40:34 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52 in chips) 
+Seat 4: Xpredate ($26.49 in chips) 
+Seat 5: jasperge 40 ($67.54 in chips) 
+Seat 6: Mmago24 ($73.71 in chips) 
+Seat 7: tomekpe ($75 in chips) 
+Seat 8: mercedes0515 ($1.34 in chips) 
+Seat 9: Zhud19 ($85.50 in chips) 
+Mmago24: posts small blind $0.25
+tomekpe: posts big blind $0.50
+Xpredate: posts big blind $0.50
+*** HOLE CARDS ***
+mercedes0515: raises $0.84 to $1.34 and is all-in
+Zhud19: folds 
+Razum_BY: folds 
+l_The_Nuts_l: folds 
+Xpredate: calls $0.84
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+*** FLOP *** [6h 9h 4h]
+*** TURN *** [6h 9h 4h] [Qh]
+*** RIVER *** [6h 9h 4h Qh] [Qs]
+*** SHOW DOWN ***
+mercedes0515: shows [7s 7c] (two pair, Queens and Sevens)
+Xpredate: shows [3d Td] (a pair of Queens)
+mercedes0515 collected $3.26 from pot
+*** SUMMARY ***
+Total pot $3.43 | Rake $0.17 
+Board [6h 9h 4h Qh Qs]
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate showed [3d Td] and lost with a pair of Queens
+Seat 5: jasperge 40 (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 7: tomekpe (big blind) folded before Flop
+Seat 8: mercedes0515 showed [7s 7c] and won ($3.26) with two pair, Queens and Sevens
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687221179:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:41:02 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52 in chips) 
+Seat 4: Xpredate ($25.15 in chips) 
+Seat 5: jasperge 40 ($67.54 in chips) 
+Seat 6: Mmago24 ($73.46 in chips) 
+Seat 7: tomekpe ($74.50 in chips) 
+Seat 8: mercedes0515 ($3.26 in chips) 
+Seat 9: Zhud19 ($85.50 in chips) 
+tomekpe: posts small blind $0.25
+mercedes0515: posts big blind $0.50
+*** HOLE CARDS ***
+Zhud19: folds 
+Razum_BY: raises $0.75 to $1.25
+l_The_Nuts_l: folds 
+Xpredate: folds 
+jasperge 40: raises $3.25 to $4.50
+Mmago24: folds 
+tomekpe: folds 
+mercedes0515: calls $2.76 and is all-in
+Razum_BY: folds 
+Uncalled bet ($1.24) returned to jasperge 40
+*** FLOP *** [8s Th 9s]
+*** TURN *** [8s Th 9s] [3d]
+*** RIVER *** [8s Th 9s 3d] [6c]
+*** SHOW DOWN ***
+mercedes0515: shows [Ks Jd] (high card King)
+jasperge 40: shows [9c 8h] (two pair, Nines and Eights)
+jasperge 40 collected $7.62 from pot
+*** SUMMARY ***
+Total pot $8.02 | Rake $0.40 
+Board [8s Th 9s 3d 6c]
+Seat 2: Razum_BY folded before Flop
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: jasperge 40 showed [9c 8h] and won ($7.62) with two pair, Nines and Eights
+Seat 6: Mmago24 (button) folded before Flop (didn't bet)
+Seat 7: tomekpe (small blind) folded before Flop
+Seat 8: mercedes0515 (big blind) showed [Ks Jd] and lost with high card King
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687240122:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:41:43 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52 in chips) 
+Seat 4: Xpredate ($25.15 in chips) 
+Seat 5: jasperge 40 ($71.90 in chips) 
+Seat 6: Mmago24 ($73.46 in chips) 
+Seat 7: tomekpe ($74.25 in chips) 
+Seat 9: Zhud19 ($85.50 in chips) 
+Zhud19: posts small blind $0.25
+Razum_BY: posts big blind $0.50
+*** HOLE CARDS ***
+l_The_Nuts_l: raises $0.75 to $1.25
+Xpredate: folds 
+mercedes0515 leaves the table
+grafFIN7 joins the table at seat #8 
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+Zhud19: folds 
+Razum_BY: folds 
+Uncalled bet ($0.75) returned to l_The_Nuts_l
+l_The_Nuts_l collected $1.25 from pot
+Cuca Moruca was removed from the table for failing to post
+Cuca Moruca leaves the table
+l_The_Nuts_l: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Razum_BY (big blind) folded before Flop
+Seat 3: l_The_Nuts_l collected ($1.25)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe (button) folded before Flop (didn't bet)
+Seat 9: Zhud19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228687255591:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:42:16 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52.75 in chips) 
+Seat 4: Xpredate ($25.15 in chips) 
+Seat 5: jasperge 40 ($71.90 in chips) 
+Seat 6: Mmago24 ($73.46 in chips) 
+Seat 7: tomekpe ($74.25 in chips) 
+Seat 9: Zhud19 ($85.25 in chips) 
+Razum_BY: posts small blind $0.25
+l_The_Nuts_l: posts big blind $0.50
+grafFIN7: sits out 
+*** HOLE CARDS ***
+Xpredate: folds 
+jasperge 40: raises $0.50 to $1
+badmadrabbit joins the table at seat #1 
+Mmago24 has timed out
+Mmago24: folds 
+tomekpe: raises $2.93 to $3.93
+Zhud19: folds 
+Razum_BY: folds 
+l_The_Nuts_l: folds 
+jasperge 40: calls $2.93
+*** FLOP *** [4h 7c 3s]
+jasperge 40: checks 
+tomekpe: checks 
+*** TURN *** [4h 7c 3s] [Jc]
+jasperge 40: checks 
+tomekpe: checks 
+*** RIVER *** [4h 7c 3s Jc] [8d]
+jasperge 40: bets $2
+tomekpe: folds 
+Uncalled bet ($2) returned to jasperge 40
+jasperge 40 collected $8.18 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.61 | Rake $0.43 
+Board [4h 7c 3s Jc 8d]
+Seat 2: Razum_BY (small blind) folded before Flop
+Seat 3: l_The_Nuts_l (big blind) folded before Flop
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: jasperge 40 collected ($8.18)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe folded on the River
+Seat 9: Zhud19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687281747:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:43:13 ET
+Table 'Amicitia III' 9-max Seat #2 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52.25 in chips) 
+Seat 4: Xpredate ($25.15 in chips) 
+Seat 5: jasperge 40 ($76.15 in chips) 
+Seat 6: Mmago24 ($73.46 in chips) 
+Seat 7: tomekpe ($70.32 in chips) 
+Seat 9: Zhud19 ($85.25 in chips) 
+l_The_Nuts_l: posts small blind $0.25
+Xpredate: posts big blind $0.50
+grafFIN7: sits out 
+badmadrabbit: sits out 
+*** HOLE CARDS ***
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+Zhud19: folds 
+Razum_BY: folds 
+l_The_Nuts_l: folds 
+Uncalled bet ($0.25) returned to Xpredate
+Xpredate collected $0.50 from pot
+Xpredate: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Razum_BY (button) folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l (small blind) folded before Flop
+Seat 4: Xpredate (big blind) collected ($0.50)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687287620:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:43:26 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52 in chips) 
+Seat 4: Xpredate ($25.40 in chips) 
+Seat 5: jasperge 40 ($76.15 in chips) 
+Seat 6: Mmago24 ($73.46 in chips) 
+Seat 7: tomekpe ($70.32 in chips) 
+Seat 9: Zhud19 ($85.25 in chips) 
+Xpredate: posts small blind $0.25
+jasperge 40: posts big blind $0.50
+grafFIN7: sits out 
+badmadrabbit: sits out 
+*** HOLE CARDS ***
+Mmago24: folds 
+tomekpe: folds 
+Zhud19: folds 
+Razum_BY: raises $0.75 to $1.25
+l_The_Nuts_l: folds 
+Xpredate: folds 
+jasperge 40: calls $0.75
+*** FLOP *** [2d Jd Kh]
+jasperge 40: checks 
+Razum_BY: bets $0.86
+jasperge 40: calls $0.86
+*** TURN *** [2d Jd Kh] [7d]
+jasperge 40: checks 
+Razum_BY: checks 
+*** RIVER *** [2d Jd Kh 7d] [Th]
+jasperge 40: checks 
+Razum_BY: checks 
+*** SHOW DOWN ***
+jasperge 40: shows [Qh Jh] (a pair of Jacks)
+Razum_BY: mucks hand 
+jasperge 40 collected $4.25 from pot
+*** SUMMARY ***
+Total pot $4.47 | Rake $0.22 
+Board [2d Jd Kh 7d Th]
+Seat 2: Razum_BY mucked
+Seat 3: l_The_Nuts_l (button) folded before Flop (didn't bet)
+Seat 4: Xpredate (small blind) folded before Flop
+Seat 5: jasperge 40 (big blind) showed [Qh Jh] and won ($4.25) with a pair of Jacks
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687303661:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:44:01 ET
+Table 'Amicitia III' 9-max Seat #4 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52 in chips) 
+Seat 4: Xpredate ($25.15 in chips) 
+Seat 5: jasperge 40 ($78.29 in chips) 
+Seat 6: Mmago24 ($73.46 in chips) 
+Seat 7: tomekpe ($70.32 in chips) 
+Seat 9: Zhud19 ($85.25 in chips) 
+jasperge 40: posts small blind $0.25
+Mmago24: posts big blind $0.50
+grafFIN7: sits out 
+badmadrabbit: sits out 
+*** HOLE CARDS ***
+tomekpe: folds 
+Zhud19: folds 
+Razum_BY: folds 
+l_The_Nuts_l: folds 
+Xpredate: calls $0.50
+jasperge 40: folds 
+Mmago24: checks 
+*** FLOP *** [4h 6c 5c]
+Mmago24: bets $0.63
+Xpredate: folds 
+Uncalled bet ($0.63) returned to Mmago24
+Mmago24 collected $1.19 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [4h 6c 5c]
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate (button) folded on the Flop
+Seat 5: jasperge 40 (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) collected ($1.19)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687315323:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:44:27 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52 in chips) 
+Seat 4: Xpredate ($24.65 in chips) 
+Seat 5: jasperge 40 ($78.04 in chips) 
+Seat 6: Mmago24 ($74.15 in chips) 
+Seat 7: tomekpe ($70.32 in chips) 
+Seat 9: Zhud19 ($85.25 in chips) 
+Mmago24: posts small blind $0.25
+tomekpe: posts big blind $0.50
+grafFIN7: sits out 
+badmadrabbit: sits out 
+*** HOLE CARDS ***
+Zhud19: raises $1 to $1.50
+Razum_BY: folds 
+l_The_Nuts_l: folds 
+Xpredate: folds 
+jasperge 40: calls $1.50
+Mmago24: raises $5 to $6.50
+tomekpe: folds 
+Zhud19: folds 
+jasperge 40: calls $5
+*** FLOP *** [5h 2c 7c]
+Mmago24: bets $5
+jasperge 40: raises $12.13 to $17.13
+Mmago24: calls $12.13
+*** TURN *** [5h 2c 7c] [9d]
+Mmago24: checks 
+jasperge 40: bets $54.41 and is all-in
+Mmago24: folds 
+Uncalled bet ($54.41) returned to jasperge 40
+jasperge 40 collected $47.26 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $49.26 | Rake $2 
+Board [5h 2c 7c 9d]
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: jasperge 40 (button) collected ($47.26)
+Seat 6: Mmago24 (small blind) folded on the Turn
+Seat 7: tomekpe (big blind) folded before Flop
+Seat 9: Zhud19 folded before Flop
+
+
+
+PokerStars Hand #228687365318:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:46:02 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52 in chips) 
+Seat 4: Xpredate ($24.65 in chips) 
+Seat 5: jasperge 40 ($101.67 in chips) 
+Seat 6: Mmago24 ($50.52 in chips) 
+Seat 7: tomekpe ($69.82 in chips) 
+Seat 8: grafFIN7 ($50 in chips) 
+Seat 9: Zhud19 ($83.75 in chips) 
+tomekpe: posts small blind $0.25
+grafFIN7: posts big blind $0.50
+badmadrabbit: sits out 
+*** HOLE CARDS ***
+Zhud19: folds 
+Razum_BY: folds 
+l_The_Nuts_l: folds 
+Xpredate: calls $0.50
+jasperge 40: calls $0.50
+Mmago24: raises $2 to $2.50
+tomekpe: folds 
+grafFIN7: folds 
+Xpredate is disconnected 
+Xpredate is connected 
+Xpredate: calls $2
+jasperge 40: calls $2
+*** FLOP *** [Kh 7h Kc]
+Xpredate: checks 
+jasperge 40: bets $2.35
+Mmago24: folds 
+Xpredate: folds 
+Uncalled bet ($2.35) returned to jasperge 40
+jasperge 40 collected $7.84 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.41 
+Board [Kh 7h Kc]
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate folded on the Flop
+Seat 5: jasperge 40 collected ($7.84)
+Seat 6: Mmago24 (button) folded on the Flop
+Seat 7: tomekpe (small blind) folded before Flop
+Seat 8: grafFIN7 (big blind) folded before Flop
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687391993:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:47:00 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52 in chips) 
+Seat 4: Xpredate ($22.15 in chips) 
+Seat 5: jasperge 40 ($107.01 in chips) 
+Seat 6: Mmago24 ($50 in chips) 
+Seat 7: tomekpe ($69.57 in chips) 
+Seat 8: grafFIN7 ($50 in chips) 
+Seat 9: Zhud19 ($83.75 in chips) 
+grafFIN7: posts small blind $0.25
+Zhud19: posts big blind $0.50
+badmadrabbit: sits out 
+*** HOLE CARDS ***
+Razum_BY: folds 
+l_The_Nuts_l: folds 
+Xpredate: folds 
+jasperge 40 has timed out
+jasperge 40: folds 
+Mmago24: raises $0.72 to $1.22
+tomekpe: raises $3.03 to $4.25
+grafFIN7: folds 
+Zhud19: folds 
+Mmago24: raises $7.75 to $12
+tomekpe: calls $7.75
+*** FLOP *** [As 5h 2c]
+Mmago24: bets $7.76
+tomekpe: folds 
+Uncalled bet ($7.76) returned to Mmago24
+Mmago24 collected $23.51 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.75 | Rake $1.24 
+Board [As 5h 2c]
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 collected ($23.51)
+Seat 7: tomekpe (button) folded on the Flop
+Seat 8: grafFIN7 (small blind) folded before Flop
+Seat 9: Zhud19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228687416260:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:47:53 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52 in chips) 
+Seat 4: Xpredate ($22.15 in chips) 
+Seat 5: jasperge 40 ($107.01 in chips) 
+Seat 6: Mmago24 ($61.51 in chips) 
+Seat 7: tomekpe ($57.57 in chips) 
+Seat 8: grafFIN7 ($50 in chips) 
+Seat 9: Zhud19 ($83.25 in chips) 
+Zhud19: posts small blind $0.25
+badmadrabbit: posts big blind $0.50
+*** HOLE CARDS ***
+Razum_BY: folds 
+l_The_Nuts_l: folds 
+Xpredate: folds 
+jasperge 40: raises $1.25 to $1.75
+Mmago24: folds 
+tomekpe: folds 
+grafFIN7: folds 
+Zhud19: folds 
+badmadrabbit: folds 
+Uncalled bet ($1.25) returned to jasperge 40
+jasperge 40 collected $1.25 from pot
+jasperge 40: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: badmadrabbit (big blind) folded before Flop
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: jasperge 40 collected ($1.25)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: grafFIN7 (button) folded before Flop (didn't bet)
+Seat 9: Zhud19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228687423398:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:48:08 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 3: l_The_Nuts_l ($52 in chips) 
+Seat 4: Xpredate ($22.15 in chips) 
+Seat 5: jasperge 40 ($107.76 in chips) 
+Seat 6: Mmago24 ($61.51 in chips) 
+Seat 7: tomekpe ($57.57 in chips) 
+Seat 8: grafFIN7 ($50 in chips) 
+Seat 9: Zhud19 ($83 in chips) 
+badmadrabbit: posts small blind $0.25
+Razum_BY: is sitting out 
+l_The_Nuts_l: posts big blind $0.50
+*** HOLE CARDS ***
+Xpredate: folds 
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+grafFIN7: folds 
+Zhud19: raises $1 to $1.50
+badmadrabbit: folds 
+l_The_Nuts_l: folds 
+Uncalled bet ($1) returned to Zhud19
+Zhud19 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: badmadrabbit (small blind) folded before Flop
+Seat 3: l_The_Nuts_l (big blind) folded before Flop
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: Zhud19 (button) collected ($1.25)
+
+
+
+PokerStars Hand #228687432314:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:48:28 ET
+Table 'Amicitia III' 9-max Seat #1 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 3: l_The_Nuts_l ($51.50 in chips) 
+Seat 4: Xpredate ($22.15 in chips) 
+Seat 5: jasperge 40 ($107.76 in chips) 
+Seat 6: Mmago24 ($61.51 in chips) 
+Seat 7: tomekpe ($57.57 in chips) 
+Seat 8: grafFIN7 ($50 in chips) 
+Seat 9: Zhud19 ($83.75 in chips) 
+l_The_Nuts_l: posts small blind $0.25
+Xpredate: posts big blind $0.50
+*** HOLE CARDS ***
+jasperge 40: folds 
+Mmago24: folds 
+tomekpe: folds 
+grafFIN7: folds 
+Zhud19: folds 
+jasperge 40 leaves the table
+badmadrabbit: folds 
+l_The_Nuts_l: raises $1 to $1.50
+Xpredate: calls $1
+*** FLOP *** [4d 6d 6s]
+holdemamn joins the table at seat #5 
+l_The_Nuts_l: bets $1.43
+Xpredate: calls $1.43
+*** TURN *** [4d 6d 6s] [4h]
+l_The_Nuts_l: checks 
+Xpredate: checks 
+*** RIVER *** [4d 6d 6s 4h] [Kd]
+l_The_Nuts_l: bets $2.79
+Xpredate: calls $2.79
+*** SHOW DOWN ***
+l_The_Nuts_l: shows [Qs Jd] (two pair, Sixes and Fours)
+Xpredate: shows [Td Ts] (two pair, Tens and Sixes)
+Xpredate collected $10.87 from pot
+*** SUMMARY ***
+Total pot $11.44 | Rake $0.57 
+Board [4d 6d 6s 4h Kd]
+Seat 1: badmadrabbit (button) folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l (small blind) showed [Qs Jd] and lost with two pair, Sixes and Fours
+Seat 4: Xpredate (big blind) showed [Td Ts] and won ($10.87) with two pair, Tens and Sixes
+Seat 5: jasperge 40 folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687457146:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:49:21 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 4: Xpredate ($27.30 in chips) 
+Seat 5: holdemamn ($50 in chips) 
+Seat 6: Mmago24 ($61.51 in chips) 
+Seat 7: tomekpe ($57.57 in chips) 
+Seat 8: grafFIN7 ($50 in chips) 
+Seat 9: Zhud19 ($83.75 in chips) 
+Xpredate: posts small blind $0.25
+holdemamn: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+tomekpe: folds 
+grafFIN7: raises $0.65 to $1.15
+Zhud19: folds 
+badmadrabbit: calls $1.15
+l_The_Nuts_l: folds 
+Xpredate: folds 
+holdemamn: folds 
+*** FLOP *** [5h Td Kh]
+grafFIN7: checks 
+badmadrabbit: bets $2.18
+grafFIN7: calls $2.18
+*** TURN *** [5h Td Kh] [4s]
+grafFIN7: checks 
+badmadrabbit: bets $5.28
+grafFIN7: calls $5.28
+*** RIVER *** [5h Td Kh 4s] [9c]
+grafFIN7: checks 
+badmadrabbit: checks 
+*** SHOW DOWN ***
+grafFIN7: shows [8h 9h] (a pair of Nines)
+badmadrabbit: mucks hand 
+grafFIN7 collected $17.07 from pot
+*** SUMMARY ***
+Total pot $17.97 | Rake $0.90 
+Board [5h Td Kh 4s 9c]
+Seat 1: badmadrabbit mucked
+Seat 3: l_The_Nuts_l (button) folded before Flop (didn't bet)
+Seat 4: Xpredate (small blind) folded before Flop
+Seat 5: holdemamn (big blind) folded before Flop
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: grafFIN7 showed [8h 9h] and won ($17.07) with a pair of Nines
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687485435:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:50:23 ET
+Table 'Amicitia III' 9-max Seat #4 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 4: Xpredate ($27.05 in chips) 
+Seat 5: holdemamn ($50 in chips) 
+Seat 6: Mmago24 ($61.51 in chips) 
+Seat 7: tomekpe ($57.57 in chips) 
+Seat 8: grafFIN7 ($58.46 in chips) 
+Seat 9: Zhud19 ($83.75 in chips) 
+holdemamn: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+tomekpe: folds 
+grafFIN7: folds 
+Zhud19: folds 
+badmadrabbit: folds 
+tomekpe leaves the table
+l_The_Nuts_l: folds 
+Xpredate: calls $0.50
+holdemamn: folds 
+Mmago24: checks 
+*** FLOP *** [Jc Ks 2h]
+Mmago24: bets $0.63
+Xpredate: calls $0.63
+*** TURN *** [Jc Ks 2h] [3h]
+Mmago24: bets $1
+Xpredate: calls $1
+*** RIVER *** [Jc Ks 2h 3h] [As]
+Mmago24: checks 
+Xpredate: bets $10
+Mmago24: folds 
+Uncalled bet ($10) returned to Xpredate
+Xpredate collected $4.28 from pot
+Xpredate: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.51 | Rake $0.23 
+Board [Jc Ks 2h 3h As]
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate (button) collected ($4.28)
+Seat 5: holdemamn (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) folded on the River
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687509162:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:51:15 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 4: Xpredate ($29.20 in chips) 
+Seat 5: holdemamn ($50 in chips) 
+Seat 6: Mmago24 ($59.38 in chips) 
+Seat 8: grafFIN7 ($58.46 in chips) 
+Seat 9: Zhud19 ($83.75 in chips) 
+Mmago24: posts small blind $0.25
+grafFIN7: posts big blind $0.50
+*** HOLE CARDS ***
+Zhud19: folds 
+badmadrabbit: raises $0.63 to $1.13
+Nestle170 joins the table at seat #7 
+l_The_Nuts_l: folds 
+Zhud19 leaves the table
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: folds 
+grafFIN7: folds 
+Uncalled bet ($0.63) returned to badmadrabbit
+badmadrabbit collected $1.25 from pot
+badmadrabbit: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: badmadrabbit collected ($1.25)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 8: grafFIN7 (big blind) folded before Flop
+Seat 9: Zhud19 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687516913:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:51:32 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 1: badmadrabbit ($50.75 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 4: Xpredate ($29.20 in chips) 
+Seat 5: holdemamn ($50 in chips) 
+Seat 6: Mmago24 ($59.13 in chips) 
+Seat 8: grafFIN7 ($57.96 in chips) 
+grafFIN7: posts small blind $0.25
+badmadrabbit: posts big blind $0.50
+*** HOLE CARDS ***
+PleBeY95 joins the table at seat #9 
+l_The_Nuts_l: folds 
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: raises $0.72 to $1.22
+grafFIN7: raises $3.98 to $5.20
+badmadrabbit: folds 
+Mmago24: folds 
+Uncalled bet ($3.98) returned to grafFIN7
+grafFIN7 collected $2.94 from pot
+grafFIN7: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.94 | Rake $0 
+Seat 1: badmadrabbit (big blind) folded before Flop
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 (button) folded before Flop
+Seat 8: grafFIN7 (small blind) collected ($2.94)
+
+
+
+PokerStars Hand #228687527306:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:51:55 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 1: badmadrabbit ($50.25 in chips) 
+Seat 3: l_The_Nuts_l ($50 in chips) 
+Seat 4: Xpredate ($29.20 in chips) 
+Seat 5: holdemamn ($50 in chips) 
+Seat 6: Mmago24 ($57.91 in chips) 
+Seat 8: grafFIN7 ($59.68 in chips) 
+badmadrabbit: posts small blind $0.25
+l_The_Nuts_l: posts big blind $0.50
+Nestle170: sits out 
+*** HOLE CARDS ***
+Xpredate: calls $0.50
+holdemamn: folds 
+Mmago24: folds 
+grafFIN7: folds 
+badmadrabbit: folds 
+l_The_Nuts_l: checks 
+*** FLOP *** [Qd Qh 4s]
+l_The_Nuts_l: checks 
+Xpredate: checks 
+*** TURN *** [Qd Qh 4s] [5d]
+l_The_Nuts_l: bets $0.60
+Xpredate: calls $0.60
+*** RIVER *** [Qd Qh 4s 5d] [Qc]
+l_The_Nuts_l: bets $1.17
+Xpredate: calls $1.17
+*** SHOW DOWN ***
+l_The_Nuts_l: shows [7c 7d] (a full house, Queens full of Sevens)
+Xpredate: mucks hand 
+l_The_Nuts_l collected $4.55 from pot
+*** SUMMARY ***
+Total pot $4.79 | Rake $0.24 
+Board [Qd Qh 4s 5d Qc]
+Seat 1: badmadrabbit (small blind) folded before Flop
+Seat 3: l_The_Nuts_l (big blind) showed [7c 7d] and won ($4.55) with a full house, Queens full of Sevens
+Seat 4: Xpredate mucked
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 8: grafFIN7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687564973:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:53:17 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 3: l_The_Nuts_l ($53.63 in chips) 
+Seat 4: Xpredate ($25.43 in chips) 
+Seat 5: holdemamn ($50 in chips) 
+Seat 6: Mmago24 ($57.91 in chips) 
+Seat 8: grafFIN7 ($59.68 in chips) 
+Xpredate: posts small blind $0.25
+holdemamn: posts big blind $0.50
+Nestle170: sits out 
+PleBeY95: sits out 
+*** HOLE CARDS ***
+Mmago24: folds 
+grafFIN7: folds 
+badmadrabbit: folds 
+l_The_Nuts_l has timed out
+l_The_Nuts_l: folds 
+Xpredate: folds 
+Uncalled bet ($0.25) returned to holdemamn
+holdemamn collected $0.50 from pot
+holdemamn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l (button) folded before Flop (didn't bet)
+Seat 4: Xpredate (small blind) folded before Flop
+Seat 5: holdemamn (big blind) collected ($0.50)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687573375:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:53:36 ET
+Table 'Amicitia III' 9-max Seat #4 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 3: l_The_Nuts_l ($53.63 in chips) 
+Seat 4: Xpredate ($25.18 in chips) 
+Seat 5: holdemamn ($50.25 in chips) 
+Seat 6: Mmago24 ($57.91 in chips) 
+Seat 8: grafFIN7 ($59.68 in chips) 
+holdemamn: posts small blind $0.25
+Mmago24: posts big blind $0.50
+Nestle170: sits out 
+PleBeY95: sits out 
+*** HOLE CARDS ***
+grafFIN7: folds 
+badmadrabbit: folds 
+l_The_Nuts_l: folds 
+Xpredate: calls $0.50
+holdemamn: folds 
+Mmago24: raises $2 to $2.50
+Xpredate: calls $2
+*** FLOP *** [5d Jc 8c]
+Mmago24: checks 
+Xpredate: checks 
+*** TURN *** [5d Jc 8c] [Ks]
+Mmago24: bets $3.33
+Xpredate: calls $3.33
+*** RIVER *** [5d Jc 8c Ks] [6h]
+Mmago24: checks 
+Xpredate: checks 
+*** SHOW DOWN ***
+Mmago24: shows [Ac 9s] (high card Ace)
+Xpredate: shows [4s 8s] (a pair of Eights)
+Xpredate collected $11.31 from pot
+*** SUMMARY ***
+Total pot $11.91 | Rake $0.60 
+Board [5d Jc 8c Ks 6h]
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate (button) showed [4s 8s] and won ($11.31) with a pair of Eights
+Seat 5: holdemamn (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) showed [Ac 9s] and lost with high card Ace
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687593358:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:54:20 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 3: l_The_Nuts_l ($53.63 in chips) 
+Seat 4: Xpredate ($30.66 in chips) 
+Seat 5: holdemamn ($50 in chips) 
+Seat 6: Mmago24 ($52.08 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($59.68 in chips) 
+Mmago24: posts small blind $0.25
+Nestle170: posts big blind $0.50
+PleBeY95: sits out 
+Razum_BY: sits out 
+*** HOLE CARDS ***
+grafFIN7: folds 
+badmadrabbit: folds 
+l_The_Nuts_l: raises $0.75 to $1.25
+Xpredate: calls $1.25
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: calls $0.75
+*** FLOP *** [Qd Ah 7d]
+Nestle170: checks 
+l_The_Nuts_l: checks 
+Xpredate: checks 
+*** TURN *** [Qd Ah 7d] [Th]
+Nestle170: checks 
+l_The_Nuts_l: checks 
+Xpredate: checks 
+*** RIVER *** [Qd Ah 7d Th] [8h]
+Nestle170: checks 
+l_The_Nuts_l: checks 
+Xpredate: bets $2
+Nestle170: folds 
+l_The_Nuts_l: calls $2
+*** SHOW DOWN ***
+Xpredate: shows [4d 5d] (high card Ace)
+l_The_Nuts_l: shows [Qs Ks] (a pair of Queens)
+l_The_Nuts_l collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Qd Ah 7d Th 8h]
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l showed [Qs Ks] and won ($7.60) with a pair of Queens
+Seat 4: Xpredate showed [4d 5d] and lost with high card Ace
+Seat 5: holdemamn (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 7: Nestle170 (big blind) folded on the River
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687617773:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:55:16 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 3: l_The_Nuts_l ($57.98 in chips) 
+Seat 4: Xpredate ($27.41 in chips) 
+Seat 5: holdemamn ($50 in chips) 
+Seat 6: Mmago24 ($51.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($59.68 in chips) 
+Nestle170: posts small blind $0.25
+grafFIN7: posts big blind $0.50
+PleBeY95: sits out 
+Razum_BY: sits out 
+*** HOLE CARDS ***
+badmadrabbit: folds 
+l_The_Nuts_l: raises $0.75 to $1.25
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: raises $3.90 to $5.15
+l_The_Nuts_l: raises $8.85 to $14
+grafFIN7: folds 
+Uncalled bet ($8.85) returned to l_The_Nuts_l
+l_The_Nuts_l collected $10.55 from pot
+l_The_Nuts_l: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.55 | Rake $0 
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l collected ($10.55)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 (button) folded before Flop (didn't bet)
+Seat 7: Nestle170 (small blind) folded before Flop
+Seat 8: grafFIN7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228687638550:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:56:19 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 3: l_The_Nuts_l ($63.38 in chips) 
+Seat 4: Xpredate ($27.41 in chips) 
+Seat 5: holdemamn ($50 in chips) 
+Seat 6: Mmago24 ($51.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($54.53 in chips) 
+Seat 9: PleBeY95 ($50 in chips) 
+grafFIN7: posts small blind $0.25
+PleBeY95: posts big blind $0.50
+Razum_BY: sits out 
+*** HOLE CARDS ***
+badmadrabbit: folds 
+l_The_Nuts_l: folds 
+Xpredate: folds 
+holdemamn: raises $0.75 to $1.25
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: calls $0.75
+*** FLOP *** [Kd 3s 5d]
+PleBeY95: checks 
+holdemamn: bets $1.74
+PleBeY95: folds 
+Uncalled bet ($1.74) returned to holdemamn
+holdemamn collected $2.61 from pot
+holdemamn: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [Kd 3s 5d]
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn collected ($2.61)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 (button) folded before Flop (didn't bet)
+Seat 8: grafFIN7 (small blind) folded before Flop
+Seat 9: PleBeY95 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228687649084:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:56:51 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 3: l_The_Nuts_l ($63.38 in chips) 
+Seat 4: Xpredate ($27.41 in chips) 
+Seat 5: holdemamn ($51.36 in chips) 
+Seat 6: Mmago24 ($51.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($54.28 in chips) 
+Seat 9: PleBeY95 ($50 in chips) 
+PleBeY95: posts small blind $0.25
+badmadrabbit: posts big blind $0.50
+Razum_BY: sits out 
+*** HOLE CARDS ***
+l_The_Nuts_l: folds 
+Xpredate: calls $0.50
+holdemamn: folds 
+l_The_Nuts_l leaves the table
+Mmago24: folds 
+Nestle170: raises $1.50 to $2
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Xpredate: calls $1.50
+*** FLOP *** [4h 7s 2s]
+Xpredate: checks 
+dikanmax joins the table at seat #3 
+Nestle170: bets $1.50
+Xpredate: calls $1.50
+*** TURN *** [4h 7s 2s] [Tc]
+Xpredate: checks 
+Nestle170: checks 
+*** RIVER *** [4h 7s 2s Tc] [9d]
+Xpredate: bets $23.91 and is all-in
+Nestle170: folds 
+Uncalled bet ($23.91) returned to Xpredate
+Xpredate collected $7.36 from pot
+Xpredate: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.75 | Rake $0.39 
+Board [4h 7s 2s Tc 9d]
+Seat 1: badmadrabbit (big blind) folded before Flop
+Seat 3: l_The_Nuts_l folded before Flop (didn't bet)
+Seat 4: Xpredate collected ($7.36)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded on the River
+Seat 8: grafFIN7 (button) folded before Flop (didn't bet)
+Seat 9: PleBeY95 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228687670072:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:57:55 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($50 in chips) 
+Seat 4: Xpredate ($31.27 in chips) 
+Seat 5: holdemamn ($51.36 in chips) 
+Seat 6: Mmago24 ($51.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($54.28 in chips) 
+Seat 9: PleBeY95 ($50 in chips) 
+badmadrabbit: posts small blind $0.25
+Razum_BY: posts big blind $0.50
+dikanmax: sits out 
+*** HOLE CARDS ***
+Xpredate: calls $0.50
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: raises $1.50 to $2
+badmadrabbit: folds 
+Razum_BY: folds 
+Xpredate: calls $1.50
+*** FLOP *** [Ks 9h 3d]
+Xpredate: checks 
+PleBeY95: bets $1.49
+Xpredate: calls $1.49
+*** TURN *** [Ks 9h 3d] [Tc]
+Xpredate: checks 
+PleBeY95: bets $5.50
+Xpredate: calls $5.50
+*** RIVER *** [Ks 9h 3d Tc] [6c]
+Xpredate: checks 
+PleBeY95: bets $13.34
+Xpredate: calls $13.34
+*** SHOW DOWN ***
+PleBeY95: shows [Ac Kc] (a pair of Kings)
+Xpredate: mucks hand 
+PleBeY95 collected $43.41 from pot
+*** SUMMARY ***
+Total pot $45.41 | Rake $2 
+Board [Ks 9h 3d Tc 6c]
+Seat 1: badmadrabbit (small blind) folded before Flop
+Seat 2: Razum_BY (big blind) folded before Flop
+Seat 4: Xpredate mucked
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 (button) showed [Ac Kc] and won ($43.41) with a pair of Kings
+
+
+
+PokerStars Hand #228687687831:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:58:48 ET
+Table 'Amicitia III' 9-max Seat #1 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: dikanmax ($50 in chips) 
+Seat 4: Xpredate ($8.94 in chips) 
+Seat 5: holdemamn ($51.36 in chips) 
+Seat 6: Mmago24 ($51.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($54.28 in chips) 
+Seat 9: PleBeY95 ($71.08 in chips) 
+Razum_BY: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: raises $1 to $1.50
+badmadrabbit: folds 
+Razum_BY: folds 
+dikanmax: folds 
+Uncalled bet ($1) returned to PleBeY95
+PleBeY95 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: badmadrabbit (button) folded before Flop (didn't bet)
+Seat 2: Razum_BY (small blind) folded before Flop
+Seat 3: dikanmax (big blind) folded before Flop
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 collected ($1.25)
+
+
+
+PokerStars Hand #228687693309:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:59:04 ET
+Table 'Amicitia III' 9-max Seat #2 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: dikanmax ($50 in chips) 
+Seat 4: Xpredate ($8.94 in chips) 
+Seat 5: holdemamn ($51.36 in chips) 
+Seat 6: Mmago24 ($51.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($54.28 in chips) 
+Seat 9: PleBeY95 ($71.83 in chips) 
+dikanmax: posts small blind $0.25
+Xpredate: posts big blind $0.50
+*** HOLE CARDS ***
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: raises $1 to $1.50
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+dikanmax: folds 
+Xpredate: raises $1 to $2.50
+Nestle170: calls $1
+*** FLOP *** [3h 2c 4s]
+Xpredate: checks 
+Nestle170: checks 
+*** TURN *** [3h 2c 4s] [9h]
+Xpredate: checks 
+Nestle170: checks 
+*** RIVER *** [3h 2c 4s 9h] [Js]
+Xpredate: bets $6.44 and is all-in
+Nestle170: calls $6.44
+*** SHOW DOWN ***
+Xpredate: shows [Kh Kd] (a pair of Kings)
+Nestle170: shows [Jd Ah] (a pair of Jacks)
+Xpredate collected $17.22 from pot
+*** SUMMARY ***
+Total pot $18.13 | Rake $0.91 
+Board [3h 2c 4s 9h Js]
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY (button) folded before Flop (didn't bet)
+Seat 3: dikanmax (small blind) folded before Flop
+Seat 4: Xpredate (big blind) showed [Kh Kd] and won ($17.22) with a pair of Kings
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 showed [Jd Ah] and lost with a pair of Jacks
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687715381:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:00:10 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: dikanmax ($50 in chips) 
+Seat 4: Xpredate ($17.22 in chips) 
+Seat 5: holdemamn ($51.36 in chips) 
+Seat 6: Mmago24 ($51.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($54.28 in chips) 
+Seat 9: PleBeY95 ($71.83 in chips) 
+Xpredate: posts small blind $0.25
+holdemamn: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: raises $0.75 to $1.25
+dikanmax: folds 
+Xpredate: calls $1
+holdemamn: raises $5.75 to $7
+Razum_BY: folds 
+Xpredate: calls $5.75
+*** FLOP *** [6d 8d 7h]
+Xpredate: checks 
+holdemamn: bets $10.50
+Xpredate: calls $10.22 and is all-in
+Uncalled bet ($0.28) returned to holdemamn
+*** TURN *** [6d 8d 7h] [6h]
+*** RIVER *** [6d 8d 7h 6h] [Kd]
+*** SHOW DOWN ***
+Xpredate: shows [Kh Qd] (two pair, Kings and Sixes)
+holdemamn: shows [Qc As] (a pair of Sixes)
+Xpredate collected $33.91 from pot
+holdemamn cashed out the hand for $27.48 | Cash Out Fee $0.28
+*** SUMMARY ***
+Total pot $35.69 | Rake $1.78 
+Board [6d 8d 7h 6h Kd]
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY folded before Flop
+Seat 3: dikanmax (button) folded before Flop (didn't bet)
+Seat 4: Xpredate (small blind) showed [Kh Qd] and won ($33.91) with two pair, Kings and Sixes
+Seat 5: holdemamn (big blind) showed [Qc As] and lost with a pair of Sixes (cashed out).
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687733116:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:00:57 ET
+Table 'Amicitia III' 9-max Seat #4 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: dikanmax ($50 in chips) 
+Seat 4: Xpredate ($33.91 in chips) 
+Seat 5: holdemamn ($61.62 in chips) 
+Seat 6: Mmago24 ($51.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($54.28 in chips) 
+Seat 9: PleBeY95 ($71.83 in chips) 
+holdemamn: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+dikanmax: raises $1 to $1.50
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: folds 
+Uncalled bet ($1) returned to dikanmax
+dikanmax collected $1.25 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: dikanmax collected ($1.25)
+Seat 4: Xpredate (button) folded before Flop (didn't bet)
+Seat 5: holdemamn (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) folded before Flop
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687741703:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:01:18 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($50 in chips) 
+Seat 4: Xpredate ($33.91 in chips) 
+Seat 5: holdemamn ($61.37 in chips) 
+Seat 6: Mmago24 ($51.33 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($54.28 in chips) 
+Seat 9: PleBeY95 ($71.83 in chips) 
+Mmago24: posts small blind $0.25
+Nestle170: posts big blind $0.50
+*** HOLE CARDS ***
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: raises $1 to $1.50
+Nestle170: folds 
+Uncalled bet ($1) returned to Mmago24
+Mmago24 collected $1 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) collected ($1)
+Seat 7: Nestle170 (big blind) folded before Flop
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687760101:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:02:00 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($50 in chips) 
+Seat 4: Xpredate ($33.91 in chips) 
+Seat 5: holdemamn ($61.37 in chips) 
+Seat 6: Mmago24 ($51.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($54.28 in chips) 
+Seat 9: PleBeY95 ($71.83 in chips) 
+Nestle170: posts small blind $0.25
+grafFIN7: posts big blind $0.50
+*** HOLE CARDS ***
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+Xpredate: calls $0.50
+holdemamn: raises $1.50 to $2
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: folds 
+An1an1 joins the table at seat #3 
+Xpredate: calls $1.50
+*** FLOP *** [Jd 9c 4h]
+Xpredate: checks 
+holdemamn: bets $1.50
+Xpredate: calls $1.50
+*** TURN *** [Jd 9c 4h] [4s]
+Xpredate: checks 
+holdemamn: checks 
+*** RIVER *** [Jd 9c 4h 4s] [Ts]
+Xpredate: checks 
+holdemamn: bets $3.68
+Xpredate: calls $3.68
+*** SHOW DOWN ***
+holdemamn: shows [Tc As] (two pair, Tens and Fours)
+Xpredate: mucks hand 
+holdemamn collected $14.35 from pot
+*** SUMMARY ***
+Total pot $15.11 | Rake $0.76 
+Board [Jd 9c 4h 4s Ts]
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 4: Xpredate mucked
+Seat 5: holdemamn showed [Tc As] and won ($14.35) with two pair, Tens and Fours
+Seat 6: Mmago24 (button) folded before Flop (didn't bet)
+Seat 7: Nestle170 (small blind) folded before Flop
+Seat 8: grafFIN7 (big blind) folded before Flop
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687778292:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:02:40 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($50 in chips) 
+Seat 4: Xpredate ($26.73 in chips) 
+Seat 5: holdemamn ($68.54 in chips) 
+Seat 6: Mmago24 ($51.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($53.78 in chips) 
+Seat 9: PleBeY95 ($71.83 in chips) 
+grafFIN7: posts small blind $0.25
+PleBeY95: posts big blind $0.50
+An1an1: sits out 
+*** HOLE CARDS ***
+badmadrabbit: folds 
+Razum_BY: folds 
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: raises $1 to $1.50
+PleBeY95: folds 
+Uncalled bet ($1) returned to grafFIN7
+grafFIN7 collected $1 from pot
+grafFIN7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 (button) folded before Flop (didn't bet)
+Seat 8: grafFIN7 (small blind) collected ($1)
+Seat 9: PleBeY95 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228687784447:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:02:54 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($50 in chips) 
+Seat 4: Xpredate ($26.73 in chips) 
+Seat 5: holdemamn ($68.54 in chips) 
+Seat 6: Mmago24 ($51.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($54.28 in chips) 
+Seat 9: PleBeY95 ($71.33 in chips) 
+PleBeY95: posts small blind $0.25
+badmadrabbit: posts big blind $0.50
+An1an1: sits out 
+*** HOLE CARDS ***
+Razum_BY: raises $0.75 to $1.25
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: raises $3.25 to $4.50
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+Uncalled bet ($3.25) returned to Mmago24
+Mmago24 collected $3.25 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 1: badmadrabbit (big blind) folded before Flop
+Seat 2: Razum_BY folded before Flop
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 collected ($3.25)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 (button) folded before Flop (didn't bet)
+Seat 9: PleBeY95 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228687798130:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:03:24 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($50 in chips) 
+Seat 4: Xpredate ($26.73 in chips) 
+Seat 5: holdemamn ($68.54 in chips) 
+Seat 6: Mmago24 ($53.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($54.28 in chips) 
+Seat 9: PleBeY95 ($71.08 in chips) 
+badmadrabbit: posts small blind $0.25
+Razum_BY: posts big blind $0.50
+An1an1: sits out 
+*** HOLE CARDS ***
+Xpredate: calls $0.50
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: raises $1.50 to $2
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+Xpredate: calls $1.50
+*** FLOP *** [5s 5h 8s]
+Xpredate: checks 
+grafFIN7: bets $2.50
+Xpredate: calls $2.50
+*** TURN *** [5s 5h 8s] [2c]
+Xpredate: checks 
+grafFIN7: checks 
+*** RIVER *** [5s 5h 8s 2c] [6d]
+Xpredate: checks 
+grafFIN7: checks 
+*** SHOW DOWN ***
+Xpredate: shows [Qc 9s] (a pair of Fives)
+grafFIN7: shows [Qh Kd] (a pair of Fives - King kicker)
+grafFIN7 collected $9.26 from pot
+*** SUMMARY ***
+Total pot $9.75 | Rake $0.49 
+Board [5s 5h 8s 2c 6d]
+Seat 1: badmadrabbit (small blind) folded before Flop
+Seat 2: Razum_BY (big blind) folded before Flop
+Seat 4: Xpredate showed [Qc 9s] and lost with a pair of Fives
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 showed [Qh Kd] and won ($9.26) with a pair of Fives
+Seat 9: PleBeY95 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687820572:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:04:13 ET
+Table 'Amicitia III' 9-max Seat #1 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($22.23 in chips) 
+Seat 5: holdemamn ($68.54 in chips) 
+Seat 6: Mmago24 ($53.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($59.04 in chips) 
+Seat 9: PleBeY95 ($71.08 in chips) 
+Razum_BY: posts small blind $0.25
+An1an1: posts big blind $0.50
+*** HOLE CARDS ***
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: raises $0.63 to $1.13
+Razum_BY: raises $3.33 to $4.46
+An1an1: folds 
+badmadrabbit: folds 
+Uncalled bet ($3.33) returned to Razum_BY
+Razum_BY collected $2.76 from pot
+Razum_BY: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.76 | Rake $0 
+Seat 1: badmadrabbit (button) folded before Flop
+Seat 2: Razum_BY (small blind) collected ($2.76)
+Seat 3: An1an1 (big blind) folded before Flop
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687830573:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:04:35 ET
+Table 'Amicitia III' 9-max Seat #2 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($51.63 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($22.23 in chips) 
+Seat 5: holdemamn ($68.54 in chips) 
+Seat 6: Mmago24 ($53.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($59.04 in chips) 
+Seat 9: PleBeY95 ($71.08 in chips) 
+An1an1: posts small blind $0.25
+Xpredate: posts big blind $0.50
+*** HOLE CARDS ***
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+An1an1: folds 
+Uncalled bet ($0.25) returned to Xpredate
+Xpredate collected $0.50 from pot
+Xpredate: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY (button) folded before Flop (didn't bet)
+Seat 3: An1an1 (small blind) folded before Flop
+Seat 4: Xpredate (big blind) collected ($0.50)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687839103:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:04:53 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($51.63 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($22.48 in chips) 
+Seat 5: holdemamn ($68.54 in chips) 
+Seat 6: Mmago24 ($53.83 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($59.04 in chips) 
+Seat 9: PleBeY95 ($71.08 in chips) 
+Xpredate: posts small blind $0.25
+holdemamn: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: raises $0.72 to $1.22
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+An1an1: folds 
+Xpredate: calls $0.97
+holdemamn: folds 
+*** FLOP *** [8h Td 5d]
+Xpredate: checks 
+Mmago24: checks 
+*** TURN *** [8h Td 5d] [Qc]
+Xpredate: checks 
+Mmago24: bets $1.86
+Xpredate: folds 
+Uncalled bet ($1.86) returned to Mmago24
+Mmago24 collected $2.79 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.94 | Rake $0.15 
+Board [8h Td 5d Qc]
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: An1an1 (button) folded before Flop (didn't bet)
+Seat 4: Xpredate (small blind) folded on the Turn
+Seat 5: holdemamn (big blind) folded before Flop
+Seat 6: Mmago24 collected ($2.79)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687854422:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:05:26 ET
+Table 'Amicitia III' 9-max Seat #4 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($51.63 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($21.26 in chips) 
+Seat 5: holdemamn ($68.04 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($59.04 in chips) 
+Seat 9: PleBeY95 ($71.08 in chips) 
+holdemamn: posts small blind $0.25
+Mmago24: is sitting out 
+Nestle170: posts big blind $0.50
+*** HOLE CARDS ***
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+An1an1: folds 
+Xpredate: folds 
+holdemamn: folds 
+Uncalled bet ($0.25) returned to Nestle170
+Nestle170 collected $0.50 from pot
+Nestle170: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: An1an1 folded before Flop (didn't bet)
+Seat 4: Xpredate (button) folded before Flop (didn't bet)
+Seat 5: holdemamn (small blind) folded before Flop
+Seat 7: Nestle170 (big blind) collected ($0.50)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687859642:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:05:37 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 1: badmadrabbit ($50 in chips) 
+Seat 2: Razum_BY ($51.63 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($21.26 in chips) 
+Seat 5: holdemamn ($67.79 in chips) 
+Seat 7: Nestle170 ($50.25 in chips) 
+Seat 8: grafFIN7 ($59.04 in chips) 
+Seat 9: PleBeY95 ($71.08 in chips) 
+Nestle170: posts small blind $0.25
+grafFIN7: posts big blind $0.50
+*** HOLE CARDS ***
+PleBeY95: folds 
+badmadrabbit: raises $1.50 to $2
+Razum_BY: folds 
+An1an1: folds 
+Xpredate: calls $2
+holdemamn: folds 
+Nestle170: folds 
+grafFIN7: folds 
+*** FLOP *** [5s 2c 6c]
+badmadrabbit: bets $3.38
+Xpredate: folds 
+Uncalled bet ($3.38) returned to badmadrabbit
+badmadrabbit collected $4.51 from pot
+badmadrabbit: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [5s 2c 6c]
+Seat 1: badmadrabbit collected ($4.51)
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: An1an1 folded before Flop (didn't bet)
+Seat 4: Xpredate folded on the Flop
+Seat 5: holdemamn (button) folded before Flop (didn't bet)
+Seat 7: Nestle170 (small blind) folded before Flop
+Seat 8: grafFIN7 (big blind) folded before Flop
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687869107:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:05:57 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 1: badmadrabbit ($52.51 in chips) 
+Seat 2: Razum_BY ($51.63 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($19.26 in chips) 
+Seat 5: holdemamn ($67.79 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($58.54 in chips) 
+Seat 9: PleBeY95 ($71.08 in chips) 
+grafFIN7: posts small blind $0.25
+PleBeY95: posts big blind $0.50
+*** HOLE CARDS ***
+badmadrabbit: folds 
+Razum_BY: folds 
+An1an1: folds 
+Xpredate: calls $0.50
+holdemamn: raises $1.50 to $2
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: calls $1.50
+Xpredate: calls $1.50
+*** FLOP *** [5c Td Jc]
+PleBeY95: checks 
+Xpredate: checks 
+holdemamn: checks 
+*** TURN *** [5c Td Jc] [6s]
+PleBeY95: checks 
+Xpredate: checks 
+holdemamn: checks 
+*** RIVER *** [5c Td Jc 6s] [Th]
+PleBeY95: checks 
+Xpredate: checks 
+holdemamn: checks 
+*** SHOW DOWN ***
+PleBeY95: shows [7h 7c] (two pair, Tens and Sevens)
+Xpredate: mucks hand 
+holdemamn: mucks hand 
+PleBeY95 collected $5.94 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.31 
+Board [5c Td Jc 6s Th]
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: An1an1 folded before Flop (didn't bet)
+Seat 4: Xpredate mucked
+Seat 5: holdemamn mucked
+Seat 7: Nestle170 (button) folded before Flop (didn't bet)
+Seat 8: grafFIN7 (small blind) folded before Flop
+Seat 9: PleBeY95 (big blind) showed [7h 7c] and won ($5.94) with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #228687888231:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:06:39 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 1: badmadrabbit ($52.51 in chips) 
+Seat 2: Razum_BY ($51.63 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($17.26 in chips) 
+Seat 5: holdemamn ($65.79 in chips) 
+Seat 7: Nestle170 ($50 in chips) 
+Seat 8: grafFIN7 ($58.29 in chips) 
+Seat 9: PleBeY95 ($75.02 in chips) 
+PleBeY95: posts small blind $0.25
+badmadrabbit: posts big blind $0.50
+*** HOLE CARDS ***
+Razum_BY: folds 
+An1an1: folds 
+Xpredate: folds 
+holdemamn: folds 
+Nestle170: raises $0.75 to $1.25
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Uncalled bet ($0.75) returned to Nestle170
+Nestle170 collected $1.25 from pot
+Nestle170: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: badmadrabbit (big blind) folded before Flop
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: An1an1 folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 7: Nestle170 collected ($1.25)
+Seat 8: grafFIN7 (button) folded before Flop (didn't bet)
+Seat 9: PleBeY95 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228687893516:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:06:50 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 1: badmadrabbit ($52.01 in chips) 
+Seat 2: Razum_BY ($51.63 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($17.26 in chips) 
+Seat 5: holdemamn ($65.79 in chips) 
+Seat 7: Nestle170 ($50.75 in chips) 
+Seat 8: grafFIN7 ($58.29 in chips) 
+Seat 9: PleBeY95 ($74.77 in chips) 
+badmadrabbit: posts small blind $0.25
+Razum_BY: posts big blind $0.50
+*** HOLE CARDS ***
+An1an1: folds 
+Xpredate: calls $0.50
+holdemamn: folds 
+Nestle170: folds 
+grafFIN7 has timed out
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: calls $0.25
+Razum_BY: checks 
+*** FLOP *** [Td As Tc]
+badmadrabbit: checks 
+Razum_BY: checks 
+Xpredate: checks 
+*** TURN *** [Td As Tc] [4h]
+badmadrabbit: checks 
+Razum_BY: checks 
+Xpredate: checks 
+*** RIVER *** [Td As Tc 4h] [Kd]
+badmadrabbit: checks 
+Razum_BY: checks 
+Xpredate: bets $16.76 and is all-in
+badmadrabbit: folds 
+Razum_BY: folds 
+Uncalled bet ($16.76) returned to Xpredate
+Xpredate collected $1.42 from pot
+Xpredate: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.08 
+Board [Td As Tc 4h Kd]
+Seat 1: badmadrabbit (small blind) folded on the River
+Seat 2: Razum_BY (big blind) folded on the River
+Seat 3: An1an1 folded before Flop (didn't bet)
+Seat 4: Xpredate collected ($1.42)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687925760:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:07:42 ET
+Table 'Amicitia III' 9-max Seat #1 is the button
+Seat 1: badmadrabbit ($51.51 in chips) 
+Seat 2: Razum_BY ($51.13 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($18.18 in chips) 
+Seat 5: holdemamn ($65.79 in chips) 
+Seat 7: Nestle170 ($50.75 in chips) 
+Seat 8: grafFIN7 ($58.29 in chips) 
+Seat 9: PleBeY95 ($74.77 in chips) 
+Razum_BY: posts small blind $0.25
+An1an1: posts big blind $0.50
+*** HOLE CARDS ***
+Xpredate: folds 
+holdemamn: folds 
+Nestle170: raises $1 to $1.50
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+An1an1: folds 
+Uncalled bet ($1) returned to Nestle170
+Nestle170 collected $1.25 from pot
+Nestle170: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: badmadrabbit (button) folded before Flop (didn't bet)
+Seat 2: Razum_BY (small blind) folded before Flop
+Seat 3: An1an1 (big blind) folded before Flop
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 7: Nestle170 collected ($1.25)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687933070:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:07:57 ET
+Table 'Amicitia III' 9-max Seat #2 is the button
+Seat 1: badmadrabbit ($51.51 in chips) 
+Seat 2: Razum_BY ($50.88 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($18.18 in chips) 
+Seat 5: holdemamn ($65.79 in chips) 
+Seat 7: Nestle170 ($51.50 in chips) 
+Seat 8: grafFIN7 ($58.29 in chips) 
+Seat 9: PleBeY95 ($74.77 in chips) 
+An1an1: posts small blind $0.25
+Xpredate: posts big blind $0.50
+*** HOLE CARDS ***
+holdemamn: folds 
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+An1an1: raises $1 to $1.50
+Xpredate: calls $1
+*** FLOP *** [Ac 6s Qd]
+An1an1: checks 
+Xpredate: checks 
+*** TURN *** [Ac 6s Qd] [5h]
+An1an1: checks 
+Xpredate: checks 
+*** RIVER *** [Ac 6s Qd 5h] [7d]
+An1an1: bets $1.91
+Xpredate: raises $1.91 to $3.82
+An1an1: folds 
+Uncalled bet ($1.91) returned to Xpredate
+Xpredate collected $6.48 from pot
+Xpredate: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.82 | Rake $0.34 
+Board [Ac 6s Qd 5h 7d]
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY (button) folded before Flop (didn't bet)
+Seat 3: An1an1 (small blind) folded on the River
+Seat 4: Xpredate (big blind) collected ($6.48)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687958706:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:08:52 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 1: badmadrabbit ($51.51 in chips) 
+Seat 2: Razum_BY ($50.88 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($21.25 in chips) 
+Seat 5: holdemamn ($65.79 in chips) 
+Seat 7: Nestle170 ($51.50 in chips) 
+Seat 8: grafFIN7 ($58.29 in chips) 
+Seat 9: PleBeY95 ($74.77 in chips) 
+Xpredate: posts small blind $0.25
+holdemamn: posts big blind $0.50
+*** HOLE CARDS ***
+Nestle170: raises $1 to $1.50
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+An1an1: folds 
+Xpredate: calls $1.25
+holdemamn: folds 
+*** FLOP *** [7c Qh 8s]
+Xpredate: checks 
+Nestle170: bets $1.83
+Xpredate: calls $1.83
+*** TURN *** [7c Qh 8s] [Th]
+Xpredate: checks 
+Nestle170: bets $5.10
+Xpredate: calls $5.10
+*** RIVER *** [7c Qh 8s Th] [6d]
+Xpredate: bets $5
+Nestle170: calls $5
+*** SHOW DOWN ***
+Xpredate: shows [Ah 8h] (a pair of Eights)
+Nestle170: shows [Td Qd] (two pair, Queens and Tens)
+Nestle170 collected $25.99 from pot
+*** SUMMARY ***
+Total pot $27.36 | Rake $1.37 
+Board [7c Qh 8s Th 6d]
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: An1an1 (button) folded before Flop (didn't bet)
+Seat 4: Xpredate (small blind) showed [Ah 8h] and lost with a pair of Eights
+Seat 5: holdemamn (big blind) folded before Flop
+Seat 7: Nestle170 showed [Td Qd] and won ($25.99) with two pair, Queens and Tens
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687989939:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:09:59 ET
+Table 'Amicitia III' 9-max Seat #4 is the button
+Seat 1: badmadrabbit ($51.51 in chips) 
+Seat 2: Razum_BY ($50.88 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($7.82 in chips) 
+Seat 5: holdemamn ($65.29 in chips) 
+Seat 6: Mmago24 ($55.40 in chips) 
+Seat 7: Nestle170 ($64.06 in chips) 
+Seat 8: grafFIN7 ($58.29 in chips) 
+Seat 9: PleBeY95 ($74.77 in chips) 
+holdemamn: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+An1an1: folds 
+Xpredate: folds 
+holdemamn: folds 
+Uncalled bet ($0.25) returned to Mmago24
+Mmago24 collected $0.50 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: An1an1 folded before Flop (didn't bet)
+Seat 4: Xpredate (button) folded before Flop (didn't bet)
+Seat 5: holdemamn (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) collected ($0.50)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687997379:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:10:15 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 1: badmadrabbit ($51.51 in chips) 
+Seat 2: Razum_BY ($50.88 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($7.82 in chips) 
+Seat 5: holdemamn ($65.04 in chips) 
+Seat 6: Mmago24 ($55.65 in chips) 
+Seat 7: Nestle170 ($64.06 in chips) 
+Seat 8: grafFIN7 ($58.29 in chips) 
+Seat 9: PleBeY95 ($74.77 in chips) 
+Mmago24: posts small blind $0.25
+Nestle170: posts big blind $0.50
+*** HOLE CARDS ***
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: raises $0.75 to $1.25
+An1an1: folds 
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: folds 
+Uncalled bet ($0.75) returned to Razum_BY
+Razum_BY collected $1.25 from pot
+Razum_BY: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY collected ($1.25)
+Seat 3: An1an1 folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 7: Nestle170 (big blind) folded before Flop
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688006731:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:10:36 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 1: badmadrabbit ($51.51 in chips) 
+Seat 2: Razum_BY ($51.63 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($7.82 in chips) 
+Seat 5: holdemamn ($65.04 in chips) 
+Seat 6: Mmago24 ($55.40 in chips) 
+Seat 7: Nestle170 ($63.56 in chips) 
+Seat 8: grafFIN7 ($58.29 in chips) 
+Seat 9: PleBeY95 ($74.77 in chips) 
+Nestle170: posts small blind $0.25
+grafFIN7: posts big blind $0.50
+*** HOLE CARDS ***
+PleBeY95: folds 
+badmadrabbit: folds 
+Razum_BY: folds 
+An1an1: folds 
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: folds 
+Uncalled bet ($0.25) returned to grafFIN7
+grafFIN7 collected $0.50 from pot
+grafFIN7: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: badmadrabbit folded before Flop (didn't bet)
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: An1an1 folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 (button) folded before Flop (didn't bet)
+Seat 7: Nestle170 (small blind) folded before Flop
+Seat 8: grafFIN7 (big blind) collected ($0.50)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688017539:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:10:56 ET
+Table 'Amicitia III' 9-max Seat #7 is the button
+Seat 1: badmadrabbit ($51.51 in chips) 
+Seat 2: Razum_BY ($51.63 in chips) 
+Seat 3: An1an1 ($50 in chips) 
+Seat 4: Xpredate ($7.82 in chips) 
+Seat 5: holdemamn ($65.04 in chips) 
+Seat 6: Mmago24 ($55.40 in chips) 
+Seat 7: Nestle170 ($63.31 in chips) 
+Seat 8: grafFIN7 ($58.54 in chips) 
+Seat 9: PleBeY95 ($74.77 in chips) 
+grafFIN7: posts small blind $0.25
+PleBeY95: posts big blind $0.50
+*** HOLE CARDS ***
+badmadrabbit: raises $1.50 to $2
+Razum_BY: folds 
+An1an1: raises $4 to $6
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: folds 
+badmadrabbit: folds 
+Uncalled bet ($4) returned to An1an1
+An1an1 collected $4.75 from pot
+An1an1: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0 
+Seat 1: badmadrabbit folded before Flop
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: An1an1 collected ($4.75)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 (button) folded before Flop (didn't bet)
+Seat 8: grafFIN7 (small blind) folded before Flop
+Seat 9: PleBeY95 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228688025148:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:11:13 ET
+Table 'Amicitia III' 9-max Seat #8 is the button
+Seat 2: Razum_BY ($51.63 in chips) 
+Seat 3: An1an1 ($52.75 in chips) 
+Seat 4: Xpredate ($7.82 in chips) 
+Seat 5: holdemamn ($65.04 in chips) 
+Seat 6: Mmago24 ($55.40 in chips) 
+Seat 7: Nestle170 ($63.31 in chips) 
+Seat 8: grafFIN7 ($58.29 in chips) 
+Seat 9: PleBeY95 ($74.27 in chips) 
+PleBeY95: posts small blind $0.25
+badmadrabbit: is sitting out 
+Razum_BY: posts big blind $0.50
+*** HOLE CARDS ***
+An1an1: folds 
+Xpredate: folds 
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: raises $0.94 to $1.44
+PleBeY95: folds 
+Razum_BY: folds 
+Uncalled bet ($0.94) returned to grafFIN7
+grafFIN7 collected $1.25 from pot
+grafFIN7: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Razum_BY (big blind) folded before Flop
+Seat 3: An1an1 folded before Flop (didn't bet)
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 (button) collected ($1.25)
+Seat 9: PleBeY95 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688037137:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:11:39 ET
+Table 'Amicitia III' 9-max Seat #9 is the button
+Seat 2: Razum_BY ($51.13 in chips) 
+Seat 3: An1an1 ($52.75 in chips) 
+Seat 4: Xpredate ($7.82 in chips) 
+Seat 5: holdemamn ($65.04 in chips) 
+Seat 6: Mmago24 ($55.40 in chips) 
+Seat 7: Nestle170 ($63.31 in chips) 
+Seat 8: grafFIN7 ($59.04 in chips) 
+Seat 9: PleBeY95 ($74.02 in chips) 
+Razum_BY: posts small blind $0.25
+An1an1: posts big blind $0.50
+*** HOLE CARDS ***
+Xpredate has timed out
+Xpredate: folds 
+holdemamn: raises $1 to $1.50
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: folds 
+Razum_BY: folds 
+An1an1: folds 
+Uncalled bet ($1) returned to holdemamn
+holdemamn collected $1.25 from pot
+holdemamn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Razum_BY (small blind) folded before Flop
+Seat 3: An1an1 (big blind) folded before Flop
+Seat 4: Xpredate folded before Flop (didn't bet)
+Seat 5: holdemamn collected ($1.25)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688048522:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:12:03 ET
+Table 'Amicitia III' 9-max Seat #2 is the button
+Seat 2: Razum_BY ($50.88 in chips) 
+Seat 3: An1an1 ($52.25 in chips) 
+Seat 4: Xpredate ($7.82 in chips) 
+Seat 5: holdemamn ($65.79 in chips) 
+Seat 6: Mmago24 ($55.40 in chips) 
+Seat 7: Nestle170 ($63.31 in chips) 
+Seat 8: grafFIN7 ($59.04 in chips) 
+Seat 9: PleBeY95 ($74.02 in chips) 
+An1an1: posts small blind $0.25
+Xpredate: posts big blind $0.50
+*** HOLE CARDS ***
+holdemamn: folds 
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: folds 
+Razum_BY: raises $0.65 to $1.15
+An1an1: folds 
+Xpredate: calls $0.65
+*** FLOP *** [9d 7d 8s]
+Xpredate: checks 
+Razum_BY: checks 
+*** TURN *** [9d 7d 8s] [Ah]
+Xpredate: bets $3
+Razum_BY: folds 
+Uncalled bet ($3) returned to Xpredate
+Xpredate collected $2.42 from pot
+Xpredate: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.13 
+Board [9d 7d 8s Ah]
+Seat 2: Razum_BY (button) folded on the Turn
+Seat 3: An1an1 (small blind) folded before Flop
+Seat 4: Xpredate (big blind) collected ($2.42)
+Seat 5: holdemamn folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688063053:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:12:35 ET
+Table 'Amicitia III' 9-max Seat #3 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: An1an1 ($52 in chips) 
+Seat 4: Xpredate ($9.09 in chips) 
+Seat 5: holdemamn ($65.79 in chips) 
+Seat 6: Mmago24 ($55.40 in chips) 
+Seat 7: Nestle170 ($63.31 in chips) 
+Seat 8: grafFIN7 ($59.04 in chips) 
+Seat 9: PleBeY95 ($74.02 in chips) 
+Xpredate: posts small blind $0.25
+holdemamn: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+Nestle170: folds 
+grafFIN7: folds 
+PleBeY95: folds 
+Razum_BY: folds 
+An1an1: folds 
+Xpredate: calls $0.25
+holdemamn: checks 
+*** FLOP *** [Kc 7s 8s]
+Xpredate: checks 
+holdemamn: bets $1
+Xpredate: calls $1
+*** TURN *** [Kc 7s 8s] [Td]
+Xpredate: checks 
+holdemamn: bets $2.50
+Xpredate: calls $2.50
+*** RIVER *** [Kc 7s 8s Td] [Jd]
+Xpredate: bets $5.09 and is all-in
+holdemamn: calls $5.09
+*** SHOW DOWN ***
+Xpredate: shows [Kh 8h] (two pair, Kings and Eights)
+holdemamn: shows [6d 9c] (a straight, Seven to Jack)
+holdemamn collected $17.27 from pot
+*** SUMMARY ***
+Total pot $18.18 | Rake $0.91 
+Board [Kc 7s 8s Td Jd]
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: An1an1 (button) folded before Flop (didn't bet)
+Seat 4: Xpredate (small blind) showed [Kh 8h] and lost with two pair, Kings and Eights
+Seat 5: holdemamn (big blind) showed [6d 9c] and won ($17.27) with a straight, Seven to Jack
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: Nestle170 folded before Flop (didn't bet)
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688086399:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:13:25 ET
+Table 'Amicitia III' 9-max Seat #5 is the button
+Seat 2: Razum_BY ($50 in chips) 
+Seat 3: An1an1 ($52 in chips) 
+Seat 5: holdemamn ($73.97 in chips) 
+Seat 6: Mmago24 ($55.40 in chips) 
+Seat 7: Nestle170 ($63.31 in chips) 
+Seat 8: grafFIN7 ($59.04 in chips) 
+Seat 9: PleBeY95 ($74.02 in chips) 
+Mmago24: posts small blind $0.25
+Nestle170: posts big blind $0.50
+*** HOLE CARDS ***
+grafFIN7: folds 
+PleBeY95: folds 
+Razum_BY: folds 
+badmadrabbit leaves the table
+An1an1: raises $0.75 to $1.25
+Xpredate leaves the table
+holdemamn: folds 
+Mmago24: raises $3.75 to $5
+Nestle170: folds 
+An1an1: folds 
+Uncalled bet ($3.75) returned to Mmago24
+PleBeY95 leaves the table
+Mmago24 collected $3 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 2: Razum_BY folded before Flop (didn't bet)
+Seat 3: An1an1 folded before Flop
+Seat 5: holdemamn (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) collected ($3)
+Seat 7: Nestle170 (big blind) folded before Flop
+Seat 8: grafFIN7 folded before Flop (didn't bet)
+Seat 9: PleBeY95 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688100510:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:13:55 ET
+Table 'Amicitia III' 9-max Seat #6 is the button
+Seat 5: holdemamn ($73.97 in chips) 
+Seat 6: Mmago24 ($57.15 in chips) 
+Seat 7: Nestle170 ($62.81 in chips) 
+Nestle170: posts small blind $0.25
+grafFIN7: is sitting out 
+Razum_BY: is sitting out 
+An1an1: is sitting out 
+holdemamn: posts big blind $0.50
+*** HOLE CARDS ***
+grafFIN7 leaves the table
+Mmago24: folds 
+Mmago24 leaves the table
+Nestle170: raises $1 to $1.50
+holdemamn: folds 
+Uncalled bet ($1) returned to Nestle170
+Nestle170 collected $1 from pot
+Nestle170: doesn't show hand 
+Razum_BY leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 5: holdemamn (big blind) folded before Flop
+Seat 6: Mmago24 (button) folded before Flop (didn't bet)
+Seat 7: Nestle170 (small blind) collected ($1)
+
+
+

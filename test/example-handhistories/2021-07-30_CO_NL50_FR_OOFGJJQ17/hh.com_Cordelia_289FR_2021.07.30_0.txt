@@ -1,0 +1,3885 @@
+﻿PokerStars Hand #228680357194:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:47:43 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 1: soncause ($52.36 in chips) 
+Seat 2: I3aD Stockley ($85.21 in chips) 
+Seat 3: Malotru67 ($50 in chips) 
+Seat 4: cartman177 ($54.95 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($50 in chips) 
+xZaKoNaLx: posts small blind $0.25
+soncause: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+I3aD Stockley: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: raises $0.60 to $1.10
+xZaKoNaLx: folds 
+soncause: calls $0.60
+*** FLOP *** [Js 9c 8d]
+soncause: checks 
+nombraalne1: checks 
+*** TURN *** [Js 9c 8d] [7h]
+soncause: checks 
+nombraalne1: bets $1
+soncause: calls $1
+*** RIVER *** [Js 9c 8d 7h] [Qc]
+soncause: bets $0.50
+nombraalne1: calls $0.50
+*** SHOW DOWN ***
+soncause: shows [9d Qs] (two pair, Queens and Nines)
+nombraalne1: shows [8h Tc] (a straight, Eight to Queen)
+nombraalne1 collected $5.75 from pot
+*** SUMMARY ***
+Total pot $6.05 | Rake $0.30 
+Board [Js 9c 8d 7h Qc]
+Seat 1: soncause (big blind) showed [9d Qs] and lost with two pair, Queens and Nines
+Seat 2: I3aD Stockley folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) showed [8h Tc] and won ($5.75) with a straight, Eight to Queen
+Seat 6: xZaKoNaLx (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680370591:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:48:26 ET
+Table 'Cordelia III' 9-max Seat #6 is the button
+Seat 1: soncause ($50 in chips) 
+Seat 2: I3aD Stockley ($85.11 in chips) 
+Seat 3: Malotru67 ($50 in chips) 
+Seat 4: cartman177 ($54.85 in chips) 
+Seat 5: nombraalne1 ($53.05 in chips) 
+Seat 6: xZaKoNaLx ($50 in chips) 
+soncause: posts small blind $0.25
+I3aD Stockley: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: raises $0.62 to $1.12
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+soncause: calls $0.87
+I3aD Stockley: calls $0.62
+*** FLOP *** [2d 6c Ah]
+soncause: checks 
+I3aD Stockley: checks 
+Malotru67: checks 
+*** TURN *** [2d 6c Ah] [8s]
+soncause: checks 
+I3aD Stockley: checks 
+Malotru67: checks 
+*** RIVER *** [2d 6c Ah 8s] [7c]
+soncause: checks 
+I3aD Stockley: checks 
+Malotru67: checks 
+*** SHOW DOWN ***
+soncause: shows [5s Js] (high card Ace)
+I3aD Stockley: shows [9h Kh] (high card Ace - King kicker)
+Malotru67: shows [5h 6h] (a pair of Sixes)
+Malotru67 collected $3.76 from pot
+*** SUMMARY ***
+Total pot $3.96 | Rake $0.20 
+Board [2d 6c Ah 8s 7c]
+Seat 1: soncause (small blind) showed [5s Js] and lost with high card Ace
+Seat 2: I3aD Stockley (big blind) showed [9h Kh] and lost with high card Ace
+Seat 3: Malotru67 showed [5h 6h] and won ($3.76) with a pair of Sixes
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680381925:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:49:03 ET
+Table 'Cordelia III' 9-max Seat #1 is the button
+Seat 1: soncause ($50 in chips) 
+Seat 2: I3aD Stockley ($83.89 in chips) 
+Seat 3: Malotru67 ($52.54 in chips) 
+Seat 4: cartman177 ($54.75 in chips) 
+Seat 5: nombraalne1 ($52.95 in chips) 
+Seat 6: xZaKoNaLx ($50 in chips) 
+I3aD Stockley: posts small blind $0.25
+Malotru67: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+soncause: raises $0.50 to $1
+I3aD Stockley: calls $0.75
+Malotru67: folds 
+*** FLOP *** [Qd 9d 6s]
+I3aD Stockley: checks 
+soncause: checks 
+*** TURN *** [Qd 9d 6s] [8h]
+I3aD Stockley: checks 
+soncause: bets $1.47
+I3aD Stockley: calls $1.47
+*** RIVER *** [Qd 9d 6s 8h] [2s]
+I3aD Stockley: checks 
+soncause: bets $4.37
+I3aD Stockley: calls $4.37
+*** SHOW DOWN ***
+soncause: shows [9s 9h] (three of a kind, Nines)
+I3aD Stockley: mucks hand 
+soncause collected $14.04 from pot
+*** SUMMARY ***
+Total pot $14.78 | Rake $0.74 
+Board [Qd 9d 6s 8h 2s]
+Seat 1: soncause (button) showed [9s 9h] and won ($14.04) with three of a kind, Nines
+Seat 2: I3aD Stockley (small blind) mucked
+Seat 3: Malotru67 (big blind) folded before Flop
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680393181:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:49:34 ET
+Table 'Cordelia III' 9-max Seat #2 is the button
+Seat 1: soncause ($57.10 in chips) 
+Seat 2: I3aD Stockley ($76.95 in chips) 
+Seat 3: Malotru67 ($51.94 in chips) 
+Seat 4: cartman177 ($54.65 in chips) 
+Seat 5: nombraalne1 ($52.85 in chips) 
+Seat 6: xZaKoNaLx ($50 in chips) 
+Malotru67: posts small blind $0.25
+cartman177: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+nombraalne1: folds 
+xZaKoNaLx: raises $1 to $1.50
+soncause: folds 
+I3aD Stockley: calls $1.50
+Malotru67: folds 
+cartman177: calls $1
+*** FLOP *** [7c 2s Ac]
+cartman177: checks 
+xZaKoNaLx: bets $1.68
+I3aD Stockley: folds 
+cartman177: folds 
+Uncalled bet ($1.68) returned to xZaKoNaLx
+xZaKoNaLx collected $5.08 from pot
+xZaKoNaLx: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.27 
+Board [7c 2s Ac]
+Seat 1: soncause folded before Flop (didn't bet)
+Seat 2: I3aD Stockley (button) folded on the Flop
+Seat 3: Malotru67 (small blind) folded before Flop
+Seat 4: cartman177 (big blind) folded on the Flop
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx collected ($5.08)
+
+
+
+PokerStars Hand #228680400750:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:49:57 ET
+Table 'Cordelia III' 9-max Seat #3 is the button
+Seat 1: soncause ($57 in chips) 
+Seat 2: I3aD Stockley ($75.35 in chips) 
+Seat 3: Malotru67 ($51.59 in chips) 
+Seat 4: cartman177 ($53.05 in chips) 
+Seat 5: nombraalne1 ($52.75 in chips) 
+Seat 6: xZaKoNaLx ($53.48 in chips) 
+cartman177: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+xZaKoNaLx: folds 
+soncause: raises $0.50 to $1
+I3aD Stockley: calls $1
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: calls $0.50
+*** FLOP *** [Ah 6c 5s]
+nombraalne1: checks 
+soncause: bets $1.33
+I3aD Stockley: raises $1.33 to $2.66
+nombraalne1: folds 
+soncause: folds 
+Uncalled bet ($1.33) returned to I3aD Stockley
+I3aD Stockley collected $6.18 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.51 | Rake $0.33 
+Board [Ah 6c 5s]
+Seat 1: soncause folded on the Flop
+Seat 2: I3aD Stockley collected ($6.18)
+Seat 3: Malotru67 (button) folded before Flop (didn't bet)
+Seat 4: cartman177 (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) folded on the Flop
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680416577:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:50:48 ET
+Table 'Cordelia III' 9-max Seat #4 is the button
+Seat 1: soncause ($54.57 in chips) 
+Seat 2: I3aD Stockley ($79.10 in chips) 
+Seat 3: Malotru67 ($51.49 in chips) 
+Seat 4: cartman177 ($52.70 in chips) 
+Seat 5: nombraalne1 ($51.65 in chips) 
+Seat 6: xZaKoNaLx ($53.38 in chips) 
+nombraalne1: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: raises $0.50 to $1
+I3aD Stockley: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: calls $0.50
+*** FLOP *** [3s 7h Jd]
+xZaKoNaLx: checks 
+soncause: bets $0.85
+xZaKoNaLx: calls $0.85
+*** TURN *** [3s 7h Jd] [5d]
+xZaKoNaLx: checks 
+soncause: bets $1.16
+xZaKoNaLx: folds 
+Uncalled bet ($1.16) returned to soncause
+soncause collected $4.32 from pot
+soncause: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.55 | Rake $0.23 
+Board [3s 7h Jd 5d]
+Seat 1: soncause collected ($4.32)
+Seat 2: I3aD Stockley folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: xZaKoNaLx (big blind) folded on the Turn
+
+
+
+PokerStars Hand #228680427477:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:51:23 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 1: soncause ($56.94 in chips) 
+Seat 2: I3aD Stockley ($79 in chips) 
+Seat 3: Malotru67 ($51.39 in chips) 
+Seat 4: cartman177 ($52.60 in chips) 
+Seat 5: nombraalne1 ($51.30 in chips) 
+Seat 6: xZaKoNaLx ($51.43 in chips) 
+xZaKoNaLx: posts small blind $0.25
+soncause: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+I3aD Stockley: calls $0.50
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: calls $0.25
+soncause: checks 
+*** FLOP *** [4h Kh Th]
+xZaKoNaLx: checks 
+soncause: checks 
+I3aD Stockley: bets $8.50
+xZaKoNaLx: folds 
+soncause: folds 
+Uncalled bet ($8.50) returned to I3aD Stockley
+I3aD Stockley collected $2 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10 
+Board [4h Kh Th]
+Seat 1: soncause (big blind) folded on the Flop
+Seat 2: I3aD Stockley collected ($2)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228680436623:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:51:52 ET
+Table 'Cordelia III' 9-max Seat #6 is the button
+Seat 1: soncause ($56.34 in chips) 
+Seat 2: I3aD Stockley ($80.40 in chips) 
+Seat 3: Malotru67 ($51.29 in chips) 
+Seat 4: cartman177 ($52.50 in chips) 
+Seat 5: nombraalne1 ($51.20 in chips) 
+Seat 6: xZaKoNaLx ($50.83 in chips) 
+soncause: posts small blind $0.25
+I3aD Stockley: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+soncause: folds 
+Uncalled bet ($0.25) returned to I3aD Stockley
+I3aD Stockley collected $1.10 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: soncause (small blind) folded before Flop
+Seat 2: I3aD Stockley (big blind) collected ($1.10)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680439578:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:52:02 ET
+Table 'Cordelia III' 9-max Seat #1 is the button
+Seat 1: soncause ($55.99 in chips) 
+Seat 2: I3aD Stockley ($81.15 in chips) 
+Seat 3: Malotru67 ($51.19 in chips) 
+Seat 4: cartman177 ($52.40 in chips) 
+Seat 5: nombraalne1 ($51.10 in chips) 
+Seat 6: xZaKoNaLx ($50.73 in chips) 
+I3aD Stockley: posts small blind $0.25
+Malotru67: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: raises $1 to $1.50
+soncause: folds 
+I3aD Stockley: folds 
+Malotru67: calls $1
+*** FLOP *** [5s Ah 6s]
+Malotru67: checks 
+xZaKoNaLx: bets $1.21
+Malotru67: calls $1.21
+*** TURN *** [5s Ah 6s] [3h]
+Malotru67: checks 
+xZaKoNaLx: checks 
+*** RIVER *** [5s Ah 6s 3h] [3c]
+Malotru67: checks 
+xZaKoNaLx: bets $3.99
+Malotru67: calls $3.99
+*** SHOW DOWN ***
+xZaKoNaLx: shows [Ac 9c] (two pair, Aces and Threes)
+Malotru67: mucks hand 
+xZaKoNaLx collected $13.54 from pot
+*** SUMMARY ***
+Total pot $14.25 | Rake $0.71 
+Board [5s Ah 6s 3h 3c]
+Seat 1: soncause (button) folded before Flop (didn't bet)
+Seat 2: I3aD Stockley (small blind) folded before Flop
+Seat 3: Malotru67 (big blind) mucked
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx showed [Ac 9c] and won ($13.54) with two pair, Aces and Threes
+
+
+
+PokerStars Hand #228680468052:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:53:32 ET
+Table 'Cordelia III' 9-max Seat #2 is the button
+Seat 1: soncause ($55.89 in chips) 
+Seat 2: I3aD Stockley ($80.80 in chips) 
+Seat 3: Malotru67 ($50 in chips) 
+Seat 4: cartman177 ($52.30 in chips) 
+Seat 5: nombraalne1 ($51 in chips) 
+Seat 6: xZaKoNaLx ($57.47 in chips) 
+Malotru67: posts small blind $0.25
+cartman177: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+nombraalne1: folds 
+xZaKoNaLx: folds 
+soncause: raises $0.50 to $1
+I3aD Stockley: calls $1
+Malotru67: folds 
+cartman177: folds 
+*** FLOP *** [9s 3s 8h]
+soncause: bets $1.09
+I3aD Stockley: folds 
+Uncalled bet ($1.09) returned to soncause
+soncause collected $3.18 from pot
+soncause: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.17 
+Board [9s 3s 8h]
+Seat 1: soncause collected ($3.18)
+Seat 2: I3aD Stockley (button) folded on the Flop
+Seat 3: Malotru67 (small blind) folded before Flop
+Seat 4: cartman177 (big blind) folded before Flop
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680473933:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:53:51 ET
+Table 'Cordelia III' 9-max Seat #3 is the button
+Seat 1: soncause ($57.97 in chips) 
+Seat 2: I3aD Stockley ($79.70 in chips) 
+Seat 3: Malotru67 ($50 in chips) 
+Seat 4: cartman177 ($51.70 in chips) 
+Seat 5: nombraalne1 ($50.90 in chips) 
+Seat 6: xZaKoNaLx ($57.37 in chips) 
+cartman177: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+xZaKoNaLx: raises $1 to $1.50
+soncause: folds 
+I3aD Stockley: calls $1.50
+Malotru67: raises $4 to $5.50
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+I3aD Stockley: calls $4
+*** FLOP *** [6h 5s 3c]
+I3aD Stockley: checks 
+Malotru67: bets $3.29
+I3aD Stockley: folds 
+Uncalled bet ($3.29) returned to Malotru67
+Malotru67 collected $13.16 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.85 | Rake $0.69 
+Board [6h 5s 3c]
+Seat 1: soncause folded before Flop (didn't bet)
+Seat 2: I3aD Stockley folded on the Flop
+Seat 3: Malotru67 (button) collected ($13.16)
+Seat 4: cartman177 (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 6: xZaKoNaLx folded before Flop
+
+
+
+PokerStars Hand #228680482548:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:54:18 ET
+Table 'Cordelia III' 9-max Seat #4 is the button
+Seat 1: soncause ($57.87 in chips) 
+Seat 2: I3aD Stockley ($74.10 in chips) 
+Seat 3: Malotru67 ($57.56 in chips) 
+Seat 4: cartman177 ($51.35 in chips) 
+Seat 5: nombraalne1 ($50.30 in chips) 
+Seat 6: xZaKoNaLx ($55.77 in chips) 
+nombraalne1: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: folds 
+I3aD Stockley: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+Uncalled bet ($0.25) returned to xZaKoNaLx
+xZaKoNaLx collected $1.10 from pot
+xZaKoNaLx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: soncause folded before Flop (didn't bet)
+Seat 2: I3aD Stockley folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: xZaKoNaLx (big blind) collected ($1.10)
+
+
+
+PokerStars Hand #228680486904:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:54:32 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 1: soncause ($57.77 in chips) 
+Seat 2: I3aD Stockley ($74 in chips) 
+Seat 3: Malotru67 ($57.46 in chips) 
+Seat 4: cartman177 ($51.25 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($56.52 in chips) 
+xZaKoNaLx: posts small blind $0.25
+soncause: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+I3aD Stockley: calls $0.50
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: raises $1.75 to $2.25
+soncause: calls $1.75
+I3aD Stockley: calls $1.75
+*** FLOP *** [7c 6s Jc]
+xZaKoNaLx: bets $5.58
+soncause: calls $5.58
+I3aD Stockley: calls $5.58
+*** TURN *** [7c 6s Jc] [3d]
+xZaKoNaLx: checks 
+soncause: checks 
+I3aD Stockley: checks 
+*** RIVER *** [7c 6s Jc 3d] [6h]
+xZaKoNaLx: bets $14
+soncause: calls $14
+I3aD Stockley: folds 
+*** SHOW DOWN ***
+xZaKoNaLx: shows [Ac Jh] (two pair, Jacks and Sixes)
+soncause: mucks hand 
+xZaKoNaLx collected $50.09 from pot
+*** SUMMARY ***
+Total pot $52.09 | Rake $2 
+Board [7c 6s Jc 3d 6h]
+Seat 1: soncause (big blind) mucked
+Seat 2: I3aD Stockley folded on the River
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (small blind) showed [Ac Jh] and won ($50.09) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #228680504861:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:55:34 ET
+Table 'Cordelia III' 9-max Seat #6 is the button
+Seat 1: soncause ($50 in chips) 
+Seat 2: I3aD Stockley ($66.07 in chips) 
+Seat 3: Malotru67 ($57.36 in chips) 
+Seat 4: cartman177 ($51.15 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($84.68 in chips) 
+soncause: posts small blind $0.25
+I3aD Stockley: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+soncause: folds 
+Uncalled bet ($0.25) returned to I3aD Stockley
+I3aD Stockley collected $1.10 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 1: soncause (small blind) folded before Flop
+Seat 2: I3aD Stockley (big blind) collected ($1.10)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680507661:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:55:45 ET
+Table 'Cordelia III' 9-max Seat #1 is the button
+Seat 1: soncause ($50 in chips) 
+Seat 2: I3aD Stockley ($66.82 in chips) 
+Seat 3: Malotru67 ($57.26 in chips) 
+Seat 4: cartman177 ($51.05 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($84.58 in chips) 
+I3aD Stockley: posts small blind $0.25
+Malotru67: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: raises $1 to $1.50
+soncause: folds 
+I3aD Stockley: raises $2 to $3.50
+Malotru67: folds 
+xZaKoNaLx: calls $2
+*** FLOP *** [6h 5c 4d]
+I3aD Stockley: checks 
+xZaKoNaLx: checks 
+*** TURN *** [6h 5c 4d] [Jc]
+I3aD Stockley: checks 
+xZaKoNaLx: checks 
+*** RIVER *** [6h 5c 4d Jc] [Qd]
+I3aD Stockley: checks 
+xZaKoNaLx: checks 
+*** SHOW DOWN ***
+I3aD Stockley: shows [7s Ac] (high card Ace)
+xZaKoNaLx: shows [2c 2h] (a pair of Deuces)
+xZaKoNaLx collected $7.70 from pot
+*** SUMMARY ***
+Total pot $8.10 | Rake $0.40 
+Board [6h 5c 4d Jc Qd]
+Seat 1: soncause (button) folded before Flop (didn't bet)
+Seat 2: I3aD Stockley (small blind) showed [7s Ac] and lost with high card Ace
+Seat 3: Malotru67 (big blind) folded before Flop
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx showed [2c 2h] and won ($7.70) with a pair of Deuces
+
+
+
+PokerStars Hand #228680522125:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:56:40 ET
+Table 'Cordelia III' 9-max Seat #2 is the button
+Seat 1: soncause ($50 in chips) 
+Seat 2: I3aD Stockley ($63.22 in chips) 
+Seat 3: Malotru67 ($56.66 in chips) 
+Seat 4: cartman177 ($50.95 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($88.68 in chips) 
+Malotru67: posts small blind $0.25
+cartman177: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+nombraalne1: folds 
+xZaKoNaLx: folds 
+soncause: raises $0.50 to $1
+I3aD Stockley: folds 
+Malotru67: raises $4.25 to $5.25
+cartman177: folds 
+soncause: folds 
+Uncalled bet ($4.25) returned to Malotru67
+Malotru67 collected $3.10 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0 
+Seat 1: soncause folded before Flop
+Seat 2: I3aD Stockley (button) folded before Flop (didn't bet)
+Seat 3: Malotru67 (small blind) collected ($3.10)
+Seat 4: cartman177 (big blind) folded before Flop
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680527623:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:57:01 ET
+Table 'Cordelia III' 9-max Seat #3 is the button
+Seat 1: soncause ($50 in chips) 
+Seat 2: I3aD Stockley ($63.12 in chips) 
+Seat 3: Malotru67 ($58.66 in chips) 
+Seat 4: cartman177 ($50.35 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($88.58 in chips) 
+cartman177: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+xZaKoNaLx: folds 
+soncause: folds 
+I3aD Stockley: calls $0.50
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: checks 
+*** FLOP *** [5h 3d As]
+nombraalne1: checks 
+I3aD Stockley: bets $0.88
+nombraalne1: folds 
+Uncalled bet ($0.88) returned to I3aD Stockley
+I3aD Stockley collected $1.76 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.09 
+Board [5h 3d As]
+Seat 1: soncause folded before Flop (didn't bet)
+Seat 2: I3aD Stockley collected ($1.76)
+Seat 3: Malotru67 (button) folded before Flop (didn't bet)
+Seat 4: cartman177 (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) folded on the Flop
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680535714:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:57:32 ET
+Table 'Cordelia III' 9-max Seat #4 is the button
+Seat 1: soncause ($50 in chips) 
+Seat 2: I3aD Stockley ($64.28 in chips) 
+Seat 3: Malotru67 ($58.56 in chips) 
+Seat 4: cartman177 ($50 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($88.48 in chips) 
+nombraalne1: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: folds 
+I3aD Stockley: calls $0.50
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: checks 
+*** FLOP *** [Tc Td 6d]
+xZaKoNaLx: checks 
+I3aD Stockley: checks 
+*** TURN *** [Tc Td 6d] [9d]
+xZaKoNaLx: bets $0.50
+I3aD Stockley: calls $0.50
+*** RIVER *** [Tc Td 6d 9d] [5d]
+xZaKoNaLx: bets $1.36
+I3aD Stockley: calls $1.36
+*** SHOW DOWN ***
+xZaKoNaLx: shows [4h 2d] (a flush, Ten high)
+I3aD Stockley: mucks hand 
+xZaKoNaLx collected $5.29 from pot
+*** SUMMARY ***
+Total pot $5.57 | Rake $0.28 
+Board [Tc Td 6d 9d 5d]
+Seat 1: soncause folded before Flop (didn't bet)
+Seat 2: I3aD Stockley mucked
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: xZaKoNaLx (big blind) showed [4h 2d] and won ($5.29) with a flush, Ten high
+
+
+
+PokerStars Hand #228680548066:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:58:19 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 2: I3aD Stockley ($61.82 in chips) 
+Seat 3: Malotru67 ($58.46 in chips) 
+Seat 4: cartman177 ($50 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($91.31 in chips) 
+xZaKoNaLx: posts small blind $0.25
+soncause: is sitting out 
+I3aD Stockley: posts big blind $0.50
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: raises $1 to $1.50
+I3aD Stockley: folds 
+Uncalled bet ($1) returned to xZaKoNaLx
+xZaKoNaLx collected $1.50 from pot
+xZaKoNaLx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 2: I3aD Stockley (big blind) folded before Flop
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (small blind) collected ($1.50)
+
+
+
+PokerStars Hand #228680551152:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:58:31 ET
+Table 'Cordelia III' 9-max Seat #6 is the button
+Seat 2: I3aD Stockley ($61.22 in chips) 
+Seat 3: Malotru67 ($58.36 in chips) 
+Seat 4: cartman177 ($50 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($92.21 in chips) 
+I3aD Stockley: posts small blind $0.25
+Malotru67: posts big blind $0.50
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+nombraalne1: raises $0.70 to $1.20
+daria130399 joins the table at seat #9 
+xZaKoNaLx: raises $2.55 to $3.75
+I3aD Stockley: raises $57.37 to $61.12 and is all-in
+Malotru67: folds 
+nombraalne1: folds 
+xZaKoNaLx: calls $57.37
+xZaKoNaLx:  
+I3aD Stockley:  
+*** FLOP *** [6d 2s 3h]
+*** TURN *** [6d 2s 3h] [3s]
+*** RIVER *** [6d 2s 3h 3s] [8c]
+*** SHOW DOWN ***
+I3aD Stockley: shows [9d As] (a pair of Threes)
+xZaKoNaLx: shows [Ad Kc] (a pair of Threes - Ace+King kicker)
+xZaKoNaLx collected $122.44 from pot
+*** SUMMARY ***
+Total pot $124.44 | Rake $2 
+Board [6d 2s 3h 3s 8c]
+Seat 2: I3aD Stockley (small blind) showed [9d As] and lost with a pair of Threes
+Seat 3: Malotru67 (big blind) folded before Flop
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop
+Seat 6: xZaKoNaLx (button) showed [Ad Kc] and won ($122.44) with a pair of Threes
+
+
+
+PokerStars Hand #228680556910:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:58:53 ET
+Table 'Cordelia III' 9-max Seat #3 is the button
+Seat 3: Malotru67 ($57.76 in chips) 
+Seat 4: cartman177 ($50 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($153.43 in chips) 
+cartman177: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+daria130399: sits out 
+soncause: sits out 
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+xZaKoNaLx: folds 
+Malotru67: calls $0.50
+cartman177: folds 
+nombraalne1: checks 
+*** FLOP *** [9h 9c 3c]
+nombraalne1: bets $0.52
+Malotru67: calls $0.52
+*** TURN *** [9h 9c 3c] [7c]
+nombraalne1: bets $1.92
+Malotru67: folds 
+Uncalled bet ($1.92) returned to nombraalne1
+nombraalne1 collected $2.56 from pot
+nombraalne1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.69 | Rake $0.13 
+Board [9h 9c 3c 7c]
+Seat 3: Malotru67 (button) folded on the Turn
+Seat 4: cartman177 (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) collected ($2.56)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680574413:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:00:00 ET
+Table 'Cordelia III' 9-max Seat #4 is the button
+Seat 3: Malotru67 ($56.64 in chips) 
+Seat 4: cartman177 ($50 in chips) 
+Seat 5: nombraalne1 ($51.44 in chips) 
+Seat 6: xZaKoNaLx ($153.33 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+nombraalne1: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+daria130399: posts big blind $0.50
+soncause: sits out 
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: checks 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: calls $0.25
+xZaKoNaLx: checks 
+*** FLOP *** [As 4h Jh]
+nombraalne1: checks 
+xZaKoNaLx: checks 
+daria130399: checks 
+*** TURN *** [As 4h Jh] [3d]
+nombraalne1: checks 
+xZaKoNaLx: checks 
+daria130399: checks 
+*** RIVER *** [As 4h Jh 3d] [Tc]
+nombraalne1: checks 
+xZaKoNaLx: checks 
+daria130399: checks 
+*** SHOW DOWN ***
+nombraalne1: shows [8s 5s] (high card Ace)
+xZaKoNaLx: shows [5c Td] (a pair of Tens)
+daria130399: mucks hand 
+xZaKoNaLx collected $1.90 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [As 4h Jh 3d Tc]
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) showed [8s 5s] and lost with high card Ace
+Seat 6: xZaKoNaLx (big blind) showed [5c Td] and won ($1.90) with a pair of Tens
+Seat 9: daria130399 mucked
+
+
+
+PokerStars Hand #228680290435:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:44:09 ET
+Table 'Cordelia III' 9-max Seat #1 is the button
+Seat 1: soncause ($60.44 in chips) 
+Seat 2: I3aD Stockley ($31.60 in chips) 
+Seat 3: Malotru67 ($50 in chips) 
+Seat 4: cartman177 ($50 in chips) 
+I3aD Stockley: posts small blind $0.25
+Malotru67: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+soncause: raises $0.50 to $1
+I3aD Stockley: folds 
+Malotru67: raises $4.25 to $5.25
+soncause: folds 
+Uncalled bet ($4.25) returned to Malotru67
+Malotru67 collected $2.65 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.65 | Rake $0 
+Seat 1: soncause (button) folded before Flop
+Seat 2: I3aD Stockley (small blind) folded before Flop
+Seat 3: Malotru67 (big blind) collected ($2.65)
+Seat 4: cartman177 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680294259:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:44:21 ET
+Table 'Cordelia III' 9-max Seat #2 is the button
+Seat 1: soncause ($59.34 in chips) 
+Seat 2: I3aD Stockley ($31.25 in chips) 
+Seat 3: Malotru67 ($51.55 in chips) 
+Seat 4: cartman177 ($50 in chips) 
+Malotru67: posts small blind $0.25
+cartman177: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: raises $0.50 to $1
+I3aD Stockley: folds 
+Malotru67: raises $4.25 to $5.25
+cartman177: raises $6.75 to $12
+soncause: folds 
+Malotru67: folds 
+Uncalled bet ($6.75) returned to cartman177
+cartman177 collected $11.90 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.90 | Rake $0 
+Seat 1: soncause folded before Flop
+Seat 2: I3aD Stockley (button) folded before Flop (didn't bet)
+Seat 3: Malotru67 (small blind) folded before Flop
+Seat 4: cartman177 (big blind) collected ($11.90)
+
+
+
+PokerStars Hand #228680304017:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:44:52 ET
+Table 'Cordelia III' 9-max Seat #3 is the button
+Seat 1: soncause ($58.24 in chips) 
+Seat 2: I3aD Stockley ($31.15 in chips) 
+Seat 3: Malotru67 ($50 in chips) 
+Seat 4: cartman177 ($56.55 in chips) 
+cartman177: posts small blind $0.25
+soncause: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+*** HOLE CARDS ***
+I3aD Stockley: raises $1 to $1.50
+Malotru67: folds 
+cartman177: folds 
+soncause: calls $1
+*** FLOP *** [Kh 7h 4c]
+soncause: checks 
+I3aD Stockley: bets $3.47
+soncause: calls $3.47
+*** TURN *** [Kh 7h 4c] [Td]
+soncause: checks 
+I3aD Stockley: bets $10.06
+soncause: folds 
+Uncalled bet ($10.06) returned to I3aD Stockley
+I3aD Stockley collected $10.06 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.59 | Rake $0.53 
+Board [Kh 7h 4c Td]
+Seat 1: soncause (big blind) folded on the Turn
+Seat 2: I3aD Stockley collected ($10.06)
+Seat 3: Malotru67 (button) folded before Flop (didn't bet)
+Seat 4: cartman177 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680312394:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:45:19 ET
+Table 'Cordelia III' 9-max Seat #4 is the button
+Seat 1: soncause ($53.17 in chips) 
+Seat 2: I3aD Stockley ($36.14 in chips) 
+Seat 3: Malotru67 ($50 in chips) 
+Seat 4: cartman177 ($56.20 in chips) 
+soncause: posts small blind $0.25
+I3aD Stockley: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: raises $0.62 to $1.12
+cartman177: folds 
+soncause: folds 
+I3aD Stockley: calls $0.62
+*** FLOP *** [As 2d 5d]
+I3aD Stockley: checks 
+Malotru67: bets $0.69
+nombraalne1 joins the table at seat #5 
+I3aD Stockley: calls $0.69
+*** TURN *** [As 2d 5d] [6d]
+I3aD Stockley: checks 
+Malotru67: checks 
+*** RIVER *** [As 2d 5d 6d] [Th]
+I3aD Stockley: checks 
+Malotru67: checks 
+*** SHOW DOWN ***
+I3aD Stockley: shows [Js 4c] (high card Ace)
+Malotru67: mucks hand 
+I3aD Stockley collected $4.06 from pot
+*** SUMMARY ***
+Total pot $4.27 | Rake $0.21 
+Board [As 2d 5d 6d Th]
+Seat 1: soncause (small blind) folded before Flop
+Seat 2: I3aD Stockley (big blind) showed [Js 4c] and won ($4.06) with high card Ace
+Seat 3: Malotru67 mucked
+Seat 4: cartman177 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680322544:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:45:52 ET
+Table 'Cordelia III' 9-max Seat #1 is the button
+Seat 1: soncause ($52.82 in chips) 
+Seat 2: I3aD Stockley ($38.29 in chips) 
+Seat 3: Malotru67 ($50 in chips) 
+Seat 4: cartman177 ($56.10 in chips) 
+I3aD Stockley: posts small blind $0.25
+Malotru67: posts big blind $0.50
+nombraalne1: sits out 
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+soncause: raises $0.50 to $1
+I3aD Stockley: calls $0.75
+Malotru67: folds 
+*** FLOP *** [Kh Qh Td]
+I3aD Stockley: checks 
+soncause: checks 
+*** TURN *** [Kh Qh Td] [3h]
+I3aD Stockley: checks 
+soncause: bets $2.76
+I3aD Stockley: calls $2.76
+*** RIVER *** [Kh Qh Td 3h] [2d]
+I3aD Stockley: bets $4
+soncause: folds 
+Uncalled bet ($4) returned to I3aD Stockley
+I3aD Stockley collected $8 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.42 | Rake $0.42 
+Board [Kh Qh Td 3h 2d]
+Seat 1: soncause (button) folded on the River
+Seat 2: I3aD Stockley (small blind) collected ($8)
+Seat 3: Malotru67 (big blind) folded before Flop
+Seat 4: cartman177 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680334643:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:46:31 ET
+Table 'Cordelia III' 9-max Seat #2 is the button
+Seat 1: soncause ($50 in chips) 
+Seat 2: I3aD Stockley ($42.43 in chips) 
+Seat 3: Malotru67 ($50 in chips) 
+Seat 4: cartman177 ($56 in chips) 
+Malotru67: posts small blind $0.25
+cartman177: posts big blind $0.50
+nombraalne1: sits out 
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: raises $0.50 to $1
+I3aD Stockley: raises $41.33 to $42.33 and is all-in
+Malotru67: folds 
+cartman177: folds 
+soncause: calls $41.33
+*** FLOP *** [7c 5d Th]
+*** TURN *** [7c 5d Th] [Tc]
+*** RIVER *** [7c 5d Th Tc] [Td]
+xZaKoNaLx joins the table at seat #6 
+*** SHOW DOWN ***
+soncause: shows [As Ks] (three of a kind, Tens)
+I3aD Stockley: shows [Kc Ts] (four of a kind, Tens)
+I3aD Stockley collected $85.06 from pot
+*** SUMMARY ***
+Total pot $85.81 | Rake $0.75 
+Board [7c 5d Th Tc Td]
+Seat 1: soncause showed [As Ks] and lost with three of a kind, Tens
+Seat 2: I3aD Stockley (button) showed [Kc Ts] and won ($85.06) with four of a kind, Tens
+Seat 3: Malotru67 (small blind) folded before Flop
+Seat 4: cartman177 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680341151:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:46:52 ET
+Table 'Cordelia III' 9-max Seat #3 is the button
+Seat 1: soncause ($50 in chips) 
+Seat 2: I3aD Stockley ($85.06 in chips) 
+Seat 3: Malotru67 ($50 in chips) 
+Seat 4: cartman177 ($55.40 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+cartman177: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+xZaKoNaLx: sits out 
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: raises $0.50 to $1
+I3aD Stockley: calls $1
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: calls $0.50
+*** FLOP *** [Kd Ad 8h]
+nombraalne1: checks 
+soncause: bets $1.28
+I3aD Stockley: folds 
+nombraalne1: folds 
+Uncalled bet ($1.28) returned to soncause
+soncause collected $3.56 from pot
+soncause: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [Kd Ad 8h]
+Seat 1: soncause collected ($3.56)
+Seat 2: I3aD Stockley folded on the Flop
+Seat 3: Malotru67 (button) folded before Flop (didn't bet)
+Seat 4: cartman177 (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228680352361:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 10:47:28 ET
+Table 'Cordelia III' 9-max Seat #4 is the button
+Seat 1: soncause ($52.46 in chips) 
+Seat 2: I3aD Stockley ($83.96 in chips) 
+Seat 3: Malotru67 ($50 in chips) 
+Seat 4: cartman177 ($55.05 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($50 in chips) 
+nombraalne1: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+soncause: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+soncause: folds 
+I3aD Stockley: raises $83.36 to $83.86 and is all-in
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+Uncalled bet ($83.36) returned to I3aD Stockley
+I3aD Stockley collected $1.85 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: soncause folded before Flop (didn't bet)
+Seat 2: I3aD Stockley collected ($1.85)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: xZaKoNaLx (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680586953:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:00:47 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 2: I3aD Stockley ($40.50 in chips) 
+Seat 3: Malotru67 ($56.54 in chips) 
+Seat 4: cartman177 ($50 in chips) 
+Seat 5: nombraalne1 ($50.84 in chips) 
+Seat 6: xZaKoNaLx ($154.63 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+xZaKoNaLx: posts small blind $0.25
+daria130399: posts big blind $0.50
+soncause: sits out 
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+I3aD Stockley: calls $0.50
+Malotru67: folds 
+cartman177: raises $1.50 to $2
+nombraalne1: folds 
+xZaKoNaLx: raises $5.50 to $7.50
+daria130399: folds 
+I3aD Stockley: calls $7
+cartman177: raises $42.40 to $49.90 and is all-in
+xZaKoNaLx: folds 
+I3aD Stockley: calls $32.90 and is all-in
+Uncalled bet ($9.50) returned to cartman177
+*** FLOP *** [Kc 3h Jh]
+*** TURN *** [Kc 3h Jh] [7d]
+*** RIVER *** [Kc 3h Jh 7d] [Ad]
+*** SHOW DOWN ***
+I3aD Stockley: shows [Kh 7c] (two pair, Kings and Sevens)
+cartman177: shows [Ah Qd] (a pair of Aces)
+I3aD Stockley collected $87.40 from pot
+cartman177 cashed out the hand for $55.98 | Cash Out Fee $0.57
+*** SUMMARY ***
+Total pot $89.40 | Rake $2 
+Board [Kc 3h Jh 7d Ad]
+Seat 2: I3aD Stockley showed [Kh 7c] and won ($87.40) with two pair, Kings and Sevens
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 showed [Ah Qd] and lost with a pair of Aces (cashed out).
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (small blind) folded before Flop
+Seat 9: daria130399 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680603014:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:01:42 ET
+Table 'Cordelia III' 9-max Seat #6 is the button
+Seat 2: I3aD Stockley ($87.40 in chips) 
+Seat 3: Malotru67 ($56.44 in chips) 
+Seat 4: cartman177 ($65.48 in chips) 
+Seat 5: nombraalne1 ($50.74 in chips) 
+Seat 6: xZaKoNaLx ($147.03 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+daria130399: posts small blind $0.25
+soncause: is sitting out 
+I3aD Stockley: posts big blind $0.50
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: raises $1 to $1.50
+daria130399: raises $6 to $7.50
+I3aD Stockley: folds 
+xZaKoNaLx: folds 
+Uncalled bet ($6) returned to daria130399
+daria130399 collected $4.10 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.10 | Rake $0 
+Seat 2: I3aD Stockley (big blind) folded before Flop
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (button) folded before Flop
+Seat 9: daria130399 (small blind) collected ($4.10)
+
+
+
+PokerStars Hand #228680613871:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:02:16 ET
+Table 'Cordelia III' 9-max Seat #9 is the button
+Seat 2: I3aD Stockley ($86.80 in chips) 
+Seat 3: Malotru67 ($56.34 in chips) 
+Seat 4: cartman177 ($65.38 in chips) 
+Seat 5: nombraalne1 ($50.64 in chips) 
+Seat 6: xZaKoNaLx ($145.43 in chips) 
+Seat 9: daria130399 ($52.50 in chips) 
+I3aD Stockley: posts small blind $0.25
+Malotru67: posts big blind $0.50
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+daria130399: raises $1 to $1.50
+I3aD Stockley: folds 
+Malotru67: folds 
+Uncalled bet ($1) returned to daria130399
+daria130399 collected $1.85 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 2: I3aD Stockley (small blind) folded before Flop
+Seat 3: Malotru67 (big blind) folded before Flop
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 9: daria130399 (button) collected ($1.85)
+
+
+
+PokerStars Hand #228680618562:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:02:32 ET
+Table 'Cordelia III' 9-max Seat #2 is the button
+Seat 2: I3aD Stockley ($86.45 in chips) 
+Seat 3: Malotru67 ($55.74 in chips) 
+Seat 4: cartman177 ($65.28 in chips) 
+Seat 5: nombraalne1 ($50.54 in chips) 
+Seat 6: xZaKoNaLx ($145.33 in chips) 
+Seat 9: daria130399 ($53.75 in chips) 
+Malotru67: posts small blind $0.25
+cartman177: posts big blind $0.50
+soncause: sits out 
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+nombraalne1: raises $0.60 to $1.10
+xZaKoNaLx: folds 
+soncause leaves the table
+daria130399: calls $1.10
+I3aD Stockley: raises $4.65 to $5.75
+Malotru67: folds 
+cartman177: folds 
+whitecillar3 joins the table at seat #1 
+nombraalne1: calls $4.65
+daria130399: folds 
+*** FLOP *** [Kh 7c Qc]
+nombraalne1: checks 
+I3aD Stockley: bets $6.62
+nombraalne1: folds 
+Uncalled bet ($6.62) returned to I3aD Stockley
+I3aD Stockley collected $13.25 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.95 | Rake $0.70 
+Board [Kh 7c Qc]
+Seat 2: I3aD Stockley (button) collected ($13.25)
+Seat 3: Malotru67 (small blind) folded before Flop
+Seat 4: cartman177 (big blind) folded before Flop
+Seat 5: nombraalne1 folded on the Flop
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop
+
+
+
+PokerStars Hand #228680840352:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:12:36 ET
+Table 'Cordelia III' 9-max Seat #7 is the button
+Seat 1: whitecillar3 ($54.67 in chips) 
+Seat 2: I3aD Stockley ($87.13 in chips) 
+Seat 3: Malotru67 ($72.94 in chips) 
+Seat 4: cartman177 ($57.88 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($147.32 in chips) 
+Seat 7: siskin vrach ($59.64 in chips) 
+Seat 8: mloppe ($46.75 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+mloppe: posts small blind $0.25
+daria130399: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+I3aD Stockley: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: raises $1 to $1.50
+mloppe: folds 
+daria130399: folds 
+Uncalled bet ($1) returned to siskin vrach
+siskin vrach collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.15 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 2: I3aD Stockley folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach (button) collected ($2.15)
+Seat 8: mloppe (small blind) folded before Flop
+Seat 9: daria130399 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680847221:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:12:56 ET
+Table 'Cordelia III' 9-max Seat #8 is the button
+Seat 1: whitecillar3 ($54.57 in chips) 
+Seat 2: I3aD Stockley ($87.03 in chips) 
+Seat 3: Malotru67 ($72.84 in chips) 
+Seat 4: cartman177 ($57.78 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($147.22 in chips) 
+Seat 7: siskin vrach ($61.19 in chips) 
+Seat 8: mloppe ($50 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+daria130399: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+I3aD Stockley: calls $0.50
+Malotru67: raises $2 to $2.50
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+daria130399: calls $2.25
+whitecillar3: folds 
+I3aD Stockley: calls $2
+*** FLOP *** [3d 5c 7d]
+daria130399: checks 
+I3aD Stockley: checks 
+Malotru67: bets $3.38
+daria130399: folds 
+I3aD Stockley: folds 
+Uncalled bet ($3.38) returned to Malotru67
+Malotru67 collected $8.46 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.90 | Rake $0.44 
+Board [3d 5c 7d]
+Seat 1: whitecillar3 (big blind) folded before Flop
+Seat 2: I3aD Stockley folded on the Flop
+Seat 3: Malotru67 collected ($8.46)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe (button) folded before Flop (didn't bet)
+Seat 9: daria130399 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228680861252:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:13:38 ET
+Table 'Cordelia III' 9-max Seat #9 is the button
+Seat 1: whitecillar3 ($53.97 in chips) 
+Seat 2: I3aD Stockley ($84.43 in chips) 
+Seat 3: Malotru67 ($78.70 in chips) 
+Seat 4: cartman177 ($57.68 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($147.12 in chips) 
+Seat 7: siskin vrach ($61.09 in chips) 
+Seat 8: mloppe ($49.90 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+whitecillar3: posts small blind $0.25
+I3aD Stockley: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+daria130399: raises $0.75 to $1.25
+whitecillar3: folds 
+I3aD Stockley: calls $0.75
+*** FLOP *** [Td Qd Ts]
+I3aD Stockley: checks 
+daria130399: checks 
+*** TURN *** [Td Qd Ts] [Th]
+I3aD Stockley: checks 
+daria130399: bets $1.77
+I3aD Stockley: raises $1.77 to $3.54
+daria130399: folds 
+Uncalled bet ($1.77) returned to I3aD Stockley
+I3aD Stockley collected $6.83 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.19 | Rake $0.36 
+Board [Td Qd Ts Th]
+Seat 1: whitecillar3 (small blind) folded before Flop
+Seat 2: I3aD Stockley (big blind) collected ($6.83)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 (button) folded on the Turn
+
+
+
+PokerStars Hand #228680873594:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:14:15 ET
+Table 'Cordelia III' 9-max Seat #1 is the button
+Seat 1: whitecillar3 ($53.62 in chips) 
+Seat 2: I3aD Stockley ($88.14 in chips) 
+Seat 3: Malotru67 ($78.60 in chips) 
+Seat 4: cartman177 ($57.58 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($147.02 in chips) 
+Seat 7: siskin vrach ($60.99 in chips) 
+Seat 8: mloppe ($49.80 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+I3aD Stockley: posts small blind $0.25
+Malotru67: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+nombraalne1: raises $0.60 to $1.10
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+daria130399: folds 
+whitecillar3: calls $1.10
+I3aD Stockley: calls $0.85
+Malotru67: calls $0.60
+*** FLOP *** [3s 7d 9h]
+I3aD Stockley: checks 
+Malotru67: checks 
+nombraalne1: checks 
+whitecillar3: checks 
+*** TURN *** [3s 7d 9h] [2s]
+I3aD Stockley: checks 
+Malotru67: checks 
+nombraalne1: checks 
+whitecillar3: bets $1.66
+I3aD Stockley: calls $1.66
+Malotru67: folds 
+nombraalne1: folds 
+*** RIVER *** [3s 7d 9h 2s] [9d]
+I3aD Stockley: bets $4.09
+whitecillar3: calls $4.09
+*** SHOW DOWN ***
+I3aD Stockley: shows [8s 7s] (two pair, Nines and Sevens)
+whitecillar3: shows [8h 8d] (two pair, Nines and Eights)
+whitecillar3 collected $15.96 from pot
+*** SUMMARY ***
+Total pot $16.80 | Rake $0.84 
+Board [3s 7d 9h 2s 9d]
+Seat 1: whitecillar3 (button) showed [8h 8d] and won ($15.96) with two pair, Nines and Eights
+Seat 2: I3aD Stockley (small blind) showed [8s 7s] and lost with two pair, Nines and Sevens
+Seat 3: Malotru67 (big blind) folded on the Turn
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded on the Turn
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680894780:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:15:19 ET
+Table 'Cordelia III' 9-max Seat #2 is the button
+Seat 1: whitecillar3 ($62.63 in chips) 
+Seat 2: I3aD Stockley ($81.19 in chips) 
+Seat 3: Malotru67 ($77.40 in chips) 
+Seat 4: cartman177 ($57.48 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($146.92 in chips) 
+Seat 7: siskin vrach ($60.89 in chips) 
+Seat 8: mloppe ($49.70 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+Malotru67: posts small blind $0.25
+cartman177: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+nombraalne1: folds 
+xZaKoNaLx: raises $1.50 to $2
+siskin vrach: calls $2
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+I3aD Stockley: calls $2
+Malotru67: folds 
+cartman177: folds 
+*** FLOP *** [6s 4c 3c]
+xZaKoNaLx: checks 
+siskin vrach: checks 
+I3aD Stockley: checks 
+*** TURN *** [6s 4c 3c] [6d]
+xZaKoNaLx: checks 
+siskin vrach: bets $2.50
+I3aD Stockley: folds 
+xZaKoNaLx: folds 
+Uncalled bet ($2.50) returned to siskin vrach
+siskin vrach collected $7.27 from pot
+*** SUMMARY ***
+Total pot $7.65 | Rake $0.38 
+Board [6s 4c 3c 6d]
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 2: I3aD Stockley (button) folded on the Turn
+Seat 3: Malotru67 (small blind) folded before Flop
+Seat 4: cartman177 (big blind) folded before Flop
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded on the Turn
+Seat 7: siskin vrach collected ($7.27)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680910699:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:16:06 ET
+Table 'Cordelia III' 9-max Seat #3 is the button
+Seat 1: whitecillar3 ($62.53 in chips) 
+Seat 2: I3aD Stockley ($79.09 in chips) 
+Seat 3: Malotru67 ($77.05 in chips) 
+Seat 4: cartman177 ($56.88 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($144.82 in chips) 
+Seat 7: siskin vrach ($66.06 in chips) 
+Seat 8: mloppe ($49.60 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+cartman177: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+I3aD Stockley: folds 
+Malotru67: folds 
+cartman177: folds 
+Uncalled bet ($0.25) returned to nombraalne1
+nombraalne1 collected $1.40 from pot
+nombraalne1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.40 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 2: I3aD Stockley folded before Flop (didn't bet)
+Seat 3: Malotru67 (button) folded before Flop (didn't bet)
+Seat 4: cartman177 (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) collected ($1.40)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680915636:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:16:21 ET
+Table 'Cordelia III' 9-max Seat #4 is the button
+Seat 1: whitecillar3 ($62.43 in chips) 
+Seat 2: I3aD Stockley ($78.99 in chips) 
+Seat 3: Malotru67 ($76.95 in chips) 
+Seat 4: cartman177 ($56.53 in chips) 
+Seat 5: nombraalne1 ($51.05 in chips) 
+Seat 6: xZaKoNaLx ($144.72 in chips) 
+Seat 7: siskin vrach ($65.96 in chips) 
+Seat 8: mloppe ($49.50 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+nombraalne1: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+siskin vrach: folds 
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+I3aD Stockley: calls $0.50
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: calls $0.25
+xZaKoNaLx: checks 
+*** FLOP *** [7d Ks 9s]
+nombraalne1: checks 
+xZaKoNaLx: checks 
+I3aD Stockley: bets $0.50
+nombraalne1: folds 
+xZaKoNaLx: folds 
+Uncalled bet ($0.50) returned to I3aD Stockley
+I3aD Stockley collected $2.28 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.40 | Rake $0.12 
+Board [7d Ks 9s]
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 2: I3aD Stockley collected ($2.28)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded on the Flop
+Seat 6: xZaKoNaLx (big blind) folded on the Flop
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680929988:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:17:04 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 1: whitecillar3 ($62.33 in chips) 
+Seat 2: I3aD Stockley ($80.67 in chips) 
+Seat 3: Malotru67 ($76.85 in chips) 
+Seat 4: cartman177 ($56.43 in chips) 
+Seat 5: nombraalne1 ($50.45 in chips) 
+Seat 6: xZaKoNaLx ($144.12 in chips) 
+Seat 7: siskin vrach ($65.86 in chips) 
+Seat 8: mloppe ($49.40 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+xZaKoNaLx: posts small blind $0.25
+siskin vrach: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+I3aD Stockley: folds 
+Malotru67: raises $0.75 to $1.25
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: folds 
+Uncalled bet ($0.75) returned to Malotru67
+Malotru67 collected $2.15 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.15 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 2: I3aD Stockley folded before Flop (didn't bet)
+Seat 3: Malotru67 collected ($2.15)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (small blind) folded before Flop
+Seat 7: siskin vrach (big blind) folded before Flop
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680936995:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:17:25 ET
+Table 'Cordelia III' 9-max Seat #6 is the button
+Seat 1: whitecillar3 ($62.23 in chips) 
+Seat 2: I3aD Stockley ($80.57 in chips) 
+Seat 3: Malotru67 ($78.40 in chips) 
+Seat 4: cartman177 ($56.33 in chips) 
+Seat 5: nombraalne1 ($50.35 in chips) 
+Seat 6: xZaKoNaLx ($143.77 in chips) 
+Seat 7: siskin vrach ($65.26 in chips) 
+Seat 8: mloppe ($49.30 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+siskin vrach: posts small blind $0.25
+mloppe: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+whitecillar3: folds 
+I3aD Stockley: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: raises $1.26 to $1.76
+mloppe: calls $1.26
+*** FLOP *** [3d 7d Qs]
+siskin vrach: bets $2.50
+mloppe: folds 
+Uncalled bet ($2.50) returned to siskin vrach
+siskin vrach collected $4.20 from pot
+*** SUMMARY ***
+Total pot $4.42 | Rake $0.22 
+Board [3d 7d Qs]
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 2: I3aD Stockley folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (button) folded before Flop (didn't bet)
+Seat 7: siskin vrach (small blind) collected ($4.20)
+Seat 8: mloppe (big blind) folded on the Flop
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680949001:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:18:01 ET
+Table 'Cordelia III' 9-max Seat #7 is the button
+Seat 1: whitecillar3 ($62.13 in chips) 
+Seat 2: I3aD Stockley ($80.47 in chips) 
+Seat 3: Malotru67 ($78.30 in chips) 
+Seat 4: cartman177 ($56.23 in chips) 
+Seat 5: nombraalne1 ($50.25 in chips) 
+Seat 6: xZaKoNaLx ($143.67 in chips) 
+Seat 7: siskin vrach ($67.60 in chips) 
+Seat 8: mloppe ($47.44 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+mloppe: posts small blind $0.25
+daria130399: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+I3aD Stockley: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+Uncalled bet ($0.25) returned to daria130399
+daria130399 collected $1.40 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.40 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 2: I3aD Stockley folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach (button) folded before Flop (didn't bet)
+Seat 8: mloppe (small blind) folded before Flop
+Seat 9: daria130399 (big blind) collected ($1.40)
+
+
+
+PokerStars Hand #228680953438:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:18:14 ET
+Table 'Cordelia III' 9-max Seat #8 is the button
+Seat 1: whitecillar3 ($62.03 in chips) 
+Seat 2: I3aD Stockley ($80.37 in chips) 
+Seat 3: Malotru67 ($78.20 in chips) 
+Seat 4: cartman177 ($56.13 in chips) 
+Seat 5: nombraalne1 ($50.15 in chips) 
+Seat 6: xZaKoNaLx ($143.57 in chips) 
+Seat 7: siskin vrach ($67.50 in chips) 
+Seat 8: mloppe ($47.09 in chips) 
+Seat 9: daria130399 ($51.05 in chips) 
+daria130399: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+I3aD Stockley: calls $0.50
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: raises $1.50 to $2
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+I3aD Stockley: calls $1.50
+*** FLOP *** [8d Ah 6c]
+I3aD Stockley: bets $2.68
+siskin vrach: calls $2.68
+*** TURN *** [8d Ah 6c] [Ac]
+I3aD Stockley: bets $5.23
+siskin vrach: calls $5.23
+*** RIVER *** [8d Ah 6c Ac] [2c]
+I3aD Stockley: bets $70.36 and is all-in
+siskin vrach: calls $57.49 and is all-in
+Uncalled bet ($12.87) returned to I3aD Stockley
+*** SHOW DOWN ***
+I3aD Stockley: shows [6h Qd] (two pair, Aces and Sixes)
+siskin vrach: shows [Ad Qc] (three of a kind, Aces)
+siskin vrach collected $134.45 from pot
+*** SUMMARY ***
+Total pot $136.45 | Rake $2 
+Board [8d Ah 6c Ac 2c]
+Seat 1: whitecillar3 (big blind) folded before Flop
+Seat 2: I3aD Stockley showed [6h Qd] and lost with two pair, Aces and Sixes
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach showed [Ad Qc] and won ($134.45) with three of a kind, Aces
+Seat 8: mloppe (button) folded before Flop (didn't bet)
+Seat 9: daria130399 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680976485:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:19:22 ET
+Table 'Cordelia III' 9-max Seat #9 is the button
+Seat 1: whitecillar3 ($61.43 in chips) 
+Seat 2: I3aD Stockley ($12.87 in chips) 
+Seat 3: Malotru67 ($78.10 in chips) 
+Seat 4: cartman177 ($56.03 in chips) 
+Seat 5: nombraalne1 ($50.05 in chips) 
+Seat 6: xZaKoNaLx ($143.47 in chips) 
+Seat 7: siskin vrach ($134.45 in chips) 
+Seat 8: mloppe ($50 in chips) 
+Seat 9: daria130399 ($50.70 in chips) 
+whitecillar3: posts small blind $0.25
+I3aD Stockley: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: raises $0.70 to $1.20
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: calls $1.20
+daria130399: raises $5.05 to $6.25
+whitecillar3: folds 
+I3aD Stockley: raises $5.05 to $11.30
+nombraalne1: folds 
+mloppe: folds 
+daria130399: raises $5.05 to $16.35
+I3aD Stockley: calls $1.47 and is all-in
+Uncalled bet ($3.58) returned to daria130399
+I3aD Stockley:  
+daria130399:  
+*** FLOP *** [Kd 5c Kc]
+*** TURN *** [Kd 5c Kc] [Jh]
+*** RIVER *** [Kd 5c Kc Jh] [Jd]
+*** SHOW DOWN ***
+I3aD Stockley: shows [7s 6h] (two pair, Kings and Jacks)
+daria130399: shows [Td Tc] (two pair, Kings and Jacks - Ten kicker)
+daria130399 collected $27.64 from pot
+*** SUMMARY ***
+Total pot $29.09 | Rake $1.45 
+Board [Kd 5c Kc Jh Jd]
+Seat 1: whitecillar3 (small blind) folded before Flop
+Seat 2: I3aD Stockley (big blind) showed [7s 6h] and lost with two pair, Kings and Jacks
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop
+Seat 9: daria130399 (button) showed [Td Tc] and won ($27.64) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #228680992583:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:20:01 ET
+Table 'Cordelia III' 9-max Seat #1 is the button
+Seat 1: whitecillar3 ($61.08 in chips) 
+Seat 3: Malotru67 ($78 in chips) 
+Seat 4: cartman177 ($55.93 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($143.37 in chips) 
+Seat 7: siskin vrach ($134.35 in chips) 
+Seat 8: mloppe ($48.70 in chips) 
+Seat 9: daria130399 ($65.47 in chips) 
+Malotru67: posts small blind $0.25
+cartman177: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+nombraalne1: folds 
+xZaKoNaLx: raises $1 to $1.50
+siskin vrach: folds 
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: folds 
+Uncalled bet ($1) returned to xZaKoNaLx
+xZaKoNaLx collected $2.05 from pot
+xZaKoNaLx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0 
+Seat 1: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 3: Malotru67 (small blind) folded before Flop
+Seat 4: cartman177 (big blind) folded before Flop
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx collected ($2.05)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681001901:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:20:29 ET
+Table 'Cordelia III' 9-max Seat #3 is the button
+Seat 1: whitecillar3 ($60.98 in chips) 
+Seat 3: Malotru67 ($77.65 in chips) 
+Seat 4: cartman177 ($55.33 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($144.82 in chips) 
+Seat 7: siskin vrach ($134.25 in chips) 
+Seat 8: mloppe ($48.60 in chips) 
+Seat 9: daria130399 ($65.37 in chips) 
+cartman177: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: raises $1 to $1.50
+nombraalne1: raises $4 to $5.50
+cartman177: folds 
+Uncalled bet ($4) returned to nombraalne1
+nombraalne1 collected $3.80 from pot
+nombraalne1: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.80 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 (button) folded before Flop (didn't bet)
+Seat 4: cartman177 (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) collected ($3.80)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681012573:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:21:00 ET
+Table 'Cordelia III' 9-max Seat #4 is the button
+Seat 1: whitecillar3 ($60.88 in chips) 
+Seat 3: Malotru67 ($77.55 in chips) 
+Seat 4: cartman177 ($53.73 in chips) 
+Seat 5: nombraalne1 ($52.20 in chips) 
+Seat 6: xZaKoNaLx ($144.72 in chips) 
+Seat 7: siskin vrach ($134.15 in chips) 
+Seat 8: mloppe ($48.50 in chips) 
+Seat 9: daria130399 ($65.27 in chips) 
+nombraalne1: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+siskin vrach: folds 
+mloppe: folds 
+daria130399: raises $1 to $1.50
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+Uncalled bet ($1) returned to daria130399
+daria130399 collected $2.05 from pot
+daria130399: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: xZaKoNaLx (big blind) folded before Flop
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 collected ($2.05)
+
+
+
+PokerStars Hand #228681018950:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:21:19 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 1: whitecillar3 ($60.78 in chips) 
+Seat 3: Malotru67 ($77.45 in chips) 
+Seat 4: cartman177 ($53.63 in chips) 
+Seat 5: nombraalne1 ($51.85 in chips) 
+Seat 6: xZaKoNaLx ($144.12 in chips) 
+Seat 7: siskin vrach ($134.05 in chips) 
+Seat 8: mloppe ($48.40 in chips) 
+Seat 9: daria130399 ($66.72 in chips) 
+xZaKoNaLx: posts small blind $0.25
+siskin vrach: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+Uncalled bet ($0.25) returned to siskin vrach
+siskin vrach collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (small blind) folded before Flop
+Seat 7: siskin vrach (big blind) collected ($1.30)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681024027:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:21:34 ET
+Table 'Cordelia III' 9-max Seat #6 is the button
+Seat 1: whitecillar3 ($60.68 in chips) 
+Seat 3: Malotru67 ($77.35 in chips) 
+Seat 4: cartman177 ($53.53 in chips) 
+Seat 5: nombraalne1 ($51.75 in chips) 
+Seat 6: xZaKoNaLx ($143.77 in chips) 
+Seat 7: siskin vrach ($135 in chips) 
+Seat 8: mloppe ($48.30 in chips) 
+Seat 9: daria130399 ($66.62 in chips) 
+siskin vrach: posts small blind $0.25
+mloppe: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: raises $0.75 to $1.25
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+Uncalled bet ($0.75) returned to cartman177
+cartman177 collected $2.05 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 collected ($2.05)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (button) folded before Flop (didn't bet)
+Seat 7: siskin vrach (small blind) folded before Flop
+Seat 8: mloppe (big blind) folded before Flop
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681031074:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:21:56 ET
+Table 'Cordelia III' 9-max Seat #7 is the button
+Seat 1: whitecillar3 ($60.58 in chips) 
+Seat 3: Malotru67 ($77.25 in chips) 
+Seat 4: cartman177 ($54.98 in chips) 
+Seat 5: nombraalne1 ($51.65 in chips) 
+Seat 6: xZaKoNaLx ($143.67 in chips) 
+Seat 7: siskin vrach ($134.65 in chips) 
+Seat 8: mloppe ($47.70 in chips) 
+Seat 9: daria130399 ($66.52 in chips) 
+mloppe: posts small blind $0.25
+daria130399: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: raises $1 to $1.50
+mloppe: folds 
+daria130399: folds 
+Uncalled bet ($1) returned to siskin vrach
+siskin vrach collected $2.05 from pot
+*** SUMMARY ***
+Total pot $2.05 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach (button) collected ($2.05)
+Seat 8: mloppe (small blind) folded before Flop
+Seat 9: daria130399 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228681039674:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:22:21 ET
+Table 'Cordelia III' 9-max Seat #8 is the button
+Seat 1: whitecillar3 ($60.48 in chips) 
+Seat 3: Malotru67 ($77.15 in chips) 
+Seat 4: cartman177 ($54.88 in chips) 
+Seat 5: nombraalne1 ($51.55 in chips) 
+Seat 6: xZaKoNaLx ($143.57 in chips) 
+Seat 7: siskin vrach ($136.10 in chips) 
+Seat 8: mloppe ($47.35 in chips) 
+Seat 9: daria130399 ($65.92 in chips) 
+daria130399: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+daria130399: raises $1 to $1.50
+whitecillar3: raises $3.50 to $5
+daria130399: folds 
+Uncalled bet ($3.50) returned to whitecillar3
+whitecillar3 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $3.80 | Rake $0 
+Seat 1: whitecillar3 (big blind) collected ($3.80)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe (button) folded before Flop (didn't bet)
+Seat 9: daria130399 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228681049429:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:22:50 ET
+Table 'Cordelia III' 9-max Seat #9 is the button
+Seat 1: whitecillar3 ($62.68 in chips) 
+Seat 3: Malotru67 ($77.05 in chips) 
+Seat 4: cartman177 ($54.78 in chips) 
+Seat 5: nombraalne1 ($51.45 in chips) 
+Seat 6: xZaKoNaLx ($143.47 in chips) 
+Seat 7: siskin vrach ($136 in chips) 
+Seat 8: mloppe ($47.25 in chips) 
+Seat 9: daria130399 ($64.32 in chips) 
+whitecillar3: posts small blind $0.25
+Malotru67: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: raises $1 to $1.50
+siskin vrach: folds 
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+Malotru67: folds 
+Uncalled bet ($1) returned to xZaKoNaLx
+xZaKoNaLx collected $2.05 from pot
+xZaKoNaLx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0 
+Seat 1: whitecillar3 (small blind) folded before Flop
+Seat 3: Malotru67 (big blind) folded before Flop
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx collected ($2.05)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681055632:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:23:08 ET
+Table 'Cordelia III' 9-max Seat #1 is the button
+Seat 1: whitecillar3 ($62.33 in chips) 
+Seat 3: Malotru67 ($76.45 in chips) 
+Seat 4: cartman177 ($54.68 in chips) 
+Seat 5: nombraalne1 ($51.35 in chips) 
+Seat 6: xZaKoNaLx ($144.92 in chips) 
+Seat 7: siskin vrach ($135.90 in chips) 
+Seat 8: mloppe ($47.15 in chips) 
+Seat 9: daria130399 ($64.22 in chips) 
+Malotru67: posts small blind $0.25
+cartman177: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+Malotru67: raises $1 to $1.50
+cartman177: raises $3.25 to $4.75
+Malotru67: folds 
+Uncalled bet ($3.25) returned to cartman177
+cartman177 collected $3.80 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.80 | Rake $0 
+Seat 1: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 3: Malotru67 (small blind) folded before Flop
+Seat 4: cartman177 (big blind) collected ($3.80)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681064326:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:23:35 ET
+Table 'Cordelia III' 9-max Seat #3 is the button
+Seat 1: whitecillar3 ($62.23 in chips) 
+Seat 3: Malotru67 ($74.85 in chips) 
+Seat 4: cartman177 ($56.88 in chips) 
+Seat 5: nombraalne1 ($51.25 in chips) 
+Seat 6: xZaKoNaLx ($144.82 in chips) 
+Seat 7: siskin vrach ($135.80 in chips) 
+Seat 8: mloppe ($47.05 in chips) 
+Seat 9: daria130399 ($64.12 in chips) 
+cartman177: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: raises $1 to $1.50
+nombraalne1: folds 
+Uncalled bet ($1) returned to cartman177
+cartman177 collected $1.80 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 (button) folded before Flop (didn't bet)
+Seat 4: cartman177 (small blind) collected ($1.80)
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681070198:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:23:52 ET
+Table 'Cordelia III' 9-max Seat #4 is the button
+Seat 1: whitecillar3 ($62.13 in chips) 
+Seat 3: Malotru67 ($74.75 in chips) 
+Seat 4: cartman177 ($58.08 in chips) 
+Seat 5: nombraalne1 ($50.65 in chips) 
+Seat 6: xZaKoNaLx ($144.72 in chips) 
+Seat 7: siskin vrach ($135.70 in chips) 
+Seat 8: mloppe ($46.95 in chips) 
+Seat 9: daria130399 ($64.02 in chips) 
+nombraalne1: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+siskin vrach: raises $1 to $1.50
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: calls $1.25
+xZaKoNaLx: calls $1
+*** FLOP *** [Ac 5h Jh]
+nombraalne1: checks 
+xZaKoNaLx: checks 
+siskin vrach: bets $2
+nombraalne1: folds 
+xZaKoNaLx: calls $2
+*** TURN *** [Ac 5h Jh] [8h]
+xZaKoNaLx: checks 
+siskin vrach: bets $3.50
+xZaKoNaLx: calls $3.50
+*** RIVER *** [Ac 5h Jh 8h] [Qd]
+xZaKoNaLx: checks 
+siskin vrach: bets $7
+xZaKoNaLx: folds 
+Uncalled bet ($7) returned to siskin vrach
+siskin vrach collected $15.48 from pot
+*** SUMMARY ***
+Total pot $16.30 | Rake $0.82 
+Board [Ac 5h Jh 8h Qd]
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded on the Flop
+Seat 6: xZaKoNaLx (big blind) folded on the River
+Seat 7: siskin vrach collected ($15.48)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681104676:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:25:34 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 1: whitecillar3 ($62.03 in chips) 
+Seat 3: Malotru67 ($74.65 in chips) 
+Seat 4: cartman177 ($57.98 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($137.62 in chips) 
+Seat 7: siskin vrach ($144.08 in chips) 
+Seat 8: mloppe ($46.85 in chips) 
+Seat 9: daria130399 ($63.92 in chips) 
+xZaKoNaLx: posts small blind $0.25
+siskin vrach: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+Uncalled bet ($0.25) returned to siskin vrach
+siskin vrach collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (small blind) folded before Flop
+Seat 7: siskin vrach (big blind) collected ($1.30)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681110228:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:25:50 ET
+Table 'Cordelia III' 9-max Seat #6 is the button
+Seat 1: whitecillar3 ($61.93 in chips) 
+Seat 3: Malotru67 ($74.55 in chips) 
+Seat 4: cartman177 ($57.88 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($137.27 in chips) 
+Seat 7: siskin vrach ($145.03 in chips) 
+Seat 8: mloppe ($46.75 in chips) 
+Seat 9: daria130399 ($63.82 in chips) 
+siskin vrach: posts small blind $0.25
+mloppe: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: raises $0.70 to $1.20
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+Uncalled bet ($0.70) returned to nombraalne1
+nombraalne1 collected $2.05 from pot
+nombraalne1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 collected ($2.05)
+Seat 6: xZaKoNaLx (button) folded before Flop (didn't bet)
+Seat 7: siskin vrach (small blind) folded before Flop
+Seat 8: mloppe (big blind) folded before Flop
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681120296:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:26:20 ET
+Table 'Cordelia III' 9-max Seat #7 is the button
+Seat 1: whitecillar3 ($61.83 in chips) 
+Seat 3: Malotru67 ($74.45 in chips) 
+Seat 4: cartman177 ($57.78 in chips) 
+Seat 5: nombraalne1 ($51.45 in chips) 
+Seat 6: xZaKoNaLx ($137.17 in chips) 
+Seat 7: siskin vrach ($144.68 in chips) 
+Seat 8: mloppe ($46.15 in chips) 
+mloppe: posts small blind $0.25
+daria130399: is sitting out 
+whitecillar3: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: folds 
+cartman177: folds 
+daria130399 leaves the table
+nombraalne1: raises $0.70 to $1.20
+xZaKoNaLx: raises $3.05 to $4.25
+siskin vrach: folds 
+mloppe: folds 
+whitecillar3: folds 
+nombraalne1: raises $6.75 to $11
+xZaKoNaLx: folds 
+Uncalled bet ($6.75) returned to nombraalne1
+nombraalne1 collected $9.95 from pot
+nombraalne1: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.95 | Rake $0 
+Seat 1: whitecillar3 (big blind) folded before Flop
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 collected ($9.95)
+Seat 6: xZaKoNaLx folded before Flop
+Seat 7: siskin vrach (button) folded before Flop (didn't bet)
+Seat 8: mloppe (small blind) folded before Flop
+
+
+
+PokerStars Hand #228681131701:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:26:54 ET
+Table 'Cordelia III' 9-max Seat #8 is the button
+Seat 1: whitecillar3 ($61.23 in chips) 
+Seat 3: Malotru67 ($74.35 in chips) 
+Seat 4: cartman177 ($57.68 in chips) 
+Seat 5: nombraalne1 ($57.05 in chips) 
+Seat 6: xZaKoNaLx ($132.82 in chips) 
+Seat 7: siskin vrach ($144.58 in chips) 
+Seat 8: mloppe ($50 in chips) 
+whitecillar3: posts small blind $0.25
+Malotru67: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+nombraalne1: folds 
+nombraalne1 leaves the table
+xZaKoNaLx: raises $0.75 to $1.25
+siskin vrach: folds 
+mloppe: folds 
+whitecillar3: calls $1
+Malotru67: folds 
+*** FLOP *** [Qc 8h 5s]
+whitecillar3: checks 
+I3aD Stockley is disconnected 
+xZaKoNaLx: bets $1.16
+AlexEliseev7 joins the table at seat #9 
+whitecillar3: calls $1.16
+*** TURN *** [Qc 8h 5s] [3d]
+whitecillar3: checks 
+xZaKoNaLx: checks 
+*** RIVER *** [Qc 8h 5s 3d] [Qs]
+whitecillar3: bets $1.77
+xZaKoNaLx: raises $4.63 to $6.40
+whitecillar3: folds 
+Uncalled bet ($4.63) returned to xZaKoNaLx
+xZaKoNaLx collected $9.08 from pot
+xZaKoNaLx: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.56 | Rake $0.48 
+Board [Qc 8h 5s 3d Qs]
+Seat 1: whitecillar3 (small blind) folded on the River
+Seat 3: Malotru67 (big blind) folded before Flop
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx collected ($9.08)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681157242:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:28:10 ET
+Table 'Cordelia III' 9-max Seat #1 is the button
+Seat 1: whitecillar3 ($56.95 in chips) 
+Seat 3: Malotru67 ($73.75 in chips) 
+Seat 4: cartman177 ($57.58 in chips) 
+Seat 6: xZaKoNaLx ($137.62 in chips) 
+Seat 7: siskin vrach ($144.48 in chips) 
+Seat 8: mloppe ($49.90 in chips) 
+Malotru67: posts small blind $0.25
+cartman177: posts big blind $0.50
+AlexEliseev7: sits out 
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+*** HOLE CARDS ***
+xZaKoNaLx: folds 
+siskin vrach: folds 
+dstrola joins the table at seat #5 
+mloppe: raises $1 to $1.50
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: folds 
+Uncalled bet ($1) returned to mloppe
+mloppe collected $1.85 from pot
+mloppe: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 3: Malotru67 (small blind) folded before Flop
+Seat 4: cartman177 (big blind) folded before Flop
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe collected ($1.85)
+
+
+
+PokerStars Hand #228681163063:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:28:27 ET
+Table 'Cordelia III' 9-max Seat #3 is the button
+Seat 1: whitecillar3 ($56.85 in chips) 
+Seat 3: Malotru67 ($73.40 in chips) 
+Seat 4: cartman177 ($56.98 in chips) 
+Seat 5: dstrola ($50 in chips) 
+Seat 6: xZaKoNaLx ($137.52 in chips) 
+Seat 7: siskin vrach ($144.38 in chips) 
+Seat 8: mloppe ($51.15 in chips) 
+cartman177: posts small blind $0.25
+dstrola: posts big blind $0.50
+AlexEliseev7: sits out 
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+dstrola: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+*** HOLE CARDS ***
+xZaKoNaLx: raises $1.25 to $1.75
+siskin vrach: folds 
+mloppe: folds 
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: folds 
+dstrola: folds 
+Uncalled bet ($1.25) returned to xZaKoNaLx
+I3aD Stockley is disconnected 
+xZaKoNaLx collected $1.95 from pot
+xZaKoNaLx: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 (button) folded before Flop (didn't bet)
+Seat 4: cartman177 (small blind) folded before Flop
+Seat 5: dstrola (big blind) folded before Flop
+Seat 6: xZaKoNaLx collected ($1.95)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681170753:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:28:50 ET
+Table 'Cordelia III' 9-max Seat #4 is the button
+Seat 1: whitecillar3 ($56.75 in chips) 
+Seat 3: Malotru67 ($73.30 in chips) 
+Seat 4: cartman177 ($56.63 in chips) 
+Seat 5: dstrola ($50 in chips) 
+Seat 6: xZaKoNaLx ($138.87 in chips) 
+Seat 7: siskin vrach ($144.28 in chips) 
+Seat 8: mloppe ($51.05 in chips) 
+dstrola: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+AlexEliseev7: sits out 
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+dstrola: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+*** HOLE CARDS ***
+siskin vrach: folds 
+mloppe: folds 
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: folds 
+dstrola: raises $2 to $2.50
+xZaKoNaLx: folds 
+Uncalled bet ($2) returned to dstrola
+dstrola collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.70 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 (button) folded before Flop (didn't bet)
+Seat 5: dstrola (small blind) collected ($1.70)
+Seat 6: xZaKoNaLx (big blind) folded before Flop
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681178159:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:29:12 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 1: whitecillar3 ($56.65 in chips) 
+Seat 3: Malotru67 ($73.20 in chips) 
+Seat 4: cartman177 ($56.53 in chips) 
+Seat 5: dstrola ($51.10 in chips) 
+Seat 6: xZaKoNaLx ($138.27 in chips) 
+Seat 7: siskin vrach ($144.18 in chips) 
+Seat 8: mloppe ($50.95 in chips) 
+xZaKoNaLx: posts small blind $0.25
+siskin vrach: posts big blind $0.50
+AlexEliseev7: sits out 
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+dstrola: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+*** HOLE CARDS ***
+mloppe: folds 
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: raises $0.62 to $1.12
+dstrola: folds 
+xZaKoNaLx: folds 
+siskin vrach: folds 
+Uncalled bet ($0.62) returned to cartman177
+cartman177 collected $1.95 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 collected ($1.95)
+Seat 5: dstrola (button) folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (small blind) folded before Flop
+Seat 7: siskin vrach (big blind) folded before Flop
+Seat 8: mloppe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681185833:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:29:35 ET
+Table 'Cordelia III' 9-max Seat #6 is the button
+Seat 1: whitecillar3 ($56.55 in chips) 
+Seat 3: Malotru67 ($73.10 in chips) 
+Seat 4: cartman177 ($57.88 in chips) 
+Seat 5: dstrola ($51 in chips) 
+Seat 6: xZaKoNaLx ($137.92 in chips) 
+Seat 7: siskin vrach ($143.58 in chips) 
+Seat 8: mloppe ($50.85 in chips) 
+siskin vrach: posts small blind $0.25
+mloppe: posts big blind $0.50
+AlexEliseev7: sits out 
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+dstrola: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+Malotru67: raises $0.75 to $1.25
+cartman177: folds 
+dstrola: folds 
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: calls $0.75
+*** FLOP *** [Ts 9h Td]
+mloppe: checks 
+Malotru67: bets $0.82
+mloppe: calls $0.82
+*** TURN *** [Ts 9h Td] [Jc]
+mloppe: checks 
+Malotru67: checks 
+*** RIVER *** [Ts 9h Td Jc] [6h]
+mloppe: checks 
+Malotru67: checks 
+*** SHOW DOWN ***
+mloppe: shows [4d 4h] (two pair, Tens and Fours)
+Malotru67: shows [Ah Jh] (two pair, Jacks and Tens)
+Malotru67 collected $4.84 from pot
+*** SUMMARY ***
+Total pot $5.09 | Rake $0.25 
+Board [Ts 9h Td Jc 6h]
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 showed [Ah Jh] and won ($4.84) with two pair, Jacks and Tens
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: dstrola folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (button) folded before Flop (didn't bet)
+Seat 7: siskin vrach (small blind) folded before Flop
+Seat 8: mloppe (big blind) showed [4d 4h] and lost with two pair, Tens and Fours
+
+
+
+PokerStars Hand #228681210034:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:30:46 ET
+Table 'Cordelia III' 9-max Seat #7 is the button
+Seat 1: whitecillar3 ($56.45 in chips) 
+Seat 3: Malotru67 ($75.77 in chips) 
+Seat 4: cartman177 ($57.78 in chips) 
+Seat 5: dstrola ($50.90 in chips) 
+Seat 6: xZaKoNaLx ($137.82 in chips) 
+Seat 7: siskin vrach ($143.23 in chips) 
+Seat 8: mloppe ($48.68 in chips) 
+Seat 9: AlexEliseev7 ($50 in chips) 
+mloppe: posts small blind $0.25
+AlexEliseev7: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+dstrola: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+AlexEliseev7: posts the ante $0.10
+*** HOLE CARDS ***
+whitecillar3: folds 
+Malotru67: folds 
+cartman177: folds 
+dstrola: folds 
+xZaKoNaLx: raises $1 to $1.50
+I3aD Stockley is disconnected 
+siskin vrach: folds 
+mloppe: folds 
+AlexEliseev7: calls $1
+*** FLOP *** [3c 2h 5c]
+AlexEliseev7: checks 
+xZaKoNaLx: bets $1.93
+AlexEliseev7: raises $3.78 to $5.71
+xZaKoNaLx: calls $3.78
+*** TURN *** [3c 2h 5c] [9h]
+AlexEliseev7: checks 
+xZaKoNaLx: bets $4.85
+AlexEliseev7: calls $4.85
+*** RIVER *** [3c 2h 5c 9h] [2d]
+AlexEliseev7: checks 
+xZaKoNaLx: checks 
+*** SHOW DOWN ***
+AlexEliseev7: shows [2c Ac] (three of a kind, Deuces)
+xZaKoNaLx: mucks hand 
+AlexEliseev7 collected $23.91 from pot
+*** SUMMARY ***
+Total pot $25.17 | Rake $1.26 
+Board [3c 2h 5c 9h 2d]
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: dstrola folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx mucked
+Seat 7: siskin vrach (button) folded before Flop (didn't bet)
+Seat 8: mloppe (small blind) folded before Flop
+Seat 9: AlexEliseev7 (big blind) showed [2c Ac] and won ($23.91) with three of a kind, Deuces
+
+
+
+PokerStars Hand #228681250079:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:32:45 ET
+Table 'Cordelia III' 9-max Seat #8 is the button
+Seat 1: whitecillar3 ($56.35 in chips) 
+Seat 3: Malotru67 ($75.67 in chips) 
+Seat 4: cartman177 ($57.68 in chips) 
+Seat 5: dstrola ($50.80 in chips) 
+Seat 6: xZaKoNaLx ($125.66 in chips) 
+Seat 7: siskin vrach ($143.13 in chips) 
+Seat 8: mloppe ($48.33 in chips) 
+Seat 9: AlexEliseev7 ($61.75 in chips) 
+AlexEliseev7: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+dstrola: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+AlexEliseev7: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: folds 
+cartman177: raises $1 to $1.50
+dstrola: raises $4 to $5.50
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+AlexEliseev7: folds 
+whitecillar3: folds 
+cartman177: folds 
+Uncalled bet ($4) returned to dstrola
+dstrola collected $4.55 from pot
+*** SUMMARY ***
+Total pot $4.55 | Rake $0 
+Seat 1: whitecillar3 (big blind) folded before Flop
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop
+Seat 5: dstrola collected ($4.55)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe (button) folded before Flop (didn't bet)
+Seat 9: AlexEliseev7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228681257879:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:33:08 ET
+Table 'Cordelia III' 9-max Seat #9 is the button
+Seat 1: whitecillar3 ($55.75 in chips) 
+Seat 5: dstrola ($53.75 in chips) 
+Seat 6: xZaKoNaLx ($125.56 in chips) 
+Seat 7: siskin vrach ($143.03 in chips) 
+Seat 8: mloppe ($48.23 in chips) 
+Seat 9: AlexEliseev7 ($61.40 in chips) 
+whitecillar3: posts small blind $0.25
+Malotru67: is sitting out 
+cartman177: is sitting out 
+dstrola: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+dstrola: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+AlexEliseev7: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67 leaves the table
+xZaKoNaLx: raises $1.25 to $1.75
+siskin vrach: folds 
+mloppe: folds 
+AlexEliseev7: raises $2.25 to $4
+whitecillar3: folds 
+dstrola: folds 
+cartman177 leaves the table
+xZaKoNaLx: folds 
+Uncalled bet ($2.25) returned to AlexEliseev7
+AlexEliseev7 collected $4.85 from pot
+I3aD Stockley was removed from the table for failing to post
+I3aD Stockley leaves the table
+AlexEliseev7: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0 
+Seat 1: whitecillar3 (small blind) folded before Flop
+Seat 5: dstrola (big blind) folded before Flop
+Seat 6: xZaKoNaLx folded before Flop
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: AlexEliseev7 (button) collected ($4.85)
+
+
+
+PokerStars Hand #228681267252:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:33:36 ET
+Table 'Cordelia III' 9-max Seat #1 is the button
+Seat 1: whitecillar3 ($55.40 in chips) 
+Seat 5: dstrola ($53.15 in chips) 
+Seat 6: xZaKoNaLx ($123.71 in chips) 
+Seat 7: siskin vrach ($142.93 in chips) 
+Seat 8: mloppe ($48.13 in chips) 
+Seat 9: AlexEliseev7 ($64.40 in chips) 
+dstrola: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+dstrola: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+AlexEliseev7: posts the ante $0.10
+*** HOLE CARDS ***
+siskin vrach: folds 
+mloppe: folds 
+AlexEliseev7: folds 
+whitecillar3: folds 
+dstrola: raises $2 to $2.50
+xZaKoNaLx: folds 
+Uncalled bet ($2) returned to dstrola
+dstrola collected $1.60 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0 
+Seat 1: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 5: dstrola (small blind) collected ($1.60)
+Seat 6: xZaKoNaLx (big blind) folded before Flop
+Seat 7: siskin vrach folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: AlexEliseev7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681271621:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:33:49 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 1: whitecillar3 ($55.30 in chips) 
+Seat 5: dstrola ($54.15 in chips) 
+Seat 6: xZaKoNaLx ($123.11 in chips) 
+xZaKoNaLx: posts small blind $0.25
+siskin vrach: is sitting out 
+mloppe: is sitting out 
+AlexEliseev7: is sitting out 
+whitecillar3: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+dstrola: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+dstrola: raises $1.55 to $2.05
+siskin vrach leaves the table
+AlexEliseev7 leaves the table
+mloppe leaves the table
+xZaKoNaLx: folds 
+whitecillar3: folds 
+Uncalled bet ($1.55) returned to dstrola
+dstrola collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0 
+Seat 1: whitecillar3 (big blind) folded before Flop
+Seat 5: dstrola (button) collected ($1.55)
+Seat 6: xZaKoNaLx (small blind) folded before Flop
+
+
+
+PokerStars Hand #228681275305:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:34:00 ET
+Table 'Cordelia III' 9-max Seat #6 is the button
+Seat 1: whitecillar3 ($54.70 in chips) 
+Seat 5: dstrola ($55.10 in chips) 
+Seat 6: xZaKoNaLx ($122.76 in chips) 
+whitecillar3: posts small blind $0.25
+dstrola: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+dstrola: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+*** HOLE CARDS ***
+xZaKoNaLx: folds 
+whitecillar3: folds 
+Uncalled bet ($0.25) returned to dstrola
+dstrola collected $0.80 from pot
+xZaKoNaLx leaves the table
+*** SUMMARY ***
+Total pot $0.80 | Rake $0 
+Seat 1: whitecillar3 (small blind) folded before Flop
+Seat 5: dstrola (big blind) collected ($0.80)
+Seat 6: xZaKoNaLx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228681277795:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:34:07 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 1: whitecillar3 ($54.35 in chips) 
+Seat 5: dstrola ($55.55 in chips) 
+dstrola: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+dstrola: posts the ante $0.10
+*** HOLE CARDS ***
+dstrola: raises $1.50 to $2
+whitecillar3: raises $5 to $7
+dstrola: folds 
+Uncalled bet ($5) returned to whitecillar3
+whitecillar3 collected $4.20 from pot
+*** SUMMARY ***
+Total pot $4.20 | Rake $0 
+Seat 1: whitecillar3 (big blind) collected ($4.20)
+Seat 5: dstrola (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680641550:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:03:45 ET
+Table 'Cordelia III' 9-max Seat #4 is the button
+Seat 2: I3aD Stockley ($91.75 in chips) 
+Seat 3: Malotru67 ($58.37 in chips) 
+Seat 4: cartman177 ($64.33 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($145.13 in chips) 
+Seat 9: daria130399 ($52.45 in chips) 
+nombraalne1: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+mloppe: sits out 
+whitecillar3: sits out 
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+I3aD Stockley is disconnected 
+I3aD Stockley has timed out while being disconnected
+I3aD Stockley: folds 
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+Uncalled bet ($0.25) returned to xZaKoNaLx
+xZaKoNaLx collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0 
+Seat 2: I3aD Stockley folded before Flop (didn't bet)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: xZaKoNaLx (big blind) collected ($1.10)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680631439:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:03:13 ET
+Table 'Cordelia III' 9-max Seat #3 is the button
+Seat 2: I3aD Stockley ($93.85 in chips) 
+Seat 3: Malotru67 ($55.39 in chips) 
+Seat 4: cartman177 ($64.68 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($145.23 in chips) 
+Seat 9: daria130399 ($52.55 in chips) 
+cartman177: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+whitecillar3: sits out 
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+xZaKoNaLx: folds 
+daria130399: folds 
+I3aD Stockley: calls $0.50
+mloppe joins the table at seat #8 
+Malotru67: raises $1.50 to $2
+cartman177: folds 
+nombraalne1: folds 
+I3aD Stockley: calls $1.50
+*** FLOP *** [5d 3h Js]
+I3aD Stockley: checks 
+Malotru67: bets $1.27
+I3aD Stockley: folds 
+Uncalled bet ($1.27) returned to Malotru67
+Malotru67 collected $5.08 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.35 | Rake $0.27 
+Board [5d 3h Js]
+Seat 2: I3aD Stockley folded on the Flop
+Seat 3: Malotru67 (button) collected ($5.08)
+Seat 4: cartman177 (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680671032:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:04:37 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 2: I3aD Stockley ($91.65 in chips) 
+Seat 3: Malotru67 ($58.27 in chips) 
+Seat 4: cartman177 ($64.23 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($145.88 in chips) 
+Seat 8: mloppe ($49 in chips) 
+Seat 9: daria130399 ($52.35 in chips) 
+xZaKoNaLx: posts small blind $0.25
+mloppe: posts big blind $0.50
+whitecillar3: sits out 
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+I3aD Stockley: calls $0.50
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: raises $2 to $2.50
+mloppe: folds 
+I3aD Stockley: calls $2
+*** FLOP *** [5h 3s Js]
+siskin vrach joins the table at seat #7 
+xZaKoNaLx: checks 
+I3aD Stockley: checks 
+*** TURN *** [5h 3s Js] [8d]
+xZaKoNaLx: checks 
+I3aD Stockley: checks 
+*** RIVER *** [5h 3s Js 8d] [6h]
+xZaKoNaLx: checks 
+I3aD Stockley: checks 
+*** SHOW DOWN ***
+xZaKoNaLx: shows [9c Ad] (high card Ace)
+I3aD Stockley: mucks hand 
+xZaKoNaLx collected $5.89 from pot
+*** SUMMARY ***
+Total pot $6.20 | Rake $0.31 
+Board [5h 3s Js 8d 6h]
+Seat 2: I3aD Stockley mucked
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (small blind) showed [9c Ad] and won ($5.89) with high card Ace
+Seat 8: mloppe (big blind) folded before Flop
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680683289:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:05:15 ET
+Table 'Cordelia III' 9-max Seat #6 is the button
+Seat 2: I3aD Stockley ($89.05 in chips) 
+Seat 3: Malotru67 ($58.17 in chips) 
+Seat 4: cartman177 ($64.13 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($149.17 in chips) 
+Seat 8: mloppe ($48.40 in chips) 
+Seat 9: daria130399 ($52.25 in chips) 
+mloppe: posts small blind $0.25
+daria130399: posts big blind $0.50
+whitecillar3: sits out 
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+I3aD Stockley: calls $0.50
+Malotru67: raises $1.50 to $2
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+mloppe: folds 
+daria130399: folds 
+I3aD Stockley: calls $1.50
+*** FLOP *** [As 4s Jd]
+I3aD Stockley: checks 
+Malotru67: checks 
+*** TURN *** [As 4s Jd] [9c]
+I3aD Stockley: bets $5.18
+Malotru67: folds 
+Uncalled bet ($5.18) returned to I3aD Stockley
+I3aD Stockley collected $5.18 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.45 | Rake $0.27 
+Board [As 4s Jd 9c]
+Seat 2: I3aD Stockley collected ($5.18)
+Seat 3: Malotru67 folded on the Turn
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (button) folded before Flop (didn't bet)
+Seat 8: mloppe (small blind) folded before Flop
+Seat 9: daria130399 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228680695941:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:05:53 ET
+Table 'Cordelia III' 9-max Seat #8 is the button
+Seat 1: whitecillar3 ($50 in chips) 
+Seat 2: I3aD Stockley ($92.13 in chips) 
+Seat 3: Malotru67 ($56.07 in chips) 
+Seat 4: cartman177 ($64.03 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($149.07 in chips) 
+Seat 8: mloppe ($48.05 in chips) 
+Seat 9: daria130399 ($51.65 in chips) 
+daria130399: posts small blind $0.25
+whitecillar3: posts big blind $0.50
+siskin vrach: sits out 
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+I3aD Stockley: calls $0.50
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: raises $1.25 to $1.75
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+I3aD Stockley: calls $1.25
+*** FLOP *** [6h 9h Kc]
+I3aD Stockley: checks 
+xZaKoNaLx: checks 
+*** TURN *** [6h 9h Kc] [8s]
+I3aD Stockley: checks 
+xZaKoNaLx: checks 
+*** RIVER *** [6h 9h Kc 8s] [8c]
+I3aD Stockley: bets $2.40
+xZaKoNaLx: folds 
+Uncalled bet ($2.40) returned to I3aD Stockley
+I3aD Stockley collected $4.80 from pot
+I3aD Stockley: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.05 | Rake $0.25 
+Board [6h 9h Kc 8s 8c]
+Seat 1: whitecillar3 (big blind) folded before Flop
+Seat 2: I3aD Stockley collected ($4.80)
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded on the River
+Seat 8: mloppe (button) folded before Flop (didn't bet)
+Seat 9: daria130399 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228680714956:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:06:51 ET
+Table 'Cordelia III' 9-max Seat #9 is the button
+Seat 1: whitecillar3 ($49.40 in chips) 
+Seat 2: I3aD Stockley ($95.08 in chips) 
+Seat 3: Malotru67 ($55.97 in chips) 
+Seat 4: cartman177 ($63.93 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($147.22 in chips) 
+Seat 8: mloppe ($47.95 in chips) 
+Seat 9: daria130399 ($51.30 in chips) 
+whitecillar3: posts small blind $0.25
+I3aD Stockley: posts big blind $0.50
+siskin vrach: sits out 
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+Malotru67: folds 
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: raises $1 to $1.50
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+I3aD Stockley has timed out
+I3aD Stockley: folds 
+Uncalled bet ($1) returned to xZaKoNaLx
+xZaKoNaLx collected $2.05 from pot
+xZaKoNaLx: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0 
+Seat 1: whitecillar3 (small blind) folded before Flop
+Seat 2: I3aD Stockley (big blind) folded before Flop
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx collected ($2.05)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680729922:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:07:36 ET
+Table 'Cordelia III' 9-max Seat #1 is the button
+Seat 1: whitecillar3 ($49.05 in chips) 
+Seat 2: I3aD Stockley ($94.48 in chips) 
+Seat 3: Malotru67 ($55.87 in chips) 
+Seat 4: cartman177 ($63.83 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($148.67 in chips) 
+Seat 8: mloppe ($47.85 in chips) 
+Seat 9: daria130399 ($51.20 in chips) 
+I3aD Stockley: posts small blind $0.25
+Malotru67: posts big blind $0.50
+siskin vrach: sits out 
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+mloppe: folds 
+daria130399: raises $1 to $1.50
+whitecillar3: folds 
+I3aD Stockley: folds 
+Malotru67: raises $4.25 to $5.75
+daria130399: raises $5.75 to $11.50
+Malotru67: raises $44.27 to $55.77 and is all-in
+daria130399: folds 
+Uncalled bet ($44.27) returned to Malotru67
+Malotru67 collected $24.05 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $24.05 | Rake $0 
+Seat 1: whitecillar3 (button) folded before Flop (didn't bet)
+Seat 2: I3aD Stockley (small blind) folded before Flop
+Seat 3: Malotru67 (big blind) collected ($24.05)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop
+
+
+
+PokerStars Hand #228680757583:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:08:30 ET
+Table 'Cordelia III' 9-max Seat #2 is the button
+Seat 1: whitecillar3 ($48.95 in chips) 
+Seat 2: I3aD Stockley ($94.13 in chips) 
+Seat 3: Malotru67 ($68.32 in chips) 
+Seat 4: cartman177 ($63.73 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($148.57 in chips) 
+Seat 8: mloppe ($47.75 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+Malotru67: posts small blind $0.25
+cartman177: posts big blind $0.50
+siskin vrach: sits out 
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+nombraalne1: raises $0.60 to $1.10
+xZaKoNaLx: folds 
+mloppe: folds 
+daria130399: folds 
+whitecillar3: calls $1.10
+I3aD Stockley: folds 
+Malotru67: folds 
+cartman177: folds 
+*** FLOP *** [8c 8s Jd]
+nombraalne1: bets $1.17
+whitecillar3: calls $1.17
+*** TURN *** [8c 8s Jd] [Qc]
+nombraalne1: bets $3
+whitecillar3: raises $3.65 to $6.65
+nombraalne1: folds 
+Uncalled bet ($3.65) returned to whitecillar3
+whitecillar3 collected $11.49 from pot
+*** SUMMARY ***
+Total pot $12.09 | Rake $0.60 
+Board [8c 8s Jd Qc]
+Seat 1: whitecillar3 collected ($11.49)
+Seat 2: I3aD Stockley (button) folded before Flop (didn't bet)
+Seat 3: Malotru67 (small blind) folded before Flop
+Seat 4: cartman177 (big blind) folded before Flop
+Seat 5: nombraalne1 folded on the Turn
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680777917:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:09:30 ET
+Table 'Cordelia III' 9-max Seat #3 is the button
+Seat 1: whitecillar3 ($55.07 in chips) 
+Seat 2: I3aD Stockley ($94.03 in chips) 
+Seat 3: Malotru67 ($67.97 in chips) 
+Seat 4: cartman177 ($63.13 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($148.47 in chips) 
+Seat 8: mloppe ($47.65 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+cartman177: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+siskin vrach: sits out 
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+xZaKoNaLx: folds 
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+I3aD Stockley: calls $0.50
+Malotru67: folds 
+cartman177: raises $1.50 to $2
+nombraalne1: folds 
+I3aD Stockley: calls $1.50
+*** FLOP *** [4s Kh Ac]
+cartman177: bets $3.78
+I3aD Stockley: folds 
+Uncalled bet ($3.78) returned to cartman177
+cartman177 collected $5.04 from pot
+cartman177: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.30 | Rake $0.26 
+Board [4s Kh Ac]
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 2: I3aD Stockley folded on the Flop
+Seat 3: Malotru67 (button) folded before Flop (didn't bet)
+Seat 4: cartman177 (small blind) collected ($5.04)
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 6: xZaKoNaLx folded before Flop (didn't bet)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680793247:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:10:16 ET
+Table 'Cordelia III' 9-max Seat #4 is the button
+Seat 1: whitecillar3 ($54.97 in chips) 
+Seat 2: I3aD Stockley ($91.93 in chips) 
+Seat 3: Malotru67 ($67.87 in chips) 
+Seat 4: cartman177 ($66.07 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($148.37 in chips) 
+Seat 8: mloppe ($47.55 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+nombraalne1: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+siskin vrach: sits out 
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+I3aD Stockley: calls $0.50
+Malotru67: raises $2 to $2.50
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+I3aD Stockley: calls $2
+*** FLOP *** [4d 9s Ah]
+I3aD Stockley: checks 
+Malotru67: bets $1.56
+I3aD Stockley: folds 
+Uncalled bet ($1.56) returned to Malotru67
+Malotru67 collected $6.22 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.55 | Rake $0.33 
+Board [4d 9s Ah]
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 2: I3aD Stockley folded on the Flop
+Seat 3: Malotru67 collected ($6.22)
+Seat 4: cartman177 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: xZaKoNaLx (big blind) folded before Flop
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680813143:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:11:15 ET
+Table 'Cordelia III' 9-max Seat #5 is the button
+Seat 1: whitecillar3 ($54.87 in chips) 
+Seat 2: I3aD Stockley ($89.33 in chips) 
+Seat 3: Malotru67 ($71.49 in chips) 
+Seat 4: cartman177 ($65.97 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($147.77 in chips) 
+Seat 7: siskin vrach ($50 in chips) 
+Seat 8: mloppe ($47.45 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+xZaKoNaLx: posts small blind $0.25
+siskin vrach: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+mloppe: folds 
+daria130399: folds 
+whitecillar3: folds 
+I3aD Stockley: calls $0.50
+Malotru67: folds 
+cartman177: raises $1.50 to $2
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: calls $1.50
+I3aD Stockley: calls $1.50
+*** FLOP *** [Tc 3s As]
+siskin vrach: checks 
+I3aD Stockley: checks 
+cartman177: checks 
+*** TURN *** [Tc 3s As] [Jh]
+siskin vrach: checks 
+I3aD Stockley: checks 
+cartman177: bets $2.24
+siskin vrach: calls $2.24
+I3aD Stockley: folds 
+*** RIVER *** [Tc 3s As Jh] [Kd]
+siskin vrach: checks 
+cartman177: bets $3.65
+siskin vrach: raises $8.85 to $12.50
+cartman177: folds 
+Uncalled bet ($8.85) returned to siskin vrach
+siskin vrach collected $17.98 from pot
+*** SUMMARY ***
+Total pot $18.93 | Rake $0.95 
+Board [Tc 3s As Jh Kd]
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 2: I3aD Stockley folded on the Turn
+Seat 3: Malotru67 folded before Flop (didn't bet)
+Seat 4: cartman177 folded on the River
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (small blind) folded before Flop
+Seat 7: siskin vrach (big blind) collected ($17.98)
+Seat 8: mloppe folded before Flop (didn't bet)
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228680835878:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 11:12:22 ET
+Table 'Cordelia III' 9-max Seat #6 is the button
+Seat 1: whitecillar3 ($54.77 in chips) 
+Seat 2: I3aD Stockley ($87.23 in chips) 
+Seat 3: Malotru67 ($71.39 in chips) 
+Seat 4: cartman177 ($57.98 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: xZaKoNaLx ($147.42 in chips) 
+Seat 7: siskin vrach ($59.99 in chips) 
+Seat 8: mloppe ($47.35 in chips) 
+Seat 9: daria130399 ($50 in chips) 
+siskin vrach: posts small blind $0.25
+mloppe: posts big blind $0.50
+whitecillar3: posts the ante $0.10
+I3aD Stockley: posts the ante $0.10
+Malotru67: posts the ante $0.10
+cartman177: posts the ante $0.10
+nombraalne1: posts the ante $0.10
+xZaKoNaLx: posts the ante $0.10
+siskin vrach: posts the ante $0.10
+mloppe: posts the ante $0.10
+daria130399: posts the ante $0.10
+*** HOLE CARDS ***
+daria130399: folds 
+whitecillar3: folds 
+I3aD Stockley: folds 
+Malotru67: raises $0.75 to $1.25
+cartman177: folds 
+nombraalne1: folds 
+xZaKoNaLx: folds 
+siskin vrach: folds 
+mloppe: folds 
+Uncalled bet ($0.75) returned to Malotru67
+Malotru67 collected $2.15 from pot
+Malotru67: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.15 | Rake $0 
+Seat 1: whitecillar3 folded before Flop (didn't bet)
+Seat 2: I3aD Stockley folded before Flop (didn't bet)
+Seat 3: Malotru67 collected ($2.15)
+Seat 4: cartman177 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: xZaKoNaLx (button) folded before Flop (didn't bet)
+Seat 7: siskin vrach (small blind) folded before Flop
+Seat 8: mloppe (big blind) folded before Flop
+Seat 9: daria130399 folded before Flop (didn't bet)
+
+
+

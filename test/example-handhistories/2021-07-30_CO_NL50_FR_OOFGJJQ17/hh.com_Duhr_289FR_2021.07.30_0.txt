@@ -1,0 +1,1914 @@
+﻿PokerStars Hand #228675479195:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:07:09 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($55.30 in chips) 
+Seat 4: ludemix ($50 in chips) 
+Seat 9: cosmin198484 ($40.97 in chips) 
+zheka656: posts small blind $0.25
+ludemix: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+zheka656: raises $1 to $1.50
+ludemix: folds 
+Uncalled bet ($1) returned to zheka656
+zheka656 collected $1 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: zheka656 (small blind) collected ($1)
+Seat 4: ludemix (big blind) folded before Flop
+Seat 9: cosmin198484 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675480682:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:07:17 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($55.80 in chips) 
+Seat 4: ludemix ($50 in chips) 
+Seat 9: cosmin198484 ($40.97 in chips) 
+ludemix: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+vegas999789 leaves the table
+zheka656: raises $0.75 to $1.25
+ludemix: folds 
+cosmin198484: folds 
+Uncalled bet ($0.75) returned to zheka656
+zheka656 collected $1.25 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: zheka656 (button) collected ($1.25)
+Seat 4: ludemix (small blind) folded before Flop
+Seat 9: cosmin198484 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228675481971:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:07:24 ET
+Table 'Duhr II' 9-max Seat #4 is the button
+Seat 3: zheka656 ($56.55 in chips) 
+Seat 4: ludemix ($50 in chips) 
+Seat 9: cosmin198484 ($40.47 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+ludemix: folds 
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to zheka656
+zheka656 collected $0.50 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (big blind) collected ($0.50)
+Seat 4: ludemix (button) folded before Flop (didn't bet)
+Seat 9: cosmin198484 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675483579:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:07:32 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($56.80 in chips) 
+Seat 4: ludemix ($50 in chips) 
+Seat 9: cosmin198484 ($40.22 in chips) 
+zheka656: posts small blind $0.25
+ludemix: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: raises $1.25 to $1.75
+zheka656: raises $3.75 to $5.50
+ludemix: folds 
+cosmin198484: calls $3.75
+*** FLOP *** [6s 4s Kc]
+zheka656: bets $5.90
+cosmin198484: folds 
+Uncalled bet ($5.90) returned to zheka656
+zheka656 collected $10.92 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.58 
+Board [6s 4s Kc]
+Seat 3: zheka656 (small blind) collected ($10.92)
+Seat 4: ludemix (big blind) folded before Flop
+Seat 9: cosmin198484 (button) folded on the Flop
+
+
+
+PokerStars Hand #228675550327:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:13:45 ET
+Table 'Duhr II' 9-max Seat #5 is the button
+Seat 2: Tecktonik456 ($18.25 in chips) 
+Seat 3: zheka656 ($58.58 in chips) 
+Seat 4: ludemix ($96.19 in chips) 
+Seat 5: Bratishok ($50 in chips) 
+Seat 6: Vert Dider ($50 in chips) 
+Seat 7: 247Solid ($50 in chips) 
+Seat 9: cosmin198484 ($50 in chips) 
+Vert Dider: posts small blind $0.25
+247Solid: posts big blind $0.50
+Popokluev: sits out 
+*** HOLE CARDS ***
+cosmin198484: folds 
+Tecktonik456: calls $0.50
+zheka656: folds 
+ludemix: folds 
+Bratishok: folds 
+Vert Dider: folds 
+247Solid: checks 
+*** FLOP *** [3d 8d Tc]
+247Solid: checks 
+Tecktonik456: checks 
+*** TURN *** [3d 8d Tc] [4d]
+247Solid: checks 
+Tecktonik456: checks 
+*** RIVER *** [3d 8d Tc 4d] [5h]
+247Solid: bets $0.79
+Tecktonik456: folds 
+Uncalled bet ($0.79) returned to 247Solid
+247Solid collected $1.19 from pot
+247Solid: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [3d 8d Tc 4d 5h]
+Seat 2: Tecktonik456 folded on the River
+Seat 3: zheka656 folded before Flop (didn't bet)
+Seat 4: ludemix folded before Flop (didn't bet)
+Seat 5: Bratishok (button) folded before Flop (didn't bet)
+Seat 6: Vert Dider (small blind) folded before Flop
+Seat 7: 247Solid (big blind) collected ($1.19)
+Seat 9: cosmin198484 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675561014:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:14:44 ET
+Table 'Duhr II' 9-max Seat #6 is the button
+Seat 2: Tecktonik456 ($17.75 in chips) 
+Seat 3: zheka656 ($58.58 in chips) 
+Seat 4: ludemix ($96.19 in chips) 
+Seat 5: Bratishok ($50 in chips) 
+Seat 6: Vert Dider ($50 in chips) 
+Seat 7: 247Solid ($50.69 in chips) 
+Seat 8: Popokluev ($50 in chips) 
+Seat 9: cosmin198484 ($50 in chips) 
+247Solid: posts small blind $0.25
+Popokluev: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Tecktonik456: folds 
+zheka656: folds 
+ludemix: folds 
+Bratishok: raises $0.74 to $1.24
+Vert Dider: folds 
+247Solid: folds 
+Popokluev: calls $0.74
+*** FLOP *** [7h Qs Ts]
+Popokluev: checks 
+Bratishok: bets $0.88
+Popokluev: calls $0.88
+*** TURN *** [7h Qs Ts] [3h]
+Popokluev: checks 
+Bratishok: bets $3.20
+Popokluev: calls $3.20
+*** RIVER *** [7h Qs Ts 3h] [Kd]
+Popokluev: checks 
+Bratishok: bets $3.52
+Popokluev: folds 
+Uncalled bet ($3.52) returned to Bratishok
+Bratishok collected $10.35 from pot
+Bratishok: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.89 | Rake $0.54 
+Board [7h Qs Ts 3h Kd]
+Seat 2: Tecktonik456 folded before Flop (didn't bet)
+Seat 3: zheka656 folded before Flop (didn't bet)
+Seat 4: ludemix folded before Flop (didn't bet)
+Seat 5: Bratishok collected ($10.35)
+Seat 6: Vert Dider (button) folded before Flop (didn't bet)
+Seat 7: 247Solid (small blind) folded before Flop
+Seat 8: Popokluev (big blind) folded on the River
+Seat 9: cosmin198484 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675468399:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:06:09 ET
+Table 'Duhr II' 9-max Seat #4 is the button
+Seat 3: zheka656 ($52.10 in chips) 
+Seat 4: ludemix ($50 in chips) 
+Seat 9: cosmin198484 ($43.97 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+ludemix: folds 
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to zheka656
+zheka656 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (big blind) collected ($0.50)
+Seat 4: ludemix (button) folded before Flop (didn't bet)
+Seat 9: cosmin198484 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675422311:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:01:49 ET
+Table 'Duhr II' 9-max Seat #4 is the button
+Seat 4: zheka656 ($50 in chips) 
+Seat 6: lotob1ngo ($50.50 in chips) 
+Seat 9: cosmin198484 ($50 in chips) 
+lotob1ngo: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: raises $0.75 to $1.25
+lotob1ngo: folds 
+cosmin198484: folds 
+Uncalled bet ($0.75) returned to zheka656
+zheka656 collected $1.25 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 4: zheka656 (button) collected ($1.25)
+Seat 6: lotob1ngo (small blind) folded before Flop
+Seat 9: cosmin198484 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228675424320:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:02:01 ET
+Table 'Duhr II' 9-max Seat #6 is the button
+Seat 4: zheka656 ($50.75 in chips) 
+Seat 6: lotob1ngo ($50.25 in chips) 
+Seat 9: cosmin198484 ($49.50 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+lotob1ngo: raises $0.75 to $1.25
+cosmin198484: folds 
+zheka656: folds 
+Uncalled bet ($0.75) returned to lotob1ngo
+lotob1ngo collected $1.25 from pot
+lotob1ngo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 4: zheka656 (big blind) folded before Flop
+Seat 6: lotob1ngo (button) collected ($1.25)
+Seat 9: cosmin198484 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675426483:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:02:13 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 4: zheka656 ($50.25 in chips) 
+Seat 6: lotob1ngo ($51 in chips) 
+Seat 9: cosmin198484 ($49.25 in chips) 
+zheka656: posts small blind $0.25
+lotob1ngo: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: raises $1.25 to $1.75
+zheka656: folds 
+lotob1ngo: folds 
+Uncalled bet ($1.25) returned to cosmin198484
+cosmin198484 collected $1.25 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 4: zheka656 (small blind) folded before Flop
+Seat 6: lotob1ngo (big blind) folded before Flop
+Seat 9: cosmin198484 (button) collected ($1.25)
+
+
+
+PokerStars Hand #228675428153:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:02:23 ET
+Table 'Duhr II' 9-max Seat #4 is the button
+Seat 4: zheka656 ($50 in chips) 
+Seat 6: lotob1ngo ($50.50 in chips) 
+Seat 9: cosmin198484 ($50 in chips) 
+lotob1ngo: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: raises $0.75 to $1.25
+lotob1ngo: raises $3.75 to $5
+cosmin198484: folds 
+zheka656: folds 
+Uncalled bet ($3.75) returned to lotob1ngo
+lotob1ngo collected $3 from pot
+lotob1ngo: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 4: zheka656 (button) folded before Flop
+Seat 6: lotob1ngo (small blind) collected ($3)
+Seat 9: cosmin198484 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228675432247:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:02:46 ET
+Table 'Duhr II' 9-max Seat #6 is the button
+Seat 4: zheka656 ($50 in chips) 
+Seat 6: lotob1ngo ($52.25 in chips) 
+Seat 9: cosmin198484 ($49.50 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+lotob1ngo: folds 
+cosmin198484: raises $1 to $1.50
+zheka656: folds 
+Uncalled bet ($1) returned to cosmin198484
+cosmin198484 collected $1 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 4: zheka656 (big blind) folded before Flop
+Seat 6: lotob1ngo (button) folded before Flop (didn't bet)
+Seat 9: cosmin198484 (small blind) collected ($1)
+
+
+
+PokerStars Hand #228675433650:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:02:54 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 4: zheka656 ($50 in chips) 
+Seat 6: lotob1ngo ($52.25 in chips) 
+Seat 9: cosmin198484 ($50 in chips) 
+zheka656: posts small blind $0.25
+lotob1ngo: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+zheka656: raises $1 to $1.50
+lotob1ngo: calls $1
+*** FLOP *** [Qs 6s 8h]
+zheka656: bets $1.54
+lotob1ngo: folds 
+Uncalled bet ($1.54) returned to zheka656
+zheka656 collected $2.85 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Qs 6s 8h]
+Seat 4: zheka656 (small blind) collected ($2.85)
+Seat 6: lotob1ngo (big blind) folded on the Flop
+Seat 9: cosmin198484 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675437392:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:03:16 ET
+Table 'Duhr II' 9-max Seat #4 is the button
+Seat 4: zheka656 ($51.35 in chips) 
+Seat 6: lotob1ngo ($50.75 in chips) 
+Seat 9: cosmin198484 ($50 in chips) 
+lotob1ngo: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: folds 
+lotob1ngo: raises $1 to $1.50
+cosmin198484: calls $1
+*** FLOP *** [Ad 3s 5s]
+lotob1ngo: bets $1.57
+cosmin198484: calls $1.57
+*** TURN *** [Ad 3s 5s] [Jd]
+lotob1ngo: bets $3.21
+cosmin198484: calls $3.21
+*** RIVER *** [Ad 3s 5s Jd] [Ah]
+lotob1ngo: checks 
+cosmin198484: bets $11.93
+lotob1ngo: folds 
+Uncalled bet ($11.93) returned to cosmin198484
+cosmin198484 collected $11.93 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.56 | Rake $0.63 
+Board [Ad 3s 5s Jd Ah]
+Seat 4: zheka656 (button) folded before Flop (didn't bet)
+Seat 6: lotob1ngo (small blind) folded on the River
+Seat 9: cosmin198484 (big blind) collected ($11.93)
+
+
+
+PokerStars Hand #228675445144:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:03:59 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 6: lotob1ngo ($50 in chips) 
+Seat 9: cosmin198484 ($55.65 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: is sitting out 
+lotob1ngo: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to lotob1ngo
+lotob1ngo collected $0.50 from pot
+lotob1ngo: doesn't show hand 
+zheka656 leaves the table
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 6: lotob1ngo (big blind) collected ($0.50)
+Seat 9: cosmin198484 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675446076:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:04:04 ET
+Table 'Duhr II' 9-max Seat #6 is the button
+Seat 6: lotob1ngo ($50.25 in chips) 
+Seat 9: cosmin198484 ($55.40 in chips) 
+lotob1ngo: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+lotob1ngo: raises $0.75 to $1.25
+cosmin198484: calls $0.75
+*** FLOP *** [6d Kd 8d]
+cosmin198484: checks 
+lotob1ngo: bets $1.31
+cosmin198484: folds 
+Uncalled bet ($1.31) returned to lotob1ngo
+lotob1ngo collected $2.38 from pot
+lotob1ngo: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [6d Kd 8d]
+Seat 6: lotob1ngo (button) (small blind) collected ($2.38)
+Seat 9: cosmin198484 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228675448481:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:04:18 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 6: lotob1ngo ($51.38 in chips) 
+Seat 9: cosmin198484 ($54.15 in chips) 
+cosmin198484: posts small blind $0.25
+lotob1ngo: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to lotob1ngo
+lotob1ngo collected $0.50 from pot
+lotob1ngo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 6: lotob1ngo (big blind) collected ($0.50)
+Seat 9: cosmin198484 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675449280:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:04:22 ET
+Table 'Duhr II' 9-max Seat #6 is the button
+Seat 6: lotob1ngo ($51.63 in chips) 
+Seat 9: cosmin198484 ($53.90 in chips) 
+lotob1ngo: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+lotob1ngo: raises $0.75 to $1.25
+cosmin198484: calls $0.75
+*** FLOP *** [2c 5c 3c]
+cosmin198484: bets $2.38
+lotob1ngo: calls $2.38
+*** TURN *** [2c 5c 3c] [Ts]
+cosmin198484: bets $6.90
+lotob1ngo: calls $6.90
+*** RIVER *** [2c 5c 3c Ts] [Ah]
+cosmin198484: checks 
+lotob1ngo: checks 
+*** SHOW DOWN ***
+cosmin198484: shows [5h 3h] (two pair, Fives and Threes)
+lotob1ngo: shows [Th Tc] (three of a kind, Tens)
+lotob1ngo collected $20.31 from pot
+*** SUMMARY ***
+Total pot $21.06 | Rake $0.75 
+Board [2c 5c 3c Ts Ah]
+Seat 6: lotob1ngo (button) (small blind) showed [Th Tc] and won ($20.31) with three of a kind, Tens
+Seat 9: cosmin198484 (big blind) showed [5h 3h] and lost with two pair, Fives and Threes
+
+
+
+PokerStars Hand #228675453681:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:04:47 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 6: lotob1ngo ($61.41 in chips) 
+Seat 9: cosmin198484 ($43.37 in chips) 
+cosmin198484: posts small blind $0.25
+lotob1ngo: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: raises $1 to $1.50
+lotob1ngo: calls $1
+*** FLOP *** [2h 8c Kh]
+lotob1ngo: checks 
+cosmin198484: bets $1.43
+lotob1ngo: folds 
+Uncalled bet ($1.43) returned to cosmin198484
+cosmin198484 collected $2.85 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [2h 8c Kh]
+Seat 6: lotob1ngo (big blind) folded on the Flop
+Seat 9: cosmin198484 (button) (small blind) collected ($2.85)
+
+
+
+PokerStars Hand #228675455917:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:04:59 ET
+Table 'Duhr II' 9-max Seat #6 is the button
+Seat 6: lotob1ngo ($59.91 in chips) 
+Seat 9: cosmin198484 ($44.72 in chips) 
+lotob1ngo: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+lotob1ngo: raises $0.75 to $1.25
+cosmin198484: folds 
+Uncalled bet ($0.75) returned to lotob1ngo
+lotob1ngo collected $1 from pot
+lotob1ngo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: lotob1ngo (button) (small blind) collected ($1)
+Seat 9: cosmin198484 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228675457062:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:05:06 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 6: lotob1ngo ($60.41 in chips) 
+Seat 9: cosmin198484 ($44.22 in chips) 
+cosmin198484: posts small blind $0.25
+lotob1ngo: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656 joins the table at seat #3 
+cosmin198484: raises $1 to $1.50
+lotob1ngo: folds 
+Uncalled bet ($1) returned to cosmin198484
+cosmin198484 collected $1 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 6: lotob1ngo (big blind) folded before Flop
+Seat 9: cosmin198484 (button) (small blind) collected ($1)
+
+
+
+PokerStars Hand #228675459036:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:05:17 ET
+Table 'Duhr II' 9-max Seat #6 is the button
+Seat 3: zheka656 ($51.35 in chips) 
+Seat 6: lotob1ngo ($59.91 in chips) 
+Seat 9: cosmin198484 ($44.72 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+lotob1ngo: folds 
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to zheka656
+zheka656 collected $0.50 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (big blind) collected ($0.50)
+Seat 6: lotob1ngo (button) folded before Flop (didn't bet)
+Seat 9: cosmin198484 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675460124:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:05:23 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($51.60 in chips) 
+Seat 6: lotob1ngo ($59.91 in chips) 
+Seat 9: cosmin198484 ($44.47 in chips) 
+zheka656: posts small blind $0.25
+lotob1ngo: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+zheka656: raises $1 to $1.50
+lotob1ngo: folds 
+Uncalled bet ($1) returned to zheka656
+zheka656 collected $1 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: zheka656 (small blind) collected ($1)
+Seat 6: lotob1ngo (big blind) folded before Flop
+Seat 9: cosmin198484 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675461621:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:05:31 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($52.10 in chips) 
+Seat 6: lotob1ngo ($59.41 in chips) 
+Seat 9: cosmin198484 ($44.47 in chips) 
+lotob1ngo: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: folds 
+lotob1ngo: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+ludemix joins the table at seat #4 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (button) folded before Flop (didn't bet)
+Seat 6: lotob1ngo (small blind) folded before Flop
+Seat 9: cosmin198484 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228675463582:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:05:42 ET
+Table 'Duhr II' 9-max Seat #6 is the button
+Seat 3: zheka656 ($52.10 in chips) 
+Seat 6: lotob1ngo ($59.16 in chips) 
+Seat 9: cosmin198484 ($44.72 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+ludemix: sits out 
+*** HOLE CARDS ***
+lotob1ngo: raises $0.75 to $1.25
+cosmin198484: folds 
+zheka656: folds 
+Uncalled bet ($0.75) returned to lotob1ngo
+lotob1ngo collected $1.25 from pot
+lotob1ngo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: zheka656 (big blind) folded before Flop
+Seat 6: lotob1ngo (button) collected ($1.25)
+Seat 9: cosmin198484 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675464946:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:05:49 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($51.60 in chips) 
+Seat 4: ludemix ($50 in chips) 
+Seat 6: lotob1ngo ($59.91 in chips) 
+Seat 9: cosmin198484 ($44.47 in chips) 
+zheka656: posts small blind $0.25
+ludemix: posts big blind $0.50
+*** HOLE CARDS ***
+lotob1ngo: folds 
+cosmin198484: folds 
+zheka656: folds 
+Uncalled bet ($0.25) returned to ludemix
+ludemix collected $0.50 from pot
+ludemix: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (small blind) folded before Flop
+Seat 4: ludemix (big blind) collected ($0.50)
+Seat 6: lotob1ngo folded before Flop (didn't bet)
+Seat 9: cosmin198484 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675466866:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:06:00 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($51.35 in chips) 
+Seat 4: ludemix ($50.25 in chips) 
+Seat 9: cosmin198484 ($44.47 in chips) 
+ludemix: posts small blind $0.25
+lotob1ngo: is sitting out 
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+lotob1ngo leaves the table
+zheka656: raises $0.75 to $1.25
+ludemix: folds 
+cosmin198484: folds 
+Uncalled bet ($0.75) returned to zheka656
+zheka656 collected $1.25 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: zheka656 (button) collected ($1.25)
+Seat 4: ludemix (small blind) folded before Flop
+Seat 9: cosmin198484 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228675469521:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:06:15 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($52.35 in chips) 
+Seat 4: ludemix ($50 in chips) 
+Seat 9: cosmin198484 ($43.72 in chips) 
+zheka656: posts small blind $0.25
+ludemix: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+zheka656: raises $1 to $1.50
+ludemix: folds 
+Uncalled bet ($1) returned to zheka656
+ludemix leaves the table
+zheka656 collected $1 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: zheka656 (small blind) collected ($1)
+Seat 4: ludemix (big blind) folded before Flop
+Seat 9: cosmin198484 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675471680:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:06:27 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($52.85 in chips) 
+Seat 9: cosmin198484 ($43.72 in chips) 
+zheka656: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (button) (small blind) folded before Flop
+Seat 9: cosmin198484 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228675473601:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:06:37 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($52.60 in chips) 
+Seat 9: cosmin198484 ($43.97 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+ludemix joins the table at seat #4 
+cosmin198484: raises $1 to $1.50
+zheka656: calls $1
+*** FLOP *** [2h Qd 9c]
+zheka656: checks 
+cosmin198484: bets $1.50
+zheka656: calls $1.50
+*** TURN *** [2h Qd 9c] [Jh]
+zheka656: checks 
+cosmin198484: checks 
+*** RIVER *** [2h Qd 9c Jh] [Qc]
+zheka656: checks 
+cosmin198484: checks 
+*** SHOW DOWN ***
+zheka656: shows [Js Qh] (a full house, Queens full of Jacks)
+cosmin198484: mucks hand 
+zheka656 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [2h Qd 9c Jh Qc]
+Seat 3: zheka656 (big blind) showed [Js Qh] and won ($5.70) with a full house, Queens full of Jacks
+Seat 9: cosmin198484 (button) (small blind) mucked
+
+
+
+PokerStars Hand #228675488878:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:08:01 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($62.22 in chips) 
+Seat 4: ludemix ($50 in chips) 
+Seat 9: cosmin198484 ($34.72 in chips) 
+ludemix: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: raises $0.75 to $1.25
+ludemix: folds 
+cosmin198484: calls $0.75
+*** FLOP *** [2d 6c Kh]
+cosmin198484: checks 
+zheka656: bets $0.84
+cosmin198484: calls $0.84
+*** TURN *** [2d 6c Kh] [Js]
+cosmin198484: checks 
+zheka656: checks 
+*** RIVER *** [2d 6c Kh Js] [7d]
+cosmin198484: bets $4.21
+zheka656: folds 
+Uncalled bet ($4.21) returned to cosmin198484
+cosmin198484 collected $4.21 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.43 | Rake $0.22 
+Board [2d 6c Kh Js 7d]
+Seat 3: zheka656 (button) folded on the River
+Seat 4: ludemix (small blind) folded before Flop
+Seat 9: cosmin198484 (big blind) collected ($4.21)
+
+
+
+PokerStars Hand #228675496284:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:08:42 ET
+Table 'Duhr II' 9-max Seat #4 is the button
+Seat 3: zheka656 ($60.13 in chips) 
+Seat 4: ludemix ($50 in chips) 
+Seat 9: cosmin198484 ($36.84 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+ludemix: raises $0.75 to $1.25
+cosmin198484: folds 
+zheka656: folds 
+Uncalled bet ($0.75) returned to ludemix
+ludemix collected $1.25 from pot
+ludemix: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: zheka656 (big blind) folded before Flop
+Seat 4: ludemix (button) collected ($1.25)
+Seat 9: cosmin198484 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675498309:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:08:54 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($59.63 in chips) 
+Seat 4: ludemix ($50.75 in chips) 
+Seat 9: cosmin198484 ($36.59 in chips) 
+zheka656: posts small blind $0.25
+ludemix: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+zheka656: folds 
+Uncalled bet ($0.25) returned to ludemix
+ludemix collected $0.50 from pot
+ludemix: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (small blind) folded before Flop
+Seat 4: ludemix (big blind) collected ($0.50)
+Seat 9: cosmin198484 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675499447:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:09:00 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($59.38 in chips) 
+Seat 4: ludemix ($51 in chips) 
+Seat 9: cosmin198484 ($36.59 in chips) 
+ludemix: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: raises $0.75 to $1.25
+ludemix: raises $3.75 to $5
+cosmin198484: folds 
+zheka656: folds 
+Uncalled bet ($3.75) returned to ludemix
+ludemix collected $3 from pot
+ludemix: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 3: zheka656 (button) folded before Flop
+Seat 4: ludemix (small blind) collected ($3)
+Seat 9: cosmin198484 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228675502402:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:09:16 ET
+Table 'Duhr II' 9-max Seat #4 is the button
+Seat 3: zheka656 ($58.13 in chips) 
+Seat 4: ludemix ($52.75 in chips) 
+Seat 9: cosmin198484 ($36.09 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+ludemix: raises $0.75 to $1.25
+cosmin198484: folds 
+zheka656: folds 
+Uncalled bet ($0.75) returned to ludemix
+ludemix collected $1.25 from pot
+ludemix: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: zheka656 (big blind) folded before Flop
+Seat 4: ludemix (button) collected ($1.25)
+Seat 9: cosmin198484 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675503760:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:09:24 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($57.63 in chips) 
+Seat 4: ludemix ($53.50 in chips) 
+Seat 9: cosmin198484 ($35.84 in chips) 
+zheka656: posts small blind $0.25
+ludemix: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+zheka656: raises $1 to $1.50
+ludemix: raises $3 to $4.50
+zheka656: folds 
+Uncalled bet ($3) returned to ludemix
+ludemix collected $3 from pot
+ludemix: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 3: zheka656 (small blind) folded before Flop
+Seat 4: ludemix (big blind) collected ($3)
+Seat 9: cosmin198484 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675506626:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:09:40 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($56.13 in chips) 
+Seat 4: ludemix ($55 in chips) 
+Seat 9: cosmin198484 ($35.84 in chips) 
+ludemix: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: folds 
+ludemix: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (button) folded before Flop (didn't bet)
+Seat 4: ludemix (small blind) folded before Flop
+Seat 9: cosmin198484 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228675507899:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:09:47 ET
+Table 'Duhr II' 9-max Seat #4 is the button
+Seat 3: zheka656 ($56.13 in chips) 
+Seat 4: ludemix ($54.75 in chips) 
+Seat 9: cosmin198484 ($36.09 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+ludemix: folds 
+cosmin198484: raises $1 to $1.50
+zheka656: folds 
+Uncalled bet ($1) returned to cosmin198484
+cosmin198484 collected $1 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: zheka656 (big blind) folded before Flop
+Seat 4: ludemix (button) folded before Flop (didn't bet)
+Seat 9: cosmin198484 (small blind) collected ($1)
+
+
+
+PokerStars Hand #228675509720:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:09:57 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($55.63 in chips) 
+Seat 4: ludemix ($54.75 in chips) 
+Seat 9: cosmin198484 ($36.59 in chips) 
+zheka656: posts small blind $0.25
+ludemix: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+zheka656: raises $1 to $1.50
+ludemix: folds 
+Uncalled bet ($1) returned to zheka656
+zheka656 collected $1 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: zheka656 (small blind) collected ($1)
+Seat 4: ludemix (big blind) folded before Flop
+Seat 9: cosmin198484 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675511292:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:10:06 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($56.13 in chips) 
+Seat 4: ludemix ($54.25 in chips) 
+Seat 9: cosmin198484 ($36.59 in chips) 
+ludemix: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: folds 
+ludemix: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (button) folded before Flop (didn't bet)
+Seat 4: ludemix (small blind) folded before Flop
+Seat 9: cosmin198484 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228675512893:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:10:15 ET
+Table 'Duhr II' 9-max Seat #4 is the button
+Seat 3: zheka656 ($56.13 in chips) 
+Seat 4: ludemix ($54 in chips) 
+Seat 9: cosmin198484 ($36.84 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+ludemix: raises $0.75 to $1.25
+cosmin198484: folds 
+zheka656: raises $3.31 to $4.56
+ludemix: folds 
+Uncalled bet ($3.31) returned to zheka656
+zheka656 collected $2.75 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0 
+Seat 3: zheka656 (big blind) collected ($2.75)
+Seat 4: ludemix (button) folded before Flop
+Seat 9: cosmin198484 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675516030:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:10:32 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($57.63 in chips) 
+Seat 4: ludemix ($52.75 in chips) 
+Seat 9: cosmin198484 ($36.59 in chips) 
+zheka656: posts small blind $0.25
+ludemix: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+zheka656: raises $1 to $1.50
+ludemix: folds 
+Uncalled bet ($1) returned to zheka656
+zheka656 collected $1 from pot
+Tecktonik456 joins the table at seat #2 
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: zheka656 (small blind) collected ($1)
+Seat 4: ludemix (big blind) folded before Flop
+Seat 9: cosmin198484 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675517594:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:10:41 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($58.13 in chips) 
+Seat 4: ludemix ($52.25 in chips) 
+Seat 9: cosmin198484 ($36.59 in chips) 
+ludemix: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+Tecktonik456: sits out 
+*** HOLE CARDS ***
+zheka656: raises $0.75 to $1.25
+ludemix: raises $3.75 to $5
+cosmin198484: calls $4.50
+zheka656: folds 
+*** FLOP *** [5c 4d Ts]
+Bratishok joins the table at seat #5 
+ludemix: checks 
+cosmin198484: checks 
+*** TURN *** [5c 4d Ts] [Th]
+ludemix: bets $3.74
+cosmin198484: calls $3.74
+*** RIVER *** [5c 4d Ts Th] [8c]
+ludemix: checks 
+cosmin198484: bets $17.98
+ludemix: folds 
+Uncalled bet ($17.98) returned to cosmin198484
+cosmin198484 collected $17.98 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.73 | Rake $0.75 
+Board [5c 4d Ts Th 8c]
+Seat 3: zheka656 (button) folded before Flop
+Seat 4: ludemix (small blind) folded on the River
+Seat 9: cosmin198484 (big blind) collected ($17.98)
+
+
+
+PokerStars Hand #228675527493:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:11:37 ET
+Table 'Duhr II' 9-max Seat #4 is the button
+Seat 2: Tecktonik456 ($20 in chips) 
+Seat 3: zheka656 ($56.88 in chips) 
+Seat 4: ludemix ($50 in chips) 
+Seat 9: cosmin198484 ($45.83 in chips) 
+cosmin198484: posts small blind $0.25
+Tecktonik456: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: folds 
+Vert Dider joins the table at seat #6 
+Popokluev joins the table at seat #8 
+ludemix: raises $0.75 to $1.25
+cosmin198484: folds 
+Tecktonik456: calls $0.75
+*** FLOP *** [6s Th 7c]
+Tecktonik456: checks 
+ludemix: bets $1.44
+Tecktonik456: folds 
+Uncalled bet ($1.44) returned to ludemix
+ludemix collected $2.61 from pot
+ludemix: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [6s Th 7c]
+Seat 2: Tecktonik456 (big blind) folded on the Flop
+Seat 3: zheka656 folded before Flop (didn't bet)
+Seat 4: ludemix (button) collected ($2.61)
+Seat 9: cosmin198484 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675531451:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:11:59 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 2: Tecktonik456 ($18.75 in chips) 
+Seat 3: zheka656 ($56.88 in chips) 
+Seat 4: ludemix ($51.36 in chips) 
+Seat 9: cosmin198484 ($45.58 in chips) 
+Tecktonik456: posts small blind $0.25
+zheka656: posts big blind $0.50
+Bratishok: sits out 
+Vert Dider: sits out 
+Popokluev: sits out 
+*** HOLE CARDS ***
+ludemix: folds 
+cosmin198484: folds 
+Tecktonik456: calls $0.25
+zheka656: checks 
+*** FLOP *** [9s 8h Js]
+Tecktonik456: checks 
+zheka656: bets $0.51
+Tecktonik456: folds 
+Uncalled bet ($0.51) returned to zheka656
+zheka656 collected $0.95 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [9s 8h Js]
+Seat 2: Tecktonik456 (small blind) folded on the Flop
+Seat 3: zheka656 (big blind) collected ($0.95)
+Seat 4: ludemix folded before Flop (didn't bet)
+Seat 9: cosmin198484 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675535056:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:12:19 ET
+Table 'Duhr II' 9-max Seat #2 is the button
+Seat 2: Tecktonik456 ($18.25 in chips) 
+Seat 3: zheka656 ($57.33 in chips) 
+Seat 4: ludemix ($51.36 in chips) 
+Seat 9: cosmin198484 ($45.58 in chips) 
+zheka656: posts small blind $0.25
+ludemix: posts big blind $0.50
+Bratishok: sits out 
+Vert Dider: sits out 
+Popokluev: sits out 
+*** HOLE CARDS ***
+cosmin198484: raises $1.25 to $1.75
+Tecktonik456: folds 
+zheka656: folds 
+ludemix: raises $4.50 to $6.25
+cosmin198484: calls $4.50
+*** FLOP *** [Td 8c Ac]
+ludemix: bets $4.24
+cosmin198484: calls $4.24
+*** TURN *** [Td 8c Ac] [7h]
+ludemix: checks 
+cosmin198484: bets $20.48
+ludemix: raises $20.39 to $40.87 and is all-in
+cosmin198484: calls $14.61 and is all-in
+Uncalled bet ($5.78) returned to ludemix
+*** RIVER *** [Td 8c Ac 7h] [8h]
+*** SHOW DOWN ***
+ludemix: shows [Jh Ah] (two pair, Aces and Eights)
+cosmin198484: shows [Qs Jc] (a pair of Eights)
+ludemix collected $90.66 from pot
+*** SUMMARY ***
+Total pot $91.41 | Rake $0.75 
+Board [Td 8c Ac 7h 8h]
+Seat 2: Tecktonik456 (button) folded before Flop (didn't bet)
+Seat 3: zheka656 (small blind) folded before Flop
+Seat 4: ludemix (big blind) showed [Jh Ah] and won ($90.66) with two pair, Aces and Eights
+Seat 9: cosmin198484 showed [Qs Jc] and lost with a pair of Eights
+
+
+
+PokerStars Hand #228675545103:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:13:15 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 2: Tecktonik456 ($18.25 in chips) 
+Seat 3: zheka656 ($57.08 in chips) 
+Seat 4: ludemix ($96.44 in chips) 
+Seat 5: Bratishok ($50 in chips) 
+ludemix: posts small blind $0.25
+Bratishok: posts big blind $0.50
+Vert Dider: sits out 
+Popokluev: sits out 
+*** HOLE CARDS ***
+Tecktonik456: folds 
+zheka656: raises $0.75 to $1.25
+ludemix: folds 
+Bratishok: folds 
+Uncalled bet ($0.75) returned to zheka656
+zheka656 collected $1.25 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Tecktonik456 folded before Flop (didn't bet)
+Seat 3: zheka656 (button) collected ($1.25)
+Seat 4: ludemix (small blind) folded before Flop
+Seat 5: Bratishok (big blind) folded before Flop
+
+
+
+PokerStars Hand #228675547744:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:13:30 ET
+Table 'Duhr II' 9-max Seat #4 is the button
+Seat 2: Tecktonik456 ($18.25 in chips) 
+Seat 3: zheka656 ($57.83 in chips) 
+Seat 4: ludemix ($96.19 in chips) 
+Seat 5: Bratishok ($50 in chips) 
+Seat 6: Vert Dider ($50 in chips) 
+Bratishok: posts small blind $0.25
+Vert Dider: posts big blind $0.50
+Popokluev: sits out 
+*** HOLE CARDS ***
+Tecktonik456: folds 
+zheka656: raises $1 to $1.50
+ludemix: folds 
+Bratishok: folds 
+Vert Dider: folds 
+Uncalled bet ($1) returned to zheka656
+zheka656 collected $1.25 from pot
+247Solid joins the table at seat #7 
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Tecktonik456 folded before Flop (didn't bet)
+Seat 3: zheka656 collected ($1.25)
+Seat 4: ludemix (button) folded before Flop (didn't bet)
+Seat 5: Bratishok (small blind) folded before Flop
+Seat 6: Vert Dider (big blind) folded before Flop
+
+
+
+PokerStars Hand #228675575337:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:16:02 ET
+Table 'Duhr II' 9-max Seat #7 is the button
+Seat 2: Tecktonik456 ($17.75 in chips) 
+Seat 3: zheka656 ($58.58 in chips) 
+Seat 4: ludemix ($96.19 in chips) 
+Seat 5: Bratishok ($55.03 in chips) 
+Seat 6: Vert Dider ($50 in chips) 
+Seat 7: 247Solid ($50.44 in chips) 
+Seat 8: Popokluev ($50 in chips) 
+Seat 9: cosmin198484 ($50 in chips) 
+Popokluev: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+Tecktonik456: calls $0.50
+zheka656: folds 
+ludemix: folds 
+Bratishok: folds 
+Vert Dider: raises $1.50 to $2
+247Solid: folds 
+Popokluev: folds 
+cosmin198484: folds 
+Tecktonik456: calls $1.50
+*** FLOP *** [9d 7s Kh]
+Tecktonik456: checks 
+Vert Dider: bets $1.35
+Tecktonik456: folds 
+Uncalled bet ($1.35) returned to Vert Dider
+Vert Dider collected $4.51 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [9d 7s Kh]
+Seat 2: Tecktonik456 folded on the Flop
+Seat 3: zheka656 folded before Flop (didn't bet)
+Seat 4: ludemix folded before Flop (didn't bet)
+Seat 5: Bratishok folded before Flop (didn't bet)
+Seat 6: Vert Dider collected ($4.51)
+Seat 7: 247Solid (button) folded before Flop (didn't bet)
+Seat 8: Popokluev (small blind) folded before Flop
+Seat 9: cosmin198484 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228675586916:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:17:05 ET
+Table 'Duhr II' 9-max Seat #8 is the button
+Seat 2: Tecktonik456 ($15.75 in chips) 
+Seat 3: zheka656 ($58.58 in chips) 
+Seat 4: ludemix ($96.19 in chips) 
+Seat 5: Bratishok ($55.03 in chips) 
+Seat 6: Vert Dider ($52.51 in chips) 
+Seat 7: 247Solid ($50.44 in chips) 
+Seat 8: Popokluev ($50 in chips) 
+Seat 9: cosmin198484 ($49.50 in chips) 
+cosmin198484: posts small blind $0.25
+Tecktonik456: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: folds 
+ludemix: raises $0.75 to $1.25
+Bratishok: folds 
+Vert Dider: folds 
+247Solid: folds 
+Popokluev: folds 
+cosmin198484: calls $1
+Tecktonik456: calls $0.75
+*** FLOP *** [9h 3d Jh]
+cosmin198484: checks 
+Tecktonik456: checks 
+ludemix: bets $1.96
+cosmin198484: folds 
+Tecktonik456: calls $1.96
+*** TURN *** [9h 3d Jh] [4c]
+Tecktonik456: checks 
+ludemix: bets $5.47
+Tecktonik456: raises $7.07 to $12.54 and is all-in
+ludemix: calls $7.07
+*** RIVER *** [9h 3d Jh 4c] [9s]
+*** SHOW DOWN ***
+Tecktonik456: shows [2h 5h] (a pair of Nines)
+ludemix: shows [Ah Th] (a pair of Nines - Ace kicker)
+ludemix collected $31.11 from pot
+FirstBrummer was removed from the table for failing to post
+FirstBrummer leaves the table
+*** SUMMARY ***
+Total pot $32.75 | Rake $1.64 
+Board [9h 3d Jh 4c 9s]
+Seat 2: Tecktonik456 (big blind) showed [2h 5h] and lost with a pair of Nines
+Seat 3: zheka656 folded before Flop (didn't bet)
+Seat 4: ludemix showed [Ah Th] and won ($31.11) with a pair of Nines
+Seat 5: Bratishok folded before Flop (didn't bet)
+Seat 6: Vert Dider folded before Flop (didn't bet)
+Seat 7: 247Solid folded before Flop (didn't bet)
+Seat 8: Popokluev (button) folded before Flop (didn't bet)
+Seat 9: cosmin198484 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228675596350:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:17:56 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($58.58 in chips) 
+Seat 5: Bratishok ($55.03 in chips) 
+Seat 6: Vert Dider ($52.51 in chips) 
+Seat 7: 247Solid ($50.44 in chips) 
+Seat 8: Popokluev ($50 in chips) 
+Seat 9: cosmin198484 ($48.25 in chips) 
+zheka656: posts small blind $0.25
+ludemix: is sitting out 
+ludemix leaves the table
+Bratishok: posts big blind $0.50
+*** HOLE CARDS ***
+Vert Dider: raises $0.60 to $1.10
+dstrola joins the table at seat #1 
+247Solid: folds 
+Tecktonik456 leaves the table
+Popokluev: raises $2.64 to $3.74
+cosmin198484: folds 
+zheka656: raises $7.76 to $11.50
+Bratishok: folds 
+Vert Dider: folds 
+Popokluev: folds 
+Uncalled bet ($7.76) returned to zheka656
+zheka656 collected $9.08 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.08 | Rake $0 
+Seat 3: zheka656 (small blind) collected ($9.08)
+Seat 5: Bratishok (big blind) folded before Flop
+Seat 6: Vert Dider folded before Flop
+Seat 7: 247Solid folded before Flop (didn't bet)
+Seat 8: Popokluev folded before Flop
+Seat 9: cosmin198484 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675601462:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:18:24 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($63.92 in chips) 
+Seat 5: Bratishok ($54.53 in chips) 
+Seat 7: 247Solid ($50.44 in chips) 
+Seat 8: Popokluev ($50 in chips) 
+Seat 9: cosmin198484 ($48.25 in chips) 
+Bratishok: posts small blind $0.25
+Vert Dider: is sitting out 
+247Solid: posts big blind $0.50
+dstrola: sits out 
+*** HOLE CARDS ***
+Popokluev: raises $1 to $1.50
+cosmin198484: folds 
+zheka656: folds 
+Bratishok: folds 
+247Solid: folds 
+Uncalled bet ($1) returned to Popokluev
+Popokluev collected $1.25 from pot
+Popokluev: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: zheka656 (button) folded before Flop (didn't bet)
+Seat 5: Bratishok (small blind) folded before Flop
+Seat 7: 247Solid (big blind) folded before Flop
+Seat 8: Popokluev collected ($1.25)
+Seat 9: cosmin198484 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675602771:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:18:31 ET
+Table 'Duhr II' 9-max Seat #5 is the button
+Seat 3: zheka656 ($63.92 in chips) 
+Seat 5: Bratishok ($54.28 in chips) 
+Seat 7: 247Solid ($50 in chips) 
+Seat 8: Popokluev ($50.75 in chips) 
+Seat 9: cosmin198484 ($48.25 in chips) 
+247Solid: posts small blind $0.25
+Popokluev: posts big blind $0.50
+dstrola: sits out 
+*** HOLE CARDS ***
+Vert Dider leaves the table
+cosmin198484: folds 
+zheka656: folds 
+Bratishok: folds 
+247Solid: folds 
+Uncalled bet ($0.25) returned to Popokluev
+Popokluev collected $0.50 from pot
+Popokluev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 folded before Flop (didn't bet)
+Seat 5: Bratishok (button) folded before Flop (didn't bet)
+Seat 7: 247Solid (small blind) folded before Flop
+Seat 8: Popokluev (big blind) collected ($0.50)
+Seat 9: cosmin198484 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675604298:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:18:39 ET
+Table 'Duhr II' 9-max Seat #7 is the button
+Seat 3: zheka656 ($63.92 in chips) 
+Seat 5: Bratishok ($54.28 in chips) 
+Seat 7: 247Solid ($50 in chips) 
+Seat 8: Popokluev ($51 in chips) 
+Seat 9: cosmin198484 ($48.25 in chips) 
+Popokluev: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+dstrola: sits out 
+*** HOLE CARDS ***
+zheka656: folds 
+Bratishok: folds 
+247Solid: raises $0.75 to $1.25
+Popokluev: folds 
+cosmin198484: folds 
+Uncalled bet ($0.75) returned to 247Solid
+247Solid collected $1.25 from pot
+247Solid: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: zheka656 folded before Flop (didn't bet)
+Seat 5: Bratishok folded before Flop (didn't bet)
+Seat 7: 247Solid (button) collected ($1.25)
+Seat 8: Popokluev (small blind) folded before Flop
+Seat 9: cosmin198484 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228675606170:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:18:50 ET
+Table 'Duhr II' 9-max Seat #8 is the button
+Seat 1: dstrola ($50 in chips) 
+Seat 3: zheka656 ($63.92 in chips) 
+Seat 5: Bratishok ($54.28 in chips) 
+Seat 7: 247Solid ($50.75 in chips) 
+Seat 8: Popokluev ($50.75 in chips) 
+Seat 9: cosmin198484 ($47.75 in chips) 
+cosmin198484: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: folds 
+Bratishok: raises $0.74 to $1.24
+247Solid: folds 
+Popokluev: folds 
+cosmin198484: calls $0.99
+dstrola: calls $0.74
+*** FLOP *** [6h 3d Jh]
+cosmin198484: checks 
+dstrola: checks 
+Bratishok: checks 
+*** TURN *** [6h 3d Jh] [6c]
+cosmin198484: checks 
+dstrola: bets $1.77
+Bratishok: folds 
+cosmin198484: folds 
+Uncalled bet ($1.77) returned to dstrola
+dstrola collected $3.53 from pot
+*** SUMMARY ***
+Total pot $3.72 | Rake $0.19 
+Board [6h 3d Jh 6c]
+Seat 1: dstrola (big blind) collected ($3.53)
+Seat 3: zheka656 folded before Flop (didn't bet)
+Seat 5: Bratishok folded on the Turn
+Seat 7: 247Solid folded before Flop (didn't bet)
+Seat 8: Popokluev (button) folded before Flop (didn't bet)
+Seat 9: cosmin198484 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #228675613746:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:19:30 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 1: dstrola ($52.29 in chips) 
+Seat 3: zheka656 ($63.92 in chips) 
+Seat 5: Bratishok ($53.04 in chips) 
+Seat 7: 247Solid ($50.75 in chips) 
+Seat 8: Popokluev ($50.75 in chips) 
+Seat 9: cosmin198484 ($46.51 in chips) 
+dstrola: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+Bratishok: folds 
+247Solid: raises $0.75 to $1.25
+Popokluev: folds 
+cosmin198484: raises $3.25 to $4.50
+dstrola: folds 
+zheka656: folds 
+247Solid: folds 
+Uncalled bet ($3.25) returned to cosmin198484
+cosmin198484 collected $3.25 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 1: dstrola (small blind) folded before Flop
+Seat 3: zheka656 (big blind) folded before Flop
+Seat 5: Bratishok folded before Flop (didn't bet)
+Seat 7: 247Solid folded before Flop
+Seat 8: Popokluev folded before Flop (didn't bet)
+Seat 9: cosmin198484 (button) collected ($3.25)
+
+
+
+PokerStars Hand #228675617156:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:19:49 ET
+Table 'Duhr II' 9-max Seat #1 is the button
+Seat 1: dstrola ($52.04 in chips) 
+Seat 3: zheka656 ($63.42 in chips) 
+Seat 7: 247Solid ($50 in chips) 
+Seat 8: Popokluev ($50.75 in chips) 
+Seat 9: cosmin198484 ($48.51 in chips) 
+zheka656: posts small blind $0.25
+Bratishok: is sitting out 
+247Solid: posts big blind $0.50
+*** HOLE CARDS ***
+Bratishok leaves the table
+Popokluev: raises $1 to $1.50
+cosmin198484: folds 
+dstrola: folds 
+zheka656: folds 
+247Solid: folds 
+Uncalled bet ($1) returned to Popokluev
+Popokluev collected $1.25 from pot
+Popokluev: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: dstrola (button) folded before Flop (didn't bet)
+Seat 3: zheka656 (small blind) folded before Flop
+Seat 7: 247Solid (big blind) folded before Flop
+Seat 8: Popokluev collected ($1.25)
+Seat 9: cosmin198484 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228675621351:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:20:12 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 1: dstrola ($52.04 in chips) 
+Seat 3: zheka656 ($63.17 in chips) 
+Seat 7: 247Solid ($50 in chips) 
+Seat 9: cosmin198484 ($48.51 in chips) 
+247Solid: posts small blind $0.25
+Popokluev: is sitting out 
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+dstrola: folds 
+Popokluev leaves the table
+zheka656: raises $0.75 to $1.25
+247Solid: folds 
+cosmin198484: calls $0.75
+*** FLOP *** [6d 5s 2c]
+cosmin198484: checks 
+zheka656: checks 
+*** TURN *** [6d 5s 2c] [9h]
+cosmin198484: checks 
+zheka656: checks 
+*** RIVER *** [6d 5s 2c 9h] [4d]
+cosmin198484: checks 
+zheka656: checks 
+*** SHOW DOWN ***
+cosmin198484: shows [Js Kh] (high card King)
+zheka656: shows [Th Ah] (high card Ace)
+zheka656 collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [6d 5s 2c 9h 4d]
+Seat 1: dstrola folded before Flop (didn't bet)
+Seat 3: zheka656 (button) showed [Th Ah] and won ($2.61) with high card Ace
+Seat 7: 247Solid (small blind) folded before Flop
+Seat 9: cosmin198484 (big blind) showed [Js Kh] and lost with high card King
+
+
+
+PokerStars Hand #228675628136:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:20:49 ET
+Table 'Duhr II' 9-max Seat #7 is the button
+Seat 1: dstrola ($52.04 in chips) 
+Seat 3: zheka656 ($64.53 in chips) 
+Seat 7: 247Solid ($50 in chips) 
+Seat 9: cosmin198484 ($47.26 in chips) 
+cosmin198484: posts small blind $0.25
+dstrola: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: raises $1 to $1.50
+247Solid: folds 
+cosmin198484: folds 
+dstrola: raises $4 to $5.50
+zheka656: folds 
+Uncalled bet ($4) returned to dstrola
+dstrola collected $3.25 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 1: dstrola (big blind) collected ($3.25)
+Seat 3: zheka656 folded before Flop
+Seat 7: 247Solid (button) folded before Flop (didn't bet)
+Seat 9: cosmin198484 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675633591:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:21:20 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($63.03 in chips) 
+Seat 9: cosmin198484 ($47.01 in chips) 
+zheka656: posts small blind $0.25
+247Solid: is sitting out 
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+247Solid leaves the table
+zheka656: raises $0.75 to $1.25
+dstrola was removed from the table for failing to post
+dstrola leaves the table
+cosmin198484: calls $0.75
+*** FLOP *** [8s 7s Qc]
+cosmin198484: checks 
+zheka656: bets $1.29
+cosmin198484: folds 
+Uncalled bet ($1.29) returned to zheka656
+zheka656 collected $2.38 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12 
+Board [8s 7s Qc]
+Seat 3: zheka656 (button) (small blind) collected ($2.38)
+Seat 9: cosmin198484 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228675637047:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:21:39 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($64.16 in chips) 
+Seat 9: cosmin198484 ($45.76 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to zheka656
+zheka656 collected $0.50 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (big blind) collected ($0.50)
+Seat 9: cosmin198484 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675637781:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:21:43 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($64.41 in chips) 
+Seat 9: cosmin198484 ($45.51 in chips) 
+zheka656: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: folds 
+Uncalled bet ($0.25) returned to cosmin198484
+cosmin198484 collected $0.50 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (button) (small blind) folded before Flop
+Seat 9: cosmin198484 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228675639006:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:21:49 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($64.16 in chips) 
+Seat 9: cosmin198484 ($45.76 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to zheka656
+zheka656 collected $0.50 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (big blind) collected ($0.50)
+Seat 9: cosmin198484 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675639813:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:21:54 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($64.41 in chips) 
+Seat 9: cosmin198484 ($45.51 in chips) 
+zheka656: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: raises $0.50 to $1
+cosmin198484: raises $0.50 to $1.50
+zheka656: calls $0.50
+*** FLOP *** [4s Td 4c]
+cosmin198484: bets $2.85
+zheka656: calls $2.85
+*** TURN *** [4s Td 4c] [Qd]
+cosmin198484: checks 
+zheka656: checks 
+*** RIVER *** [4s Td 4c Qd] [7c]
+cosmin198484: bets $4.50
+zheka656: calls $4.50
+*** SHOW DOWN ***
+cosmin198484: shows [6c 6s] (two pair, Sixes and Fours)
+zheka656: shows [8s Th] (two pair, Tens and Fours)
+zheka656 collected $16.95 from pot
+*** SUMMARY ***
+Total pot $17.70 | Rake $0.75 
+Board [4s Td 4c Qd 7c]
+Seat 3: zheka656 (button) (small blind) showed [8s Th] and won ($16.95) with two pair, Tens and Fours
+Seat 9: cosmin198484 (big blind) showed [6c 6s] and lost with two pair, Sixes and Fours
+
+
+
+PokerStars Hand #228675645405:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:22:25 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($72.51 in chips) 
+Seat 9: cosmin198484 ($36.66 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to zheka656
+zheka656 collected $0.50 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (big blind) collected ($0.50)
+Seat 9: cosmin198484 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675646246:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:22:29 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($72.76 in chips) 
+Seat 9: cosmin198484 ($36.41 in chips) 
+zheka656: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: raises $0.50 to $1
+cosmin198484: raises $2 to $3
+zheka656: calls $2
+*** FLOP *** [4c Jc Th]
+cosmin198484: bets $3
+zheka656: folds 
+Uncalled bet ($3) returned to cosmin198484
+cosmin198484 collected $5.70 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [4c Jc Th]
+Seat 3: zheka656 (button) (small blind) folded on the Flop
+Seat 9: cosmin198484 (big blind) collected ($5.70)
+
+
+
+PokerStars Hand #228675649267:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:22:46 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($69.76 in chips) 
+Seat 9: cosmin198484 ($39.11 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: raises $1 to $1.50
+zheka656: folds 
+Uncalled bet ($1) returned to cosmin198484
+cosmin198484 collected $1 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: zheka656 (big blind) folded before Flop
+Seat 9: cosmin198484 (button) (small blind) collected ($1)
+
+
+
+PokerStars Hand #228675650423:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:22:52 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($69.26 in chips) 
+Seat 9: cosmin198484 ($39.61 in chips) 
+zheka656: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: raises $0.50 to $1
+cosmin198484: folds 
+Uncalled bet ($0.50) returned to zheka656
+zheka656 collected $1 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: zheka656 (button) (small blind) collected ($1)
+Seat 9: cosmin198484 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228675651379:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:22:58 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($69.76 in chips) 
+Seat 9: cosmin198484 ($39.11 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: raises $1 to $1.50
+zheka656: folds 
+Uncalled bet ($1) returned to cosmin198484
+cosmin198484 collected $1 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: zheka656 (big blind) folded before Flop
+Seat 9: cosmin198484 (button) (small blind) collected ($1)
+
+
+
+PokerStars Hand #228675652654:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:23:05 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($69.26 in chips) 
+Seat 9: cosmin198484 ($39.61 in chips) 
+zheka656: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: raises $0.50 to $1
+cosmin198484: calls $0.50
+*** FLOP *** [7s Tc Kd]
+cosmin198484: checks 
+zheka656: bets $0.61
+cosmin198484: calls $0.61
+*** TURN *** [7s Tc Kd] [Ah]
+cosmin198484: checks 
+zheka656: checks 
+*** RIVER *** [7s Tc Kd Ah] [7d]
+cosmin198484: bets $3.06
+zheka656: calls $3.06
+*** SHOW DOWN ***
+cosmin198484: shows [Jc Ks] (two pair, Kings and Sevens)
+zheka656: shows [6h 7h] (three of a kind, Sevens)
+zheka656 collected $8.87 from pot
+*** SUMMARY ***
+Total pot $9.34 | Rake $0.47 
+Board [7s Tc Kd Ah 7d]
+Seat 3: zheka656 (button) (small blind) showed [6h 7h] and won ($8.87) with three of a kind, Sevens
+Seat 9: cosmin198484 (big blind) showed [Jc Ks] and lost with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #228675656111:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:23:24 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($73.46 in chips) 
+Seat 9: cosmin198484 ($34.94 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: folds 
+Uncalled bet ($0.25) returned to zheka656
+zheka656 collected $0.50 from pot
+zheka656: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: zheka656 (big blind) collected ($0.50)
+Seat 9: cosmin198484 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228675656908:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:23:28 ET
+Table 'Duhr II' 9-max Seat #3 is the button
+Seat 3: zheka656 ($73.71 in chips) 
+Seat 9: cosmin198484 ($34.69 in chips) 
+zheka656: posts small blind $0.25
+cosmin198484: posts big blind $0.50
+*** HOLE CARDS ***
+zheka656: calls $0.25
+cosmin198484: checks 
+*** FLOP *** [4d 8c 9d]
+cosmin198484: checks 
+zheka656: checks 
+*** TURN *** [4d 8c 9d] [4c]
+cosmin198484: bets $0.95
+zheka656: folds 
+Uncalled bet ($0.95) returned to cosmin198484
+cosmin198484 collected $0.95 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [4d 8c 9d 4c]
+Seat 3: zheka656 (button) (small blind) folded on the Turn
+Seat 9: cosmin198484 (big blind) collected ($0.95)
+
+
+
+PokerStars Hand #228675660088:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 5:23:45 ET
+Table 'Duhr II' 9-max Seat #9 is the button
+Seat 3: zheka656 ($73.21 in chips) 
+Seat 9: cosmin198484 ($35.14 in chips) 
+cosmin198484: posts small blind $0.25
+zheka656: posts big blind $0.50
+*** HOLE CARDS ***
+cosmin198484: raises $1 to $1.50
+zheka656: raises $3 to $4.50
+cosmin198484: calls $3
+*** FLOP *** [9d Jd 2d]
+zheka656: checks 
+cosmin198484: bets $4.50
+zheka656: folds 
+Uncalled bet ($4.50) returned to cosmin198484
+cosmin198484 collected $8.55 from pot
+cosmin198484: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [9d Jd 2d]
+Seat 3: zheka656 (big blind) folded on the Flop
+Seat 9: cosmin198484 (button) (small blind) collected ($8.55)
+
+
+

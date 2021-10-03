@@ -1,0 +1,5626 @@
+﻿PokerStars Hand #228686700405:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:22:39 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 1: FrankDuxe1 ($13.24 in chips) 
+Seat 2: goldenpig666 ($50 in chips) 
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50 in chips) 
+Seat 5: Nestle170 ($50.25 in chips) 
+Seat 6: Gluck35 ($68.18 in chips) 
+Seat 7: tomekpe ($55.30 in chips) 
+Seat 8: Kreayshawn ($50 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+Nestle170: posts small blind $0.25
+Gluck35: posts big blind $0.50
+*** HOLE CARDS ***
+tomekpe: folds 
+Kreayshawn: folds 
+dikanmax: raises $1 to $1.50
+FrankDuxe1 has timed out
+FrankDuxe1: folds 
+goldenpig666: raises $3 to $4.50
+Medved219: folds 
+MarsMiland: folds 
+Nestle170: folds 
+Gluck35: folds 
+dikanmax: folds 
+Uncalled bet ($3) returned to goldenpig666
+goldenpig666 collected $3.75 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0 
+Seat 1: FrankDuxe1 folded before Flop (didn't bet)
+Seat 2: goldenpig666 collected ($3.75)
+Seat 3: Medved219 folded before Flop (didn't bet)
+Seat 4: MarsMiland (button) folded before Flop (didn't bet)
+Seat 5: Nestle170 (small blind) folded before Flop
+Seat 6: Gluck35 (big blind) folded before Flop
+Seat 7: tomekpe folded before Flop (didn't bet)
+Seat 8: Kreayshawn folded before Flop (didn't bet)
+Seat 9: dikanmax folded before Flop
+
+
+
+PokerStars Hand #228686722063:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:23:26 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 2: goldenpig666 ($52.25 in chips) 
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50 in chips) 
+Seat 5: Nestle170 ($50 in chips) 
+Seat 6: Gluck35 ($67.68 in chips) 
+Seat 8: Kreayshawn ($50 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+Gluck35: posts small blind $0.25
+tomekpe: is sitting out 
+Kreayshawn: posts big blind $0.50
+*** HOLE CARDS ***
+tomekpe leaves the table
+dikanmax: folds 
+goldenpig666: folds 
+Medved219: folds 
+MarsMiland: folds 
+Nestle170: folds 
+Gluck35: folds 
+Uncalled bet ($0.25) returned to Kreayshawn
+Kreayshawn collected $0.50 from pot
+Kreayshawn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: Medved219 folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: Nestle170 (button) folded before Flop (didn't bet)
+Seat 6: Gluck35 (small blind) folded before Flop
+Seat 8: Kreayshawn (big blind) collected ($0.50)
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686727234:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:23:37 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 2: goldenpig666 ($52.25 in chips) 
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50 in chips) 
+Seat 5: Nestle170 ($50 in chips) 
+Seat 6: Gluck35 ($67.43 in chips) 
+Seat 8: Kreayshawn ($50.25 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+Kreayshawn: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+Medved219: folds 
+MarsMiland: raises $0.80 to $1.30
+Nestle170: folds 
+Gluck35: folds 
+Kreayshawn: folds 
+fragonik joins the table at seat #7 
+dikanmax: folds 
+Uncalled bet ($0.80) returned to MarsMiland
+MarsMiland collected $1.25 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: Medved219 folded before Flop (didn't bet)
+Seat 4: MarsMiland collected ($1.25)
+Seat 5: Nestle170 folded before Flop (didn't bet)
+Seat 6: Gluck35 (button) folded before Flop (didn't bet)
+Seat 8: Kreayshawn (small blind) folded before Flop
+Seat 9: dikanmax (big blind) folded before Flop
+
+
+
+PokerStars Hand #228686741151:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:24:07 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 1: FrankDuxe1 ($13.24 in chips) 
+Seat 2: goldenpig666 ($52.25 in chips) 
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50.75 in chips) 
+Seat 5: Nestle170 ($50 in chips) 
+Seat 6: Gluck35 ($67.43 in chips) 
+Seat 8: Kreayshawn ($50 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+dikanmax: posts small blind $0.25
+FrankDuxe1: posts big blind $0.50
+fragonik: sits out 
+*** HOLE CARDS ***
+goldenpig666: folds 
+Medved219: folds 
+MarsMiland: folds 
+Nestle170: folds 
+Gluck35: folds 
+Kreayshawn: folds 
+dikanmax: calls $0.25
+FrankDuxe1: checks 
+*** FLOP *** [9d 5h Qc]
+dikanmax: bets $0.50
+FrankDuxe1: calls $0.50
+*** TURN *** [9d 5h Qc] [Tc]
+dikanmax: bets $1.27
+FrankDuxe1: calls $1.27
+*** RIVER *** [9d 5h Qc Tc] [Ah]
+dikanmax: checks 
+FrankDuxe1: bets $2.50
+fragonik leaves the table
+dikanmax: folds 
+Uncalled bet ($2.50) returned to FrankDuxe1
+FrankDuxe1 collected $4.31 from pot
+*** SUMMARY ***
+Total pot $4.54 | Rake $0.23 
+Board [9d 5h Qc Tc Ah]
+Seat 1: FrankDuxe1 (big blind) collected ($4.31)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: Medved219 folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: Nestle170 folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 8: Kreayshawn (button) folded before Flop (didn't bet)
+Seat 9: dikanmax (small blind) folded on the River
+
+
+
+PokerStars Hand #228686771464:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:25:13 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 1: FrankDuxe1 ($15.28 in chips) 
+Seat 2: goldenpig666 ($52.25 in chips) 
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50.75 in chips) 
+Seat 5: Nestle170 ($50 in chips) 
+Seat 6: Gluck35 ($67.43 in chips) 
+Seat 8: Kreayshawn ($50 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+FrankDuxe1: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: folds 
+MarsMiland: folds 
+Nestle170: folds 
+Gluck35: folds 
+Kreayshawn: raises $1 to $1.50
+dikanmax: folds 
+FrankDuxe1: folds 
+MonplDCmax joins the table at seat #7 
+goldenpig666: folds 
+Uncalled bet ($1) returned to Kreayshawn
+Kreayshawn collected $1.25 from pot
+Kreayshawn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: FrankDuxe1 (small blind) folded before Flop
+Seat 2: goldenpig666 (big blind) folded before Flop
+Seat 3: Medved219 folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: Nestle170 folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 8: Kreayshawn collected ($1.25)
+Seat 9: dikanmax (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686783136:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:25:38 ET
+Table 'Yabuuti II' 9-max Seat #1 is the button
+Seat 1: FrankDuxe1 ($15.03 in chips) 
+Seat 2: goldenpig666 ($51.75 in chips) 
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50.75 in chips) 
+Seat 5: Nestle170 ($50 in chips) 
+Seat 6: Gluck35 ($67.43 in chips) 
+Seat 8: Kreayshawn ($50.75 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+goldenpig666: posts small blind $0.25
+Medved219: posts big blind $0.50
+MonplDCmax: sits out 
+*** HOLE CARDS ***
+MarsMiland: folds 
+Nestle170: folds 
+Gluck35: folds 
+Kreayshawn: raises $1 to $1.50
+dikanmax: folds 
+FrankDuxe1: calls $1.50
+goldenpig666: folds 
+Medved219: calls $1
+*** FLOP *** [Td 6d Kc]
+Medved219: checks 
+Kreayshawn: checks 
+FrankDuxe1: checks 
+*** TURN *** [Td 6d Kc] [6c]
+Medved219: checks 
+Kreayshawn: checks 
+FrankDuxe1: bets $3
+Medved219: folds 
+Kreayshawn: folds 
+Uncalled bet ($3) returned to FrankDuxe1
+FrankDuxe1 collected $4.51 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [Td 6d Kc 6c]
+Seat 1: FrankDuxe1 (button) collected ($4.51)
+Seat 2: goldenpig666 (small blind) folded before Flop
+Seat 3: Medved219 (big blind) folded on the Turn
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: Nestle170 folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 8: Kreayshawn folded on the Turn
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686805405:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:26:26 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 1: FrankDuxe1 ($18.04 in chips) 
+Seat 2: goldenpig666 ($51.50 in chips) 
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50.75 in chips) 
+Seat 5: Nestle170 ($50 in chips) 
+Seat 6: Gluck35 ($67.43 in chips) 
+Seat 8: Kreayshawn ($50 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+Medved219: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+MonplDCmax: sits out 
+*** HOLE CARDS ***
+Nestle170: raises $1 to $1.50
+Gluck35: folds 
+Kreayshawn: folds 
+dikanmax: folds 
+FrankDuxe1: folds 
+goldenpig666: folds 
+Medved219: folds 
+MarsMiland: folds 
+Uncalled bet ($1) returned to Nestle170
+Nestle170 collected $1.25 from pot
+Nestle170: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: FrankDuxe1 folded before Flop (didn't bet)
+Seat 2: goldenpig666 (button) folded before Flop (didn't bet)
+Seat 3: Medved219 (small blind) folded before Flop
+Seat 4: MarsMiland (big blind) folded before Flop
+Seat 5: Nestle170 collected ($1.25)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 8: Kreayshawn folded before Flop (didn't bet)
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686811404:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:26:39 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 1: FrankDuxe1 ($18.04 in chips) 
+Seat 2: goldenpig666 ($51.50 in chips) 
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50.25 in chips) 
+Seat 5: Nestle170 ($50.75 in chips) 
+Seat 6: Gluck35 ($67.43 in chips) 
+Seat 8: Kreayshawn ($50 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+MarsMiland: posts small blind $0.25
+Nestle170: posts big blind $0.50
+MonplDCmax: sits out 
+*** HOLE CARDS ***
+Gluck35: folds 
+Kreayshawn: folds 
+dikanmax: raises $1 to $1.50
+FrankDuxe1: folds 
+goldenpig666: folds 
+Medved219: folds 
+MarsMiland: folds 
+Nestle170: folds 
+Uncalled bet ($1) returned to dikanmax
+dikanmax collected $1.25 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: FrankDuxe1 folded before Flop (didn't bet)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: Medved219 (button) folded before Flop (didn't bet)
+Seat 4: MarsMiland (small blind) folded before Flop
+Seat 5: Nestle170 (big blind) folded before Flop
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 8: Kreayshawn folded before Flop (didn't bet)
+Seat 9: dikanmax collected ($1.25)
+
+
+
+PokerStars Hand #228686818447:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:26:55 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 1: FrankDuxe1 ($18.04 in chips) 
+Seat 2: goldenpig666 ($51.50 in chips) 
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50 in chips) 
+Seat 5: Nestle170 ($50.25 in chips) 
+Seat 6: Gluck35 ($67.43 in chips) 
+Seat 8: Kreayshawn ($50 in chips) 
+Seat 9: dikanmax ($50.75 in chips) 
+Nestle170: posts small blind $0.25
+Gluck35: posts big blind $0.50
+MonplDCmax: sits out 
+*** HOLE CARDS ***
+Kreayshawn: folds 
+dikanmax: folds 
+FrankDuxe1: folds 
+goldenpig666: folds 
+Medved219: folds 
+MarsMiland: folds 
+Nestle170: folds 
+Uncalled bet ($0.25) returned to Gluck35
+Gluck35 collected $0.50 from pot
+Gluck35: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: FrankDuxe1 folded before Flop (didn't bet)
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: Medved219 folded before Flop (didn't bet)
+Seat 4: MarsMiland (button) folded before Flop (didn't bet)
+Seat 5: Nestle170 (small blind) folded before Flop
+Seat 6: Gluck35 (big blind) collected ($0.50)
+Seat 8: Kreayshawn folded before Flop (didn't bet)
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686822902:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:27:04 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 1: FrankDuxe1 ($18.04 in chips) 
+Seat 2: goldenpig666 ($51.50 in chips) 
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50 in chips) 
+Seat 5: Nestle170 ($50 in chips) 
+Seat 6: Gluck35 ($67.68 in chips) 
+Seat 8: Kreayshawn ($50 in chips) 
+Seat 9: dikanmax ($50.75 in chips) 
+Gluck35: posts small blind $0.25
+Kreayshawn: posts big blind $0.50
+*** HOLE CARDS ***
+MonplDCmax leaves the table
+xZaKoNaLx joins the table at seat #7 
+dikanmax: folds 
+FrankDuxe1: folds 
+goldenpig666: raises $1 to $1.50
+Medved219: folds 
+MarsMiland: folds 
+Nestle170: folds 
+Gluck35: folds 
+Kreayshawn: folds 
+Uncalled bet ($1) returned to goldenpig666
+goldenpig666 collected $1.25 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: FrankDuxe1 folded before Flop (didn't bet)
+Seat 2: goldenpig666 collected ($1.25)
+Seat 3: Medved219 folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: Nestle170 (button) folded before Flop (didn't bet)
+Seat 6: Gluck35 (small blind) folded before Flop
+Seat 8: Kreayshawn (big blind) folded before Flop
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686832030:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:27:24 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 2: goldenpig666 ($52.25 in chips) 
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50 in chips) 
+Seat 5: Nestle170 ($50 in chips) 
+Seat 6: Gluck35 ($67.43 in chips) 
+Seat 8: Kreayshawn ($50 in chips) 
+Seat 9: dikanmax ($50.75 in chips) 
+Kreayshawn: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+Medved219: folds 
+MarsMiland: folds 
+Nestle170: raises $0.75 to $1.25
+Gluck35: raises $2.75 to $4
+Kreayshawn: raises $8.50 to $12.50
+dikanmax: folds 
+Nestle170: folds 
+Gluck35: folds 
+Uncalled bet ($8.50) returned to Kreayshawn
+Kreayshawn collected $9.75 from pot
+Kreayshawn: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.75 | Rake $0 
+Seat 2: goldenpig666 folded before Flop (didn't bet)
+Seat 3: Medved219 folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: Nestle170 folded before Flop
+Seat 6: Gluck35 (button) folded before Flop
+Seat 8: Kreayshawn (small blind) collected ($9.75)
+Seat 9: dikanmax (big blind) folded before Flop
+
+
+
+PokerStars Hand #228686851314:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:28:06 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50 in chips) 
+Seat 5: Nestle170 ($50 in chips) 
+Seat 6: Gluck35 ($63.43 in chips) 
+Seat 8: Kreayshawn ($55.75 in chips) 
+Seat 9: dikanmax ($50.25 in chips) 
+dikanmax: posts small blind $0.25
+goldenpig666: is sitting out 
+Medved219: posts big blind $0.50
+xZaKoNaLx: sits out 
+*** HOLE CARDS ***
+goldenpig666 leaves the table
+MarsMiland: folds 
+Nestle170: folds 
+Gluck35: folds 
+Kreayshawn: raises $1 to $1.50
+dikanmax: raises $3.50 to $5
+Medved219: folds 
+Kreayshawn: calls $3.50
+*** FLOP *** [8h 7s 4h]
+dikanmax: checks 
+Kreayshawn: bets $5.09
+dikanmax: folds 
+Uncalled bet ($5.09) returned to Kreayshawn
+Kreayshawn collected $9.98 from pot
+Kreayshawn: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [8h 7s 4h]
+Seat 3: Medved219 (big blind) folded before Flop
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: Nestle170 folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 8: Kreayshawn (button) collected ($9.98)
+Seat 9: dikanmax (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228686868606:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:28:44 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50 in chips) 
+Seat 5: Nestle170 ($50 in chips) 
+Seat 6: Gluck35 ($63.43 in chips) 
+Seat 8: Kreayshawn ($60.73 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+Medved219: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+xZaKoNaLx: sits out 
+*** HOLE CARDS ***
+Nestle170: folds 
+Gluck35: folds 
+Kreayshawn: raises $1 to $1.50
+dikanmax: folds 
+Medved219: folds 
+MarsMiland: folds 
+Uncalled bet ($1) returned to Kreayshawn
+Kreayshawn collected $1.25 from pot
+Kreayshawn: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: Medved219 (small blind) folded before Flop
+Seat 4: MarsMiland (big blind) folded before Flop
+Seat 5: Nestle170 folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 8: Kreayshawn collected ($1.25)
+Seat 9: dikanmax (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686875129:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:28:58 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50 in chips) 
+Seat 5: Nestle170 ($50 in chips) 
+Seat 6: Gluck35 ($63.43 in chips) 
+Seat 8: Kreayshawn ($61.48 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+MarsMiland: posts small blind $0.25
+Nestle170: posts big blind $0.50
+xZaKoNaLx: sits out 
+*** HOLE CARDS ***
+Gluck35: folds 
+Kreayshawn: folds 
+dikanmax: folds 
+Medved219: folds 
+MarsMiland: raises $1 to $1.50
+Nestle170: folds 
+Uncalled bet ($1) returned to MarsMiland
+MarsMiland collected $1 from pot
+MarsMiland: doesn't show hand 
+Tigerrr777 joins the table at seat #2 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Medved219 (button) folded before Flop (didn't bet)
+Seat 4: MarsMiland (small blind) collected ($1)
+Seat 5: Nestle170 (big blind) folded before Flop
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 8: Kreayshawn folded before Flop (didn't bet)
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686879440:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:29:07 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($50.50 in chips) 
+Seat 5: Nestle170 ($50 in chips) 
+Seat 6: Gluck35 ($63.43 in chips) 
+Seat 8: Kreayshawn ($61.48 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+Nestle170: posts small blind $0.25
+Gluck35: posts big blind $0.50
+xZaKoNaLx: sits out 
+Tigerrr777: sits out 
+*** HOLE CARDS ***
+Kreayshawn: folds 
+dikanmax: folds 
+Medved219: folds 
+MarsMiland: raises $0.60 to $1.10
+Nestle170: folds 
+Gluck35: folds 
+Uncalled bet ($0.60) returned to MarsMiland
+Nestle170 leaves the table
+MarsMiland collected $1.25 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: Medved219 folded before Flop (didn't bet)
+Seat 4: MarsMiland (button) collected ($1.25)
+Seat 5: Nestle170 (small blind) folded before Flop
+Seat 6: Gluck35 (big blind) folded before Flop
+Seat 8: Kreayshawn folded before Flop (didn't bet)
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686885592:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:29:21 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 3: Medved219 ($50 in chips) 
+Seat 4: MarsMiland ($51.25 in chips) 
+Seat 6: Gluck35 ($62.93 in chips) 
+Seat 8: Kreayshawn ($61.48 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+Kreayshawn: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+Medved219: raises $1 to $1.50
+MarsMiland: folds 
+Gluck35: folds 
+Kreayshawn: folds 
+dikanmax: folds 
+Uncalled bet ($1) returned to Medved219
+Medved219 collected $1.25 from pot
+Medved219: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: Medved219 collected ($1.25)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 6: Gluck35 (button) folded before Flop (didn't bet)
+Seat 8: Kreayshawn (small blind) folded before Flop
+Seat 9: dikanmax (big blind) folded before Flop
+
+
+
+PokerStars Hand #228688299662:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:20:38 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 2: Moose1967 ($47.50 in chips) 
+Seat 3: grampysix ($35.26 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($74.73 in chips) 
+Seat 6: aksh3n ($52.70 in chips) 
+Seat 7: bjolla ($49.25 in chips) 
+Seat 8: DKNicko ($29.25 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+grampysix: posts small blind $0.25
+Mc57Arnold: posts big blind $0.50
+inflexiblle: sits out 
+*** HOLE CARDS ***
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: raises $0.60 to $1.10
+DKNicko: calls $1.10
+Rulet345: folds 
+Moose1967: calls $1.10
+grampysix: folds 
+Mc57Arnold: calls $0.60
+*** FLOP *** [Jd Td Qd]
+Mc57Arnold: checks 
+bjolla: checks 
+DKNicko: bets $4.42
+Moose1967: folds 
+Mc57Arnold: folds 
+bjolla: folds 
+Uncalled bet ($4.42) returned to DKNicko
+DKNicko collected $4.42 from pot
+*** SUMMARY ***
+Total pot $4.65 | Rake $0.23 
+Board [Jd Td Qd]
+Seat 2: Moose1967 (button) folded on the Flop
+Seat 3: grampysix (small blind) folded before Flop
+Seat 4: Mc57Arnold (big blind) folded on the Flop
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla folded on the Flop
+Seat 8: DKNicko collected ($4.42)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688325238:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:21:30 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 2: Moose1967 ($46.40 in chips) 
+Seat 3: grampysix ($35.01 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($74.73 in chips) 
+Seat 6: aksh3n ($52.70 in chips) 
+Seat 7: bjolla ($48.15 in chips) 
+Seat 8: DKNicko ($32.57 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+Mc57Arnold: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+inflexiblle: sits out 
+*** HOLE CARDS ***
+aksh3n: folds 
+bjolla: folds 
+DKNicko: folds 
+Rulet345: folds 
+Moose1967: raises $1 to $1.50
+grampysix: calls $1.50
+Mc57Arnold: folds 
+nombraalne1: folds 
+*** FLOP *** [8h 2c 9d]
+Moose1967: checks 
+grampysix: checks 
+*** TURN *** [8h 2c 9d] [8c]
+Moose1967: bets $1
+grampysix: raises $1 to $2
+Moose1967: calls $1
+*** RIVER *** [8h 2c 9d 8c] [Kd]
+Moose1967: checks 
+grampysix: bets $7.36
+Moose1967: folds 
+Uncalled bet ($7.36) returned to grampysix
+grampysix collected $7.36 from pot
+grampysix: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.75 | Rake $0.39 
+Board [8h 2c 9d 8c Kd]
+Seat 2: Moose1967 folded on the River
+Seat 3: grampysix (button) collected ($7.36)
+Seat 4: Mc57Arnold (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688343012:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:22:07 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 2: Moose1967 ($42.90 in chips) 
+Seat 3: grampysix ($38.87 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($74.23 in chips) 
+Seat 6: aksh3n ($52.70 in chips) 
+Seat 7: bjolla ($48.15 in chips) 
+Seat 8: DKNicko ($32.57 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+nombraalne1: posts small blind $0.25
+aksh3n: posts big blind $0.50
+inflexiblle: sits out 
+*** HOLE CARDS ***
+bjolla: folds 
+DKNicko: folds 
+Rulet345: raises $1 to $1.50
+Moose1967: calls $1.50
+grampysix: folds 
+Mc57Arnold: folds 
+nombraalne1: folds 
+aksh3n: folds 
+*** FLOP *** [9s 6c 6h]
+Rulet345: bets $1.78
+Moose1967: folds 
+Uncalled bet ($1.78) returned to Rulet345
+Rulet345 collected $3.56 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [9s 6c 6h]
+Seat 2: Moose1967 folded on the Flop
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: Mc57Arnold (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: aksh3n (big blind) folded before Flop
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko folded before Flop (didn't bet)
+Seat 9: Rulet345 collected ($3.56)
+
+
+
+PokerStars Hand #228688364166:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:22:50 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 2: Moose1967 ($48.50 in chips) 
+Seat 3: grampysix ($38.87 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.98 in chips) 
+Seat 6: aksh3n ($52.20 in chips) 
+Seat 7: bjolla ($48.15 in chips) 
+Seat 8: DKNicko ($32.57 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+aksh3n: posts small blind $0.25
+bjolla: posts big blind $0.50
+inflexiblle: sits out 
+*** HOLE CARDS ***
+DKNicko: folds 
+Rulet345: folds 
+Moose1967: raises $1.50 to $2
+grampysix: folds 
+Mc57Arnold: folds 
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+Uncalled bet ($1.50) returned to Moose1967
+Moose1967 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Moose1967 collected ($1.25)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: Mc57Arnold folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: aksh3n (small blind) folded before Flop
+Seat 7: bjolla (big blind) folded before Flop
+Seat 8: DKNicko folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688441761:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:25:29 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 1: inflexiblle ($51.25 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($38.12 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.98 in chips) 
+Seat 6: aksh3n ($52.70 in chips) 
+Seat 7: bjolla ($47.40 in chips) 
+Seat 8: DKNicko ($35.79 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+Mc57Arnold: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+*** HOLE CARDS ***
+aksh3n: folds 
+bjolla: folds 
+DKNicko: folds 
+Rulet345: folds 
+inflexiblle: raises $0.75 to $1.25
+Moose1967: folds 
+grampysix: folds 
+Mc57Arnold: folds 
+nombraalne1: folds 
+Uncalled bet ($0.75) returned to inflexiblle
+inflexiblle collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle collected ($1.25)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix (button) folded before Flop (didn't bet)
+Seat 4: Mc57Arnold (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688451905:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:25:50 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 1: inflexiblle ($52 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($38.12 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.48 in chips) 
+Seat 6: aksh3n ($52.70 in chips) 
+Seat 7: bjolla ($47.40 in chips) 
+Seat 8: DKNicko ($35.79 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+nombraalne1: posts small blind $0.25
+aksh3n: posts big blind $0.50
+*** HOLE CARDS ***
+bjolla: folds 
+DKNicko: folds 
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: raises $1 to $1.50
+grampysix: folds 
+Mc57Arnold: folds 
+nombraalne1: folds 
+aksh3n: folds 
+Uncalled bet ($1) returned to Moose1967
+Moose1967 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 collected ($1.25)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: Mc57Arnold (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: aksh3n (big blind) folded before Flop
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688459606:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:26:06 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 1: inflexiblle ($52 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($38.12 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.23 in chips) 
+Seat 6: aksh3n ($52.20 in chips) 
+Seat 7: bjolla ($47.40 in chips) 
+Seat 8: DKNicko ($35.79 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+aksh3n: posts small blind $0.25
+bjolla: posts big blind $0.50
+*** HOLE CARDS ***
+DKNicko: folds 
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: raises $0.50 to $1
+Mc57Arnold: folds 
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+Uncalled bet ($0.50) returned to grampysix
+grampysix collected $1.25 from pot
+grampysix: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix collected ($1.25)
+Seat 4: Mc57Arnold folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: aksh3n (small blind) folded before Flop
+Seat 7: bjolla (big blind) folded before Flop
+Seat 8: DKNicko folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688467197:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:26:22 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 1: inflexiblle ($52 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($38.87 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.23 in chips) 
+Seat 6: aksh3n ($51.95 in chips) 
+Seat 7: bjolla ($46.90 in chips) 
+Seat 8: DKNicko ($35.79 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+bjolla: posts small blind $0.25
+DKNicko: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+Mc57Arnold: raises $0.85 to $1.35
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: raises $3.65 to $5
+DKNicko: folds 
+Mc57Arnold: folds 
+Uncalled bet ($3.65) returned to bjolla
+bjolla collected $3.20 from pot
+bjolla: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.20 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: Mc57Arnold folded before Flop
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n (button) folded before Flop (didn't bet)
+Seat 7: bjolla (small blind) collected ($3.20)
+Seat 8: DKNicko (big blind) folded before Flop
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688486143:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:27:01 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 1: inflexiblle ($52 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($38.87 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.23 in chips) 
+Seat 6: aksh3n ($51.95 in chips) 
+Seat 7: bjolla ($48.75 in chips) 
+Seat 8: DKNicko ($35.29 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+DKNicko: posts small blind $0.25
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+Mc57Arnold: folds 
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+DKNicko: calls $0.25
+Rulet345: checks 
+*** FLOP *** [4h 8s 7s]
+DKNicko: bets $0.95
+Rulet345: folds 
+Uncalled bet ($0.95) returned to DKNicko
+DKNicko collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [4h 8s 7s]
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: Mc57Arnold folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla (button) folded before Flop (didn't bet)
+Seat 8: DKNicko (small blind) collected ($0.95)
+Seat 9: Rulet345 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228688501056:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:27:32 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 1: inflexiblle ($52 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($38.87 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.23 in chips) 
+Seat 6: aksh3n ($51.95 in chips) 
+Seat 7: bjolla ($48.75 in chips) 
+Seat 8: DKNicko ($35.74 in chips) 
+Seat 9: Rulet345 ($51.56 in chips) 
+Rulet345: posts small blind $0.25
+inflexiblle: posts big blind $0.50
+*** HOLE CARDS ***
+Moose1967: folds 
+grampysix: folds 
+Mc57Arnold: folds 
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+DKNicko: folds 
+Rulet345: raises $1 to $1.50
+inflexiblle: folds 
+Uncalled bet ($1) returned to Rulet345
+Rulet345 collected $1 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: inflexiblle (big blind) folded before Flop
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: Mc57Arnold folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko (button) folded before Flop (didn't bet)
+Seat 9: Rulet345 (small blind) collected ($1)
+
+
+
+PokerStars Hand #228688508476:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:27:48 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 1: inflexiblle ($51.50 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($38.87 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.23 in chips) 
+Seat 6: aksh3n ($51.95 in chips) 
+Seat 7: bjolla ($48.75 in chips) 
+Seat 8: DKNicko ($35.74 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+inflexiblle: posts small blind $0.25
+Moose1967: posts big blind $0.50
+*** HOLE CARDS ***
+grampysix: folds 
+Mc57Arnold: raises $0.85 to $1.35
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+DKNicko: folds 
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+Uncalled bet ($0.85) returned to Mc57Arnold
+Mc57Arnold collected $1.25 from pot
+Mc57Arnold: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle (small blind) folded before Flop
+Seat 2: Moose1967 (big blind) folded before Flop
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: Mc57Arnold collected ($1.25)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko folded before Flop (didn't bet)
+Seat 9: Rulet345 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688516740:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:28:05 ET
+Table 'Yabuuti II' 9-max Seat #1 is the button
+Seat 1: inflexiblle ($51.25 in chips) 
+Seat 2: Moose1967 ($49.50 in chips) 
+Seat 3: grampysix ($38.87 in chips) 
+Seat 4: Mc57Arnold ($50.75 in chips) 
+Seat 5: nombraalne1 ($73.23 in chips) 
+Seat 6: aksh3n ($51.95 in chips) 
+Seat 7: bjolla ($48.75 in chips) 
+Seat 8: DKNicko ($35.74 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+Moose1967: posts small blind $0.25
+grampysix: posts big blind $0.50
+*** HOLE CARDS ***
+Mc57Arnold: folds 
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+DKNicko: raises $0.50 to $1
+Mc57Arnold leaves the table
+Rulet345: calls $1
+inflexiblle: calls $1
+Moose1967: calls $0.75
+grampysix: calls $0.50
+*** FLOP *** [3d 5h 3c]
+Moose1967: checks 
+grampysix: checks 
+DKNicko: bets $0.50
+aksh3n leaves the table
+Rulet345: calls $0.50
+inflexiblle: calls $0.50
+Moose1967: folds 
+grampysix: folds 
+*** TURN *** [3d 5h 3c] [9s]
+MA9717 joins the table at seat #4 
+AndyLu)|(ynski joins the table at seat #6 
+DKNicko: checks 
+Rulet345: checks 
+inflexiblle: bets $4.64
+DKNicko: folds 
+Rulet345: folds 
+Uncalled bet ($4.64) returned to inflexiblle
+inflexiblle collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [3d 5h 3c 9s]
+Seat 1: inflexiblle (button) collected ($6.18)
+Seat 2: Moose1967 (small blind) folded on the Flop
+Seat 3: grampysix (big blind) folded on the Flop
+Seat 4: Mc57Arnold folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko folded on the Turn
+Seat 9: Rulet345 folded on the Turn
+
+
+
+PokerStars Hand #228688552048:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:29:19 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 1: inflexiblle ($55.93 in chips) 
+Seat 2: Moose1967 ($48.50 in chips) 
+Seat 3: grampysix ($37.87 in chips) 
+Seat 4: MA9717 ($40 in chips) 
+Seat 5: nombraalne1 ($73.23 in chips) 
+Seat 7: bjolla ($48.75 in chips) 
+Seat 8: DKNicko ($34.24 in chips) 
+Seat 9: Rulet345 ($50.56 in chips) 
+grampysix: posts small blind $0.25
+MA9717: posts big blind $0.50
+AndyLu)|(ynski: sits out 
+*** HOLE CARDS ***
+nombraalne1: folds 
+bjolla: folds 
+DKNicko: folds 
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+Uncalled bet ($0.25) returned to MA9717
+MA9717 collected $0.50 from pot
+MA9717: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 (button) folded before Flop (didn't bet)
+Seat 3: grampysix (small blind) folded before Flop
+Seat 4: MA9717 (big blind) collected ($0.50)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688560383:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:29:36 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 1: inflexiblle ($55.93 in chips) 
+Seat 2: Moose1967 ($48.50 in chips) 
+Seat 3: grampysix ($37.62 in chips) 
+Seat 4: MA9717 ($40.25 in chips) 
+Seat 5: nombraalne1 ($73.23 in chips) 
+Seat 7: bjolla ($48.75 in chips) 
+Seat 8: DKNicko ($34.24 in chips) 
+Seat 9: Rulet345 ($50.56 in chips) 
+MA9717: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+AndyLu)|(ynski: sits out 
+*** HOLE CARDS ***
+bjolla: folds 
+DKNicko: folds 
+Rulet345: folds 
+inflexiblle: raises $1 to $1.50
+Moose1967: folds 
+grampysix: folds 
+MA9717: calls $1.25
+DKNicko leaves the table
+nombraalne1: folds 
+*** FLOP *** [2s 6s Ac]
+MA9717: checks 
+lonely fire joins the table at seat #8 
+inflexiblle: bets $1.25
+MA9717: folds 
+Uncalled bet ($1.25) returned to inflexiblle
+inflexiblle collected $3.32 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [2s 6s Ac]
+Seat 1: inflexiblle collected ($3.32)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix (button) folded before Flop (didn't bet)
+Seat 4: MA9717 (small blind) folded on the Flop
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688572242:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:30:00 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 1: inflexiblle ($57.75 in chips) 
+Seat 2: Moose1967 ($48.50 in chips) 
+Seat 3: grampysix ($37.62 in chips) 
+Seat 4: MA9717 ($38.75 in chips) 
+Seat 5: nombraalne1 ($72.73 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($48.75 in chips) 
+Seat 9: Rulet345 ($50.56 in chips) 
+nombraalne1: posts small blind $0.25
+AndyLu)|(ynski: posts big blind $0.50
+lonely fire: sits out 
+*** HOLE CARDS ***
+bjolla: folds 
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: raises $0.50 to $1
+grampysix: folds 
+MA9717: folds 
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+Uncalled bet ($0.50) returned to Moose1967
+Moose1967 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 collected ($1.25)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: AndyLu)|(ynski (big blind) folded before Flop
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688639697:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:32:16 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 1: inflexiblle ($57.75 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($37.62 in chips) 
+Seat 4: MA9717 ($19.25 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($48 in chips) 
+Seat 8: lonely fire ($50.69 in chips) 
+lonely fire: posts small blind $0.25
+Rulet345: is sitting out 
+inflexiblle: posts big blind $0.50
+*** HOLE CARDS ***
+Moose1967: folds 
+grampysix: folds 
+MA9717: folds 
+nombraalne1: raises $0.70 to $1.20
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: folds 
+inflexiblle: folds 
+Uncalled bet ($0.70) returned to nombraalne1
+nombraalne1 collected $1.25 from pot
+nombraalne1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle (big blind) folded before Flop
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 folded before Flop (didn't bet)
+Seat 5: nombraalne1 collected ($1.25)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla (button) folded before Flop (didn't bet)
+Seat 8: lonely fire (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688651651:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:32:40 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 1: inflexiblle ($57.25 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($37.62 in chips) 
+Seat 4: MA9717 ($19.25 in chips) 
+Seat 5: nombraalne1 ($91.04 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($48 in chips) 
+Seat 8: lonely fire ($50.44 in chips) 
+inflexiblle: posts small blind $0.25
+Moose1967: posts big blind $0.50
+*** HOLE CARDS ***
+grampysix: folds 
+MA9717: folds 
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: raises $0.75 to $1.25
+inflexiblle: folds 
+Moose1967: raises $1.75 to $3
+lonely fire: calls $1.75
+*** FLOP *** [5d 7s Qs]
+Moose1967: bets $3
+lonely fire: calls $3
+*** TURN *** [5d 7s Qs] [7h]
+Moose1967: checks 
+lonely fire: checks 
+*** RIVER *** [5d 7s Qs 7h] [8s]
+Moose1967: checks 
+lonely fire: bets $8.50
+Moose1967: folds 
+Uncalled bet ($8.50) returned to lonely fire
+lonely fire collected $11.64 from pot
+lonely fire: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.25 | Rake $0.61 
+Board [5d 7s Qs 7h 8s]
+Seat 1: inflexiblle (small blind) folded before Flop
+Seat 2: Moose1967 (big blind) folded on the River
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire (button) collected ($11.64)
+
+
+
+PokerStars Hand #228688678398:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:33:35 ET
+Table 'Yabuuti II' 9-max Seat #1 is the button
+Seat 1: inflexiblle ($57 in chips) 
+Seat 2: Moose1967 ($43.25 in chips) 
+Seat 3: grampysix ($37.62 in chips) 
+Seat 4: MA9717 ($19.25 in chips) 
+Seat 5: nombraalne1 ($91.04 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($48 in chips) 
+Seat 8: lonely fire ($56.08 in chips) 
+Moose1967: posts small blind $0.25
+grampysix: posts big blind $0.50
+Rulet345: sits out 
+*** HOLE CARDS ***
+MA9717: calls $0.50
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: checks 
+*** FLOP *** [9s Th Jd]
+grampysix: checks 
+MA9717: bets $1.50
+grampysix: folds 
+Uncalled bet ($1.50) returned to MA9717
+MA9717 collected $1.19 from pot
+MA9717: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [9s Th Jd]
+Seat 1: inflexiblle (button) folded before Flop (didn't bet)
+Seat 2: Moose1967 (small blind) folded before Flop
+Seat 3: grampysix (big blind) folded on the Flop
+Seat 4: MA9717 collected ($1.19)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688692269:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:34:04 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 1: inflexiblle ($57 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($37.12 in chips) 
+Seat 4: MA9717 ($19.94 in chips) 
+Seat 5: nombraalne1 ($91.04 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($48 in chips) 
+Seat 8: lonely fire ($56.08 in chips) 
+grampysix: posts small blind $0.25
+MA9717: posts big blind $0.50
+Rulet345: sits out 
+*** HOLE CARDS ***
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: raises $0.60 to $1.10
+lonely fire: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+MA9717: calls $0.60
+*** FLOP *** [Ks 5h 4s]
+MA9717: bets $1.50
+bjolla: calls $1.50
+*** TURN *** [Ks 5h 4s] [Jc]
+MA9717: bets $2
+bjolla: calls $2
+*** RIVER *** [Ks 5h 4s Jc] [2d]
+MA9717: bets $2
+bjolla: calls $2
+*** SHOW DOWN ***
+MA9717: shows [Ac 2h] (a pair of Deuces)
+bjolla: shows [9d 9s] (a pair of Nines)
+bjolla collected $12.78 from pot
+*** SUMMARY ***
+Total pot $13.45 | Rake $0.67 
+Board [Ks 5h 4s Jc 2d]
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 (button) folded before Flop (didn't bet)
+Seat 3: grampysix (small blind) folded before Flop
+Seat 4: MA9717 (big blind) showed [Ac 2h] and lost with a pair of Deuces
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla showed [9d 9s] and won ($12.78) with a pair of Nines
+Seat 8: lonely fire folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688717666:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:34:57 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 1: inflexiblle ($57 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($36.87 in chips) 
+Seat 4: MA9717 ($13.34 in chips) 
+Seat 5: nombraalne1 ($91.04 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($54.18 in chips) 
+Seat 8: lonely fire ($56.08 in chips) 
+MA9717: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+Rulet345: sits out 
+*** HOLE CARDS ***
+AndyLu)|(ynski: raises $1.50 to $2
+bjolla: folds 
+lonely fire: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+MA9717: folds 
+nombraalne1: folds 
+Uncalled bet ($1.50) returned to AndyLu)|(ynski
+AndyLu)|(ynski collected $1.25 from pot
+AndyLu)|(ynski: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix (button) folded before Flop (didn't bet)
+Seat 4: MA9717 (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 6: AndyLu)|(ynski collected ($1.25)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688749043:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:36:03 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 1: inflexiblle ($57 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($36.87 in chips) 
+Seat 4: MA9717 ($13.84 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 6: AndyLu)|(ynski ($21.25 in chips) 
+Seat 7: bjolla ($53.68 in chips) 
+Seat 8: lonely fire ($56.08 in chips) 
+bjolla: posts small blind $0.25
+lonely fire: posts big blind $0.50
+Rulet345: sits out 
+*** HOLE CARDS ***
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+MA9717: raises $0.50 to $1
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: raises $4 to $5
+MA9717: folds 
+Uncalled bet ($4) returned to lonely fire
+lonely fire collected $2.25 from pot
+lonely fire: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 folded before Flop
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski (button) folded before Flop (didn't bet)
+Seat 7: bjolla (small blind) folded before Flop
+Seat 8: lonely fire (big blind) collected ($2.25)
+
+
+
+PokerStars Hand #228688759485:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:36:24 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 1: inflexiblle ($57 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($36.87 in chips) 
+Seat 4: MA9717 ($12.84 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 6: AndyLu)|(ynski ($21.25 in chips) 
+Seat 7: bjolla ($53.43 in chips) 
+Seat 8: lonely fire ($57.33 in chips) 
+Seat 9: Rulet345 ($50.56 in chips) 
+lonely fire: posts small blind $0.25
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+MA9717: folds 
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: raises $0.60 to $1.10
+lonely fire: folds 
+Rulet345: folds 
+Uncalled bet ($0.60) returned to bjolla
+bjolla collected $1.25 from pot
+bjolla: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla (button) collected ($1.25)
+Seat 8: lonely fire (small blind) folded before Flop
+Seat 9: Rulet345 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228688770812:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:36:49 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 1: inflexiblle ($57 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($36.87 in chips) 
+Seat 4: MA9717 ($12.84 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 6: AndyLu)|(ynski ($21.25 in chips) 
+Seat 7: bjolla ($54.18 in chips) 
+Seat 8: lonely fire ($57.08 in chips) 
+Seat 9: Rulet345 ($50.06 in chips) 
+Rulet345: posts small blind $0.25
+inflexiblle: posts big blind $0.50
+*** HOLE CARDS ***
+Moose1967: folds 
+grampysix: folds 
+MA9717: calls $0.50
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: folds 
+Rulet345: folds 
+inflexiblle: checks 
+*** FLOP *** [Kd Jd 3h]
+inflexiblle: checks 
+MA9717: bets $1
+inflexiblle: folds 
+Uncalled bet ($1) returned to MA9717
+MA9717 collected $1.19 from pot
+MA9717: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Kd Jd 3h]
+Seat 1: inflexiblle (big blind) folded on the Flop
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 collected ($1.19)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire (button) folded before Flop (didn't bet)
+Seat 9: Rulet345 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688781148:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:37:10 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 1: inflexiblle ($56.50 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($36.87 in chips) 
+Seat 4: MA9717 ($13.53 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 6: AndyLu)|(ynski ($21.25 in chips) 
+Seat 7: bjolla ($54.18 in chips) 
+Seat 8: lonely fire ($57.08 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+inflexiblle: posts small blind $0.25
+Moose1967: posts big blind $0.50
+*** HOLE CARDS ***
+grampysix: folds 
+MA9717: folds 
+nombraalne1: raises $0.70 to $1.20
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: folds 
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+Uncalled bet ($0.70) returned to nombraalne1
+nombraalne1 collected $1.25 from pot
+nombraalne1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle (small blind) folded before Flop
+Seat 2: Moose1967 (big blind) folded before Flop
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 folded before Flop (didn't bet)
+Seat 5: nombraalne1 collected ($1.25)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: Rulet345 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688790796:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:37:31 ET
+Table 'Yabuuti II' 9-max Seat #1 is the button
+Seat 1: inflexiblle ($56.25 in chips) 
+Seat 2: Moose1967 ($49.50 in chips) 
+Seat 3: grampysix ($36.87 in chips) 
+Seat 4: MA9717 ($13.53 in chips) 
+Seat 5: nombraalne1 ($91.04 in chips) 
+Seat 6: AndyLu)|(ynski ($21.25 in chips) 
+Seat 7: bjolla ($54.18 in chips) 
+Seat 8: lonely fire ($57.08 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+Moose1967: posts small blind $0.25
+grampysix: posts big blind $0.50
+*** HOLE CARDS ***
+MA9717: raises $0.50 to $1
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: folds 
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: calls $0.50
+*** FLOP *** [6s Jh Ah]
+grampysix: checks 
+MA9717: bets $1
+grampysix: folds 
+Uncalled bet ($1) returned to MA9717
+MA9717 collected $2.14 from pot
+MA9717: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [6s Jh Ah]
+Seat 1: inflexiblle (button) folded before Flop (didn't bet)
+Seat 2: Moose1967 (small blind) folded before Flop
+Seat 3: grampysix (big blind) folded on the Flop
+Seat 4: MA9717 collected ($2.14)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688805568:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:38:02 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 1: inflexiblle ($56.25 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($35.87 in chips) 
+Seat 4: MA9717 ($14.67 in chips) 
+Seat 5: nombraalne1 ($91.04 in chips) 
+Seat 6: AndyLu)|(ynski ($21.25 in chips) 
+Seat 7: bjolla ($54.18 in chips) 
+Seat 8: lonely fire ($57.08 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+grampysix: posts small blind $0.25
+MA9717: posts big blind $0.50
+*** HOLE CARDS ***
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: raises $1 to $1.50
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+MA9717: calls $1
+*** FLOP *** [2d 9d Jh]
+MA9717: checks 
+lonely fire: bets $1.02
+MA9717: calls $1.02
+*** TURN *** [2d 9d Jh] [Kd]
+MA9717: checks 
+lonely fire: checks 
+*** RIVER *** [2d 9d Jh Kd] [7h]
+MA9717: checks 
+lonely fire: checks 
+*** SHOW DOWN ***
+MA9717: shows [Qd 3h] (high card King)
+lonely fire: shows [8c 8d] (a pair of Eights)
+lonely fire collected $5.03 from pot
+*** SUMMARY ***
+Total pot $5.29 | Rake $0.26 
+Board [2d 9d Jh Kd 7h]
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 (button) folded before Flop (didn't bet)
+Seat 3: grampysix (small blind) folded before Flop
+Seat 4: MA9717 (big blind) showed [Qd 3h] and lost with high card King
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire showed [8c 8d] and won ($5.03) with a pair of Eights
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688870304:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:40:17 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 1: inflexiblle ($58.70 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($32.62 in chips) 
+Seat 4: MA9717 ($14.80 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 6: AndyLu)|(ynski ($20.75 in chips) 
+Seat 7: bjolla ($54.18 in chips) 
+Seat 8: lonely fire ($59.59 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+AndyLu)|(ynski: posts small blind $0.25
+bjolla: posts big blind $0.50
+*** HOLE CARDS ***
+lonely fire: raises $1 to $1.50
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+MA9717: folds 
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+Uncalled bet ($1) returned to lonely fire
+lonely fire collected $1.25 from pot
+lonely fire: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski (small blind) folded before Flop
+Seat 7: bjolla (big blind) folded before Flop
+Seat 8: lonely fire collected ($1.25)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688880893:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:40:31 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 1: inflexiblle ($58.70 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($32.62 in chips) 
+Seat 4: MA9717 ($14.80 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($53.68 in chips) 
+Seat 8: lonely fire ($60.34 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+bjolla: posts small blind $0.25
+lonely fire: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+MA9717: raises $1.50 to $2
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: folds 
+Uncalled bet ($1.50) returned to MA9717
+MA9717 collected $1.25 from pot
+MA9717: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 collected ($1.25)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski (button) folded before Flop (didn't bet)
+Seat 7: bjolla (small blind) folded before Flop
+Seat 8: lonely fire (big blind) folded before Flop
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688893702:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:40:58 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 1: inflexiblle ($58.70 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($32.62 in chips) 
+Seat 4: MA9717 ($15.55 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($53.43 in chips) 
+Seat 8: lonely fire ($59.84 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+lonely fire: posts small blind $0.25
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+MA9717: raises $1.50 to $2
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: folds 
+Rulet345: folds 
+Uncalled bet ($1.50) returned to MA9717
+MA9717 collected $1.25 from pot
+MA9717: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 collected ($1.25)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla (button) folded before Flop (didn't bet)
+Seat 8: lonely fire (small blind) folded before Flop
+Seat 9: Rulet345 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228688900151:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:41:12 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 1: inflexiblle ($58.70 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($32.62 in chips) 
+Seat 4: MA9717 ($16.30 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($53.43 in chips) 
+Seat 8: lonely fire ($59.59 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+Rulet345: posts small blind $0.25
+inflexiblle: posts big blind $0.50
+*** HOLE CARDS ***
+Moose1967: folds 
+grampysix: folds 
+MA9717: raises $0.50 to $1
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: folds 
+Rulet345: folds 
+inflexiblle: calls $0.50
+*** FLOP *** [6d 2s 3c]
+inflexiblle: checks 
+MA9717: bets $2.50
+inflexiblle: calls $2.50
+*** TURN *** [6d 2s 3c] [6c]
+inflexiblle: checks 
+MA9717: bets $1.50
+inflexiblle: calls $1.50
+*** RIVER *** [6d 2s 3c 6c] [7c]
+inflexiblle: checks 
+MA9717: bets $8
+inflexiblle: folds 
+Uncalled bet ($8) returned to MA9717
+MA9717 collected $9.74 from pot
+MA9717: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.25 | Rake $0.51 
+Board [6d 2s 3c 6c 7c]
+Seat 1: inflexiblle (big blind) folded on the River
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 collected ($9.74)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire (button) folded before Flop (didn't bet)
+Seat 9: Rulet345 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688923702:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:42:02 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 1: inflexiblle ($53.70 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($32.62 in chips) 
+Seat 4: MA9717 ($21.04 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($53.43 in chips) 
+Seat 8: lonely fire ($59.59 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+inflexiblle: posts small blind $0.25
+Moose1967: posts big blind $0.50
+*** HOLE CARDS ***
+grampysix: folds 
+MA9717 has timed out
+MA9717: folds 
+nombraalne1: raises $0.70 to $1.20
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: folds 
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+Uncalled bet ($0.70) returned to nombraalne1
+nombraalne1 collected $1.25 from pot
+nombraalne1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle (small blind) folded before Flop
+Seat 2: Moose1967 (big blind) folded before Flop
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 folded before Flop (didn't bet)
+Seat 5: nombraalne1 collected ($1.25)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: Rulet345 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688937173:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:42:31 ET
+Table 'Yabuuti II' 9-max Seat #1 is the button
+Seat 1: inflexiblle ($53.45 in chips) 
+Seat 2: Moose1967 ($48.75 in chips) 
+Seat 3: grampysix ($32.62 in chips) 
+Seat 4: MA9717 ($21.04 in chips) 
+Seat 5: nombraalne1 ($91.04 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($53.43 in chips) 
+Seat 8: lonely fire ($59.59 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+Moose1967: posts small blind $0.25
+grampysix: posts big blind $0.50
+*** HOLE CARDS ***
+MA9717 is disconnected 
+MA9717 has timed out while disconnected
+MA9717: folds 
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: raises $1 to $1.50
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: calls $1.25
+grampysix: folds 
+*** FLOP *** [9h Ks 7h]
+Moose1967: checks 
+lonely fire: bets $2
+Moose1967: calls $2
+*** TURN *** [9h Ks 7h] [Ts]
+Moose1967: bets $3
+lonely fire: calls $3
+*** RIVER *** [9h Ks 7h Ts] [Td]
+Moose1967: bets $5.50
+lonely fire: folds 
+Uncalled bet ($5.50) returned to Moose1967
+Moose1967 collected $12.82 from pot
+*** SUMMARY ***
+Total pot $13.50 | Rake $0.68 
+Board [9h Ks 7h Ts Td]
+Seat 1: inflexiblle (button) folded before Flop (didn't bet)
+Seat 2: Moose1967 (small blind) collected ($12.82)
+Seat 3: grampysix (big blind) folded before Flop
+Seat 4: MA9717 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire folded on the River
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688962154:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:43:24 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 1: inflexiblle ($53.45 in chips) 
+Seat 2: Moose1967 ($55.07 in chips) 
+Seat 3: grampysix ($32.12 in chips) 
+Seat 5: nombraalne1 ($91.04 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($53.43 in chips) 
+Seat 8: lonely fire ($53.09 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+grampysix: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+*** HOLE CARDS ***
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: folds 
+Rulet345: raises $1 to $1.50
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+nombraalne1: folds 
+Uncalled bet ($1) returned to Rulet345
+Rulet345 collected $1.25 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 (button) folded before Flop (didn't bet)
+Seat 3: grampysix (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: Rulet345 collected ($1.25)
+
+
+
+PokerStars Hand #228688994324:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:44:33 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 1: inflexiblle ($55.04 in chips) 
+Seat 2: Moose1967 ($55.07 in chips) 
+Seat 3: grampysix ($33.01 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 7: bjolla ($51.68 in chips) 
+Seat 8: lonely fire ($52.09 in chips) 
+Seat 9: Rulet345 ($50.75 in chips) 
+lonely fire: posts small blind $0.25
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+inflexiblle: raises $0.75 to $1.25
+Moose1967: raises $1.75 to $3
+grampysix: folds 
+nombraalne1: folds 
+bjolla: folds 
+lonely fire: folds 
+Rulet345: calls $2.50
+inflexiblle: calls $1.75
+*** FLOP *** [As Qs 6c]
+Rulet345: checks 
+inflexiblle: checks 
+Moose1967: bets $5
+Rulet345: folds 
+inflexiblle: folds 
+Uncalled bet ($5) returned to Moose1967
+Moose1967 collected $8.79 from pot
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.46 
+Board [As Qs 6c]
+Seat 1: inflexiblle folded on the Flop
+Seat 2: Moose1967 collected ($8.79)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 7: bjolla (button) folded before Flop (didn't bet)
+Seat 8: lonely fire (small blind) folded before Flop
+Seat 9: Rulet345 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228689026246:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:45:21 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 1: inflexiblle ($52.04 in chips) 
+Seat 2: Moose1967 ($60.86 in chips) 
+Seat 3: grampysix ($33.01 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 7: bjolla ($51.68 in chips) 
+Seat 8: lonely fire ($51.84 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+Rulet345: posts small blind $0.25
+inflexiblle: posts big blind $0.50
+*** HOLE CARDS ***
+Moose1967: folds 
+grampysix: folds 
+nombraalne1: folds 
+bjolla: folds 
+lonely fire: raises $0.75 to $1.25
+Rulet345: folds 
+inflexiblle: calls $0.75
+*** FLOP *** [6d 4s 2h]
+inflexiblle: checks 
+lonely fire: bets $0.86
+inflexiblle: calls $0.86
+*** TURN *** [6d 4s 2h] [7s]
+inflexiblle: checks 
+lonely fire: checks 
+*** RIVER *** [6d 4s 2h 7s] [Qd]
+inflexiblle: bets $1.50
+lonely fire: raises $5.50 to $7
+inflexiblle: folds 
+Uncalled bet ($5.50) returned to lonely fire
+lonely fire collected $7.10 from pot
+lonely fire: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.47 | Rake $0.37 
+Board [6d 4s 2h 7s Qd]
+Seat 1: inflexiblle (big blind) folded on the River
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire (button) collected ($7.10)
+Seat 9: Rulet345 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228689053893:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:46:19 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 1: inflexiblle ($50 in chips) 
+Seat 2: Moose1967 ($60.86 in chips) 
+Seat 3: grampysix ($33.01 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 7: bjolla ($51.68 in chips) 
+Seat 8: lonely fire ($55.33 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+inflexiblle: posts small blind $0.25
+Moose1967: posts big blind $0.50
+*** HOLE CARDS ***
+grampysix: folds 
+nombraalne1: folds 
+bjolla: folds 
+lonely fire: raises $1 to $1.50
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+Uncalled bet ($1) returned to lonely fire
+lonely fire collected $1.25 from pot
+lonely fire: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle (small blind) folded before Flop
+Seat 2: Moose1967 (big blind) folded before Flop
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire collected ($1.25)
+Seat 9: Rulet345 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228689064063:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:46:40 ET
+Table 'Yabuuti II' 9-max Seat #1 is the button
+Seat 1: inflexiblle ($50 in chips) 
+Seat 2: Moose1967 ($60.36 in chips) 
+Seat 3: grampysix ($33.01 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 7: bjolla ($51.68 in chips) 
+Seat 8: lonely fire ($56.08 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+Moose1967: posts small blind $0.25
+grampysix: posts big blind $0.50
+*** HOLE CARDS ***
+nombraalne1: folds 
+bjolla: folds 
+lonely fire: folds 
+Rulet345: raises $0.75 to $1.25
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: calls $0.75
+*** FLOP *** [Ks Jd Ts]
+grampysix: checks 
+Rulet345: bets $0.86
+grampysix: calls $0.86
+*** TURN *** [Ks Jd Ts] [5d]
+grampysix: checks 
+Rulet345: checks 
+*** RIVER *** [Ks Jd Ts 5d] [9h]
+grampysix: checks 
+Rulet345: checks 
+*** SHOW DOWN ***
+grampysix: shows [Th Tc] (three of a kind, Tens)
+Rulet345: mucks hand 
+grampysix collected $4.25 from pot
+*** SUMMARY ***
+Total pot $4.47 | Rake $0.22 
+Board [Ks Jd Ts 5d 9h]
+Seat 1: inflexiblle (button) folded before Flop (didn't bet)
+Seat 2: Moose1967 (small blind) folded before Flop
+Seat 3: grampysix (big blind) showed [Th Tc] and won ($4.25) with three of a kind, Tens
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: Rulet345 mucked
+
+
+
+PokerStars Hand #228686955210:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:31:51 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 4: MarsMiland ($55.08 in chips) 
+Seat 5: Popokluev ($50 in chips) 
+Seat 6: Gluck35 ($56.91 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+Gluck35: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+Bellagio Bull: sits out 
+*** HOLE CARDS ***
+Kreayshawn leaves the table
+dikanmax: folds 
+MarsMiland: folds 
+Popokluev: raises $0.75 to $1.25
+Gluck35: raises $3.75 to $5
+xZaKoNaLx: folds 
+Popokluev: calls $3.75
+*** FLOP *** [Js 3c 7s]
+Gluck35: bets $4.49
+Popokluev: calls $4.49
+*** TURN *** [Js 3c 7s] [Ah]
+Gluck35: bets $12.34
+Popokluev: folds 
+Uncalled bet ($12.34) returned to Gluck35
+Gluck35 collected $18.51 from pot
+Gluck35: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.48 | Rake $0.97 
+Board [Js 3c 7s Ah]
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: Popokluev (button) folded on the Turn
+Seat 6: Gluck35 (small blind) collected ($18.51)
+Seat 7: xZaKoNaLx (big blind) folded before Flop
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228686985795:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:32:57 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 4: MarsMiland ($55.08 in chips) 
+Seat 5: Popokluev ($50 in chips) 
+Seat 6: Gluck35 ($65.93 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+xZaKoNaLx: posts small blind $0.25
+dikanmax: posts big blind $0.50
+Bellagio Bull: sits out 
+*** HOLE CARDS ***
+MarsMiland: folds 
+Popokluev: folds 
+Gluck35: raises $0.75 to $1.25
+xZaKoNaLx: folds 
+dikanmax: folds 
+Uncalled bet ($0.75) returned to Gluck35
+Gluck35 collected $1.25 from pot
+Gluck35: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: Popokluev folded before Flop (didn't bet)
+Seat 6: Gluck35 (button) collected ($1.25)
+Seat 7: xZaKoNaLx (small blind) folded before Flop
+Seat 9: dikanmax (big blind) folded before Flop
+
+
+
+PokerStars Hand #228686992024:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:33:10 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 3: Bellagio Bull ($21 in chips) 
+Seat 4: MarsMiland ($55.08 in chips) 
+Seat 5: Popokluev ($50 in chips) 
+Seat 6: Gluck35 ($66.68 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+dikanmax: posts small blind $0.25
+Bellagio Bull: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+Popokluev: folds 
+Gluck35: folds 
+xZaKoNaLx: folds 
+dikanmax: folds 
+Uncalled bet ($0.25) returned to Bellagio Bull
+Bellagio Bull collected $0.50 from pot
+Bellagio Bull: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: Bellagio Bull (big blind) collected ($0.50)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 5: Popokluev folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: xZaKoNaLx (button) folded before Flop (didn't bet)
+Seat 9: dikanmax (small blind) folded before Flop
+
+
+
+PokerStars Hand #228686996711:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:33:20 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 3: Bellagio Bull ($21.25 in chips) 
+Seat 4: MarsMiland ($55.08 in chips) 
+Seat 5: Popokluev ($50 in chips) 
+Seat 6: Gluck35 ($66.68 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+Bellagio Bull: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+Popokluev: folds 
+Gluck35: folds 
+xZaKoNaLx: folds 
+dikanmax: raises $1 to $1.50
+Razum_BY joins the table at seat #8 
+Bellagio Bull: folds 
+MarsMiland: folds 
+Uncalled bet ($1) returned to dikanmax
+dikanmax collected $1.25 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: Bellagio Bull (small blind) folded before Flop
+Seat 4: MarsMiland (big blind) folded before Flop
+Seat 5: Popokluev folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: xZaKoNaLx folded before Flop (didn't bet)
+Seat 9: dikanmax (button) collected ($1.25)
+
+
+
+PokerStars Hand #228687002164:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:33:32 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 3: Bellagio Bull ($21 in chips) 
+Seat 4: MarsMiland ($54.58 in chips) 
+Seat 5: Popokluev ($50 in chips) 
+Seat 6: Gluck35 ($66.68 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 9: dikanmax ($50.75 in chips) 
+MarsMiland: posts small blind $0.25
+Popokluev: posts big blind $0.50
+Razum_BY: sits out 
+Tigerrr777: sits out 
+*** HOLE CARDS ***
+Gluck35: folds 
+xZaKoNaLx: folds 
+dikanmax: folds 
+Bellagio Bull: folds 
+MarsMiland: folds 
+Uncalled bet ($0.25) returned to Popokluev
+Popokluev collected $0.50 from pot
+Popokluev: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: Bellagio Bull (button) folded before Flop (didn't bet)
+Seat 4: MarsMiland (small blind) folded before Flop
+Seat 5: Popokluev (big blind) collected ($0.50)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: xZaKoNaLx folded before Flop (didn't bet)
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687011948:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:33:53 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 3: Bellagio Bull ($21 in chips) 
+Seat 4: MarsMiland ($54.33 in chips) 
+Seat 6: Gluck35 ($66.68 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 9: dikanmax ($50.75 in chips) 
+Gluck35: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+Razum_BY: sits out 
+Tigerrr777: sits out 
+*** HOLE CARDS ***
+dikanmax: folds 
+Bellagio Bull: folds 
+MarsMiland: raises $0.60 to $1.10
+Gluck35: folds 
+xZaKoNaLx: folds 
+Uncalled bet ($0.60) returned to MarsMiland
+MarsMiland collected $1.25 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: Bellagio Bull folded before Flop (didn't bet)
+Seat 4: MarsMiland (button) collected ($1.25)
+Seat 6: Gluck35 (small blind) folded before Flop
+Seat 7: xZaKoNaLx (big blind) folded before Flop
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687020929:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:34:12 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 3: Bellagio Bull ($21 in chips) 
+Seat 4: MarsMiland ($55.08 in chips) 
+Seat 6: Gluck35 ($66.43 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 8: Razum_BY ($50 in chips) 
+Seat 9: dikanmax ($50.75 in chips) 
+xZaKoNaLx: posts small blind $0.25
+Razum_BY: posts big blind $0.50
+Tigerrr777: sits out 
+*** HOLE CARDS ***
+dikanmax: folds 
+Bellagio Bull: raises $0.50 to $1
+MarsMiland: folds 
+Gluck35: folds 
+xZaKoNaLx: folds 
+Razum_BY: folds 
+Uncalled bet ($0.50) returned to Bellagio Bull
+Bellagio Bull collected $1.25 from pot
+Bellagio Bull: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: Bellagio Bull collected ($1.25)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 6: Gluck35 (button) folded before Flop (didn't bet)
+Seat 7: xZaKoNaLx (small blind) folded before Flop
+Seat 8: Razum_BY (big blind) folded before Flop
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687030121:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:34:32 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 3: Bellagio Bull ($21.75 in chips) 
+Seat 4: MarsMiland ($55.08 in chips) 
+Seat 6: Gluck35 ($66.43 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 8: Razum_BY ($50 in chips) 
+Seat 9: dikanmax ($50.75 in chips) 
+Razum_BY: posts small blind $0.25
+dikanmax: posts big blind $0.50
+Tigerrr777: sits out 
+*** HOLE CARDS ***
+Bellagio Bull: folds 
+MarsMiland: raises $0.80 to $1.30
+Gluck35: folds 
+xZaKoNaLx: folds 
+Razum_BY: raises $3.75 to $5.05
+dikanmax: folds 
+MarsMiland: calls $3.75
+*** FLOP *** [3s Tc 2d]
+Razum_BY: bets $6.25
+MarsMiland: calls $6.25
+*** TURN *** [3s Tc 2d] [8h]
+Razum_BY: bets $16
+MarsMiland: folds 
+Uncalled bet ($16) returned to Razum_BY
+Razum_BY collected $21.94 from pot
+Razum_BY: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.10 | Rake $1.16 
+Board [3s Tc 2d 8h]
+Seat 3: Bellagio Bull folded before Flop (didn't bet)
+Seat 4: MarsMiland folded on the Turn
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: xZaKoNaLx (button) folded before Flop (didn't bet)
+Seat 8: Razum_BY (small blind) collected ($21.94)
+Seat 9: dikanmax (big blind) folded before Flop
+
+
+
+PokerStars Hand #228687068396:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:35:53 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 2: Tigerrr777 ($50 in chips) 
+Seat 3: Bellagio Bull ($21.75 in chips) 
+Seat 4: MarsMiland ($50 in chips) 
+Seat 6: Gluck35 ($66.43 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 8: Razum_BY ($60.64 in chips) 
+Seat 9: dikanmax ($50.25 in chips) 
+dikanmax: posts small blind $0.25
+Tigerrr777: posts big blind $0.50
+*** HOLE CARDS ***
+Bellagio Bull: folds 
+MarsMiland: folds 
+Gluck35: folds 
+xZaKoNaLx: folds 
+Razum_BY: folds 
+dikanmax: folds 
+Uncalled bet ($0.25) returned to Tigerrr777
+Tigerrr777 collected $0.50 from pot
+FrankDuxe1 was removed from the table for failing to post
+FrankDuxe1 leaves the table
+Tigerrr777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Tigerrr777 (big blind) collected ($0.50)
+Seat 3: Bellagio Bull folded before Flop (didn't bet)
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: xZaKoNaLx folded before Flop (didn't bet)
+Seat 8: Razum_BY (button) folded before Flop (didn't bet)
+Seat 9: dikanmax (small blind) folded before Flop
+
+
+
+PokerStars Hand #228687074972:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:36:08 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 2: Tigerrr777 ($50.25 in chips) 
+Seat 3: Bellagio Bull ($21.75 in chips) 
+Seat 4: MarsMiland ($50 in chips) 
+Seat 6: Gluck35 ($66.43 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 8: Razum_BY ($60.64 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+Tigerrr777: posts small blind $0.25
+Bellagio Bull: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+Gluck35: folds 
+xZaKoNaLx: folds 
+MarsMiland leaves the table
+Razum_BY: raises $0.75 to $1.25
+dikanmax: folds 
+Tigerrr777: folds 
+Bellagio Bull: calls $0.75
+*** FLOP *** [7s 2d Qh]
+Bellagio Bull: checks 
+Razum_BY: checks 
+*** TURN *** [7s 2d Qh] [8s]
+Bellagio Bull: checks 
+Razum_BY: checks 
+*** RIVER *** [7s 2d Qh 8s] [6h]
+Bellagio Bull: checks 
+Razum_BY: checks 
+*** SHOW DOWN ***
+Bellagio Bull: shows [3h Ad] (high card Ace)
+Razum_BY: shows [Js Jd] (a pair of Jacks)
+Razum_BY collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [7s 2d Qh 8s 6h]
+Seat 2: Tigerrr777 (small blind) folded before Flop
+Seat 3: Bellagio Bull (big blind) showed [3h Ad] and lost with high card Ace
+Seat 4: MarsMiland folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: xZaKoNaLx folded before Flop (didn't bet)
+Seat 8: Razum_BY showed [Js Jd] and won ($2.61) with a pair of Jacks
+Seat 9: dikanmax (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687095001:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:36:50 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 2: Tigerrr777 ($50 in chips) 
+Seat 3: Bellagio Bull ($20.50 in chips) 
+Seat 6: Gluck35 ($66.43 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 8: Razum_BY ($62 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+Bellagio Bull: posts small blind $0.25
+Gluck35: posts big blind $0.50
+*** HOLE CARDS ***
+xZaKoNaLx: folds 
+Razum_BY: folds 
+dikanmax: folds 
+Tigerrr777: raises $0.75 to $1.25
+Bellagio Bull: folds 
+Gluck35: calls $0.75
+*** FLOP *** [9h 3d Kc]
+Gluck35: checks 
+tomekpe joins the table at seat #4 
+Tigerrr777: bets $1
+Gluck35: folds 
+Uncalled bet ($1) returned to Tigerrr777
+Tigerrr777 collected $2.61 from pot
+Tigerrr777: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [9h 3d Kc]
+Seat 2: Tigerrr777 (button) collected ($2.61)
+Seat 3: Bellagio Bull (small blind) folded before Flop
+Seat 6: Gluck35 (big blind) folded on the Flop
+Seat 7: xZaKoNaLx folded before Flop (didn't bet)
+Seat 8: Razum_BY folded before Flop (didn't bet)
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687118892:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:37:42 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 2: Tigerrr777 ($51.36 in chips) 
+Seat 3: Bellagio Bull ($20.25 in chips) 
+Seat 6: Gluck35 ($65.18 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 8: Razum_BY ($62 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+Gluck35: posts small blind $0.25
+xZaKoNaLx: posts big blind $0.50
+*** HOLE CARDS ***
+Razum_BY: raises $0.75 to $1.25
+dikanmax: folds 
+Tigerrr777: folds 
+Tigerrr777 leaves the table
+Bellagio Bull: folds 
+Gluck35: folds 
+xZaKoNaLx: folds 
+Uncalled bet ($0.75) returned to Razum_BY
+Razum_BY collected $1.25 from pot
+Razum_BY: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Tigerrr777 folded before Flop (didn't bet)
+Seat 3: Bellagio Bull (button) folded before Flop (didn't bet)
+Seat 6: Gluck35 (small blind) folded before Flop
+Seat 7: xZaKoNaLx (big blind) folded before Flop
+Seat 8: Razum_BY collected ($1.25)
+Seat 9: dikanmax folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687126526:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:37:59 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 3: Bellagio Bull ($20.25 in chips) 
+Seat 6: Gluck35 ($64.93 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 8: Razum_BY ($62.75 in chips) 
+Seat 9: dikanmax ($50 in chips) 
+xZaKoNaLx: posts small blind $0.25
+Razum_BY: posts big blind $0.50
+tomekpe: sits out 
+*** HOLE CARDS ***
+dikanmax: raises $1 to $1.50
+Bellagio Bull: folds 
+Gluck35: folds 
+xZaKoNaLx: folds 
+Razum_BY: folds 
+Uncalled bet ($1) returned to dikanmax
+dikanmax collected $1.25 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: Bellagio Bull folded before Flop (didn't bet)
+Seat 6: Gluck35 (button) folded before Flop (didn't bet)
+Seat 7: xZaKoNaLx (small blind) folded before Flop
+Seat 8: Razum_BY (big blind) folded before Flop
+Seat 9: dikanmax collected ($1.25)
+
+
+
+PokerStars Hand #228687134857:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:38:17 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 3: Bellagio Bull ($20.25 in chips) 
+Seat 6: Gluck35 ($64.93 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 8: Razum_BY ($62.25 in chips) 
+Razum_BY: posts small blind $0.25
+dikanmax: is sitting out 
+Bellagio Bull: posts big blind $0.50
+tomekpe: sits out 
+*** HOLE CARDS ***
+Gluck35: folds 
+xZaKoNaLx: folds 
+Razum_BY: raises $1 to $1.50
+Bellagio Bull: folds 
+Uncalled bet ($1) returned to Razum_BY
+Razum_BY collected $1 from pot
+Razum_BY: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Bellagio Bull (big blind) folded before Flop
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: xZaKoNaLx (button) folded before Flop (didn't bet)
+Seat 8: Razum_BY (small blind) collected ($1)
+
+
+
+PokerStars Hand #228687139955:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:38:27 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 3: Bellagio Bull ($19.75 in chips) 
+Seat 4: tomekpe ($55.30 in chips) 
+Seat 6: Gluck35 ($64.93 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 8: Razum_BY ($62.75 in chips) 
+Bellagio Bull: posts small blind $0.25
+tomekpe: posts big blind $0.50
+*** HOLE CARDS ***
+Gluck35: raises $0.75 to $1.25
+xZaKoNaLx: folds 
+Razum_BY: folds 
+Bellagio Bull: folds 
+tomekpe: folds 
+Uncalled bet ($0.75) returned to Gluck35
+Gluck35 collected $1.25 from pot
+Gluck35: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: Bellagio Bull (small blind) folded before Flop
+Seat 4: tomekpe (big blind) folded before Flop
+Seat 6: Gluck35 collected ($1.25)
+Seat 7: xZaKoNaLx folded before Flop (didn't bet)
+Seat 8: Razum_BY (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687144722:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:38:38 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 3: Bellagio Bull ($19.50 in chips) 
+Seat 4: tomekpe ($54.80 in chips) 
+Seat 6: Gluck35 ($65.68 in chips) 
+Seat 7: xZaKoNaLx ($50 in chips) 
+Seat 8: Razum_BY ($62.75 in chips) 
+tomekpe: posts small blind $0.25
+Gluck35: posts big blind $0.50
+*** HOLE CARDS ***
+xZaKoNaLx: raises $0.60 to $1.10
+Razum_BY: folds 
+Bellagio Bull: calls $1.10
+tomekpe: folds 
+Gluck35: folds 
+*** FLOP *** [4c 2s 5d]
+xZaKoNaLx: checks 
+Bellagio Bull: bets $0.50
+xZaKoNaLx: calls $0.50
+*** TURN *** [4c 2s 5d] [Qs]
+xZaKoNaLx: checks 
+Bellagio Bull: bets $3.75
+xZaKoNaLx: folds 
+Uncalled bet ($3.75) returned to Bellagio Bull
+Bellagio Bull collected $3.75 from pot
+Bellagio Bull: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.95 | Rake $0.20 
+Board [4c 2s 5d Qs]
+Seat 3: Bellagio Bull (button) collected ($3.75)
+Seat 4: tomekpe (small blind) folded before Flop
+Seat 6: Gluck35 (big blind) folded before Flop
+Seat 7: xZaKoNaLx folded on the Turn
+Seat 8: Razum_BY folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687160987:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:39:12 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 3: Bellagio Bull ($21.65 in chips) 
+Seat 4: tomekpe ($54.55 in chips) 
+Seat 6: Gluck35 ($65.18 in chips) 
+Gluck35: posts small blind $0.25
+xZaKoNaLx: is sitting out 
+Razum_BY: is sitting out 
+Bellagio Bull: posts big blind $0.50
+*** HOLE CARDS ***
+xZaKoNaLx leaves the table
+tomekpe: raises $0.69 to $1.19
+Razum_BY leaves the table
+Gluck35: raises $3.81 to $5
+Bellagio Bull: folds 
+tomekpe: folds 
+Uncalled bet ($3.81) returned to Gluck35
+Gluck35 collected $2.88 from pot
+Gluck35: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.88 | Rake $0 
+Seat 3: Bellagio Bull (big blind) folded before Flop
+Seat 4: tomekpe (button) folded before Flop
+Seat 6: Gluck35 (small blind) collected ($2.88)
+
+
+
+PokerStars Hand #228687170324:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:39:32 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 3: Bellagio Bull ($21.15 in chips) 
+Seat 6: Gluck35 ($66.87 in chips) 
+Bellagio Bull: posts small blind $0.25
+tomekpe: is sitting out 
+tomekpe leaves the table
+Gluck35: posts big blind $0.50
+*** HOLE CARDS ***
+Bellagio Bull: folds 
+Uncalled bet ($0.25) returned to Gluck35
+Bellagio Bull leaves the table
+Gluck35 collected $0.50 from pot
+Gluck35: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: Bellagio Bull (button) (small blind) folded before Flop
+Seat 6: Gluck35 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228687374675:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:46:22 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 1: Ridders187 ($50 in chips) 
+Seat 2: suigetsy ($50 in chips) 
+Seat 3: Popokluev ($50.25 in chips) 
+Seat 4: Leason22 ($25 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: Gluck35 ($67.12 in chips) 
+nombraalne1: posts small blind $0.25
+Gluck35: posts big blind $0.50
+*** HOLE CARDS ***
+Ridders187: folds 
+suigetsy: folds 
+Popokluev: folds 
+Leason22: raises $1 to $1.50
+diegos1991 joins the table at seat #7 
+forestry800 joins the table at seat #9 
+nombraalne1: folds 
+Gluck35: calls $1
+*** FLOP *** [Ts 4h 5d]
+Gluck35: checks 
+lrsntrlk joins the table at seat #8 
+Leason22: bets $2
+Gluck35: calls $2
+*** TURN *** [Ts 4h 5d] [Td]
+Gluck35: checks 
+Leason22: bets $4
+Gluck35: calls $4
+*** RIVER *** [Ts 4h 5d Td] [9c]
+Gluck35: checks 
+Leason22: bets $10
+Gluck35: calls $10
+*** SHOW DOWN ***
+Leason22: shows [Tc Qh] (three of a kind, Tens)
+Gluck35: mucks hand 
+Leason22 collected $33.05 from pot
+*** SUMMARY ***
+Total pot $35.25 | Rake $2.20 
+Board [Ts 4h 5d Td 9c]
+Seat 1: Ridders187 folded before Flop (didn't bet)
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 (button) showed [Tc Qh] and won ($33.05) with three of a kind, Tens
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: Gluck35 (big blind) mucked
+
+
+
+PokerStars Hand #228687412004:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:47:43 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 1: Ridders187 ($50 in chips) 
+Seat 2: suigetsy ($50 in chips) 
+Seat 3: Popokluev ($50.25 in chips) 
+Seat 4: Leason22 ($40.55 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($40 in chips) 
+Seat 8: lrsntrlk ($40 in chips) 
+Gluck35: posts small blind $0.25
+diegos1991: posts big blind $0.50
+lrsntrlk: posts big blind $0.50
+forestry800: sits out 
+*** HOLE CARDS ***
+lrsntrlk: checks 
+Ridders187: folds 
+suigetsy: raises $0.75 to $1.25
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+Gluck35: folds 
+diegos1991: folds 
+lrsntrlk: calls $0.75
+*** FLOP *** [2h 5c 8h]
+lrsntrlk: checks 
+suigetsy: checks 
+*** TURN *** [2h 5c 8h] [8s]
+lrsntrlk: checks 
+suigetsy: checks 
+*** RIVER *** [2h 5c 8h 8s] [Tc]
+lrsntrlk: checks 
+suigetsy: bets $2.22
+lrsntrlk: calls $2.22
+*** SHOW DOWN ***
+suigetsy: shows [Ts Ac] (two pair, Tens and Eights)
+lrsntrlk: mucks hand 
+suigetsy collected $7.31 from pot
+*** SUMMARY ***
+Total pot $7.69 | Rake $0.38 
+Board [2h 5c 8h 8s Tc]
+Seat 1: Ridders187 folded before Flop (didn't bet)
+Seat 2: suigetsy showed [Ts Ac] and won ($7.31) with two pair, Tens and Eights
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: Gluck35 (small blind) folded before Flop
+Seat 7: diegos1991 (big blind) folded before Flop
+Seat 8: lrsntrlk mucked
+
+
+
+PokerStars Hand #228687441958:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:48:49 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 1: Ridders187 ($50 in chips) 
+Seat 2: suigetsy ($53.84 in chips) 
+Seat 3: Popokluev ($50.25 in chips) 
+Seat 4: Leason22 ($40.55 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($39.50 in chips) 
+Seat 8: lrsntrlk ($36.53 in chips) 
+diegos1991: posts small blind $0.25
+lrsntrlk: posts big blind $0.50
+forestry800: sits out 
+*** HOLE CARDS ***
+Ridders187: folds 
+suigetsy: folds 
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+Gluck35: raises $0.75 to $1.25
+diegos1991: raises $0.75 to $2
+lrsntrlk: calls $1.50
+Gluck35: calls $0.75
+*** FLOP *** [8h Tc 8c]
+diegos1991: bets $2.50
+lrsntrlk: calls $2.50
+Ridders187 was removed from the table for failing to post
+Ridders187 leaves the table
+Gluck35: folds 
+*** TURN *** [8h Tc 8c] [6c]
+190K joins the table at seat #1 
+diegos1991: checks 
+lrsntrlk: checks 
+*** RIVER *** [8h Tc 8c 6c] [3c]
+diegos1991: checks 
+lrsntrlk: bets $2
+diegos1991: raises $4.50 to $6.50
+lrsntrlk: calls $4.50
+*** SHOW DOWN ***
+diegos1991: shows [Th Kc] (a flush, King high)
+lrsntrlk: mucks hand 
+diegos1991 collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [8h Tc 8c 6c 3c]
+Seat 1: Ridders187 folded before Flop (didn't bet)
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: Gluck35 (button) folded on the Flop
+Seat 7: diegos1991 (small blind) showed [Th Kc] and won ($22.80) with a flush, King high
+Seat 8: lrsntrlk (big blind) mucked
+
+
+
+PokerStars Hand #228687476120:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:50:03 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 2: suigetsy ($53.84 in chips) 
+Seat 3: Popokluev ($50.25 in chips) 
+Seat 4: Leason22 ($40.55 in chips) 
+Seat 5: nombraalne1 ($50 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($51.30 in chips) 
+Seat 8: lrsntrlk ($25.53 in chips) 
+Seat 9: forestry800 ($50 in chips) 
+lrsntrlk: posts small blind $0.25
+forestry800: posts big blind $0.50
+190K: sits out 
+*** HOLE CARDS ***
+suigetsy: raises $0.75 to $1.25
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: raises $3.25 to $4.50
+Gluck35: folds 
+diegos1991: folds 
+lrsntrlk: calls $4.25
+forestry800: folds 
+suigetsy: folds 
+*** FLOP *** [5d 7d 3d]
+lrsntrlk: checks 
+nombraalne1: bets $7.66
+lrsntrlk: calls $7.66
+*** TURN *** [5d 7d 3d] [Ts]
+lrsntrlk: checks 
+nombraalne1: bets $18.58
+lrsntrlk: calls $13.37 and is all-in
+Uncalled bet ($5.21) returned to nombraalne1
+*** RIVER *** [5d 7d 3d Ts] [9c]
+*** SHOW DOWN ***
+lrsntrlk: shows [9d 8h] (a pair of Nines)
+nombraalne1: shows [Jd Jh] (a pair of Jacks)
+nombraalne1 collected $50.81 from pot
+*** SUMMARY ***
+Total pot $52.81 | Rake $2 
+Board [5d 7d 3d Ts 9c]
+Seat 2: suigetsy folded before Flop
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 showed [Jd Jh] and won ($50.81) with a pair of Jacks
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: diegos1991 (button) folded before Flop (didn't bet)
+Seat 8: lrsntrlk (small blind) showed [9d 8h] and lost with a pair of Nines
+Seat 9: forestry800 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228687512386:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:51:22 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 2: suigetsy ($52.59 in chips) 
+Seat 3: Popokluev ($50.25 in chips) 
+Seat 4: Leason22 ($40.55 in chips) 
+Seat 5: nombraalne1 ($75.28 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($51.30 in chips) 
+Seat 9: forestry800 ($50 in chips) 
+suigetsy: posts small blind $0.25
+Popokluev: posts big blind $0.50
+*** HOLE CARDS ***
+Leason22: folds 
+nombraalne1: folds 
+Gluck35: folds 
+diegos1991: folds 
+forestry800: folds 
+suigetsy: raises $1 to $1.50
+Popokluev: calls $1
+*** FLOP *** [8d 6d 3c]
+suigetsy: checks 
+Popokluev: bets $0.94
+suigetsy: calls $0.94
+*** TURN *** [8d 6d 3c] [2h]
+suigetsy: checks 
+Popokluev: checks 
+*** RIVER *** [8d 6d 3c 2h] [Th]
+suigetsy: bets $7.46
+Popokluev: folds 
+Uncalled bet ($7.46) returned to suigetsy
+suigetsy collected $4.64 from pot
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [8d 6d 3c 2h Th]
+Seat 2: suigetsy (small blind) collected ($4.64)
+Seat 3: Popokluev (big blind) folded on the River
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: diegos1991 folded before Flop (didn't bet)
+Seat 9: forestry800 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687547540:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:52:39 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 2: suigetsy ($54.79 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($40.55 in chips) 
+Seat 5: nombraalne1 ($75.28 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($51.30 in chips) 
+Seat 8: lrsntrlk ($27.70 in chips) 
+Seat 9: forestry800 ($50 in chips) 
+Popokluev: posts small blind $0.25
+Leason22: posts big blind $0.50
+190K: sits out 
+*** HOLE CARDS ***
+nombraalne1: folds 
+Gluck35: folds 
+diegos1991: folds 
+lrsntrlk: calls $0.50
+forestry800: folds 
+suigetsy: folds 
+Popokluev: folds 
+Leason22: checks 
+*** FLOP *** [Qh Ad 7c]
+Leason22: checks 
+lrsntrlk: checks 
+*** TURN *** [Qh Ad 7c] [Th]
+Leason22: checks 
+lrsntrlk: checks 
+*** RIVER *** [Qh Ad 7c Th] [Ks]
+Leason22: checks 
+lrsntrlk: bets $1.50
+Leason22: folds 
+Uncalled bet ($1.50) returned to lrsntrlk
+lrsntrlk collected $1.19 from pot
+lrsntrlk: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Qh Ad 7c Th Ks]
+Seat 2: suigetsy (button) folded before Flop (didn't bet)
+Seat 3: Popokluev (small blind) folded before Flop
+Seat 4: Leason22 (big blind) folded on the River
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: diegos1991 folded before Flop (didn't bet)
+Seat 8: lrsntrlk collected ($1.19)
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687578186:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:53:46 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 2: suigetsy ($54.79 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($40.05 in chips) 
+Seat 5: nombraalne1 ($75.28 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($51.30 in chips) 
+Seat 8: lrsntrlk ($28.39 in chips) 
+Seat 9: forestry800 ($50 in chips) 
+Leason22: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+190K: sits out 
+*** HOLE CARDS ***
+Gluck35: folds 
+diegos1991: raises $0.50 to $1
+lrsntrlk: calls $1
+forestry800: folds 
+suigetsy: raises $4.25 to $5.25
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+diegos1991: folds 
+lrsntrlk: folds 
+Uncalled bet ($4.25) returned to suigetsy
+suigetsy collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0 
+Seat 2: suigetsy collected ($3.75)
+Seat 3: Popokluev (button) folded before Flop (didn't bet)
+Seat 4: Leason22 (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: diegos1991 folded before Flop
+Seat 8: lrsntrlk folded before Flop
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687601124:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:54:37 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 2: suigetsy ($57.54 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($39.80 in chips) 
+Seat 5: nombraalne1 ($74.78 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($50.30 in chips) 
+Seat 8: lrsntrlk ($27.39 in chips) 
+Seat 9: forestry800 ($50 in chips) 
+nombraalne1: posts small blind $0.25
+Gluck35: posts big blind $0.50
+190K: sits out 
+*** HOLE CARDS ***
+diegos1991: raises $0.50 to $1
+lrsntrlk: folds 
+forestry800: folds 
+suigetsy: folds 
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+Gluck35: folds 
+Uncalled bet ($0.50) returned to diegos1991
+diegos1991 collected $1.25 from pot
+diegos1991: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: Gluck35 (big blind) folded before Flop
+Seat 7: diegos1991 collected ($1.25)
+Seat 8: lrsntrlk folded before Flop (didn't bet)
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687613051:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:55:04 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 2: suigetsy ($57.54 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($39.80 in chips) 
+Seat 5: nombraalne1 ($74.53 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($51.05 in chips) 
+Seat 8: lrsntrlk ($27.39 in chips) 
+Seat 9: forestry800 ($50 in chips) 
+Gluck35: posts small blind $0.25
+diegos1991: posts big blind $0.50
+190K: sits out 
+*** HOLE CARDS ***
+lrsntrlk: calls $0.50
+forestry800: folds 
+suigetsy: folds 
+Popokluev: raises $1.75 to $2.25
+Leason22: folds 
+nombraalne1: folds 
+Gluck35: folds 
+diegos1991: folds 
+lrsntrlk: folds 
+Uncalled bet ($1.75) returned to Popokluev
+Popokluev collected $1.75 from pot
+Popokluev: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev collected ($1.75)
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: Gluck35 (small blind) folded before Flop
+Seat 7: diegos1991 (big blind) folded before Flop
+Seat 8: lrsntrlk folded before Flop
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687623764:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:55:34 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 2: suigetsy ($57.54 in chips) 
+Seat 3: Popokluev ($51.25 in chips) 
+Seat 4: Leason22 ($39.80 in chips) 
+Seat 5: nombraalne1 ($74.53 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($50.55 in chips) 
+Seat 8: lrsntrlk ($26.89 in chips) 
+Seat 9: forestry800 ($50 in chips) 
+diegos1991: posts small blind $0.25
+lrsntrlk: posts big blind $0.50
+190K: sits out 
+*** HOLE CARDS ***
+forestry800: folds 
+suigetsy: folds 
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+Gluck35: folds 
+diegos1991: folds 
+Uncalled bet ($0.25) returned to lrsntrlk
+lrsntrlk collected $0.50 from pot
+lrsntrlk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: Gluck35 (button) folded before Flop (didn't bet)
+Seat 7: diegos1991 (small blind) folded before Flop
+Seat 8: lrsntrlk (big blind) collected ($0.50)
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687628533:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:55:49 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 2: suigetsy ($57.54 in chips) 
+Seat 3: Popokluev ($51.25 in chips) 
+Seat 4: Leason22 ($39.80 in chips) 
+Seat 5: nombraalne1 ($74.53 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($50.30 in chips) 
+Seat 8: lrsntrlk ($27.14 in chips) 
+Seat 9: forestry800 ($50 in chips) 
+lrsntrlk: posts small blind $0.25
+forestry800: posts big blind $0.50
+190K: sits out 
+*** HOLE CARDS ***
+suigetsy: raises $0.75 to $1.25
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+Gluck35: folds 
+diegos1991: calls $1.25
+lrsntrlk: calls $1
+forestry800: folds 
+*** FLOP *** [9h 4s Kc]
+lrsntrlk: checks 
+suigetsy: checks 
+diegos1991: checks 
+*** TURN *** [9h 4s Kc] [Jd]
+lrsntrlk: checks 
+suigetsy: checks 
+diegos1991: checks 
+*** RIVER *** [9h 4s Kc Jd] [4c]
+lrsntrlk: checks 
+suigetsy: bets $1.33
+diegos1991: folds 
+lrsntrlk: calls $1.33
+*** SHOW DOWN ***
+suigetsy: shows [Jc Ad] (two pair, Jacks and Fours)
+lrsntrlk: mucks hand 
+suigetsy collected $6.56 from pot
+*** SUMMARY ***
+Total pot $6.91 | Rake $0.35 
+Board [9h 4s Kc Jd 4c]
+Seat 2: suigetsy showed [Jc Ad] and won ($6.56) with two pair, Jacks and Fours
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: diegos1991 (button) folded on the River
+Seat 8: lrsntrlk (small blind) mucked
+Seat 9: forestry800 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228687653314:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:57:04 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 1: 190K ($50 in chips) 
+Seat 2: suigetsy ($61.52 in chips) 
+Seat 3: Popokluev ($51.25 in chips) 
+Seat 4: Leason22 ($39.80 in chips) 
+Seat 5: nombraalne1 ($74.53 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($49.05 in chips) 
+Seat 8: lrsntrlk ($24.56 in chips) 
+Seat 9: forestry800 ($50 in chips) 
+forestry800: posts small blind $0.25
+190K: posts big blind $0.50
+*** HOLE CARDS ***
+suigetsy: folds 
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+Gluck35: raises $0.75 to $1.25
+diegos1991: folds 
+lrsntrlk: calls $1.25
+forestry800: calls $1
+190K: folds 
+*** FLOP *** [Kh Ac Tc]
+forestry800: checks 
+Gluck35: checks 
+lrsntrlk: checks 
+*** TURN *** [Kh Ac Tc] [7c]
+forestry800: bets $1.33
+Gluck35: folds 
+lrsntrlk: calls $1.33
+*** RIVER *** [Kh Ac Tc 7c] [4d]
+forestry800: checks 
+lrsntrlk: bets $2
+forestry800: calls $2
+*** SHOW DOWN ***
+lrsntrlk: shows [Ts Ks] (two pair, Kings and Tens)
+forestry800: mucks hand 
+lrsntrlk collected $10.36 from pot
+*** SUMMARY ***
+Total pot $10.91 | Rake $0.55 
+Board [Kh Ac Tc 7c 4d]
+Seat 1: 190K (big blind) folded before Flop
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: Gluck35 folded on the Turn
+Seat 7: diegos1991 folded before Flop (didn't bet)
+Seat 8: lrsntrlk (button) showed [Ts Ks] and won ($10.36) with two pair, Kings and Tens
+Seat 9: forestry800 (small blind) mucked
+
+
+
+PokerStars Hand #228687673860:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:58:06 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 1: 190K ($50 in chips) 
+Seat 2: suigetsy ($61.52 in chips) 
+Seat 3: Popokluev ($51.25 in chips) 
+Seat 4: Leason22 ($39.80 in chips) 
+Seat 5: nombraalne1 ($74.53 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($49.05 in chips) 
+Seat 8: lrsntrlk ($30.34 in chips) 
+Seat 9: forestry800 ($50 in chips) 
+190K: posts small blind $0.25
+suigetsy: posts big blind $0.50
+*** HOLE CARDS ***
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+Gluck35: folds 
+diegos1991: folds 
+lrsntrlk: calls $0.50
+forestry800: raises $1.50 to $2
+190K: folds 
+suigetsy: folds 
+lrsntrlk: calls $1.50
+*** FLOP *** [2d 9s Td]
+lrsntrlk: checks 
+forestry800: bets $3.16
+lrsntrlk: folds 
+Uncalled bet ($3.16) returned to forestry800
+forestry800 collected $4.51 from pot
+forestry800: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.24 
+Board [2d 9s Td]
+Seat 1: 190K (small blind) folded before Flop
+Seat 2: suigetsy (big blind) folded before Flop
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: diegos1991 folded before Flop (didn't bet)
+Seat 8: lrsntrlk folded on the Flop
+Seat 9: forestry800 (button) collected ($4.51)
+
+
+
+PokerStars Hand #228687687266:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:58:46 ET
+Table 'Yabuuti II' 9-max Seat #1 is the button
+Seat 1: 190K ($50 in chips) 
+Seat 2: suigetsy ($61.02 in chips) 
+Seat 3: Popokluev ($51.25 in chips) 
+Seat 4: Leason22 ($39.80 in chips) 
+Seat 5: nombraalne1 ($74.53 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($49.05 in chips) 
+Seat 8: lrsntrlk ($28.34 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+suigetsy: posts small blind $0.25
+Popokluev: posts big blind $0.50
+*** HOLE CARDS ***
+Leason22: raises $1 to $1.50
+nombraalne1: folds 
+Gluck35: folds 
+diegos1991: calls $1.50
+lrsntrlk: calls $1.50
+forestry800: folds 
+190K: folds 
+suigetsy: folds 
+Popokluev: raises $6.76 to $8.26
+Leason22: calls $6.76
+diegos1991: folds 
+lrsntrlk: folds 
+*** FLOP *** [6h 9h 2h]
+Popokluev: bets $8.75
+Leason22: calls $8.75
+*** TURN *** [6h 9h 2h] [3h]
+Popokluev: bets $34.24 and is all-in
+Leason22: calls $22.79 and is all-in
+Uncalled bet ($11.45) returned to Popokluev
+*** RIVER *** [6h 9h 2h 3h] [7h]
+*** SHOW DOWN ***
+Popokluev: shows [Ts Tc] (a flush, Nine high)
+Leason22: shows [Jh Js] (a flush, Jack high)
+Leason22 collected $80.35 from pot
+*** SUMMARY ***
+Total pot $82.85 | Rake $2.50 
+Board [6h 9h 2h 3h 7h]
+Seat 1: 190K (button) folded before Flop (didn't bet)
+Seat 2: suigetsy (small blind) folded before Flop
+Seat 3: Popokluev (big blind) showed [Ts Tc] and lost with a flush, Nine high
+Seat 4: Leason22 showed [Jh Js] and won ($80.35) with a flush, Jack high
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: diegos1991 folded before Flop
+Seat 8: lrsntrlk folded before Flop
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687702844:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:59:33 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 1: 190K ($50 in chips) 
+Seat 2: suigetsy ($60.77 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($80.35 in chips) 
+Seat 5: nombraalne1 ($74.53 in chips) 
+Seat 6: Gluck35 ($50 in chips) 
+Seat 7: diegos1991 ($47.55 in chips) 
+Seat 8: lrsntrlk ($26.84 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+Popokluev: posts small blind $0.25
+Leason22: posts big blind $0.50
+*** HOLE CARDS ***
+nombraalne1: folds 
+Gluck35: folds 
+diegos1991: folds 
+Gluck35 was removed from the table for failing to post
+Gluck35 leaves the table
+lrsntrlk: folds 
+forestry800: folds 
+190K: folds 
+suigetsy: raises $0.75 to $1.25
+Popokluev: folds 
+Leason22: calls $0.75
+*** FLOP *** [8d 4d 8c]
+Leason22: checks 
+suigetsy: checks 
+*** TURN *** [8d 4d 8c] [Kc]
+Leason22: bets $2
+suigetsy: calls $2
+*** RIVER *** [8d 4d 8c Kc] [5d]
+Leason22: checks 
+suigetsy: checks 
+*** SHOW DOWN ***
+Leason22: shows [Ah 9h] (a pair of Eights)
+suigetsy: shows [Jc Kh] (two pair, Kings and Eights)
+suigetsy collected $6.41 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.34 
+Board [8d 4d 8c Kc 5d]
+Seat 1: 190K folded before Flop (didn't bet)
+Seat 2: suigetsy (button) showed [Jc Kh] and won ($6.41) with two pair, Kings and Eights
+Seat 3: Popokluev (small blind) folded before Flop
+Seat 4: Leason22 (big blind) showed [Ah 9h] and lost with a pair of Eights
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: Gluck35 folded before Flop (didn't bet)
+Seat 7: diegos1991 folded before Flop (didn't bet)
+Seat 8: lrsntrlk folded before Flop (didn't bet)
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687727109:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:00:42 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 1: 190K ($50 in chips) 
+Seat 2: suigetsy ($63.93 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($77.10 in chips) 
+Seat 5: nombraalne1 ($74.53 in chips) 
+Seat 7: diegos1991 ($47.55 in chips) 
+Seat 8: lrsntrlk ($26.84 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+Leason22: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+*** HOLE CARDS ***
+diegos1991: folds 
+lrsntrlk: folds 
+forestry800: folds 
+190K: folds 
+dikanmax joins the table at seat #6 
+suigetsy has timed out
+suigetsy: folds 
+Popokluev: folds 
+Leason22: raises $1 to $1.50
+nombraalne1: folds 
+Uncalled bet ($1) returned to Leason22
+Leason22 collected $1 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: 190K folded before Flop (didn't bet)
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev (button) folded before Flop (didn't bet)
+Seat 4: Leason22 (small blind) collected ($1)
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 7: diegos1991 folded before Flop (didn't bet)
+Seat 8: lrsntrlk folded before Flop (didn't bet)
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687741280:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:01:17 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 1: 190K ($50 in chips) 
+Seat 2: suigetsy ($63.93 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($77.60 in chips) 
+Seat 5: nombraalne1 ($74.03 in chips) 
+Seat 6: dikanmax ($50.75 in chips) 
+Seat 7: diegos1991 ($47.55 in chips) 
+Seat 8: lrsntrlk ($26.84 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+nombraalne1: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+diegos1991: folds 
+lrsntrlk: calls $0.50
+forestry800: folds 
+190K: raises $2 to $2.50
+suigetsy: folds 
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+dikanmax: folds 
+lrsntrlk: folds 
+Uncalled bet ($2) returned to 190K
+190K collected $1.75 from pot
+190K: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: 190K collected ($1.75)
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: dikanmax (big blind) folded before Flop
+Seat 7: diegos1991 folded before Flop (didn't bet)
+Seat 8: lrsntrlk folded before Flop
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687750955:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:01:41 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 1: 190K ($51.25 in chips) 
+Seat 2: suigetsy ($63.93 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($77.60 in chips) 
+Seat 5: nombraalne1 ($73.78 in chips) 
+Seat 6: dikanmax ($50.25 in chips) 
+Seat 7: diegos1991 ($47.55 in chips) 
+Seat 8: lrsntrlk ($26.34 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+dikanmax: posts small blind $0.25
+diegos1991: posts big blind $0.50
+*** HOLE CARDS ***
+lrsntrlk: calls $0.50
+forestry800: folds 
+190K: folds 
+suigetsy: folds 
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+dikanmax: raises $2 to $2.50
+diegos1991: calls $2
+lrsntrlk: folds 
+*** FLOP *** [8c Ah 6d]
+dikanmax: bets $2.61
+diegos1991: folds 
+Uncalled bet ($2.61) returned to dikanmax
+dikanmax collected $5.22 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [8c Ah 6d]
+Seat 1: 190K folded before Flop (didn't bet)
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: dikanmax (small blind) collected ($5.22)
+Seat 7: diegos1991 (big blind) folded on the Flop
+Seat 8: lrsntrlk folded before Flop
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687771174:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:02:25 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 1: 190K ($51.25 in chips) 
+Seat 2: suigetsy ($63.93 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($77.60 in chips) 
+Seat 5: nombraalne1 ($73.78 in chips) 
+Seat 6: dikanmax ($52.97 in chips) 
+Seat 7: diegos1991 ($45.05 in chips) 
+Seat 8: lrsntrlk ($25.84 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+diegos1991: posts small blind $0.25
+lrsntrlk: posts big blind $0.50
+*** HOLE CARDS ***
+forestry800: folds 
+190K: folds 
+suigetsy: folds 
+Popokluev: raises $1 to $1.50
+Leason22: folds 
+nombraalne1: folds 
+dikanmax: raises $3 to $4.50
+diegos1991: folds 
+lrsntrlk: folds 
+Popokluev: calls $3
+*** FLOP *** [9d 3h Qh]
+Popokluev: checks 
+dikanmax: bets $2.78
+Popokluev: calls $2.78
+*** TURN *** [9d 3h Qh] [Tc]
+Popokluev: checks 
+dikanmax: checks 
+*** RIVER *** [9d 3h Qh Tc] [Qc]
+Popokluev: checks 
+dikanmax: bets $18.75
+Popokluev: calls $18.75
+*** SHOW DOWN ***
+dikanmax: shows [Qd Ac] (three of a kind, Queens)
+Popokluev: mucks hand 
+dikanmax collected $50.81 from pot
+*** SUMMARY ***
+Total pot $52.81 | Rake $2 
+Board [9d 3h Qh Tc Qc]
+Seat 1: 190K folded before Flop (didn't bet)
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev mucked
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: dikanmax (button) showed [Qd Ac] and won ($50.81) with three of a kind, Queens
+Seat 7: diegos1991 (small blind) folded before Flop
+Seat 8: lrsntrlk (big blind) folded before Flop
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687802817:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:03:34 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 1: 190K ($51.25 in chips) 
+Seat 2: suigetsy ($63.93 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($77.60 in chips) 
+Seat 5: nombraalne1 ($73.78 in chips) 
+Seat 6: dikanmax ($77.75 in chips) 
+Seat 7: diegos1991 ($44.80 in chips) 
+Seat 8: lrsntrlk ($25.34 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+lrsntrlk: posts small blind $0.25
+forestry800: posts big blind $0.50
+*** HOLE CARDS ***
+190K: raises $1 to $1.50
+suigetsy: folds 
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+dikanmax: folds 
+diegos1991: calls $1.50
+lrsntrlk: folds 
+forestry800: folds 
+*** FLOP *** [9d 7s Ad]
+190K: checks 
+diegos1991: checks 
+*** TURN *** [9d 7s Ad] [8h]
+190K: checks 
+diegos1991: bets $1.50
+190K: calls $1.50
+*** RIVER *** [9d 7s Ad 8h] [Qs]
+190K: checks 
+diegos1991: bets $3.50
+190K: folds 
+Uncalled bet ($3.50) returned to diegos1991
+diegos1991 collected $6.41 from pot
+diegos1991: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.34 
+Board [9d 7s Ad 8h Qs]
+Seat 1: 190K folded on the River
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: diegos1991 (button) collected ($6.41)
+Seat 8: lrsntrlk (small blind) folded before Flop
+Seat 9: forestry800 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228687832574:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:04:39 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 1: 190K ($50 in chips) 
+Seat 2: suigetsy ($63.93 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($77.60 in chips) 
+Seat 5: nombraalne1 ($73.78 in chips) 
+Seat 6: dikanmax ($77.75 in chips) 
+Seat 7: diegos1991 ($48.21 in chips) 
+Seat 8: lrsntrlk ($25.09 in chips) 
+Seat 9: forestry800 ($52.01 in chips) 
+forestry800: posts small blind $0.25
+190K: posts big blind $0.50
+*** HOLE CARDS ***
+suigetsy: folds 
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+dikanmax: folds 
+diegos1991: folds 
+lrsntrlk: folds 
+forestry800: raises $1 to $1.50
+190K: folds 
+Uncalled bet ($1) returned to forestry800
+forestry800 collected $1 from pot
+forestry800: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: 190K (big blind) folded before Flop
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: diegos1991 folded before Flop (didn't bet)
+Seat 8: lrsntrlk (button) folded before Flop (didn't bet)
+Seat 9: forestry800 (small blind) collected ($1)
+
+
+
+PokerStars Hand #228687841727:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:04:59 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 1: 190K ($50 in chips) 
+Seat 2: suigetsy ($63.93 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($77.60 in chips) 
+Seat 5: nombraalne1 ($73.78 in chips) 
+Seat 6: dikanmax ($77.75 in chips) 
+Seat 7: diegos1991 ($48.21 in chips) 
+Seat 8: lrsntrlk ($25.09 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+190K: posts small blind $0.25
+suigetsy: posts big blind $0.50
+*** HOLE CARDS ***
+Popokluev: folds 
+Leason22: folds 
+nombraalne1: folds 
+dikanmax: folds 
+diegos1991: raises $0.50 to $1
+lrsntrlk: calls $1
+forestry800: folds 
+190K: folds 
+suigetsy: folds 
+*** FLOP *** [5c Ah 8h]
+diegos1991: bets $1.50
+lrsntrlk: folds 
+Uncalled bet ($1.50) returned to diegos1991
+diegos1991 collected $2.61 from pot
+diegos1991: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [5c Ah 8h]
+Seat 1: 190K (small blind) folded before Flop
+Seat 2: suigetsy (big blind) folded before Flop
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: diegos1991 collected ($2.61)
+Seat 8: lrsntrlk folded on the Flop
+Seat 9: forestry800 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687855572:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:05:28 ET
+Table 'Yabuuti II' 9-max Seat #1 is the button
+Seat 1: 190K ($50 in chips) 
+Seat 2: suigetsy ($63.43 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: Leason22 ($77.60 in chips) 
+Seat 5: nombraalne1 ($73.78 in chips) 
+Seat 6: dikanmax ($77.75 in chips) 
+Seat 7: diegos1991 ($49.82 in chips) 
+Seat 8: lrsntrlk ($24.09 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+suigetsy: posts small blind $0.25
+Popokluev: posts big blind $0.50
+*** HOLE CARDS ***
+Leason22: folds 
+Leason22 leaves the table
+nombraalne1: folds 
+dikanmax: raises $1 to $1.50
+diegos1991: folds 
+An1an1 joins the table at seat #4 
+lrsntrlk: calls $1.50
+forestry800: folds 
+190K: folds 
+suigetsy: folds 
+Popokluev: folds 
+*** FLOP *** [6h 2d Kd]
+dikanmax: bets $1.78
+lrsntrlk: calls $1.78
+*** TURN *** [6h 2d Kd] [Js]
+dikanmax: bets $4
+lrsntrlk: folds 
+Uncalled bet ($4) returned to dikanmax
+dikanmax collected $6.94 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.31 | Rake $0.37 
+Board [6h 2d Kd Js]
+Seat 1: 190K (button) folded before Flop (didn't bet)
+Seat 2: suigetsy (small blind) folded before Flop
+Seat 3: Popokluev (big blind) folded before Flop
+Seat 4: Leason22 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: dikanmax collected ($6.94)
+Seat 7: diegos1991 folded before Flop (didn't bet)
+Seat 8: lrsntrlk folded on the Turn
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687884002:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:06:30 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 1: 190K ($50 in chips) 
+Seat 2: suigetsy ($63.18 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: An1an1 ($50 in chips) 
+Seat 5: nombraalne1 ($73.78 in chips) 
+Seat 6: dikanmax ($81.41 in chips) 
+Seat 7: diegos1991 ($49.82 in chips) 
+Seat 8: lrsntrlk ($20.81 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+Popokluev: posts small blind $0.25
+An1an1: posts big blind $0.50
+*** HOLE CARDS ***
+nombraalne1: folds 
+dikanmax: folds 
+diegos1991: raises $0.50 to $1
+lrsntrlk: folds 
+forestry800: folds 
+190K: folds 
+suigetsy: calls $1
+Popokluev: folds 
+An1an1: calls $0.50
+*** FLOP *** [6d 9h Jh]
+An1an1: checks 
+diegos1991: checks 
+suigetsy: bets $1.02
+An1an1: folds 
+diegos1991: calls $1.02
+*** TURN *** [6d 9h Jh] [Th]
+diegos1991: checks 
+suigetsy: bets $1.66
+diegos1991: calls $1.66
+*** RIVER *** [6d 9h Jh Th] [7h]
+diegos1991: checks 
+suigetsy: bets $2.70
+diegos1991: raises $2.70 to $5.40
+suigetsy: calls $2.70
+*** SHOW DOWN ***
+diegos1991: shows [5h Ah] (a flush, Ace high)
+suigetsy: mucks hand 
+diegos1991 collected $18.44 from pot
+*** SUMMARY ***
+Total pot $19.41 | Rake $0.97 
+Board [6d 9h Jh Th 7h]
+Seat 1: 190K folded before Flop (didn't bet)
+Seat 2: suigetsy (button) mucked
+Seat 3: Popokluev (small blind) folded before Flop
+Seat 4: An1an1 (big blind) folded on the Flop
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: diegos1991 showed [5h Ah] and won ($18.44) with a flush, Ace high
+Seat 8: lrsntrlk folded before Flop (didn't bet)
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687940661:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:08:14 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 1: 190K ($50 in chips) 
+Seat 2: suigetsy ($54.10 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: An1an1 ($50 in chips) 
+Seat 5: nombraalne1 ($73.78 in chips) 
+Seat 6: dikanmax ($81.41 in chips) 
+Seat 7: diegos1991 ($59.18 in chips) 
+Seat 8: lrsntrlk ($20.81 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+An1an1: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+diegos1991: calls $0.50
+lrsntrlk: calls $0.50
+forestry800: folds 
+190K: raises $2.50 to $3
+suigetsy: raises $5.42 to $8.42
+Popokluev: folds 
+An1an1: folds 
+nombraalne1: folds 
+diegos1991: folds 
+lrsntrlk: folds 
+190K: raises $41.58 to $50 and is all-in
+suigetsy: folds 
+Uncalled bet ($41.58) returned to 190K
+190K collected $18.59 from pot
+190K: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.59 | Rake $0 
+Seat 1: 190K collected ($18.59)
+Seat 2: suigetsy folded before Flop
+Seat 3: Popokluev (button) folded before Flop (didn't bet)
+Seat 4: An1an1 (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: diegos1991 folded before Flop
+Seat 8: lrsntrlk folded before Flop
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687976538:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:09:31 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 1: 190K ($60.17 in chips) 
+Seat 2: suigetsy ($50 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: An1an1 ($50 in chips) 
+Seat 5: nombraalne1 ($73.28 in chips) 
+Seat 6: dikanmax ($81.41 in chips) 
+Seat 7: diegos1991 ($58.68 in chips) 
+Seat 8: lrsntrlk ($20.31 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+nombraalne1: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+diegos1991: folds 
+lrsntrlk: folds 
+forestry800: folds 
+190K: raises $1 to $1.50
+suigetsy: folds 
+Popokluev: folds 
+An1an1: folds 
+nombraalne1: folds 
+dikanmax: folds 
+Uncalled bet ($1) returned to 190K
+190K collected $1.25 from pot
+190K: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: 190K collected ($1.25)
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: An1an1 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: dikanmax (big blind) folded before Flop
+Seat 7: diegos1991 folded before Flop (didn't bet)
+Seat 8: lrsntrlk folded before Flop (didn't bet)
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687987914:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:09:55 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 1: 190K ($60.92 in chips) 
+Seat 2: suigetsy ($50 in chips) 
+Seat 3: Popokluev ($50 in chips) 
+Seat 4: An1an1 ($50 in chips) 
+Seat 5: nombraalne1 ($73.03 in chips) 
+Seat 6: dikanmax ($80.91 in chips) 
+Seat 7: diegos1991 ($58.68 in chips) 
+Seat 8: lrsntrlk ($20.31 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+dikanmax: posts small blind $0.25
+diegos1991: posts big blind $0.50
+*** HOLE CARDS ***
+lrsntrlk: folds 
+forestry800: folds 
+190K: folds 
+suigetsy: folds 
+Popokluev: raises $1 to $1.50
+An1an1: folds 
+nombraalne1: folds 
+dikanmax: folds 
+diegos1991: calls $1
+*** FLOP *** [8s 7c Kh]
+diegos1991: checks 
+Popokluev: bets $2.06
+diegos1991: calls $2.06
+*** TURN *** [8s 7c Kh] [2h]
+diegos1991: checks 
+Popokluev: bets $5.39
+diegos1991: folds 
+Uncalled bet ($5.39) returned to Popokluev
+Popokluev collected $7 from pot
+Popokluev: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.37 | Rake $0.37 
+Board [8s 7c Kh 2h]
+Seat 1: 190K folded before Flop (didn't bet)
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev collected ($7)
+Seat 4: An1an1 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: dikanmax (small blind) folded before Flop
+Seat 7: diegos1991 (big blind) folded on the Turn
+Seat 8: lrsntrlk folded before Flop (didn't bet)
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688011111:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:10:42 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 1: 190K ($60.92 in chips) 
+Seat 2: suigetsy ($50 in chips) 
+Seat 3: Popokluev ($53.44 in chips) 
+Seat 4: An1an1 ($50 in chips) 
+Seat 5: nombraalne1 ($73.03 in chips) 
+Seat 6: dikanmax ($80.66 in chips) 
+Seat 7: diegos1991 ($55.12 in chips) 
+Seat 8: lrsntrlk ($20.31 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+diegos1991: posts small blind $0.25
+lrsntrlk: posts big blind $0.50
+*** HOLE CARDS ***
+forestry800: folds 
+190K: folds 
+suigetsy: folds 
+Popokluev: folds 
+An1an1: raises $0.75 to $1.25
+nombraalne1: folds 
+dikanmax: calls $1.25
+diegos1991: raises $1.25 to $2.50
+lrsntrlk: calls $2
+An1an1: raises $47.50 to $50 and is all-in
+dikanmax: folds 
+diegos1991: calls $47.50
+lrsntrlk: calls $17.81 and is all-in
+*** FLOP *** [5d 4s Td]
+*** TURN *** [5d 4s Td] [2s]
+*** RIVER *** [5d 4s Td 2s] [6d]
+*** SHOW DOWN ***
+diegos1991: shows [Kh Qh] (high card King)
+An1an1: shows [Ks Ad] (high card Ace)
+lrsntrlk: shows [Qs As] (high card Ace - lower kicker)
+An1an1 cashed out the hand for $79.82 | Cash Out Fee $0.81
+*** SUMMARY ***
+Total pot $121.56 Main pot $60.18. Side pot $59.38. | Rake $2 
+Board [5d 4s Td 2s 6d]
+Seat 1: 190K folded before Flop (didn't bet)
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: An1an1 showed [Ks Ad] and won ($119.56) with high card Ace (pot not awarded as player cashed out)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: dikanmax (button) folded before Flop
+Seat 7: diegos1991 (small blind) showed [Kh Qh] and lost with high card King
+Seat 8: lrsntrlk (big blind) showed [Qs As] and lost with high card Ace
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688046050:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:11:58 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 1: 190K ($60.92 in chips) 
+Seat 2: suigetsy ($50 in chips) 
+Seat 3: Popokluev ($53.44 in chips) 
+Seat 4: An1an1 ($79.82 in chips) 
+Seat 5: nombraalne1 ($73.03 in chips) 
+Seat 6: dikanmax ($79.41 in chips) 
+Seat 7: diegos1991 ($5.12 in chips) 
+Seat 9: forestry800 ($52.51 in chips) 
+forestry800: posts small blind $0.25
+190K: posts big blind $0.50
+*** HOLE CARDS ***
+suigetsy: folds 
+Popokluev: raises $1 to $1.50
+An1an1: folds 
+nombraalne1: folds 
+dikanmax: folds 
+diegos1991: folds 
+diegos1991 leaves the table
+forestry800: folds 
+190K: calls $1
+*** FLOP *** [5c Jd 6s]
+lrsntrlk leaves the table
+190K: checks 
+Popokluev: bets $1.02
+190K: folds 
+Uncalled bet ($1.02) returned to Popokluev
+Popokluev collected $3.09 from pot
+Popokluev: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [5c Jd 6s]
+Seat 1: 190K (big blind) folded on the Flop
+Seat 2: suigetsy folded before Flop (didn't bet)
+Seat 3: Popokluev collected ($3.09)
+Seat 4: An1an1 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 7: diegos1991 (button) folded before Flop (didn't bet)
+Seat 9: forestry800 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688057480:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:12:23 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 1: 190K ($59.42 in chips) 
+Seat 2: suigetsy ($50 in chips) 
+Seat 3: Popokluev ($55.03 in chips) 
+Seat 4: An1an1 ($79.82 in chips) 
+Seat 5: nombraalne1 ($73.03 in chips) 
+Seat 6: dikanmax ($79.41 in chips) 
+Seat 9: forestry800 ($52.26 in chips) 
+190K: posts small blind $0.25
+suigetsy: posts big blind $0.50
+*** HOLE CARDS ***
+Popokluev: folds 
+An1an1: folds 
+nombraalne1: raises $0.70 to $1.20
+dikanmax: folds 
+dikanmax was removed from the table for failing to post
+dikanmax leaves the table
+forestry800: folds 
+Popokluev leaves the table
+190K: folds 
+suigetsy: folds 
+Uncalled bet ($0.70) returned to nombraalne1
+nombraalne1 collected $1.25 from pot
+nombraalne1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: 190K (small blind) folded before Flop
+Seat 2: suigetsy (big blind) folded before Flop
+Seat 3: Popokluev folded before Flop (didn't bet)
+Seat 4: An1an1 folded before Flop (didn't bet)
+Seat 5: nombraalne1 collected ($1.25)
+Seat 6: dikanmax folded before Flop (didn't bet)
+Seat 9: forestry800 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688063665:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:12:36 ET
+Table 'Yabuuti II' 9-max Seat #1 is the button
+Seat 1: 190K ($59.17 in chips) 
+Seat 2: suigetsy ($49.50 in chips) 
+Seat 5: nombraalne1 ($73.78 in chips) 
+Seat 9: forestry800 ($52.26 in chips) 
+suigetsy: posts small blind $0.25
+An1an1: is sitting out 
+nombraalne1: posts big blind $0.50
+*** HOLE CARDS ***
+forestry800: folds 
+190K: folds 
+suigetsy: raises $1 to $1.50
+nombraalne1: folds 
+Uncalled bet ($1) returned to suigetsy
+suigetsy collected $1 from pot
+190K leaves the table
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: 190K (button) folded before Flop (didn't bet)
+Seat 2: suigetsy (small blind) collected ($1)
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 9: forestry800 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688217025:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:17:48 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 5: nombraalne1 ($73.28 in chips) 
+Seat 6: aksh3n ($50 in chips) 
+nombraalne1: posts small blind $0.25
+aksh3n: posts big blind $0.50
+*** HOLE CARDS ***
+nombraalne1: folds 
+Uncalled bet ($0.25) returned to aksh3n
+aksh3n collected $0.50 from pot
+aksh3n: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 5: nombraalne1 (button) (small blind) folded before Flop
+Seat 6: aksh3n (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228688219382:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:17:53 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 5: nombraalne1 ($73.03 in chips) 
+Seat 6: aksh3n ($50.25 in chips) 
+aksh3n: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+*** HOLE CARDS ***
+aksh3n: folds 
+Uncalled bet ($0.25) returned to nombraalne1
+nombraalne1 collected $0.50 from pot
+nombraalne1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 5: nombraalne1 (big blind) collected ($0.50)
+Seat 6: aksh3n (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688221143:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:17:56 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 5: nombraalne1 ($73.28 in chips) 
+Seat 6: aksh3n ($50 in chips) 
+nombraalne1: posts small blind $0.25
+aksh3n: posts big blind $0.50
+*** HOLE CARDS ***
+Moose1967 joins the table at seat #2 
+nombraalne1: raises $0.60 to $1.10
+aksh3n: raises $4.15 to $5.25
+nombraalne1: folds 
+Uncalled bet ($4.15) returned to aksh3n
+aksh3n collected $2.20 from pot
+aksh3n: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.20 | Rake $0 
+Seat 5: nombraalne1 (button) (small blind) folded before Flop
+Seat 6: aksh3n (big blind) collected ($2.20)
+
+
+
+PokerStars Hand #228688227404:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:18:09 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 2: Moose1967 ($50 in chips) 
+Seat 5: nombraalne1 ($72.18 in chips) 
+Seat 6: aksh3n ($51.10 in chips) 
+aksh3n: posts small blind $0.25
+Moose1967: posts big blind $0.50
+*** HOLE CARDS ***
+nombraalne1: folds 
+aksh3n: folds 
+Uncalled bet ($0.25) returned to Moose1967
+Moose1967 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Moose1967 (big blind) collected ($0.50)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: aksh3n (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688232400:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:18:20 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 2: Moose1967 ($50.25 in chips) 
+Seat 5: nombraalne1 ($72.18 in chips) 
+Seat 6: aksh3n ($50.85 in chips) 
+Moose1967: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+*** HOLE CARDS ***
+grampysix joins the table at seat #3 
+aksh3n: folds 
+Moose1967: raises $1 to $1.50
+Mc57Arnold joins the table at seat #4 
+nombraalne1: calls $1
+*** FLOP *** [5d Qs 6h]
+Moose1967: checks 
+bjolla joins the table at seat #7 
+nombraalne1: checks 
+*** TURN *** [5d Qs 6h] [Qh]
+Moose1967: bets $2
+nombraalne1: calls $2
+*** RIVER *** [5d Qs 6h Qh] [2d]
+Moose1967: checks 
+nombraalne1: checks 
+*** SHOW DOWN ***
+Moose1967: shows [Ad Kh] (a pair of Queens)
+nombraalne1: shows [5h As] (two pair, Queens and Fives)
+nombraalne1 collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [5d Qs 6h Qh 2d]
+Seat 2: Moose1967 (small blind) showed [Ad Kh] and lost with a pair of Queens
+Seat 5: nombraalne1 (big blind) showed [5h As] and won ($6.65) with two pair, Queens and Fives
+Seat 6: aksh3n (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688251407:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:18:58 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 2: Moose1967 ($46.75 in chips) 
+Seat 5: nombraalne1 ($75.33 in chips) 
+Seat 6: aksh3n ($50.85 in chips) 
+nombraalne1: posts small blind $0.25
+aksh3n: posts big blind $0.50
+bjolla: sits out 
+*** HOLE CARDS ***
+Moose1967: folds 
+nombraalne1: raises $1 to $1.50
+aksh3n: folds 
+Uncalled bet ($1) returned to nombraalne1
+nombraalne1 collected $1 from pot
+nombraalne1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: Moose1967 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) collected ($1)
+Seat 6: aksh3n (big blind) folded before Flop
+
+
+
+PokerStars Hand #228688258283:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:19:12 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 2: Moose1967 ($46.75 in chips) 
+Seat 5: nombraalne1 ($75.83 in chips) 
+Seat 6: aksh3n ($50.35 in chips) 
+Seat 7: bjolla ($50 in chips) 
+aksh3n: posts small blind $0.25
+bjolla: posts big blind $0.50
+grampysix: sits out 
+Mc57Arnold: sits out 
+*** HOLE CARDS ***
+DKNicko joins the table at seat #8 
+Rulet345 joins the table at seat #9 
+Moose1967: folds 
+nombraalne1: raises $0.60 to $1.10
+aksh3n: raises $2.90 to $4
+bjolla: folds 
+nombraalne1: folds 
+Uncalled bet ($2.90) returned to aksh3n
+aksh3n collected $2.70 from pot
+aksh3n: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.70 | Rake $0 
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop
+Seat 6: aksh3n (small blind) collected ($2.70)
+Seat 7: bjolla (big blind) folded before Flop
+
+
+
+PokerStars Hand #228688265427:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:19:27 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 2: Moose1967 ($46.75 in chips) 
+Seat 5: nombraalne1 ($74.73 in chips) 
+Seat 6: aksh3n ($51.95 in chips) 
+Seat 7: bjolla ($49.50 in chips) 
+Seat 8: DKNicko ($30 in chips) 
+bjolla: posts small blind $0.25
+DKNicko: posts big blind $0.50
+Rulet345: sits out 
+grampysix: sits out 
+Mc57Arnold: sits out 
+*** HOLE CARDS ***
+Moose1967: folds 
+nombraalne1: folds 
+aksh3n: raises $0.60 to $1.10
+bjolla: folds 
+DKNicko: folds 
+Uncalled bet ($0.60) returned to aksh3n
+aksh3n collected $1.25 from pot
+aksh3n: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n (button) collected ($1.25)
+Seat 7: bjolla (small blind) folded before Flop
+Seat 8: DKNicko (big blind) folded before Flop
+
+
+
+PokerStars Hand #228688272660:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:19:42 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 2: Moose1967 ($46.75 in chips) 
+Seat 5: nombraalne1 ($74.73 in chips) 
+Seat 6: aksh3n ($52.70 in chips) 
+Seat 7: bjolla ($49.25 in chips) 
+Seat 8: DKNicko ($29.50 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+DKNicko: posts small blind $0.25
+Rulet345: posts big blind $0.50
+grampysix: sits out 
+Mc57Arnold: sits out 
+*** HOLE CARDS ***
+Moose1967: raises $1 to $1.50
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+DKNicko: folds 
+Rulet345: folds 
+Uncalled bet ($1) returned to Moose1967
+Moose1967 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Moose1967 collected ($1.25)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla (button) folded before Flop (didn't bet)
+Seat 8: DKNicko (small blind) folded before Flop
+Seat 9: Rulet345 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228688280352:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:19:58 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 2: Moose1967 ($47.50 in chips) 
+Seat 5: nombraalne1 ($74.73 in chips) 
+Seat 6: aksh3n ($52.70 in chips) 
+Seat 7: bjolla ($49.25 in chips) 
+Seat 8: DKNicko ($29.25 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+Rulet345: posts small blind $0.25
+Moose1967: posts big blind $0.50
+grampysix: sits out 
+Mc57Arnold: sits out 
+*** HOLE CARDS ***
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+DKNicko: folds 
+Rulet345: folds 
+Uncalled bet ($0.25) returned to Moose1967
+Moose1967 collected $0.50 from pot
+Dragonclawss was removed from the table for failing to post
+Dragonclawss leaves the table
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Moose1967 (big blind) collected ($0.50)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko (button) folded before Flop (didn't bet)
+Seat 9: Rulet345 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688290698:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:20:19 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 2: Moose1967 ($47.75 in chips) 
+Seat 3: grampysix ($35.01 in chips) 
+Seat 5: nombraalne1 ($74.73 in chips) 
+Seat 6: aksh3n ($52.70 in chips) 
+Seat 7: bjolla ($49.25 in chips) 
+Seat 8: DKNicko ($29.25 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+Moose1967: posts small blind $0.25
+grampysix: posts big blind $0.50
+Mc57Arnold: sits out 
+*** HOLE CARDS ***
+nombraalne1: folds 
+inflexiblle joins the table at seat #1 
+aksh3n: folds 
+bjolla: folds 
+DKNicko: folds 
+Rulet345: folds 
+Moose1967: folds 
+Uncalled bet ($0.25) returned to grampysix
+grampysix collected $0.50 from pot
+grampysix: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Moose1967 (small blind) folded before Flop
+Seat 3: grampysix (big blind) collected ($0.50)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko folded before Flop (didn't bet)
+Seat 9: Rulet345 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688374494:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:23:11 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($38.87 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.98 in chips) 
+Seat 6: aksh3n ($51.95 in chips) 
+Seat 7: bjolla ($47.65 in chips) 
+Seat 8: DKNicko ($32.57 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+bjolla: posts small blind $0.25
+DKNicko: posts big blind $0.50
+inflexiblle: sits out 
+*** HOLE CARDS ***
+Rulet345: folds 
+Moose1967: folds 
+grampysix: folds 
+Mc57Arnold: raises $0.85 to $1.35
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+DKNicko: calls $0.85
+*** FLOP *** [Jc 3s 6d]
+DKNicko: bets $2.80
+Mc57Arnold: calls $2.80
+*** TURN *** [Jc 3s 6d] [Kd]
+DKNicko: bets $9
+Mc57Arnold: folds 
+Uncalled bet ($9) returned to DKNicko
+DKNicko collected $8.12 from pot
+*** SUMMARY ***
+Total pot $8.55 | Rake $0.43 
+Board [Jc 3s 6d Kd]
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: Mc57Arnold folded on the Turn
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n (button) folded before Flop (didn't bet)
+Seat 7: bjolla (small blind) folded before Flop
+Seat 8: DKNicko (big blind) collected ($8.12)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688399518:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:24:02 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($38.87 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.98 in chips) 
+Seat 6: aksh3n ($51.95 in chips) 
+Seat 7: bjolla ($47.40 in chips) 
+Seat 8: DKNicko ($36.54 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+DKNicko: posts small blind $0.25
+Rulet345: posts big blind $0.50
+inflexiblle: sits out 
+*** HOLE CARDS ***
+Moose1967 has timed out
+Moose1967: folds 
+grampysix: folds 
+Mc57Arnold: folds 
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+DKNicko: folds 
+Uncalled bet ($0.25) returned to Rulet345
+Rulet345 collected $0.50 from pot
+Rulet345: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: Mc57Arnold folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla (button) folded before Flop (didn't bet)
+Seat 8: DKNicko (small blind) folded before Flop
+Seat 9: Rulet345 (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228688408063:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:24:20 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 1: inflexiblle ($50 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($38.87 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.98 in chips) 
+Seat 6: aksh3n ($51.95 in chips) 
+Seat 7: bjolla ($47.40 in chips) 
+Seat 8: DKNicko ($36.29 in chips) 
+Seat 9: Rulet345 ($52.31 in chips) 
+Rulet345: posts small blind $0.25
+inflexiblle: posts big blind $0.50
+*** HOLE CARDS ***
+Moose1967: folds 
+grampysix: folds 
+Mc57Arnold: folds 
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+DKNicko: folds 
+Rulet345: folds 
+Uncalled bet ($0.25) returned to inflexiblle
+inflexiblle collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: inflexiblle (big blind) collected ($0.50)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: Mc57Arnold folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko (button) folded before Flop (didn't bet)
+Seat 9: Rulet345 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228688413955:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:24:32 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 1: inflexiblle ($50.25 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($38.87 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.98 in chips) 
+Seat 6: aksh3n ($51.95 in chips) 
+Seat 7: bjolla ($47.40 in chips) 
+Seat 8: DKNicko ($36.29 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+inflexiblle: posts small blind $0.25
+Moose1967: posts big blind $0.50
+*** HOLE CARDS ***
+grampysix: folds 
+Mc57Arnold: folds 
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+DKNicko: folds 
+Rulet345: folds 
+inflexiblle: folds 
+Uncalled bet ($0.25) returned to Moose1967
+Moose1967 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: inflexiblle (small blind) folded before Flop
+Seat 2: Moose1967 (big blind) collected ($0.50)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: Mc57Arnold folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko folded before Flop (didn't bet)
+Seat 9: Rulet345 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688421945:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:24:48 ET
+Table 'Yabuuti II' 9-max Seat #1 is the button
+Seat 1: inflexiblle ($50 in chips) 
+Seat 2: Moose1967 ($49.50 in chips) 
+Seat 3: grampysix ($38.87 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.98 in chips) 
+Seat 6: aksh3n ($51.95 in chips) 
+Seat 7: bjolla ($47.40 in chips) 
+Seat 8: DKNicko ($36.29 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+Moose1967: posts small blind $0.25
+grampysix: posts big blind $0.50
+*** HOLE CARDS ***
+Mc57Arnold: folds 
+nombraalne1: folds 
+aksh3n: raises $0.60 to $1.10
+bjolla: folds 
+DKNicko: folds 
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+Uncalled bet ($0.60) returned to aksh3n
+aksh3n collected $1.25 from pot
+aksh3n: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle (button) folded before Flop (didn't bet)
+Seat 2: Moose1967 (small blind) folded before Flop
+Seat 3: grampysix (big blind) folded before Flop
+Seat 4: Mc57Arnold folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n collected ($1.25)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688431438:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:25:08 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 1: inflexiblle ($50 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($38.37 in chips) 
+Seat 4: Mc57Arnold ($50 in chips) 
+Seat 5: nombraalne1 ($73.98 in chips) 
+Seat 6: aksh3n ($52.70 in chips) 
+Seat 7: bjolla ($47.40 in chips) 
+Seat 8: DKNicko ($36.29 in chips) 
+Seat 9: Rulet345 ($52.06 in chips) 
+grampysix: posts small blind $0.25
+Mc57Arnold: posts big blind $0.50
+*** HOLE CARDS ***
+nombraalne1: folds 
+aksh3n: folds 
+bjolla: folds 
+DKNicko: calls $0.50
+Rulet345: folds 
+inflexiblle: raises $1.50 to $2
+Moose1967: folds 
+grampysix: folds 
+Mc57Arnold: folds 
+DKNicko: folds 
+Uncalled bet ($1.50) returned to inflexiblle
+inflexiblle collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: inflexiblle collected ($1.75)
+Seat 2: Moose1967 (button) folded before Flop (didn't bet)
+Seat 3: grampysix (small blind) folded before Flop
+Seat 4: Mc57Arnold (big blind) folded before Flop
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: aksh3n folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: DKNicko folded before Flop
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688579749:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:30:15 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 1: inflexiblle ($57.75 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($37.62 in chips) 
+Seat 4: MA9717 ($38.75 in chips) 
+Seat 5: nombraalne1 ($72.48 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($48.75 in chips) 
+Seat 9: Rulet345 ($50.56 in chips) 
+AndyLu)|(ynski: posts small blind $0.25
+bjolla: posts big blind $0.50
+lonely fire: sits out 
+*** HOLE CARDS ***
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+MA9717: calls $0.50
+nombraalne1: raises $1.50 to $2
+AndyLu)|(ynski: folds 
+bjolla: folds 
+MA9717: calls $1.50
+*** FLOP *** [Jd 2d 8c]
+MA9717: checks 
+nombraalne1: bets $3
+MA9717: calls $3
+*** TURN *** [Jd 2d 8c] [9c]
+MA9717: bets $5.50
+nombraalne1: calls $5.50
+*** RIVER *** [Jd 2d 8c 9c] [Ad]
+MA9717: bets $8.50
+nombraalne1: calls $8.50
+*** SHOW DOWN ***
+MA9717: shows [3h Th] (high card Ace)
+nombraalne1: shows [Jh Ah] (two pair, Aces and Jacks)
+nombraalne1 collected $36.81 from pot
+*** SUMMARY ***
+Total pot $38.75 | Rake $1.94 
+Board [Jd 2d 8c 9c Ad]
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 showed [3h Th] and lost with high card Ace
+Seat 5: nombraalne1 (button) showed [Jh Ah] and won ($36.81) with two pair, Aces and Jacks
+Seat 6: AndyLu)|(ynski (small blind) folded before Flop
+Seat 7: bjolla (big blind) folded before Flop
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688616218:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:31:31 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 1: inflexiblle ($57.75 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($37.62 in chips) 
+Seat 4: MA9717 ($19.75 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 6: AndyLu)|(ynski ($20.50 in chips) 
+Seat 7: bjolla ($48.25 in chips) 
+Seat 8: lonely fire ($50 in chips) 
+Seat 9: Rulet345 ($50.56 in chips) 
+bjolla: posts small blind $0.25
+lonely fire: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967 has timed out
+Moose1967: folds 
+grampysix: folds 
+MA9717: calls $0.50
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: checks 
+*** FLOP *** [3d 9h Kh]
+lonely fire: bets $0.50
+MA9717: folds 
+Uncalled bet ($0.50) returned to lonely fire
+lonely fire collected $1.19 from pot
+lonely fire: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [3d 9h Kh]
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 folded on the Flop
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski (button) folded before Flop (didn't bet)
+Seat 7: bjolla (small blind) folded before Flop
+Seat 8: lonely fire (big blind) collected ($1.19)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688729445:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:35:22 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 1: inflexiblle ($57 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($36.87 in chips) 
+Seat 4: MA9717 ($13.09 in chips) 
+Seat 5: nombraalne1 ($90.54 in chips) 
+Seat 6: AndyLu)|(ynski ($21.25 in chips) 
+Seat 7: bjolla ($54.18 in chips) 
+Seat 8: lonely fire ($56.08 in chips) 
+nombraalne1: posts small blind $0.25
+AndyLu)|(ynski: posts big blind $0.50
+Rulet345: sits out 
+*** HOLE CARDS ***
+bjolla: folds 
+lonely fire: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: folds 
+MA9717: folds 
+nombraalne1: folds 
+Uncalled bet ($0.25) returned to AndyLu)|(ynski
+AndyLu)|(ynski collected $0.50 from pot
+AndyLu)|(ynski: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: AndyLu)|(ynski (big blind) collected ($0.50)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688738502:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:35:41 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 1: inflexiblle ($57 in chips) 
+Seat 2: Moose1967 ($50 in chips) 
+Seat 3: grampysix ($36.87 in chips) 
+Seat 4: MA9717 ($13.09 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 6: AndyLu)|(ynski ($21.50 in chips) 
+Seat 7: bjolla ($54.18 in chips) 
+Seat 8: lonely fire ($56.08 in chips) 
+AndyLu)|(ynski: posts small blind $0.25
+bjolla: posts big blind $0.50
+Rulet345: sits out 
+*** HOLE CARDS ***
+lonely fire: folds 
+inflexiblle: folds 
+Moose1967 has timed out
+Moose1967: folds 
+grampysix: folds 
+MA9717: raises $0.50 to $1
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+bjolla: folds 
+Uncalled bet ($0.50) returned to MA9717
+MA9717 collected $1.25 from pot
+MA9717: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 4: MA9717 collected ($1.25)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: AndyLu)|(ynski (small blind) folded before Flop
+Seat 7: bjolla (big blind) folded before Flop
+Seat 8: lonely fire folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688828295:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:38:48 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 1: inflexiblle ($56.25 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($35.62 in chips) 
+Seat 4: MA9717 ($12.15 in chips) 
+Seat 5: nombraalne1 ($91.04 in chips) 
+Seat 6: AndyLu)|(ynski ($21.25 in chips) 
+Seat 7: bjolla ($54.18 in chips) 
+Seat 8: lonely fire ($59.59 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+MA9717: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+*** HOLE CARDS ***
+AndyLu)|(ynski: folds 
+bjolla: folds 
+lonely fire: folds 
+Rulet345: folds 
+inflexiblle: raises $0.75 to $1.25
+Moose1967: folds 
+grampysix: folds 
+MA9717: calls $1
+nombraalne1: folds 
+*** FLOP *** [7d 7c 6d]
+MA9717: checks 
+inflexiblle: checks 
+*** TURN *** [7d 7c 6d] [Th]
+MA9717: checks 
+inflexiblle: bets $0.94
+MA9717: calls $0.94
+*** RIVER *** [7d 7c 6d Th] [2c]
+MA9717: checks 
+inflexiblle: bets $3.48
+MA9717: folds 
+Uncalled bet ($3.48) returned to inflexiblle
+inflexiblle collected $4.64 from pot
+*** SUMMARY ***
+Total pot $4.88 | Rake $0.24 
+Board [7d 7c 6d Th 2c]
+Seat 1: inflexiblle collected ($4.64)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix (button) folded before Flop (didn't bet)
+Seat 4: MA9717 (small blind) folded on the River
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 6: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688847006:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:39:28 ET
+Table 'Yabuuti II' 9-max Seat #4 is the button
+Seat 1: inflexiblle ($58.70 in chips) 
+Seat 2: Moose1967 ($49.25 in chips) 
+Seat 3: grampysix ($35.62 in chips) 
+Seat 4: MA9717 ($9.96 in chips) 
+Seat 5: nombraalne1 ($90.54 in chips) 
+Seat 6: AndyLu)|(ynski ($21.25 in chips) 
+Seat 7: bjolla ($54.18 in chips) 
+Seat 8: lonely fire ($59.59 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+nombraalne1: posts small blind $0.25
+AndyLu)|(ynski: posts big blind $0.50
+*** HOLE CARDS ***
+bjolla: folds 
+lonely fire: folds 
+Rulet345: raises $1 to $1.50
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: calls $1.50
+MA9717: calls $1.50
+nombraalne1: folds 
+AndyLu)|(ynski: folds 
+*** FLOP *** [7s 9h 3c]
+Rulet345: checks 
+grampysix: checks 
+MA9717: bets $1.50
+Rulet345: folds 
+grampysix: calls $1.50
+*** TURN *** [7s 9h 3c] [Js]
+grampysix: checks 
+MA9717: bets $3
+grampysix: folds 
+Uncalled bet ($3) returned to MA9717
+MA9717 collected $7.84 from pot
+MA9717: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.25 | Rake $0.41 
+Board [7s 9h 3c Js]
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded on the Turn
+Seat 4: MA9717 (button) collected ($7.84)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: AndyLu)|(ynski (big blind) folded before Flop
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: Rulet345 folded on the Flop
+
+
+
+PokerStars Hand #228688970274:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:43:41 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 1: inflexiblle ($53.45 in chips) 
+Seat 2: Moose1967 ($55.07 in chips) 
+Seat 3: grampysix ($31.87 in chips) 
+Seat 5: nombraalne1 ($90.54 in chips) 
+Seat 7: bjolla ($53.43 in chips) 
+Seat 8: lonely fire ($53.09 in chips) 
+Seat 9: Rulet345 ($50.75 in chips) 
+nombraalne1: posts small blind $0.25
+AndyLu)|(ynski: is sitting out 
+bjolla: posts big blind $0.50
+*** HOLE CARDS ***
+lonely fire: folds 
+Rulet345: folds 
+inflexiblle: raises $1 to $1.50
+Moose1967: folds 
+grampysix: folds 
+nombraalne1: folds 
+bjolla: calls $1
+*** FLOP *** [7s Qs Ad]
+bjolla: checks 
+inflexiblle: checks 
+*** TURN *** [7s Qs Ad] [9d]
+bjolla: checks 
+inflexiblle: bets $1.75
+bjolla: folds 
+Uncalled bet ($1.75) returned to inflexiblle
+inflexiblle collected $3.09 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [7s Qs Ad 9d]
+Seat 1: inflexiblle collected ($3.09)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 7: bjolla (big blind) folded on the Turn
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228688982703:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:44:08 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 1: inflexiblle ($55.04 in chips) 
+Seat 2: Moose1967 ($55.07 in chips) 
+Seat 3: grampysix ($31.87 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 7: bjolla ($51.93 in chips) 
+Seat 8: lonely fire ($53.09 in chips) 
+Seat 9: Rulet345 ($50.75 in chips) 
+bjolla: posts small blind $0.25
+lonely fire: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: folds 
+grampysix: raises $0.50 to $1
+nombraalne1: folds 
+bjolla: folds 
+lonely fire: calls $0.50
+*** FLOP *** [7h Ad Ac]
+lonely fire: checks 
+grampysix: bets $1.07
+lonely fire: folds 
+Uncalled bet ($1.07) returned to grampysix
+grampysix collected $2.14 from pot
+grampysix: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [7h Ad Ac]
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix collected ($2.14)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 7: bjolla (small blind) folded before Flop
+Seat 8: lonely fire (big blind) folded on the Flop
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228689085854:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:47:25 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 1: inflexiblle ($50 in chips) 
+Seat 2: Moose1967 ($60.11 in chips) 
+Seat 3: grampysix ($35.15 in chips) 
+Seat 5: nombraalne1 ($90.29 in chips) 
+Seat 7: bjolla ($51.68 in chips) 
+Seat 8: lonely fire ($56.08 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+grampysix: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+*** HOLE CARDS ***
+bjolla: folds 
+lonely fire: folds 
+Rulet345: folds 
+inflexiblle: raises $0.75 to $1.25
+Moose1967: calls $1.25
+grampysix: folds 
+nombraalne1: folds 
+*** FLOP *** [2s 7c Kc]
+inflexiblle: bets $1.25
+Moose1967: raises $2.75 to $4
+inflexiblle: calls $2.75
+*** TURN *** [2s 7c Kc] [Kh]
+inflexiblle: checks 
+Moose1967: bets $4.50
+inflexiblle: calls $4.50
+*** RIVER *** [2s 7c Kc Kh] [Js]
+inflexiblle: checks 
+Moose1967: bets $10
+inflexiblle: calls $10
+*** SHOW DOWN ***
+Moose1967: shows [Jh Jd] (a full house, Jacks full of Kings)
+inflexiblle: mucks hand 
+Moose1967 collected $38.25 from pot
+*** SUMMARY ***
+Total pot $40.25 | Rake $2 
+Board [2s 7c Kc Kh Js]
+Seat 1: inflexiblle mucked
+Seat 2: Moose1967 (button) showed [Jh Jd] and won ($38.25) with a full house, Jacks full of Kings
+Seat 3: grampysix (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) folded before Flop
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228689109365:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:48:14 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 1: inflexiblle ($50 in chips) 
+Seat 2: Moose1967 ($78.61 in chips) 
+Seat 3: grampysix ($34.90 in chips) 
+Seat 5: nombraalne1 ($89.79 in chips) 
+Seat 7: bjolla ($51.68 in chips) 
+Seat 8: lonely fire ($56.08 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+nombraalne1: posts small blind $0.25
+bjolla: posts big blind $0.50
+*** HOLE CARDS ***
+lonely fire: folds 
+Rulet345: folds 
+inflexiblle: folds 
+Moose1967: raises $1 to $1.50
+grampysix: folds 
+nombraalne1: folds 
+bjolla: folds 
+Uncalled bet ($1) returned to Moose1967
+Moose1967 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 collected ($1.25)
+Seat 3: grampysix (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 7: bjolla (big blind) folded before Flop
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228689129409:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:48:56 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 1: inflexiblle ($50 in chips) 
+Seat 2: Moose1967 ($79.36 in chips) 
+Seat 3: grampysix ($34.90 in chips) 
+Seat 5: nombraalne1 ($89.54 in chips) 
+Seat 7: bjolla ($51.18 in chips) 
+Seat 8: lonely fire ($56.08 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+bjolla: posts small blind $0.25
+lonely fire: posts big blind $0.50
+*** HOLE CARDS ***
+Rulet345: folds 
+inflexiblle: raises $0.75 to $1.25
+Moose1967: folds 
+grampysix: folds 
+nombraalne1: folds 
+bjolla: folds 
+lonely fire: calls $0.75
+*** FLOP *** [8d 4c Ts]
+AndyLu)|(ynski leaves the table
+lonely fire: checks 
+An1an1 joins the table at seat #6 
+inflexiblle: checks 
+*** TURN *** [8d 4c Ts] [As]
+lonely fire: checks 
+inflexiblle: checks 
+*** RIVER *** [8d 4c Ts As] [Th]
+lonely fire: checks 
+inflexiblle: checks 
+*** SHOW DOWN ***
+lonely fire: shows [9d 9c] (two pair, Tens and Nines)
+inflexiblle: mucks hand 
+lonely fire collected $2.61 from pot
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [8d 4c Ts As Th]
+Seat 1: inflexiblle mucked
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 7: bjolla (small blind) folded before Flop
+Seat 8: lonely fire (big blind) showed [9d 9c] and won ($2.61) with two pair, Tens and Nines
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228689145445:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:49:30 ET
+Table 'Yabuuti II' 9-max Seat #7 is the button
+Seat 1: inflexiblle ($50 in chips) 
+Seat 2: Moose1967 ($79.36 in chips) 
+Seat 3: grampysix ($34.90 in chips) 
+Seat 5: nombraalne1 ($89.54 in chips) 
+Seat 7: bjolla ($50.93 in chips) 
+Seat 8: lonely fire ($57.44 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+lonely fire: posts small blind $0.25
+Rulet345: posts big blind $0.50
+An1an1: sits out 
+*** HOLE CARDS ***
+inflexiblle: folds 
+Moose1967: raises $1 to $1.50
+grampysix: folds 
+nombraalne1: folds 
+bjolla: folds 
+lonely fire: folds 
+Rulet345: folds 
+Uncalled bet ($1) returned to Moose1967
+Moose1967 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: inflexiblle folded before Flop (didn't bet)
+Seat 2: Moose1967 collected ($1.25)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 7: bjolla (button) folded before Flop (didn't bet)
+Seat 8: lonely fire (small blind) folded before Flop
+Seat 9: Rulet345 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228689151423:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:49:42 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 2: Moose1967 ($80.11 in chips) 
+Seat 3: grampysix ($34.90 in chips) 
+Seat 5: nombraalne1 ($89.54 in chips) 
+Seat 7: bjolla ($50.93 in chips) 
+Seat 8: lonely fire ($57.19 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+Rulet345: posts small blind $0.25
+inflexiblle: is sitting out 
+inflexiblle leaves the table
+Moose1967: posts big blind $0.50
+An1an1: sits out 
+*** HOLE CARDS ***
+grampysix: raises $0.50 to $1
+nombraalne1: calls $1
+bjolla: folds 
+lonely fire: folds 
+Rulet345: folds 
+Moose1967: folds 
+*** FLOP *** [4d 5d Qh]
+grampysix: checks 
+nombraalne1: bets $1.96
+grampysix: folds 
+Uncalled bet ($1.96) returned to nombraalne1
+nombraalne1 collected $2.61 from pot
+nombraalne1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [4d 5d Qh]
+Seat 2: Moose1967 (big blind) folded before Flop
+Seat 3: grampysix folded on the Flop
+Seat 5: nombraalne1 collected ($2.61)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire (button) folded before Flop (didn't bet)
+Seat 9: Rulet345 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228689159970:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:50:00 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 2: Moose1967 ($79.61 in chips) 
+Seat 3: grampysix ($33.90 in chips) 
+Seat 5: nombraalne1 ($91.15 in chips) 
+Seat 7: bjolla ($50.93 in chips) 
+Seat 8: lonely fire ($57.19 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+Moose1967: posts small blind $0.25
+grampysix: posts big blind $0.50
+An1an1: sits out 
+*** HOLE CARDS ***
+nombraalne1: folds 
+bjolla: folds 
+lonely fire: raises $1 to $1.50
+Rulet345: raises $3 to $4.50
+Moose1967: folds 
+grampysix: folds 
+An1an1 leaves the table
+lonely fire: calls $3
+*** FLOP *** [2h 8d 2c]
+lonely fire: checks 
+dikanmax joins the table at seat #1 
+mazefaka007 joins the table at seat #6 
+Rulet345: checks 
+*** TURN *** [2h 8d 2c] [Js]
+lonely fire: checks 
+Rulet345: bets $3.06
+lonely fire: calls $3.06
+*** RIVER *** [2h 8d 2c Js] [3s]
+lonely fire: checks 
+Rulet345: checks 
+*** SHOW DOWN ***
+lonely fire: shows [Jd Kd] (two pair, Jacks and Deuces)
+Rulet345: mucks hand 
+lonely fire collected $15.08 from pot
+*** SUMMARY ***
+Total pot $15.87 | Rake $0.79 
+Board [2h 8d 2c Js 3s]
+Seat 2: Moose1967 (small blind) folded before Flop
+Seat 3: grampysix (big blind) folded before Flop
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire showed [Jd Kd] and won ($15.08) with two pair, Jacks and Deuces
+Seat 9: Rulet345 (button) mucked
+
+
+
+PokerStars Hand #228689206400:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:51:37 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 2: Moose1967 ($79.36 in chips) 
+Seat 3: grampysix ($33.40 in chips) 
+Seat 5: nombraalne1 ($91.15 in chips) 
+Seat 7: bjolla ($50.93 in chips) 
+Seat 8: lonely fire ($64.71 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+grampysix: posts small blind $0.25
+nombraalne1: posts big blind $0.50
+mazefaka007: sits out 
+dikanmax: sits out 
+*** HOLE CARDS ***
+bjolla: raises $0.60 to $1.10
+lonely fire: folds 
+Rulet345: folds 
+Moose1967: folds 
+grampysix: folds 
+nombraalne1: calls $0.60
+*** FLOP *** [As 8d 5s]
+nombraalne1: checks 
+bjolla: bets $1.17
+nombraalne1: calls $1.17
+*** TURN *** [As 8d 5s] [Ts]
+nombraalne1: checks 
+bjolla: bets $3.28
+nombraalne1: calls $3.28
+*** RIVER *** [As 8d 5s Ts] [Jh]
+nombraalne1: checks 
+bjolla: checks 
+*** SHOW DOWN ***
+nombraalne1: shows [Qd Qs] (a pair of Queens)
+bjolla: shows [Ad Qh] (a pair of Aces)
+bjolla collected $10.78 from pot
+*** SUMMARY ***
+Total pot $11.35 | Rake $0.57 
+Board [As 8d 5s Ts Jh]
+Seat 2: Moose1967 (button) folded before Flop (didn't bet)
+Seat 3: grampysix (small blind) folded before Flop
+Seat 5: nombraalne1 (big blind) showed [Qd Qs] and lost with a pair of Queens
+Seat 7: bjolla showed [Ad Qh] and won ($10.78) with a pair of Aces
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228689228516:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:52:23 ET
+Table 'Yabuuti II' 9-max Seat #3 is the button
+Seat 2: Moose1967 ($79.36 in chips) 
+Seat 3: grampysix ($33.15 in chips) 
+Seat 5: nombraalne1 ($85.60 in chips) 
+Seat 6: mazefaka007 ($50 in chips) 
+Seat 7: bjolla ($56.16 in chips) 
+Seat 8: lonely fire ($64.71 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+nombraalne1: posts small blind $0.25
+mazefaka007: posts big blind $0.50
+dikanmax: sits out 
+*** HOLE CARDS ***
+bjolla: folds 
+lonely fire: raises $1 to $1.50
+Rulet345: folds 
+Moose1967: calls $1.50
+grampysix: folds 
+nombraalne1: folds 
+MA9717 was removed from the table for failing to post
+MA9717 leaves the table
+mazefaka007: folds 
+*** FLOP *** [Kc 6h Ts]
+lonely fire: checks 
+Moose1967: checks 
+*** TURN *** [Kc 6h Ts] [Ac]
+lonely fire: bets $1.17
+Piter Poh joins the table at seat #4 
+Moose1967: folds 
+Uncalled bet ($1.17) returned to lonely fire
+lonely fire collected $3.56 from pot
+lonely fire: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [Kc 6h Ts Ac]
+Seat 2: Moose1967 folded on the Turn
+Seat 3: grampysix (button) folded before Flop (didn't bet)
+Seat 5: nombraalne1 (small blind) folded before Flop
+Seat 6: mazefaka007 (big blind) folded before Flop
+Seat 7: bjolla folded before Flop (didn't bet)
+Seat 8: lonely fire collected ($3.56)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228689249238:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:53:06 ET
+Table 'Yabuuti II' 9-max Seat #5 is the button
+Seat 2: Moose1967 ($77.86 in chips) 
+Seat 3: grampysix ($33.15 in chips) 
+Seat 5: nombraalne1 ($85.35 in chips) 
+Seat 6: mazefaka007 ($50 in chips) 
+Seat 8: lonely fire ($66.77 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+mazefaka007: posts small blind $0.25
+bjolla: is sitting out 
+lonely fire: posts big blind $0.50
+dikanmax: sits out 
+Piter Poh: sits out 
+*** HOLE CARDS ***
+bjolla leaves the table
+Rulet345: folds 
+Moose1967: folds 
+grampysix: raises $0.50 to $1
+nombraalne1: folds 
+mazefaka007: folds 
+lonely fire: folds 
+Uncalled bet ($0.50) returned to grampysix
+grampysix collected $1.25 from pot
+grampysix: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix collected ($1.25)
+Seat 5: nombraalne1 (button) folded before Flop (didn't bet)
+Seat 6: mazefaka007 (small blind) folded before Flop
+Seat 8: lonely fire (big blind) folded before Flop
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228689259821:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:53:28 ET
+Table 'Yabuuti II' 9-max Seat #6 is the button
+Seat 2: Moose1967 ($77.86 in chips) 
+Seat 3: grampysix ($33.90 in chips) 
+Seat 5: nombraalne1 ($85.35 in chips) 
+Seat 6: mazefaka007 ($50 in chips) 
+Seat 8: lonely fire ($66.27 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+lonely fire: posts small blind $0.25
+Rulet345: posts big blind $0.50
+dikanmax: sits out 
+Piter Poh: sits out 
+*** HOLE CARDS ***
+Moose1967: raises $1 to $1.50
+grampysix: folds 
+nombraalne1: folds 
+mazefaka007: folds 
+lonely fire: folds 
+Rulet345: folds 
+Uncalled bet ($1) returned to Moose1967
+Moose1967 collected $1.25 from pot
+Piter Poh leaves the table
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Moose1967 collected ($1.25)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: mazefaka007 (button) folded before Flop (didn't bet)
+Seat 8: lonely fire (small blind) folded before Flop
+Seat 9: Rulet345 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228689267625:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:53:45 ET
+Table 'Yabuuti II' 9-max Seat #8 is the button
+Seat 1: dikanmax ($79.41 in chips) 
+Seat 2: Moose1967 ($78.61 in chips) 
+Seat 3: grampysix ($33.90 in chips) 
+Seat 5: nombraalne1 ($85.35 in chips) 
+Seat 6: mazefaka007 ($50 in chips) 
+Seat 8: lonely fire ($66.02 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+Rulet345: posts small blind $0.25
+dikanmax: posts big blind $0.50
+*** HOLE CARDS ***
+Moose1967: folds 
+grampysix: folds 
+nombraalne1: folds 
+mazefaka007: folds 
+lonely fire: folds 
+Rulet345: folds 
+Uncalled bet ($0.25) returned to dikanmax
+dikanmax collected $0.50 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: dikanmax (big blind) collected ($0.50)
+Seat 2: Moose1967 folded before Flop (didn't bet)
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: mazefaka007 folded before Flop (didn't bet)
+Seat 8: lonely fire (button) folded before Flop (didn't bet)
+Seat 9: Rulet345 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228689273091:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:53:56 ET
+Table 'Yabuuti II' 9-max Seat #9 is the button
+Seat 1: dikanmax ($79.66 in chips) 
+Seat 2: Moose1967 ($78.61 in chips) 
+Seat 3: grampysix ($33.90 in chips) 
+Seat 5: nombraalne1 ($85.35 in chips) 
+Seat 6: mazefaka007 ($50 in chips) 
+Seat 8: lonely fire ($66.02 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+dikanmax: posts small blind $0.25
+Moose1967: posts big blind $0.50
+*** HOLE CARDS ***
+grampysix: folds 
+nombraalne1: folds 
+mazefaka007: folds 
+lonely fire: raises $1 to $1.50
+Rulet345: folds 
+dikanmax: folds 
+Moose1967: folds 
+Uncalled bet ($1) returned to lonely fire
+lonely fire collected $1.25 from pot
+lonely fire: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: dikanmax (small blind) folded before Flop
+Seat 2: Moose1967 (big blind) folded before Flop
+Seat 3: grampysix folded before Flop (didn't bet)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: mazefaka007 folded before Flop (didn't bet)
+Seat 8: lonely fire collected ($1.25)
+Seat 9: Rulet345 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228689291312:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:54:16 ET
+Table 'Yabuuti II' 9-max Seat #1 is the button
+Seat 1: dikanmax ($79.41 in chips) 
+Seat 2: Moose1967 ($78.11 in chips) 
+Seat 3: grampysix ($33.90 in chips) 
+Seat 5: nombraalne1 ($85.35 in chips) 
+Seat 6: mazefaka007 ($50 in chips) 
+Seat 8: lonely fire ($66.77 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+Moose1967: posts small blind $0.25
+grampysix: posts big blind $0.50
+*** HOLE CARDS ***
+nombraalne1: folds 
+mazefaka007: folds 
+lonely fire: folds 
+Rulet345: folds 
+dikanmax: folds 
+Moose1967: folds 
+Uncalled bet ($0.25) returned to grampysix
+grampysix collected $0.50 from pot
+grampysix: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: dikanmax (button) folded before Flop (didn't bet)
+Seat 2: Moose1967 (small blind) folded before Flop
+Seat 3: grampysix (big blind) collected ($0.50)
+Seat 5: nombraalne1 folded before Flop (didn't bet)
+Seat 6: mazefaka007 folded before Flop (didn't bet)
+Seat 8: lonely fire folded before Flop (didn't bet)
+Seat 9: Rulet345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228689298336:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 16:54:31 ET
+Table 'Yabuuti II' 9-max Seat #2 is the button
+Seat 1: dikanmax ($79.41 in chips) 
+Seat 2: Moose1967 ($77.86 in chips) 
+Seat 3: grampysix ($34.15 in chips) 
+Seat 9: Rulet345 ($50 in chips) 
+grampysix: posts small blind $0.25
+nombraalne1: is sitting out 
+mazefaka007: is sitting out 
+lonely fire: is sitting out 
+Rulet345: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+Moose1967: folds 
+grampysix: calls $0.25
+Rulet345: checks 
+*** FLOP *** [8s Tc 9s]
+nombraalne1 leaves the table
+lonely fire leaves the table
+grampysix: checks 
+Moose1967 leaves the table
+Rulet345: checks 
+*** TURN *** [8s Tc 9s] [Th]
+grampysix: checks 
+Rulet345: checks 
+*** RIVER *** [8s Tc 9s Th] [4h]
+grampysix: checks 
+Rulet345: checks 
+*** SHOW DOWN ***
+grampysix: shows [6c As] (a pair of Tens)
+Rulet345: mucks hand 
+grampysix collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [8s Tc 9s Th 4h]
+Seat 1: dikanmax folded before Flop (didn't bet)
+Seat 2: Moose1967 (button) folded before Flop (didn't bet)
+Seat 3: grampysix (small blind) showed [6c As] and won ($0.95) with a pair of Tens
+Seat 9: Rulet345 (big blind) mucked
+
+
+

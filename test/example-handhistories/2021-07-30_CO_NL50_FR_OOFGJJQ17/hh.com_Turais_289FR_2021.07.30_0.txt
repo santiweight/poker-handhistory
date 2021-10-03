@@ -1,0 +1,2702 @@
+﻿PokerStars Hand #228683579500:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:20:56 ET
+Table 'Turais III' 9-max Seat #3 is the button
+Seat 2: badman112233 ($18.18 in chips) 
+Seat 3: goldenpig666 ($58.17 in chips) 
+Seat 4: StudentRB ($68.37 in chips) 
+Seat 5: Maks Bavenko ($50.44 in chips) 
+Seat 6: Xamil666 ($52.50 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 9: RikaSunPay ($60.01 in chips) 
+StudentRB: posts small blind $0.25
+Maks Bavenko: posts big blind $0.50
+*** HOLE CARDS ***
+Xamil666: folds 
+CocoAlexMix: folds 
+RikaSunPay: folds 
+Xamil666 leaves the table
+badman112233 has timed out
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: raises $1 to $1.50
+Maks Bavenko: folds 
+Uncalled bet ($1) returned to StudentRB
+StudentRB collected $1 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 (button) folded before Flop (didn't bet)
+Seat 4: StudentRB (small blind) collected ($1)
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683590918:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:21:24 ET
+Table 'Turais III' 9-max Seat #4 is the button
+Seat 2: badman112233 ($18.18 in chips) 
+Seat 3: goldenpig666 ($58.17 in chips) 
+Seat 4: StudentRB ($68.87 in chips) 
+Seat 5: Maks Bavenko ($50 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 9: RikaSunPay ($60.01 in chips) 
+Maks Bavenko: posts small blind $0.25
+CocoAlexMix: posts big blind $0.50
+MarsMiland: sits out 
+*** HOLE CARDS ***
+RikaSunPay: folds 
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Uncalled bet ($0.25) returned to CocoAlexMix
+CocoAlexMix collected $0.50 from pot
+CocoAlexMix: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB (button) folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 7: CocoAlexMix (big blind) collected ($0.50)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683596493:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:21:38 ET
+Table 'Turais III' 9-max Seat #5 is the button
+Seat 2: badman112233 ($18.18 in chips) 
+Seat 3: goldenpig666 ($58.17 in chips) 
+Seat 4: StudentRB ($68.87 in chips) 
+Seat 5: Maks Bavenko ($50 in chips) 
+Seat 7: CocoAlexMix ($50.25 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($60.01 in chips) 
+CocoAlexMix: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+RikaSunPay: folds 
+badman112233: folds 
+goldenpig666: folds 
+Mmago24 joins the table at seat #6 
+StudentRB: folds 
+Maks Bavenko: raises $0.75 to $1.25
+CocoAlexMix: folds 
+MarsMiland: folds 
+Uncalled bet ($0.75) returned to Maks Bavenko
+Maks Bavenko collected $1.25 from pot
+Maks Bavenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) collected ($1.25)
+Seat 7: CocoAlexMix (small blind) folded before Flop
+Seat 8: MarsMiland (big blind) folded before Flop
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683603966:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:21:56 ET
+Table 'Turais III' 9-max Seat #7 is the button
+Seat 2: badman112233 ($18.18 in chips) 
+Seat 3: goldenpig666 ($58.17 in chips) 
+Seat 4: StudentRB ($68.87 in chips) 
+Seat 5: Maks Bavenko ($50.75 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($60.01 in chips) 
+MarsMiland: posts small blind $0.25
+RikaSunPay: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+CocoAlexMix: folds 
+tonynoh was removed from the table for failing to post
+tonynoh leaves the table
+MarsMiland: folds 
+Uncalled bet ($0.25) returned to RikaSunPay
+RikaSunPay collected $0.50 from pot
+RikaSunPay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 7: CocoAlexMix (button) folded before Flop (didn't bet)
+Seat 8: MarsMiland (small blind) folded before Flop
+Seat 9: RikaSunPay (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228683612132:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:22:16 ET
+Table 'Turais III' 9-max Seat #8 is the button
+Seat 2: badman112233 ($18.18 in chips) 
+Seat 3: goldenpig666 ($58.17 in chips) 
+Seat 4: StudentRB ($68.87 in chips) 
+Seat 5: Maks Bavenko ($50.75 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($60.26 in chips) 
+RikaSunPay: posts small blind $0.25
+badman112233: posts big blind $0.50
+Mmago24: sits out 
+*** HOLE CARDS ***
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+CocoAlexMix: folds 
+MarsMiland: folds 
+RikaSunPay: raises $1.13 to $1.63
+CocoAlexMix leaves the table
+badman112233: calls $1.13
+*** FLOP *** [Kh 5d Kd]
+RikaSunPay: checks 
+badman112233: checks 
+*** TURN *** [Kh 5d Kd] [2c]
+WaiTiCall joins the table at seat #1 
+RikaSunPay: checks 
+badman112233: bets $1.50
+La Ghir joins the table at seat #7 
+RikaSunPay: folds 
+Uncalled bet ($1.50) returned to badman112233
+badman112233 collected $3.10 from pot
+badman112233: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.26 | Rake $0.16 
+Board [Kh 5d Kd 2c]
+Seat 2: badman112233 (big blind) collected ($3.10)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 8: MarsMiland (button) folded before Flop (didn't bet)
+Seat 9: RikaSunPay (small blind) folded on the Turn
+
+
+
+PokerStars Hand #228683625927:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:22:50 ET
+Table 'Turais III' 9-max Seat #9 is the button
+Seat 2: badman112233 ($19.65 in chips) 
+Seat 3: goldenpig666 ($58.17 in chips) 
+Seat 4: StudentRB ($68.87 in chips) 
+Seat 5: Maks Bavenko ($50.75 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($58.63 in chips) 
+badman112233: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+Mmago24: sits out 
+La Ghir: sits out 
+*** HOLE CARDS ***
+StudentRB: raises $0.75 to $1.25
+Maks Bavenko: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+badman112233: folds 
+goldenpig666: folds 
+Uncalled bet ($0.75) returned to StudentRB
+StudentRB collected $1.25 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: badman112233 (small blind) folded before Flop
+Seat 3: goldenpig666 (big blind) folded before Flop
+Seat 4: StudentRB collected ($1.25)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683639410:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:23:18 ET
+Table 'Turais III' 9-max Seat #2 is the button
+Seat 2: badman112233 ($19.40 in chips) 
+Seat 3: goldenpig666 ($57.67 in chips) 
+Seat 4: StudentRB ($69.62 in chips) 
+Seat 5: Maks Bavenko ($50.75 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($58.63 in chips) 
+goldenpig666: posts small blind $0.25
+StudentRB: posts big blind $0.50
+Mmago24: sits out 
+La Ghir: sits out 
+WaiTiCall: sits out 
+*** HOLE CARDS ***
+Maks Bavenko: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+badman112233: folds 
+goldenpig666: folds 
+Uncalled bet ($0.25) returned to StudentRB
+StudentRB collected $0.50 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: badman112233 (button) folded before Flop (didn't bet)
+Seat 3: goldenpig666 (small blind) folded before Flop
+Seat 4: StudentRB (big blind) collected ($0.50)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683644129:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:23:30 ET
+Table 'Turais III' 9-max Seat #3 is the button
+Seat 2: badman112233 ($19.40 in chips) 
+Seat 3: goldenpig666 ($57.42 in chips) 
+Seat 4: StudentRB ($69.87 in chips) 
+Seat 5: Maks Bavenko ($50.75 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($58.63 in chips) 
+StudentRB: posts small blind $0.25
+Maks Bavenko: posts big blind $0.50
+Mmago24: sits out 
+La Ghir: sits out 
+WaiTiCall: sits out 
+*** HOLE CARDS ***
+MarsMiland: folds 
+RikaSunPay: folds 
+badman112233 has timed out
+badman112233: folds 
+goldenpig666: raises $0.75 to $1.25
+StudentRB: folds 
+Maks Bavenko: raises $4.25 to $5.50
+goldenpig666: folds 
+Uncalled bet ($4.25) returned to Maks Bavenko
+Maks Bavenko collected $2.75 from pot
+Maks Bavenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 (button) folded before Flop
+Seat 4: StudentRB (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) collected ($2.75)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683658242:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:24:05 ET
+Table 'Turais III' 9-max Seat #4 is the button
+Seat 2: badman112233 ($19.40 in chips) 
+Seat 3: goldenpig666 ($56.17 in chips) 
+Seat 4: StudentRB ($69.62 in chips) 
+Seat 5: Maks Bavenko ($52.25 in chips) 
+Seat 6: Mmago24 ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($58.63 in chips) 
+Maks Bavenko: posts small blind $0.25
+Mmago24: posts big blind $0.50
+La Ghir: sits out 
+WaiTiCall: sits out 
+*** HOLE CARDS ***
+MarsMiland: folds 
+RikaSunPay: folds 
+badman112233: calls $0.50
+goldenpig666: folds 
+StudentRB: raises $1.25 to $1.75
+Maks Bavenko: folds 
+Mmago24: folds 
+badman112233: calls $1.25
+*** FLOP *** [9d 7d 5d]
+badman112233: checks 
+StudentRB: checks 
+*** TURN *** [9d 7d 5d] [Td]
+badman112233: checks 
+StudentRB: checks 
+*** RIVER *** [9d 7d 5d Td] [Qs]
+badman112233: bets $2.02
+StudentRB: calls $2.02
+*** SHOW DOWN ***
+badman112233: shows [Kd 3d] (a flush, King high)
+StudentRB: mucks hand 
+badman112233 collected $7.88 from pot
+*** SUMMARY ***
+Total pot $8.29 | Rake $0.41 
+Board [9d 7d 5d Td Qs]
+Seat 2: badman112233 showed [Kd 3d] and won ($7.88) with a flush, King high
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB (button) mucked
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) folded before Flop
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683681056:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:25:02 ET
+Table 'Turais III' 9-max Seat #5 is the button
+Seat 2: badman112233 ($23.51 in chips) 
+Seat 3: goldenpig666 ($56.17 in chips) 
+Seat 4: StudentRB ($65.85 in chips) 
+Seat 5: Maks Bavenko ($52 in chips) 
+Seat 6: Mmago24 ($50 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($58.63 in chips) 
+Mmago24: posts small blind $0.25
+La Ghir: posts big blind $0.50
+WaiTiCall: sits out 
+*** HOLE CARDS ***
+MarsMiland: folds 
+RikaSunPay: folds 
+badman112233: folds 
+goldenpig666: raises $1 to $1.50
+StudentRB: folds 
+Maks Bavenko: folds 
+Mmago24: folds 
+La Ghir: folds 
+Uncalled bet ($1) returned to goldenpig666
+goldenpig666 collected $1.25 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 collected ($1.25)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 7: La Ghir (big blind) folded before Flop
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683700927:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:25:33 ET
+Table 'Turais III' 9-max Seat #6 is the button
+Seat 2: badman112233 ($23.51 in chips) 
+Seat 3: goldenpig666 ($56.92 in chips) 
+Seat 4: StudentRB ($65.85 in chips) 
+Seat 5: Maks Bavenko ($52 in chips) 
+Seat 6: Mmago24 ($50 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($58.63 in chips) 
+La Ghir: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+WaiTiCall: sits out 
+*** HOLE CARDS ***
+RikaSunPay: folds 
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Mmago24: folds 
+La Ghir: folds 
+Uncalled bet ($0.25) returned to MarsMiland
+MarsMiland collected $0.50 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Mmago24 (button) folded before Flop (didn't bet)
+Seat 7: La Ghir (small blind) folded before Flop
+Seat 8: MarsMiland (big blind) collected ($0.50)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683707090:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:25:49 ET
+Table 'Turais III' 9-max Seat #7 is the button
+Seat 2: badman112233 ($23.51 in chips) 
+Seat 3: goldenpig666 ($56.92 in chips) 
+Seat 4: StudentRB ($65.85 in chips) 
+Seat 5: Maks Bavenko ($52 in chips) 
+Seat 6: Mmago24 ($50 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($50.25 in chips) 
+Seat 9: RikaSunPay ($58.63 in chips) 
+MarsMiland: posts small blind $0.25
+RikaSunPay: posts big blind $0.50
+WaiTiCall: sits out 
+*** HOLE CARDS ***
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: raises $0.75 to $1.25
+Mmago24: folds 
+La Ghir: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+Uncalled bet ($0.75) returned to Maks Bavenko
+Maks Bavenko collected $1.25 from pot
+Maks Bavenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko collected ($1.25)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir (button) folded before Flop (didn't bet)
+Seat 8: MarsMiland (small blind) folded before Flop
+Seat 9: RikaSunPay (big blind) folded before Flop
+
+
+
+PokerStars Hand #228683718843:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:26:18 ET
+Table 'Turais III' 9-max Seat #8 is the button
+Seat 1: WaiTiCall ($29.89 in chips) 
+Seat 2: badman112233 ($23.51 in chips) 
+Seat 3: goldenpig666 ($56.92 in chips) 
+Seat 4: StudentRB ($65.85 in chips) 
+Seat 5: Maks Bavenko ($52.75 in chips) 
+Seat 6: Mmago24 ($50 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($58.13 in chips) 
+RikaSunPay: posts small blind $0.25
+WaiTiCall: posts big blind $0.50
+*** HOLE CARDS ***
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: raises $0.75 to $1.25
+Maks Bavenko: folds 
+Mmago24: folds 
+La Ghir: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+WaiTiCall: calls $0.75
+*** FLOP *** [8c 6c Th]
+WaiTiCall: checks 
+StudentRB: bets $2
+WaiTiCall: calls $2
+*** TURN *** [8c 6c Th] [As]
+WaiTiCall: checks 
+StudentRB: bets $3
+WaiTiCall: folds 
+Uncalled bet ($3) returned to StudentRB
+StudentRB collected $6.41 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.34 
+Board [8c 6c Th As]
+Seat 1: WaiTiCall (big blind) folded on the Turn
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB collected ($6.41)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland (button) folded before Flop (didn't bet)
+Seat 9: RikaSunPay (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683742004:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:27:15 ET
+Table 'Turais III' 9-max Seat #9 is the button
+Seat 1: WaiTiCall ($26.64 in chips) 
+Seat 2: badman112233 ($23.51 in chips) 
+Seat 3: goldenpig666 ($56.92 in chips) 
+Seat 4: StudentRB ($69.01 in chips) 
+Seat 5: Maks Bavenko ($52.75 in chips) 
+Seat 6: Mmago24 ($50 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($57.88 in chips) 
+WaiTiCall: posts small blind $0.25
+badman112233: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: raises $1 to $1.50
+Mmago24: folds 
+La Ghir: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+WaiTiCall: folds 
+badman112233: folds 
+Uncalled bet ($1) returned to Maks Bavenko
+Maks Bavenko collected $1.25 from pot
+Maks Bavenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: WaiTiCall (small blind) folded before Flop
+Seat 2: badman112233 (big blind) folded before Flop
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko collected ($1.25)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683754066:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:27:44 ET
+Table 'Turais III' 9-max Seat #1 is the button
+Seat 1: WaiTiCall ($26.39 in chips) 
+Seat 2: badman112233 ($23.01 in chips) 
+Seat 3: goldenpig666 ($56.92 in chips) 
+Seat 4: StudentRB ($69.01 in chips) 
+Seat 5: Maks Bavenko ($53.50 in chips) 
+Seat 6: Mmago24 ($50 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($57.88 in chips) 
+badman112233: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: folds 
+Maks Bavenko: folds 
+Mmago24: raises $0.72 to $1.22
+La Ghir: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+WaiTiCall: folds 
+badman112233: calls $0.97
+goldenpig666: folds 
+*** FLOP *** [9s 6s 8s]
+badman112233: checks 
+Mmago24: bets $1.48
+badman112233: calls $1.48
+*** TURN *** [9s 6s 8s] [7h]
+badman112233: checks 
+Mmago24: bets $3.73
+badman112233: calls $3.73
+*** RIVER *** [9s 6s 8s 7h] [Jc]
+badman112233: bets $7
+Mmago24: raises $11.50 to $18.50
+badman112233: calls $9.58 and is all-in
+Uncalled bet ($1.92) returned to Mmago24
+*** SHOW DOWN ***
+Mmago24: shows [Ks As] (a flush, Ace high)
+badman112233: shows [Qs Ts] (a flush, Queen high)
+Mmago24 collected $44.52 from pot
+*** SUMMARY ***
+Total pot $46.52 | Rake $2 
+Board [9s 6s 8s 7h Jc]
+Seat 1: WaiTiCall (button) folded before Flop (didn't bet)
+Seat 2: badman112233 (small blind) showed [Qs Ts] and lost with a flush, Queen high
+Seat 3: goldenpig666 (big blind) folded before Flop
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Mmago24 showed [Ks As] and won ($44.52) with a flush, Ace high
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683789683:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:29:11 ET
+Table 'Turais III' 9-max Seat #3 is the button
+Seat 1: WaiTiCall ($26.39 in chips) 
+Seat 3: goldenpig666 ($56.42 in chips) 
+Seat 4: StudentRB ($69.01 in chips) 
+Seat 5: Maks Bavenko ($53.50 in chips) 
+Seat 6: Mmago24 ($71.51 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($57.88 in chips) 
+StudentRB: posts small blind $0.25
+Maks Bavenko: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+La Ghir: folds 
+MarsMiland: folds 
+RikaSunPay: raises $1.13 to $1.63
+WaiTiCall: raises $1.37 to $3
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+RikaSunPay: calls $1.37
+*** FLOP *** [Qh 4c 4h]
+RikaSunPay: checks 
+WaiTiCall: bets $3
+RikaSunPay: folds 
+Uncalled bet ($3) returned to WaiTiCall
+WaiTiCall collected $6.41 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.34 
+Board [Qh 4c 4h]
+Seat 1: WaiTiCall collected ($6.41)
+Seat 3: goldenpig666 (button) folded before Flop (didn't bet)
+Seat 4: StudentRB (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded on the Flop
+
+
+
+PokerStars Hand #228683802195:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:29:42 ET
+Table 'Turais III' 9-max Seat #4 is the button
+Seat 1: WaiTiCall ($29.80 in chips) 
+Seat 3: goldenpig666 ($56.42 in chips) 
+Seat 4: StudentRB ($68.76 in chips) 
+Seat 5: Maks Bavenko ($53 in chips) 
+Seat 6: Mmago24 ($71.51 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($54.88 in chips) 
+Maks Bavenko: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+La Ghir: raises $1 to $1.50
+MarsMiland: folds 
+RikaSunPay: folds 
+WaiTiCall: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Mmago24: calls $1
+*** FLOP *** [Ac Ks Js]
+Mmago24: checks 
+La Ghir: checks 
+*** TURN *** [Ac Ks Js] [9h]
+Mmago24: checks 
+La Ghir: checks 
+*** RIVER *** [Ac Ks Js 9h] [Jd]
+Mmago24: checks 
+La Ghir: checks 
+*** SHOW DOWN ***
+Mmago24: shows [6c 7c] (a pair of Jacks)
+La Ghir: shows [Qc Qh] (two pair, Queens and Jacks)
+La Ghir collected $3.09 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [Ac Ks Js 9h Jd]
+Seat 1: WaiTiCall folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB (button) folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) showed [6c 7c] and lost with a pair of Jacks
+Seat 7: La Ghir showed [Qc Qh] and won ($3.09) with two pair, Queens and Jacks
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683828620:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:30:45 ET
+Table 'Turais III' 9-max Seat #5 is the button
+Seat 1: WaiTiCall ($29.80 in chips) 
+Seat 3: goldenpig666 ($56.42 in chips) 
+Seat 4: StudentRB ($68.76 in chips) 
+Seat 5: Maks Bavenko ($52.75 in chips) 
+Seat 6: Mmago24 ($70.01 in chips) 
+Seat 7: La Ghir ($51.59 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($54.88 in chips) 
+Mmago24: posts small blind $0.25
+La Ghir: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+RikaSunPay: folds 
+WaiTiCall: folds 
+goldenpig666: raises $1 to $1.50
+StudentRB: folds 
+Maks Bavenko: folds 
+Mmago24: raises $3.50 to $5
+La Ghir: folds 
+goldenpig666: folds 
+Uncalled bet ($3.50) returned to Mmago24
+Mmago24 collected $3.50 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 1: WaiTiCall folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) collected ($3.50)
+Seat 7: La Ghir (big blind) folded before Flop
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683837717:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:31:07 ET
+Table 'Turais III' 9-max Seat #6 is the button
+Seat 1: WaiTiCall ($29.80 in chips) 
+Seat 3: goldenpig666 ($54.92 in chips) 
+Seat 4: StudentRB ($68.76 in chips) 
+Seat 5: Maks Bavenko ($52.75 in chips) 
+Seat 6: Mmago24 ($72.01 in chips) 
+Seat 7: La Ghir ($51.09 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($54.88 in chips) 
+La Ghir: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+RikaSunPay: raises $1.13 to $1.63
+WaiTiCall: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Mmago24: folds 
+La Ghir: folds 
+MarsMiland: calls $1.13
+*** FLOP *** [Jh 8s 6s]
+MarsMiland: checks 
+RikaSunPay: bets $1.10
+MarsMiland: calls $1.10
+*** TURN *** [Jh 8s 6s] [6d]
+MarsMiland: checks 
+RikaSunPay: checks 
+*** RIVER *** [Jh 8s 6s 6d] [3h]
+MarsMiland: bets $1.79
+RikaSunPay: folds 
+Uncalled bet ($1.79) returned to MarsMiland
+MarsMiland collected $5.42 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.71 | Rake $0.29 
+Board [Jh 8s 6s 6d 3h]
+Seat 1: WaiTiCall folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Mmago24 (button) folded before Flop (didn't bet)
+Seat 7: La Ghir (small blind) folded before Flop
+Seat 8: MarsMiland (big blind) collected ($5.42)
+Seat 9: RikaSunPay folded on the River
+
+
+
+PokerStars Hand #228683864073:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:32:09 ET
+Table 'Turais III' 9-max Seat #7 is the button
+Seat 1: WaiTiCall ($29.80 in chips) 
+Seat 3: goldenpig666 ($54.92 in chips) 
+Seat 4: StudentRB ($68.76 in chips) 
+Seat 5: Maks Bavenko ($52.75 in chips) 
+Seat 6: Mmago24 ($72.01 in chips) 
+Seat 7: La Ghir ($50.84 in chips) 
+Seat 8: MarsMiland ($52.69 in chips) 
+Seat 9: RikaSunPay ($52.15 in chips) 
+MarsMiland: posts small blind $0.25
+RikaSunPay: posts big blind $0.50
+*** HOLE CARDS ***
+WaiTiCall: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Mmago24: folds 
+La Ghir: raises $0.50 to $1
+MarsMiland: folds 
+RikaSunPay: calls $0.50
+*** FLOP *** [9s Jh 2c]
+RikaSunPay: checks 
+La Ghir: bets $1.07
+RikaSunPay: calls $1.07
+*** TURN *** [9s Jh 2c] [As]
+RikaSunPay: checks 
+La Ghir: bets $2.92
+RikaSunPay: calls $2.92
+*** RIVER *** [9s Jh 2c As] [Kd]
+RikaSunPay: bets $6.42
+La Ghir: calls $6.42
+*** SHOW DOWN ***
+RikaSunPay: shows [Qc Ts] (a straight, Ten to Ace)
+La Ghir: mucks hand 
+RikaSunPay collected $21.92 from pot
+*** SUMMARY ***
+Total pot $23.07 | Rake $1.15 
+Board [9s Jh 2c As Kd]
+Seat 1: WaiTiCall folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir (button) mucked
+Seat 8: MarsMiland (small blind) folded before Flop
+Seat 9: RikaSunPay (big blind) showed [Qc Ts] and won ($21.92) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #228683901007:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:33:37 ET
+Table 'Turais III' 9-max Seat #8 is the button
+Seat 1: WaiTiCall ($29.80 in chips) 
+Seat 2: badman112233 ($20 in chips) 
+Seat 3: goldenpig666 ($54.92 in chips) 
+Seat 4: StudentRB ($68.76 in chips) 
+Seat 5: Maks Bavenko ($52.75 in chips) 
+Seat 6: Mmago24 ($72.01 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($52.44 in chips) 
+Seat 9: RikaSunPay ($62.66 in chips) 
+RikaSunPay: posts small blind $0.25
+WaiTiCall: posts big blind $0.50
+*** HOLE CARDS ***
+badman112233: calls $0.50
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Mmago24: folds 
+La Ghir: calls $0.50
+MarsMiland: raises $2 to $2.50
+RikaSunPay: folds 
+WaiTiCall: folds 
+badman112233: calls $2
+La Ghir: folds 
+*** FLOP *** [6h 3h Ad]
+badman112233: checks 
+MarsMiland: bets $2.75
+badman112233: folds 
+Uncalled bet ($2.75) returned to MarsMiland
+MarsMiland collected $5.94 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.31 
+Board [6h 3h Ad]
+Seat 1: WaiTiCall (big blind) folded before Flop
+Seat 2: badman112233 folded on the Flop
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir folded before Flop
+Seat 8: MarsMiland (button) collected ($5.94)
+Seat 9: RikaSunPay (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683917320:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:34:17 ET
+Table 'Turais III' 9-max Seat #9 is the button
+Seat 1: WaiTiCall ($29.30 in chips) 
+Seat 2: badman112233 ($17.50 in chips) 
+Seat 3: goldenpig666 ($54.92 in chips) 
+Seat 4: StudentRB ($68.76 in chips) 
+Seat 5: Maks Bavenko ($52.75 in chips) 
+Seat 6: Mmago24 ($72.01 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($55.88 in chips) 
+Seat 9: RikaSunPay ($62.41 in chips) 
+WaiTiCall: posts small blind $0.25
+badman112233: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Mmago24: folds 
+La Ghir: folds 
+MarsMiland: folds 
+RikaSunPay: raises $1.13 to $1.63
+WaiTiCall: calls $1.38
+badman112233: folds 
+*** FLOP *** [Td 5s 5c]
+WaiTiCall: checks 
+RikaSunPay: bets $1.18
+WaiTiCall: calls $1.18
+*** TURN *** [Td 5s 5c] [7s]
+WaiTiCall: checks 
+RikaSunPay: bets $3.83
+WaiTiCall: calls $3.83
+*** RIVER *** [Td 5s 5c 7s] [3s]
+WaiTiCall: bets $22.66 and is all-in
+RikaSunPay: calls $22.66
+*** SHOW DOWN ***
+WaiTiCall: shows [9c Js] (a pair of Fives)
+RikaSunPay: shows [Ah Tc] (two pair, Tens and Fives)
+RikaSunPay collected $57.10 from pot
+*** SUMMARY ***
+Total pot $59.10 | Rake $2 
+Board [Td 5s 5c 7s 3s]
+Seat 1: WaiTiCall (small blind) showed [9c Js] and lost with a pair of Fives
+Seat 2: badman112233 (big blind) folded before Flop
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay (button) showed [Ah Tc] and won ($57.10) with two pair, Tens and Fives
+
+
+
+PokerStars Hand #228683958692:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:35:41 ET
+Table 'Turais III' 9-max Seat #2 is the button
+Seat 2: badman112233 ($17 in chips) 
+Seat 3: goldenpig666 ($54.92 in chips) 
+Seat 4: StudentRB ($68.76 in chips) 
+Seat 5: Maks Bavenko ($52.75 in chips) 
+Seat 6: Mmago24 ($72.01 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($55.88 in chips) 
+Seat 9: RikaSunPay ($90.21 in chips) 
+goldenpig666: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+Maks Bavenko: folds 
+Mmago24: folds 
+WaiTiCall leaves the table
+La Ghir: folds 
+MarsMiland: raises $0.80 to $1.30
+RikaSunPay: folds 
+dikanmax joins the table at seat #1 
+badman112233: calls $1.30
+goldenpig666: folds 
+StudentRB: folds 
+*** FLOP *** [5d 2c 6s]
+MarsMiland: checks 
+badman112233: checks 
+*** TURN *** [5d 2c 6s] [2s]
+MarsMiland: checks 
+badman112233: bets $3.18
+MarsMiland: folds 
+Uncalled bet ($3.18) returned to badman112233
+badman112233 collected $3.18 from pot
+badman112233: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.35 | Rake $0.17 
+Board [5d 2c 6s 2s]
+Seat 2: badman112233 (button) collected ($3.18)
+Seat 3: goldenpig666 (small blind) folded before Flop
+Seat 4: StudentRB (big blind) folded before Flop
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland folded on the Turn
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683985179:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:36:44 ET
+Table 'Turais III' 9-max Seat #3 is the button
+Seat 2: badman112233 ($18.88 in chips) 
+Seat 3: goldenpig666 ($54.67 in chips) 
+Seat 4: StudentRB ($68.26 in chips) 
+Seat 6: Mmago24 ($72.01 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($54.58 in chips) 
+Seat 9: RikaSunPay ($90.21 in chips) 
+StudentRB: posts small blind $0.25
+Maks Bavenko: is sitting out 
+Mmago24: posts big blind $0.50
+dikanmax: sits out 
+*** HOLE CARDS ***
+La Ghir: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+Maks Bavenko leaves the table
+badman112233: raises $0.50 to $1
+goldenpig666: folds 
+StudentRB: folds 
+Mmago24: calls $0.50
+*** FLOP *** [5d 2c Jd]
+Mmago24: checks 
+badman112233: checks 
+*** TURN *** [5d 2c Jd] [7s]
+Pachebrash joins the table at seat #5 
+Mmago24: checks 
+badman112233: checks 
+*** RIVER *** [5d 2c Jd 7s] [Qd]
+Mmago24: checks 
+badman112233: bets $1.07
+Mmago24: folds 
+Uncalled bet ($1.07) returned to badman112233
+badman112233 collected $2.14 from pot
+badman112233: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.11 
+Board [5d 2c Jd 7s Qd]
+Seat 2: badman112233 collected ($2.14)
+Seat 3: goldenpig666 (button) folded before Flop (didn't bet)
+Seat 4: StudentRB (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) folded on the River
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228684019788:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:38:05 ET
+Table 'Turais III' 9-max Seat #4 is the button
+Seat 2: badman112233 ($20.02 in chips) 
+Seat 3: goldenpig666 ($54.67 in chips) 
+Seat 4: StudentRB ($68.01 in chips) 
+Seat 6: Mmago24 ($71.01 in chips) 
+Seat 7: La Ghir ($50 in chips) 
+Seat 8: MarsMiland ($54.58 in chips) 
+Seat 9: RikaSunPay ($90.21 in chips) 
+Mmago24: posts small blind $0.25
+La Ghir: posts big blind $0.50
+dikanmax: sits out 
+*** HOLE CARDS ***
+MarsMiland: folds 
+RikaSunPay: folds 
+badman112233: folds 
+goldenpig666: raises $0.75 to $1.25
+StudentRB: folds 
+Mmago24: raises $3.25 to $4.50
+La Ghir: raises $7.50 to $12
+goldenpig666: folds 
+Mmago24: folds 
+Uncalled bet ($7.50) returned to La Ghir
+La Ghir collected $10.25 from pot
+La Ghir: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.25 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop
+Seat 4: StudentRB (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 7: La Ghir (big blind) collected ($10.25)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228684042279:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:38:59 ET
+Table 'Turais III' 9-max Seat #6 is the button
+Seat 2: badman112233 ($20.02 in chips) 
+Seat 3: goldenpig666 ($53.42 in chips) 
+Seat 4: StudentRB ($68.01 in chips) 
+Seat 6: Mmago24 ($66.51 in chips) 
+Seat 7: La Ghir ($55.75 in chips) 
+Seat 8: MarsMiland ($54.58 in chips) 
+Seat 9: RikaSunPay ($90.21 in chips) 
+La Ghir: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+dikanmax: sits out 
+Pachebrash: sits out 
+*** HOLE CARDS ***
+RikaSunPay: folds 
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: raises $0.75 to $1.25
+Mmago24: raises $3.25 to $4.50
+La Ghir: folds 
+MarsMiland: folds 
+StudentRB: folds 
+Uncalled bet ($3.25) returned to Mmago24
+Mmago24 collected $3.25 from pot
+Mmago24: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop
+Seat 6: Mmago24 (button) collected ($3.25)
+Seat 7: La Ghir (small blind) folded before Flop
+Seat 8: MarsMiland (big blind) folded before Flop
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228684051940:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:39:22 ET
+Table 'Turais III' 9-max Seat #7 is the button
+Seat 2: badman112233 ($20.02 in chips) 
+Seat 3: goldenpig666 ($53.42 in chips) 
+Seat 4: StudentRB ($66.76 in chips) 
+Seat 6: Mmago24 ($68.51 in chips) 
+Seat 7: La Ghir ($55.50 in chips) 
+Seat 8: MarsMiland ($54.08 in chips) 
+Seat 9: RikaSunPay ($90.21 in chips) 
+MarsMiland: posts small blind $0.25
+RikaSunPay: posts big blind $0.50
+dikanmax: sits out 
+Pachebrash: sits out 
+*** HOLE CARDS ***
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Mmago24: folds 
+La Ghir: folds 
+MarsMiland: raises $1 to $1.50
+RikaSunPay: calls $1
+*** FLOP *** [Kh 7h 4s]
+MarsMiland: checks 
+RikaSunPay: bets $1.50
+MarsMiland: calls $1.50
+*** TURN *** [Kh 7h 4s] [7d]
+MarsMiland: checks 
+RikaSunPay: checks 
+*** RIVER *** [Kh 7h 4s 7d] [7c]
+MarsMiland: checks 
+RikaSunPay: bets $2.25
+MarsMiland: calls $2.25
+*** SHOW DOWN ***
+RikaSunPay: shows [8s Ks] (a full house, Sevens full of Kings)
+MarsMiland: shows [Kd 9h] (a full house, Sevens full of Kings)
+MarsMiland collected $4.99 from pot
+RikaSunPay collected $4.99 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [Kh 7h 4s 7d 7c]
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir (button) folded before Flop (didn't bet)
+Seat 8: MarsMiland (small blind) showed [Kd 9h] and won ($4.99) with a full house, Sevens full of Kings
+Seat 9: RikaSunPay (big blind) showed [8s Ks] and won ($4.99) with a full house, Sevens full of Kings
+
+
+
+PokerStars Hand #228684081985:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:40:33 ET
+Table 'Turais III' 9-max Seat #8 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 2: badman112233 ($20.02 in chips) 
+Seat 3: goldenpig666 ($53.42 in chips) 
+Seat 4: StudentRB ($66.76 in chips) 
+Seat 6: Mmago24 ($68.51 in chips) 
+Seat 7: La Ghir ($55.50 in chips) 
+Seat 8: MarsMiland ($53.82 in chips) 
+Seat 9: RikaSunPay ($89.95 in chips) 
+RikaSunPay: posts small blind $0.25
+dikanmax: posts big blind $0.50
+Pachebrash: sits out 
+*** HOLE CARDS ***
+badman112233 has timed out
+badman112233: folds 
+goldenpig666: raises $1 to $1.50
+StudentRB: folds 
+Mmago24: folds 
+La Ghir: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+dikanmax: folds 
+Uncalled bet ($1) returned to goldenpig666
+goldenpig666 collected $1.25 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: dikanmax (big blind) folded before Flop
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 collected ($1.25)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland (button) folded before Flop (didn't bet)
+Seat 9: RikaSunPay (small blind) folded before Flop
+
+
+
+PokerStars Hand #228684094371:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:41:03 ET
+Table 'Turais III' 9-max Seat #9 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 2: badman112233 ($20.02 in chips) 
+Seat 3: goldenpig666 ($54.17 in chips) 
+Seat 4: StudentRB ($66.76 in chips) 
+Seat 6: Mmago24 ($68.51 in chips) 
+Seat 7: La Ghir ($55.50 in chips) 
+Seat 8: MarsMiland ($53.82 in chips) 
+Seat 9: RikaSunPay ($89.70 in chips) 
+dikanmax: posts small blind $0.25
+badman112233: posts big blind $0.50
+Pachebrash: sits out 
+*** HOLE CARDS ***
+goldenpig666: raises $1 to $1.50
+StudentRB: folds 
+Mmago24: folds 
+La Ghir: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+dikanmax: folds 
+badman112233: folds 
+Uncalled bet ($1) returned to goldenpig666
+goldenpig666 collected $1.25 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: dikanmax (small blind) folded before Flop
+Seat 2: badman112233 (big blind) folded before Flop
+Seat 3: goldenpig666 collected ($1.25)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228684103713:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:41:25 ET
+Table 'Turais III' 9-max Seat #1 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 2: badman112233 ($19.52 in chips) 
+Seat 3: goldenpig666 ($54.92 in chips) 
+Seat 4: StudentRB ($66.76 in chips) 
+Seat 6: Mmago24 ($68.51 in chips) 
+Seat 7: La Ghir ($55.50 in chips) 
+Seat 8: MarsMiland ($53.82 in chips) 
+Seat 9: RikaSunPay ($89.70 in chips) 
+badman112233: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+Pachebrash: sits out 
+*** HOLE CARDS ***
+StudentRB: folds 
+Mmago24: folds 
+La Ghir: folds 
+MarsMiland: folds 
+RikaSunPay: raises $1.13 to $1.63
+dikanmax: folds 
+badman112233: calls $1.38
+goldenpig666: folds 
+*** FLOP *** [Ac Kd 4s]
+badman112233: checks 
+RikaSunPay: bets $1.18
+badman112233: folds 
+Uncalled bet ($1.18) returned to RikaSunPay
+RikaSunPay collected $3.57 from pot
+RikaSunPay: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.76 | Rake $0.19 
+Board [Ac Kd 4s]
+Seat 1: dikanmax (button) folded before Flop (didn't bet)
+Seat 2: badman112233 (small blind) folded on the Flop
+Seat 3: goldenpig666 (big blind) folded before Flop
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay collected ($3.57)
+
+
+
+PokerStars Hand #228684128904:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:42:25 ET
+Table 'Turais III' 9-max Seat #2 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 2: badman112233 ($17.89 in chips) 
+Seat 3: goldenpig666 ($54.42 in chips) 
+Seat 4: StudentRB ($66.76 in chips) 
+Seat 6: Mmago24 ($68.51 in chips) 
+Seat 7: La Ghir ($55.50 in chips) 
+Seat 8: MarsMiland ($53.82 in chips) 
+Seat 9: RikaSunPay ($91.64 in chips) 
+goldenpig666: posts small blind $0.25
+StudentRB: posts big blind $0.50
+Pachebrash: sits out 
+*** HOLE CARDS ***
+Mmago24: folds 
+La Ghir: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+dikanmax: folds 
+badman112233: calls $0.50
+goldenpig666: folds 
+StudentRB: checks 
+*** FLOP *** [Kd 4c 3s]
+StudentRB: checks 
+badman112233: checks 
+*** TURN *** [Kd 4c 3s] [7d]
+StudentRB: bets $0.89
+badman112233: folds 
+Uncalled bet ($0.89) returned to StudentRB
+StudentRB collected $1.19 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Kd 4c 3s 7d]
+Seat 1: dikanmax folded before Flop (didn't bet)
+Seat 2: badman112233 (button) folded on the Turn
+Seat 3: goldenpig666 (small blind) folded before Flop
+Seat 4: StudentRB (big blind) collected ($1.19)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228684143614:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:43:00 ET
+Table 'Turais III' 9-max Seat #3 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 2: badman112233 ($17.39 in chips) 
+Seat 3: goldenpig666 ($54.17 in chips) 
+Seat 4: StudentRB ($67.45 in chips) 
+Seat 5: Pachebrash ($50 in chips) 
+Seat 6: Mmago24 ($68.51 in chips) 
+Seat 7: La Ghir ($55.50 in chips) 
+Seat 8: MarsMiland ($53.82 in chips) 
+Seat 9: RikaSunPay ($91.64 in chips) 
+StudentRB: posts small blind $0.25
+Pachebrash: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+La Ghir: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+dikanmax: folds 
+badman112233: folds 
+goldenpig666: raises $0.75 to $1.25
+StudentRB: folds 
+Pachebrash: folds 
+Uncalled bet ($0.75) returned to goldenpig666
+goldenpig666 collected $1.25 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: dikanmax folded before Flop (didn't bet)
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 (button) collected ($1.25)
+Seat 4: StudentRB (small blind) folded before Flop
+Seat 5: Pachebrash (big blind) folded before Flop
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228684157377:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:43:33 ET
+Table 'Turais III' 9-max Seat #4 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 2: badman112233 ($17.39 in chips) 
+Seat 3: goldenpig666 ($54.92 in chips) 
+Seat 4: StudentRB ($67.20 in chips) 
+Seat 5: Pachebrash ($50 in chips) 
+Seat 6: Mmago24 ($68.51 in chips) 
+Seat 7: La Ghir ($55.50 in chips) 
+Seat 8: MarsMiland ($53.82 in chips) 
+Seat 9: RikaSunPay ($91.64 in chips) 
+Pachebrash: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+La Ghir: folds 
+MarsMiland: raises $0.90 to $1.40
+RikaSunPay: folds 
+dikanmax: folds 
+La Ghir leaves the table
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Pachebrash: folds 
+Mmago24: folds 
+Uncalled bet ($0.90) returned to MarsMiland
+MarsMiland collected $1.25 from pot
+PleBeY95 joins the table at seat #7 
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: dikanmax folded before Flop (didn't bet)
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB (button) folded before Flop (didn't bet)
+Seat 5: Pachebrash (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) folded before Flop
+Seat 7: La Ghir folded before Flop (didn't bet)
+Seat 8: MarsMiland collected ($1.25)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228684168283:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:43:58 ET
+Table 'Turais III' 9-max Seat #5 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 2: badman112233 ($17.39 in chips) 
+Seat 3: goldenpig666 ($54.92 in chips) 
+Seat 4: StudentRB ($67.20 in chips) 
+Seat 5: Pachebrash ($50 in chips) 
+Seat 6: Mmago24 ($68.01 in chips) 
+Seat 8: MarsMiland ($54.57 in chips) 
+Seat 9: RikaSunPay ($91.64 in chips) 
+Mmago24: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+RikaSunPay: folds 
+dikanmax: folds 
+badman112233: raises $0.50 to $1
+goldenpig666: folds 
+StudentRB: folds 
+Pachebrash: folds 
+Mmago24: folds 
+MarsMiland: folds 
+Uncalled bet ($0.50) returned to badman112233
+badman112233 collected $1.25 from pot
+badman112233: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: dikanmax folded before Flop (didn't bet)
+Seat 2: badman112233 collected ($1.25)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Pachebrash (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 8: MarsMiland (big blind) folded before Flop
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228684175885:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:44:16 ET
+Table 'Turais III' 9-max Seat #6 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 2: badman112233 ($18.14 in chips) 
+Seat 3: goldenpig666 ($54.92 in chips) 
+Seat 4: StudentRB ($67.20 in chips) 
+Seat 5: Pachebrash ($50 in chips) 
+Seat 6: Mmago24 ($67.76 in chips) 
+Seat 8: MarsMiland ($54.07 in chips) 
+Seat 9: RikaSunPay ($91.64 in chips) 
+MarsMiland: posts small blind $0.25
+RikaSunPay: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: folds 
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Pachebrash: folds 
+Mmago24: raises $0.72 to $1.22
+MarsMiland: raises $4.78 to $6
+RikaSunPay: folds 
+Mmago24: folds 
+Uncalled bet ($4.78) returned to MarsMiland
+MarsMiland collected $2.94 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.94 | Rake $0 
+Seat 1: dikanmax folded before Flop (didn't bet)
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Pachebrash folded before Flop (didn't bet)
+Seat 6: Mmago24 (button) folded before Flop
+Seat 8: MarsMiland (small blind) collected ($2.94)
+Seat 9: RikaSunPay (big blind) folded before Flop
+
+
+
+PokerStars Hand #228684188492:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:44:46 ET
+Table 'Turais III' 9-max Seat #8 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 2: badman112233 ($18.14 in chips) 
+Seat 3: goldenpig666 ($54.92 in chips) 
+Seat 4: StudentRB ($67.20 in chips) 
+Seat 5: Pachebrash ($50 in chips) 
+Seat 6: Mmago24 ($66.54 in chips) 
+Seat 8: MarsMiland ($55.79 in chips) 
+Seat 9: RikaSunPay ($91.14 in chips) 
+RikaSunPay: posts small blind $0.25
+dikanmax: posts big blind $0.50
+PleBeY95: sits out 
+*** HOLE CARDS ***
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Pachebrash: folds 
+Mmago24: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+Uncalled bet ($0.25) returned to dikanmax
+dikanmax collected $0.50 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: dikanmax (big blind) collected ($0.50)
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Pachebrash folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 8: MarsMiland (button) folded before Flop (didn't bet)
+Seat 9: RikaSunPay (small blind) folded before Flop
+
+
+
+PokerStars Hand #228684198361:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:45:09 ET
+Table 'Turais III' 9-max Seat #9 is the button
+Seat 1: dikanmax ($50.25 in chips) 
+Seat 2: badman112233 ($18.14 in chips) 
+Seat 3: goldenpig666 ($54.92 in chips) 
+Seat 4: StudentRB ($67.20 in chips) 
+Seat 5: Pachebrash ($50 in chips) 
+Seat 6: Mmago24 ($66.54 in chips) 
+Seat 8: MarsMiland ($55.79 in chips) 
+Seat 9: RikaSunPay ($90.89 in chips) 
+dikanmax: posts small blind $0.25
+badman112233: posts big blind $0.50
+PleBeY95: sits out 
+*** HOLE CARDS ***
+goldenpig666: folds 
+StudentRB: folds 
+Pachebrash: folds 
+Mmago24: folds 
+MarsMiland: folds 
+RikaSunPay: raises $1.13 to $1.63
+dikanmax: folds 
+badman112233: folds 
+Uncalled bet ($1.13) returned to RikaSunPay
+RikaSunPay collected $1.25 from pot
+RikaSunPay: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: dikanmax (small blind) folded before Flop
+Seat 2: badman112233 (big blind) folded before Flop
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Pachebrash folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay (button) collected ($1.25)
+
+
+
+PokerStars Hand #228684208594:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:45:33 ET
+Table 'Turais III' 9-max Seat #1 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 2: badman112233 ($17.64 in chips) 
+Seat 3: goldenpig666 ($54.92 in chips) 
+Seat 4: StudentRB ($67.20 in chips) 
+Seat 5: Pachebrash ($50 in chips) 
+Seat 6: Mmago24 ($66.54 in chips) 
+Seat 8: MarsMiland ($55.79 in chips) 
+Seat 9: RikaSunPay ($91.64 in chips) 
+badman112233: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+PleBeY95: sits out 
+*** HOLE CARDS ***
+StudentRB: raises $0.75 to $1.25
+Pachebrash: folds 
+Mmago24: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+dikanmax: folds 
+badman112233: calls $1
+goldenpig666: folds 
+*** FLOP *** [Ad Qh Ts]
+badman112233: checks 
+StudentRB: bets $1.50
+badman112233: calls $1.50
+*** TURN *** [Ad Qh Ts] [2s]
+badman112233: checks 
+StudentRB: bets $4.28
+badman112233: calls $4.28
+*** RIVER *** [Ad Qh Ts 2s] [7h]
+badman112233: checks 
+StudentRB: bets $12
+badman112233: calls $10.61 and is all-in
+Uncalled bet ($1.39) returned to StudentRB
+*** SHOW DOWN ***
+StudentRB: shows [Ac Tc] (two pair, Aces and Tens)
+badman112233: shows [Ah Kh] (a pair of Aces)
+StudentRB collected $33.99 from pot
+*** SUMMARY ***
+Total pot $35.78 | Rake $1.79 
+Board [Ad Qh Ts 2s 7h]
+Seat 1: dikanmax (button) folded before Flop (didn't bet)
+Seat 2: badman112233 (small blind) showed [Ah Kh] and lost with a pair of Aces
+Seat 3: goldenpig666 (big blind) folded before Flop
+Seat 4: StudentRB showed [Ac Tc] and won ($33.99) with two pair, Aces and Tens
+Seat 5: Pachebrash folded before Flop (didn't bet)
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228684234513:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:46:35 ET
+Table 'Turais III' 9-max Seat #3 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 3: goldenpig666 ($54.42 in chips) 
+Seat 4: StudentRB ($83.55 in chips) 
+Seat 5: Pachebrash ($50 in chips) 
+Seat 6: Mmago24 ($66.54 in chips) 
+Seat 8: MarsMiland ($55.79 in chips) 
+Seat 9: RikaSunPay ($91.64 in chips) 
+StudentRB: posts small blind $0.25
+Pachebrash: posts big blind $0.50
+*** HOLE CARDS ***
+Mmago24: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+dikanmax: folds 
+goldenpig666: folds 
+PleBeY95 leaves the table
+badman112233 leaves the table
+StudentRB: raises $1 to $1.50
+Pachebrash: calls $1
+*** FLOP *** [8c Qh 5d]
+StudentRB: bets $1.88
+Pachebrash: folds 
+Uncalled bet ($1.88) returned to StudentRB
+StudentRB collected $2.85 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [8c Qh 5d]
+Seat 1: dikanmax folded before Flop (didn't bet)
+Seat 3: goldenpig666 (button) folded before Flop (didn't bet)
+Seat 4: StudentRB (small blind) collected ($2.85)
+Seat 5: Pachebrash (big blind) folded on the Flop
+Seat 6: Mmago24 folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228684250693:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:47:14 ET
+Table 'Turais III' 9-max Seat #4 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 3: goldenpig666 ($54.42 in chips) 
+Seat 4: StudentRB ($84.90 in chips) 
+Seat 5: Pachebrash ($50 in chips) 
+Seat 6: Mmago24 ($66.54 in chips) 
+Seat 8: MarsMiland ($55.79 in chips) 
+Seat 9: RikaSunPay ($91.64 in chips) 
+Pachebrash: posts small blind $0.25
+Mmago24: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: raises $0.80 to $1.30
+RikaSunPay: folds 
+dikanmax: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Pachebrash: folds 
+Mmago24: folds 
+Uncalled bet ($0.80) returned to MarsMiland
+MarsMiland collected $1.25 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: dikanmax folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB (button) folded before Flop (didn't bet)
+Seat 5: Pachebrash (small blind) folded before Flop
+Seat 6: Mmago24 (big blind) folded before Flop
+Seat 8: MarsMiland collected ($1.25)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228684254996:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:47:24 ET
+Table 'Turais III' 9-max Seat #5 is the button
+Seat 1: dikanmax ($50 in chips) 
+Seat 3: goldenpig666 ($54.42 in chips) 
+Seat 4: StudentRB ($84.90 in chips) 
+Seat 5: Pachebrash ($50 in chips) 
+Seat 6: Mmago24 ($66.04 in chips) 
+Seat 9: RikaSunPay ($91.64 in chips) 
+Mmago24: posts small blind $0.25
+MarsMiland: is sitting out 
+RikaSunPay: posts big blind $0.50
+*** HOLE CARDS ***
+dikanmax: raises $1 to $1.50
+goldenpig666: folds 
+StudentRB: folds 
+MarsMiland leaves the table
+Pachebrash: folds 
+Mmago24: folds 
+RikaSunPay: folds 
+Uncalled bet ($1) returned to dikanmax
+dikanmax collected $1.25 from pot
+dikanmax: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: dikanmax collected ($1.25)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Pachebrash (button) folded before Flop (didn't bet)
+Seat 6: Mmago24 (small blind) folded before Flop
+Seat 9: RikaSunPay (big blind) folded before Flop
+
+
+
+PokerStars Hand #228684258454:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:47:33 ET
+Table 'Turais III' 9-max Seat #6 is the button
+Seat 4: StudentRB ($84.90 in chips) 
+Seat 5: Pachebrash ($50 in chips) 
+Seat 6: Mmago24 ($65.79 in chips) 
+Seat 9: RikaSunPay ($91.14 in chips) 
+RikaSunPay: posts small blind $0.25
+dikanmax: is sitting out 
+goldenpig666: is sitting out 
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+Pachebrash: folds 
+Mmago24: folds 
+dikanmax leaves the table
+goldenpig666 leaves the table
+RikaSunPay: folds 
+Uncalled bet ($0.25) returned to StudentRB
+StudentRB collected $0.50 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 4: StudentRB (big blind) collected ($0.50)
+Seat 5: Pachebrash folded before Flop (didn't bet)
+Seat 6: Mmago24 (button) folded before Flop (didn't bet)
+Seat 9: RikaSunPay (small blind) folded before Flop
+
+
+
+PokerStars Hand #228684261971:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:47:41 ET
+Table 'Turais III' 9-max Seat #4 is the button
+Seat 4: StudentRB ($85.15 in chips) 
+Seat 9: RikaSunPay ($90.89 in chips) 
+StudentRB: posts small blind $0.25
+Pachebrash: is sitting out 
+Mmago24: is sitting out 
+RikaSunPay: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: folds 
+Uncalled bet ($0.25) returned to RikaSunPay
+RikaSunPay collected $0.50 from pot
+RikaSunPay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 4: StudentRB (button) (small blind) folded before Flop
+Seat 9: RikaSunPay (big blind) collected ($0.50)
+
+
+
+PokerStars Hand #228684263417:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:47:44 ET
+Table 'Turais III' 9-max Seat #9 is the button
+Seat 4: StudentRB ($84.90 in chips) 
+Seat 9: RikaSunPay ($91.14 in chips) 
+RikaSunPay: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+RikaSunPay: folds 
+Uncalled bet ($0.25) returned to StudentRB
+StudentRB collected $0.50 from pot
+StudentRB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 4: StudentRB (big blind) collected ($0.50)
+Seat 9: RikaSunPay (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683143790:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:03:16 ET
+Table 'Turais III' 9-max Seat #3 is the button
+Seat 2: badman112233 ($25.28 in chips) 
+Seat 3: goldenpig666 ($50 in chips) 
+Seat 4: StudentRB ($50 in chips) 
+Seat 5: Maks Bavenko ($50 in chips) 
+StudentRB: posts small blind $0.25
+Maks Bavenko: posts big blind $0.50
+*** HOLE CARDS ***
+badman112233: folds 
+goldenpig666: raises $0.75 to $1.25
+StudentRB: folds 
+Maks Bavenko: calls $0.75
+*** FLOP *** [Kh 8h 2c]
+Maks Bavenko: checks 
+Dragonclawss leaves the table
+goldenpig666: bets $0.75
+Maks Bavenko: calls $0.75
+*** TURN *** [Kh 8h 2c] [Ts]
+tonynoh joins the table at seat #1 
+Maks Bavenko: checks 
+Xamil666 joins the table at seat #6 
+goldenpig666: checks 
+*** RIVER *** [Kh 8h 2c Ts] [Kc]
+Maks Bavenko: bets $2.67
+goldenpig666: calls $2.67
+*** SHOW DOWN ***
+Maks Bavenko: shows [3s Ks] (three of a kind, Kings)
+goldenpig666: mucks hand 
+Maks Bavenko collected $9.11 from pot
+*** SUMMARY ***
+Total pot $9.59 | Rake $0.48 
+Board [Kh 8h 2c Ts Kc]
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 (button) mucked
+Seat 4: StudentRB (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) showed [3s Ks] and won ($9.11) with three of a kind, Kings
+
+
+
+PokerStars Hand #228683164009:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:04:06 ET
+Table 'Turais III' 9-max Seat #4 is the button
+Seat 1: tonynoh ($21.50 in chips) 
+Seat 2: badman112233 ($25.28 in chips) 
+Seat 3: goldenpig666 ($50 in chips) 
+Seat 4: StudentRB ($50 in chips) 
+Seat 5: Maks Bavenko ($54.44 in chips) 
+Seat 6: Xamil666 ($50 in chips) 
+Maks Bavenko: posts small blind $0.25
+Xamil666: posts big blind $0.50
+tonynoh: posts big blind $0.50
+*** HOLE CARDS ***
+RikaSunPay joins the table at seat #9 
+tonynoh: checks 
+badman112233: folds 
+CocoAlexMix joins the table at seat #7 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: raises $2 to $2.50
+tonynoh: folds 
+Uncalled bet ($2) returned to Xamil666
+MarsMiland joins the table at seat #8 
+Xamil666 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: tonynoh folded before Flop (didn't bet)
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB (button) folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: Xamil666 (big blind) collected ($1.25)
+
+
+
+PokerStars Hand #228683172265:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:04:26 ET
+Table 'Turais III' 9-max Seat #5 is the button
+Seat 1: tonynoh ($21 in chips) 
+Seat 2: badman112233 ($25.28 in chips) 
+Seat 3: goldenpig666 ($50 in chips) 
+Seat 4: StudentRB ($50 in chips) 
+Seat 5: Maks Bavenko ($54.19 in chips) 
+Seat 6: Xamil666 ($50.75 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Xamil666: posts small blind $0.25
+CocoAlexMix: posts big blind $0.50
+MarsMiland: sits out 
+RikaSunPay: sits out 
+*** HOLE CARDS ***
+tonynoh: folds 
+badman112233: calls $0.50
+goldenpig666: raises $1.50 to $2
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: folds 
+badman112233: calls $1.50
+*** FLOP *** [Qh 8d 2d]
+badman112233: checks 
+goldenpig666: bets $2.50
+badman112233: folds 
+Uncalled bet ($2.50) returned to goldenpig666
+goldenpig666 collected $4.45 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.30 
+Board [Qh 8d 2d]
+Seat 1: tonynoh folded before Flop (didn't bet)
+Seat 2: badman112233 folded on the Flop
+Seat 3: goldenpig666 collected ($4.45)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: Xamil666 (small blind) folded before Flop
+Seat 7: CocoAlexMix (big blind) folded before Flop
+
+
+
+PokerStars Hand #228683187557:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:05:04 ET
+Table 'Turais III' 9-max Seat #6 is the button
+Seat 1: tonynoh ($21 in chips) 
+Seat 2: badman112233 ($23.28 in chips) 
+Seat 3: goldenpig666 ($52.45 in chips) 
+Seat 4: StudentRB ($50 in chips) 
+Seat 5: Maks Bavenko ($54.19 in chips) 
+Seat 6: Xamil666 ($50.50 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+CocoAlexMix: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+RikaSunPay: sits out 
+*** HOLE CARDS ***
+tonynoh: calls $0.50
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: raises $2 to $2.50
+MarsMiland: folds 
+tonynoh: calls $2
+*** FLOP *** [7c 5h 3h]
+CocoAlexMix: checks 
+tonynoh: checks 
+*** TURN *** [7c 5h 3h] [9h]
+CocoAlexMix: checks 
+tonynoh: checks 
+*** RIVER *** [7c 5h 3h 9h] [8h]
+CocoAlexMix: checks 
+tonynoh: checks 
+*** SHOW DOWN ***
+CocoAlexMix: shows [Kc Ad] (high card Ace)
+tonynoh: shows [5s Jh] (a flush, Jack high)
+tonynoh collected $5.22 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [7c 5h 3h 9h 8h]
+Seat 1: tonynoh showed [5s Jh] and won ($5.22) with a flush, Jack high
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 (button) folded before Flop (didn't bet)
+Seat 7: CocoAlexMix (small blind) showed [Kc Ad] and lost with high card Ace
+Seat 8: MarsMiland (big blind) folded before Flop
+
+
+
+PokerStars Hand #228683218029:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:06:20 ET
+Table 'Turais III' 9-max Seat #7 is the button
+Seat 1: tonynoh ($23.72 in chips) 
+Seat 2: badman112233 ($23.28 in chips) 
+Seat 3: goldenpig666 ($52.45 in chips) 
+Seat 4: StudentRB ($50 in chips) 
+Seat 5: Maks Bavenko ($54.19 in chips) 
+Seat 6: Xamil666 ($50.50 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($50 in chips) 
+MarsMiland: posts small blind $0.25
+RikaSunPay: posts big blind $0.50
+*** HOLE CARDS ***
+tonynoh: calls $0.50
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: raises $1.50 to $2
+MarsMiland: folds 
+RikaSunPay: raises $5.50 to $7.50
+tonynoh: folds 
+CocoAlexMix: folds 
+Uncalled bet ($5.50) returned to RikaSunPay
+RikaSunPay collected $4.75 from pot
+RikaSunPay: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0 
+Seat 1: tonynoh folded before Flop
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix (button) folded before Flop
+Seat 8: MarsMiland (small blind) folded before Flop
+Seat 9: RikaSunPay (big blind) collected ($4.75)
+
+
+
+PokerStars Hand #228683234929:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:06:53 ET
+Table 'Turais III' 9-max Seat #8 is the button
+Seat 1: tonynoh ($23.22 in chips) 
+Seat 2: badman112233 ($23.28 in chips) 
+Seat 3: goldenpig666 ($52.45 in chips) 
+Seat 4: StudentRB ($50 in chips) 
+Seat 5: Maks Bavenko ($54.19 in chips) 
+Seat 6: Xamil666 ($50.50 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 8: MarsMiland ($50 in chips) 
+Seat 9: RikaSunPay ($52.75 in chips) 
+RikaSunPay: posts small blind $0.25
+tonynoh: posts big blind $0.50
+*** HOLE CARDS ***
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: folds 
+MarsMiland: raises $0.60 to $1.10
+RikaSunPay: folds 
+tonynoh: folds 
+Uncalled bet ($0.60) returned to MarsMiland
+MarsMiland collected $1.25 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: tonynoh (big blind) folded before Flop
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 8: MarsMiland (button) collected ($1.25)
+Seat 9: RikaSunPay (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683241804:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:07:10 ET
+Table 'Turais III' 9-max Seat #9 is the button
+Seat 1: tonynoh ($22.72 in chips) 
+Seat 2: badman112233 ($23.28 in chips) 
+Seat 3: goldenpig666 ($52.45 in chips) 
+Seat 4: StudentRB ($50 in chips) 
+Seat 5: Maks Bavenko ($54.19 in chips) 
+Seat 6: Xamil666 ($50.50 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 8: MarsMiland ($50.75 in chips) 
+Seat 9: RikaSunPay ($52.50 in chips) 
+tonynoh: posts small blind $0.25
+badman112233: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: folds 
+MarsMiland: folds 
+RikaSunPay: raises $1.13 to $1.63
+tonynoh: folds 
+badman112233: calls $1.13
+*** FLOP *** [2h Kd 7c]
+badman112233: checks 
+RikaSunPay: bets $1.10
+badman112233: folds 
+Uncalled bet ($1.10) returned to RikaSunPay
+RikaSunPay collected $3.33 from pot
+RikaSunPay: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.51 | Rake $0.18 
+Board [2h Kd 7c]
+Seat 1: tonynoh (small blind) folded before Flop
+Seat 2: badman112233 (big blind) folded on the Flop
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay (button) collected ($3.33)
+
+
+
+PokerStars Hand #228683266908:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:08:12 ET
+Table 'Turais III' 9-max Seat #1 is the button
+Seat 1: tonynoh ($22.47 in chips) 
+Seat 2: badman112233 ($21.65 in chips) 
+Seat 3: goldenpig666 ($52.45 in chips) 
+Seat 4: StudentRB ($50 in chips) 
+Seat 5: Maks Bavenko ($54.19 in chips) 
+Seat 6: Xamil666 ($50.50 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 8: MarsMiland ($50.75 in chips) 
+Seat 9: RikaSunPay ($54.20 in chips) 
+badman112233: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: folds 
+Maks Bavenko: raises $0.75 to $1.25
+Xamil666: folds 
+CocoAlexMix: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+tonynoh: calls $1.25
+badman112233: calls $1
+goldenpig666: folds 
+*** FLOP *** [4c Qs Ks]
+badman112233: checks 
+Maks Bavenko: checks 
+tonynoh: checks 
+*** TURN *** [4c Qs Ks] [4h]
+badman112233: bets $1
+Maks Bavenko: calls $1
+tonynoh: calls $1
+*** RIVER *** [4c Qs Ks 4h] [Kd]
+badman112233: checks 
+Maks Bavenko: checks 
+tonynoh: checks 
+*** SHOW DOWN ***
+badman112233: shows [Js Ad] (two pair, Kings and Fours)
+Maks Bavenko: shows [7d 7c] (two pair, Kings and Sevens)
+tonynoh: shows [Qc Jh] (two pair, Kings and Queens)
+tonynoh collected $6.89 from pot
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.36 
+Board [4c Qs Ks 4h Kd]
+Seat 1: tonynoh (button) showed [Qc Jh] and won ($6.89) with two pair, Kings and Queens
+Seat 2: badman112233 (small blind) showed [Js Ad] and lost with two pair, Kings and Fours
+Seat 3: goldenpig666 (big blind) folded before Flop
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko showed [7d 7c] and lost with two pair, Kings and Sevens
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683294048:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:09:20 ET
+Table 'Turais III' 9-max Seat #2 is the button
+Seat 1: tonynoh ($27.11 in chips) 
+Seat 2: badman112233 ($19.40 in chips) 
+Seat 3: goldenpig666 ($51.95 in chips) 
+Seat 4: StudentRB ($50 in chips) 
+Seat 5: Maks Bavenko ($51.94 in chips) 
+Seat 6: Xamil666 ($50.50 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 8: MarsMiland ($50.75 in chips) 
+Seat 9: RikaSunPay ($54.20 in chips) 
+goldenpig666: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: raises $1 to $1.50
+MarsMiland: folds 
+RikaSunPay: folds 
+tonynoh: folds 
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: calls $1
+*** FLOP *** [Th Kh 7c]
+StudentRB: checks 
+CocoAlexMix: bets $2.06
+StudentRB: folds 
+Uncalled bet ($2.06) returned to CocoAlexMix
+CocoAlexMix collected $3.09 from pot
+CocoAlexMix: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.16 
+Board [Th Kh 7c]
+Seat 1: tonynoh folded before Flop (didn't bet)
+Seat 2: badman112233 (button) folded before Flop (didn't bet)
+Seat 3: goldenpig666 (small blind) folded before Flop
+Seat 4: StudentRB (big blind) folded on the Flop
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix collected ($3.09)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683312529:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:09:55 ET
+Table 'Turais III' 9-max Seat #3 is the button
+Seat 1: tonynoh ($27.11 in chips) 
+Seat 2: badman112233 ($19.40 in chips) 
+Seat 3: goldenpig666 ($51.70 in chips) 
+Seat 4: StudentRB ($50 in chips) 
+Seat 5: Maks Bavenko ($51.94 in chips) 
+Seat 6: Xamil666 ($50.50 in chips) 
+Seat 7: CocoAlexMix ($51.59 in chips) 
+Seat 8: MarsMiland ($50.75 in chips) 
+Seat 9: RikaSunPay ($54.20 in chips) 
+StudentRB: posts small blind $0.25
+Maks Bavenko: posts big blind $0.50
+*** HOLE CARDS ***
+Xamil666: folds 
+CocoAlexMix: folds 
+MarsMiland: folds 
+RikaSunPay: folds 
+tonynoh: calls $0.50
+badman112233: folds 
+goldenpig666: raises $1.50 to $2
+StudentRB: folds 
+Maks Bavenko: folds 
+tonynoh: calls $1.50
+*** FLOP *** [2s Jh 3h]
+tonynoh: checks 
+goldenpig666: bets $3.16
+tonynoh: folds 
+Uncalled bet ($3.16) returned to goldenpig666
+goldenpig666 collected $4.45 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.75 | Rake $0.30 
+Board [2s Jh 3h]
+Seat 1: tonynoh folded on the Flop
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 (button) collected ($4.45)
+Seat 4: StudentRB (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683329522:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:10:37 ET
+Table 'Turais III' 9-max Seat #4 is the button
+Seat 1: tonynoh ($25.11 in chips) 
+Seat 2: badman112233 ($19.40 in chips) 
+Seat 3: goldenpig666 ($54.15 in chips) 
+Seat 4: StudentRB ($50 in chips) 
+Seat 5: Maks Bavenko ($51.44 in chips) 
+Seat 6: Xamil666 ($50.50 in chips) 
+Seat 7: CocoAlexMix ($51.59 in chips) 
+Seat 8: MarsMiland ($50.75 in chips) 
+Seat 9: RikaSunPay ($54.20 in chips) 
+Maks Bavenko: posts small blind $0.25
+Xamil666: posts big blind $0.50
+*** HOLE CARDS ***
+CocoAlexMix: folds 
+MarsMiland: folds 
+RikaSunPay: raises $1.13 to $1.63
+tonynoh: calls $1.63
+badman112233: calls $1.63
+goldenpig666: folds 
+StudentRB: raises $5.87 to $7.50
+Maks Bavenko: folds 
+Xamil666: folds 
+RikaSunPay: folds 
+tonynoh: raises $17.61 to $25.11 and is all-in
+badman112233: folds 
+StudentRB: calls $17.61
+*** FLOP *** [9h 4s 6c]
+*** TURN *** [9h 4s 6c] [5s]
+*** RIVER *** [9h 4s 6c 5s] [Kh]
+*** SHOW DOWN ***
+tonynoh: shows [As Js] (high card Ace)
+StudentRB: shows [Ks Qh] (a pair of Kings)
+StudentRB collected $52.23 from pot
+*** SUMMARY ***
+Total pot $54.23 | Rake $2 
+Board [9h 4s 6c 5s Kh]
+Seat 1: tonynoh showed [As Js] and lost with high card Ace
+Seat 2: badman112233 folded before Flop
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB (button) showed [Ks Qh] and won ($52.23) with a pair of Kings
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: Xamil666 (big blind) folded before Flop
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 8: MarsMiland folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop
+
+
+
+PokerStars Hand #228683365592:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:12:07 ET
+Table 'Turais III' 9-max Seat #5 is the button
+Seat 2: badman112233 ($17.77 in chips) 
+Seat 3: goldenpig666 ($54.15 in chips) 
+Seat 4: StudentRB ($77.12 in chips) 
+Seat 5: Maks Bavenko ($51.19 in chips) 
+Seat 6: Xamil666 ($50 in chips) 
+Seat 7: CocoAlexMix ($51.59 in chips) 
+Seat 8: MarsMiland ($50.75 in chips) 
+Seat 9: RikaSunPay ($52.57 in chips) 
+Xamil666: posts small blind $0.25
+CocoAlexMix: posts big blind $0.50
+*** HOLE CARDS ***
+tonynoh is disconnected 
+MarsMiland: raises $0.90 to $1.40
+RikaSunPay: folds 
+badman112233: calls $1.40
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: folds 
+*** FLOP *** [9d 4d 2d]
+MarsMiland: bets $1.68
+badman112233: calls $1.68
+*** TURN *** [9d 4d 2d] [7d]
+MarsMiland: checks 
+badman112233: bets $2
+MarsMiland: folds 
+Uncalled bet ($2) returned to badman112233
+badman112233 collected $6.56 from pot
+badman112233: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.91 | Rake $0.35 
+Board [9d 4d 2d 7d]
+Seat 2: badman112233 collected ($6.56)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: Xamil666 (small blind) folded before Flop
+Seat 7: CocoAlexMix (big blind) folded before Flop
+Seat 8: MarsMiland folded on the Turn
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683388377:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:13:04 ET
+Table 'Turais III' 9-max Seat #6 is the button
+Seat 2: badman112233 ($21.25 in chips) 
+Seat 3: goldenpig666 ($54.15 in chips) 
+Seat 4: StudentRB ($77.12 in chips) 
+Seat 5: Maks Bavenko ($51.19 in chips) 
+Seat 6: Xamil666 ($50 in chips) 
+Seat 7: CocoAlexMix ($51.09 in chips) 
+Seat 9: RikaSunPay ($52.57 in chips) 
+CocoAlexMix: posts small blind $0.25
+RikaSunPay: posts big blind $0.50
+*** HOLE CARDS ***
+badman112233: calls $0.50
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: folds 
+RikaSunPay: checks 
+*** FLOP *** [Td Qh Jc]
+RikaSunPay: checks 
+badman112233: checks 
+*** TURN *** [Td Qh Jc] [3s]
+RikaSunPay: checks 
+badman112233: bets $1.50
+RikaSunPay: folds 
+Uncalled bet ($1.50) returned to badman112233
+badman112233 collected $1.19 from pot
+badman112233: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Td Qh Jc 3s]
+Seat 2: badman112233 collected ($1.19)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 (button) folded before Flop (didn't bet)
+Seat 7: CocoAlexMix (small blind) folded before Flop
+Seat 9: RikaSunPay (big blind) folded on the Turn
+
+
+
+PokerStars Hand #228683409644:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:13:58 ET
+Table 'Turais III' 9-max Seat #7 is the button
+Seat 2: badman112233 ($21.94 in chips) 
+Seat 3: goldenpig666 ($54.15 in chips) 
+Seat 4: StudentRB ($77.12 in chips) 
+Seat 5: Maks Bavenko ($51.19 in chips) 
+Seat 6: Xamil666 ($50 in chips) 
+Seat 7: CocoAlexMix ($50.84 in chips) 
+Seat 9: RikaSunPay ($52.07 in chips) 
+RikaSunPay: posts small blind $0.25
+badman112233: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: raises $0.75 to $1.25
+RikaSunPay: folds 
+badman112233: calls $0.75
+*** FLOP *** [9h 3c 4c]
+badman112233: checks 
+CocoAlexMix: bets $1.25
+badman112233: folds 
+Uncalled bet ($1.25) returned to CocoAlexMix
+CocoAlexMix collected $2.61 from pot
+CocoAlexMix: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.75 | Rake $0.14 
+Board [9h 3c 4c]
+Seat 2: badman112233 (big blind) folded on the Flop
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix (button) collected ($2.61)
+Seat 9: RikaSunPay (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683430042:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:14:49 ET
+Table 'Turais III' 9-max Seat #9 is the button
+Seat 2: badman112233 ($20.69 in chips) 
+Seat 3: goldenpig666 ($54.15 in chips) 
+Seat 4: StudentRB ($77.12 in chips) 
+Seat 5: Maks Bavenko ($51.19 in chips) 
+Seat 6: Xamil666 ($50 in chips) 
+Seat 7: CocoAlexMix ($52.20 in chips) 
+Seat 9: RikaSunPay ($51.82 in chips) 
+badman112233: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: folds 
+RikaSunPay: raises $1.13 to $1.63
+badman112233: calls $1.38
+goldenpig666: folds 
+*** FLOP *** [5c 2h Qs]
+badman112233: checks 
+RikaSunPay: bets $1.18
+badman112233: folds 
+Uncalled bet ($1.18) returned to RikaSunPay
+RikaSunPay collected $3.57 from pot
+RikaSunPay: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.76 | Rake $0.19 
+Board [5c 2h Qs]
+Seat 2: badman112233 (small blind) folded on the Flop
+Seat 3: goldenpig666 (big blind) folded before Flop
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 9: RikaSunPay (button) collected ($3.57)
+
+
+
+PokerStars Hand #228683456544:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:15:53 ET
+Table 'Turais III' 9-max Seat #2 is the button
+Seat 2: badman112233 ($19.06 in chips) 
+Seat 3: goldenpig666 ($53.65 in chips) 
+Seat 4: StudentRB ($77.12 in chips) 
+Seat 5: Maks Bavenko ($51.19 in chips) 
+Seat 6: Xamil666 ($50 in chips) 
+Seat 7: CocoAlexMix ($52.20 in chips) 
+Seat 9: RikaSunPay ($53.76 in chips) 
+goldenpig666: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: folds 
+RikaSunPay: folds 
+badman112233: raises $1 to $1.50
+goldenpig666: folds 
+StudentRB: folds 
+Uncalled bet ($1) returned to badman112233
+badman112233 collected $1.25 from pot
+badman112233: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: badman112233 (button) collected ($1.25)
+Seat 3: goldenpig666 (small blind) folded before Flop
+Seat 4: StudentRB (big blind) folded before Flop
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683462667:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:16:08 ET
+Table 'Turais III' 9-max Seat #3 is the button
+Seat 2: badman112233 ($19.81 in chips) 
+Seat 3: goldenpig666 ($53.40 in chips) 
+Seat 4: StudentRB ($76.62 in chips) 
+Seat 5: Maks Bavenko ($51.19 in chips) 
+Seat 6: Xamil666 ($50 in chips) 
+Seat 7: CocoAlexMix ($52.20 in chips) 
+Seat 9: RikaSunPay ($53.76 in chips) 
+StudentRB: posts small blind $0.25
+Maks Bavenko: posts big blind $0.50
+*** HOLE CARDS ***
+Xamil666: folds 
+CocoAlexMix: folds 
+RikaSunPay: raises $1.13 to $1.63
+badman112233: calls $1.63
+goldenpig666: folds 
+StudentRB: raises $4.87 to $6.50
+Maks Bavenko: folds 
+RikaSunPay: raises $7.25 to $13.75
+badman112233: folds 
+StudentRB: folds 
+Uncalled bet ($7.25) returned to RikaSunPay
+RikaSunPay collected $15.13 from pot
+RikaSunPay: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.13 | Rake $0 
+Seat 2: badman112233 folded before Flop
+Seat 3: goldenpig666 (button) folded before Flop (didn't bet)
+Seat 4: StudentRB (small blind) folded before Flop
+Seat 5: Maks Bavenko (big blind) folded before Flop
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 9: RikaSunPay collected ($15.13)
+
+
+
+PokerStars Hand #228683487986:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:17:10 ET
+Table 'Turais III' 9-max Seat #4 is the button
+Seat 2: badman112233 ($18.18 in chips) 
+Seat 3: goldenpig666 ($53.40 in chips) 
+Seat 4: StudentRB ($70.12 in chips) 
+Seat 5: Maks Bavenko ($50.69 in chips) 
+Seat 6: Xamil666 ($50 in chips) 
+Seat 7: CocoAlexMix ($52.20 in chips) 
+Seat 9: RikaSunPay ($62.39 in chips) 
+Maks Bavenko: posts small blind $0.25
+Xamil666: posts big blind $0.50
+*** HOLE CARDS ***
+CocoAlexMix: raises $1 to $1.50
+RikaSunPay: folds 
+badman112233 has timed out
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: folds 
+Uncalled bet ($1) returned to CocoAlexMix
+CocoAlexMix collected $1.25 from pot
+CocoAlexMix: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB (button) folded before Flop (didn't bet)
+Seat 5: Maks Bavenko (small blind) folded before Flop
+Seat 6: Xamil666 (big blind) folded before Flop
+Seat 7: CocoAlexMix collected ($1.25)
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683499453:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:17:38 ET
+Table 'Turais III' 9-max Seat #5 is the button
+Seat 2: badman112233 ($18.18 in chips) 
+Seat 3: goldenpig666 ($53.40 in chips) 
+Seat 4: StudentRB ($70.12 in chips) 
+Seat 5: Maks Bavenko ($50.44 in chips) 
+Seat 6: Xamil666 ($50 in chips) 
+Seat 7: CocoAlexMix ($52.95 in chips) 
+Seat 9: RikaSunPay ($62.39 in chips) 
+Xamil666: posts small blind $0.25
+CocoAlexMix: posts big blind $0.50
+*** HOLE CARDS ***
+RikaSunPay: folds 
+badman112233 has timed out
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: raises $0.75 to $1.25
+Maks Bavenko: folds 
+Xamil666: raises $4.25 to $5.50
+CocoAlexMix: folds 
+StudentRB: folds 
+Uncalled bet ($4.25) returned to Xamil666
+Xamil666 collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop
+Seat 5: Maks Bavenko (button) folded before Flop (didn't bet)
+Seat 6: Xamil666 (small blind) collected ($3)
+Seat 7: CocoAlexMix (big blind) folded before Flop
+Seat 9: RikaSunPay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683510491:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:18:05 ET
+Table 'Turais III' 9-max Seat #6 is the button
+Seat 2: badman112233 ($18.18 in chips) 
+Seat 3: goldenpig666 ($53.40 in chips) 
+Seat 4: StudentRB ($68.87 in chips) 
+Seat 5: Maks Bavenko ($50.44 in chips) 
+Seat 6: Xamil666 ($51.75 in chips) 
+Seat 7: CocoAlexMix ($52.45 in chips) 
+Seat 9: RikaSunPay ($62.39 in chips) 
+CocoAlexMix: posts small blind $0.25
+RikaSunPay: posts big blind $0.50
+*** HOLE CARDS ***
+badman112233 has timed out
+badman112233: folds 
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: raises $0.75 to $1.25
+CocoAlexMix: folds 
+RikaSunPay: folds 
+Uncalled bet ($0.75) returned to Xamil666
+Xamil666 collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: badman112233 folded before Flop (didn't bet)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 (button) collected ($1.25)
+Seat 7: CocoAlexMix (small blind) folded before Flop
+Seat 9: RikaSunPay (big blind) folded before Flop
+
+
+
+PokerStars Hand #228683521296:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:18:32 ET
+Table 'Turais III' 9-max Seat #7 is the button
+Seat 2: badman112233 ($18.18 in chips) 
+Seat 3: goldenpig666 ($53.40 in chips) 
+Seat 4: StudentRB ($68.87 in chips) 
+Seat 5: Maks Bavenko ($50.44 in chips) 
+Seat 6: Xamil666 ($52.50 in chips) 
+Seat 7: CocoAlexMix ($52.20 in chips) 
+Seat 9: RikaSunPay ($61.89 in chips) 
+RikaSunPay: posts small blind $0.25
+badman112233: posts big blind $0.50
+*** HOLE CARDS ***
+goldenpig666: folds 
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: folds 
+RikaSunPay: folds 
+Uncalled bet ($0.25) returned to badman112233
+badman112233 collected $0.50 from pot
+badman112233: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: badman112233 (big blind) collected ($0.50)
+Seat 3: goldenpig666 folded before Flop (didn't bet)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix (button) folded before Flop (didn't bet)
+Seat 9: RikaSunPay (small blind) folded before Flop
+
+
+
+PokerStars Hand #228683527210:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:18:46 ET
+Table 'Turais III' 9-max Seat #9 is the button
+Seat 2: badman112233 ($18.43 in chips) 
+Seat 3: goldenpig666 ($53.40 in chips) 
+Seat 4: StudentRB ($68.87 in chips) 
+Seat 5: Maks Bavenko ($50.44 in chips) 
+Seat 6: Xamil666 ($52.50 in chips) 
+Seat 7: CocoAlexMix ($52.20 in chips) 
+Seat 9: RikaSunPay ($61.64 in chips) 
+badman112233: posts small blind $0.25
+goldenpig666: posts big blind $0.50
+*** HOLE CARDS ***
+StudentRB: folds 
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: raises $0.75 to $1.25
+RikaSunPay: folds 
+badman112233: folds 
+goldenpig666: calls $0.75
+*** FLOP *** [4h 8s 5d]
+goldenpig666: checks 
+CocoAlexMix: checks 
+*** TURN *** [4h 8s 5d] [3s]
+goldenpig666: bets $1.50
+CocoAlexMix: calls $1.50
+*** RIVER *** [4h 8s 5d 3s] [Ac]
+goldenpig666: bets $4
+CocoAlexMix: folds 
+Uncalled bet ($4) returned to goldenpig666
+goldenpig666 collected $5.39 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.75 | Rake $0.36 
+Board [4h 8s 5d 3s Ac]
+Seat 2: badman112233 (small blind) folded before Flop
+Seat 3: goldenpig666 (big blind) collected ($5.39)
+Seat 4: StudentRB folded before Flop (didn't bet)
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix folded on the River
+Seat 9: RikaSunPay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228683565721:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 13:20:22 ET
+Table 'Turais III' 9-max Seat #2 is the button
+Seat 2: badman112233 ($18.18 in chips) 
+Seat 3: goldenpig666 ($56.04 in chips) 
+Seat 4: StudentRB ($68.87 in chips) 
+Seat 5: Maks Bavenko ($50.44 in chips) 
+Seat 6: Xamil666 ($52.50 in chips) 
+Seat 7: CocoAlexMix ($50 in chips) 
+Seat 9: RikaSunPay ($61.64 in chips) 
+goldenpig666: posts small blind $0.25
+StudentRB: posts big blind $0.50
+*** HOLE CARDS ***
+Maks Bavenko: folds 
+Xamil666: folds 
+CocoAlexMix: folds 
+RikaSunPay: raises $1.13 to $1.63
+badman112233: folds 
+goldenpig666: raises $3.87 to $5.50
+StudentRB: folds 
+RikaSunPay: folds 
+Uncalled bet ($3.87) returned to goldenpig666
+goldenpig666 collected $3.76 from pot
+goldenpig666: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.76 | Rake $0 
+Seat 2: badman112233 (button) folded before Flop (didn't bet)
+Seat 3: goldenpig666 (small blind) collected ($3.76)
+Seat 4: StudentRB (big blind) folded before Flop
+Seat 5: Maks Bavenko folded before Flop (didn't bet)
+Seat 6: Xamil666 folded before Flop (didn't bet)
+Seat 7: CocoAlexMix folded before Flop (didn't bet)
+Seat 9: RikaSunPay folded before Flop
+
+
+

@@ -1,0 +1,4194 @@
+﻿PokerStars Zoom Hand #195041303941:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:47:12 UTC [2018/12/29 11:47:12 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: pnuska ($12.01 in chips) 
+Seat 2: kivvin ($2.26 in chips) 
+Seat 3: SantiagoWeight ($5 in chips) 
+Seat 4: HarryGamer12 ($17.93 in chips) 
+Seat 5: vananej ($7.37 in chips) 
+Seat 6: SirKrocodile ($6.28 in chips) 
+kivvin: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Kh 6s]
+HarryGamer12: folds 
+vananej: folds 
+SirKrocodile: folds 
+pnuska: folds 
+kivvin: folds 
+Uncalled bet ($0.03) returned to SantiagoWeight
+SantiagoWeight collected $0.04 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: pnuska (button) folded before Flop (didn't bet)
+Seat 2: kivvin (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) collected ($0.04)
+Seat 4: HarryGamer12 folded before Flop (didn't bet)
+Seat 5: vananej folded before Flop (didn't bet)
+Seat 6: SirKrocodile folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041311463:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:47:23 UTC [2018/12/29 11:47:23 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: kelvin.rocha ($9.09 in chips) 
+Seat 2: SantiagoWeight ($5.02 in chips) 
+Seat 3: FAMMA_okk ($5.07 in chips) 
+Seat 4: stinksamaki6 ($5.99 in chips) 
+Seat 5: Triple Ui ($2.88 in chips) 
+Seat 6: OBSB99 ($5.87 in chips) 
+SantiagoWeight: posts small blind $0.02
+FAMMA_okk: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qs 2d]
+stinksamaki6: folds 
+Triple Ui: folds 
+OBSB99: folds 
+kelvin.rocha: raises $0.10 to $0.15
+SantiagoWeight: folds 
+FAMMA_okk: folds 
+Uncalled bet ($0.10) returned to kelvin.rocha
+kelvin.rocha collected $0.12 from pot
+kelvin.rocha: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: kelvin.rocha (button) collected ($0.12)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: FAMMA_okk (big blind) folded before Flop
+Seat 4: stinksamaki6 folded before Flop (didn't bet)
+Seat 5: Triple Ui folded before Flop (didn't bet)
+Seat 6: OBSB99 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041320323:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:47:36 UTC [2018/12/29 11:47:36 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($5 in chips) 
+Seat 2: AcetOne555 ($5.57 in chips) 
+Seat 3: pokerboi2018 ($5.78 in chips) 
+Seat 4: dontdonkbet ($5.13 in chips) 
+Seat 5: afristich ($4.89 in chips) 
+Seat 6: mister34187 ($3.76 in chips) 
+AcetOne555: posts small blind $0.02
+pokerboi2018: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [8c Ad]
+dontdonkbet: folds 
+afristich: folds 
+mister34187: calls $0.05
+SantiagoWeight: raises $0.11 to $0.16
+AcetOne555: folds 
+pokerboi2018: folds 
+mister34187: calls $0.11
+*** FLOP *** [3d Td Tc]
+mister34187: checks 
+SantiagoWeight: bets $0.09
+mister34187: raises $0.26 to $0.35
+SantiagoWeight: calls $0.26
+*** TURN *** [3d Td Tc] [6c]
+mister34187: checks 
+SantiagoWeight: bets $0.69
+mister34187: folds 
+Uncalled bet ($0.69) returned to SantiagoWeight
+SantiagoWeight collected $1.04 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.05 
+Board [3d Td Tc 6c]
+Seat 1: SantiagoWeight (button) collected ($1.04)
+Seat 2: AcetOne555 (small blind) folded before Flop
+Seat 3: pokerboi2018 (big blind) folded before Flop
+Seat 4: dontdonkbet folded before Flop (didn't bet)
+Seat 5: afristich folded before Flop (didn't bet)
+Seat 6: mister34187 folded on the Turn
+
+
+
+PokerStars Zoom Hand #195041365987:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:48:43 UTC [2018/12/29 11:48:43 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Flyinhigh85 ($2.85 in chips) 
+Seat 2: Vorontsov28 ($5.07 in chips) 
+Seat 3: PartiSAN_1941 ($6.41 in chips) 
+Seat 4: Dispetcher99 ($5.14 in chips) 
+Seat 5: proxt17 ($9.08 in chips) 
+Seat 6: SantiagoWeight ($5.53 in chips) 
+Vorontsov28: posts small blind $0.02
+PartiSAN_1941: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Kc 3c]
+Dispetcher99: raises $0.07 to $0.12
+proxt17: folds 
+SantiagoWeight: folds 
+Flyinhigh85: raises $0.12 to $0.24
+Vorontsov28: folds 
+PartiSAN_1941: folds 
+Dispetcher99: folds 
+Uncalled bet ($0.12) returned to Flyinhigh85
+Flyinhigh85 collected $0.31 from pot
+Flyinhigh85: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0 
+Seat 1: Flyinhigh85 (button) collected ($0.31)
+Seat 2: Vorontsov28 (small blind) folded before Flop
+Seat 3: PartiSAN_1941 (big blind) folded before Flop
+Seat 4: Dispetcher99 folded before Flop
+Seat 5: proxt17 folded before Flop (didn't bet)
+Seat 6: SantiagoWeight folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041373622:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:48:54 UTC [2018/12/29 11:48:54 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: aka_d_trick ($13.04 in chips) 
+Seat 2: JoKoMaSi ($5 in chips) 
+Seat 3: TULYA 15 ($5 in chips) 
+Seat 4: SantiagoWeight ($5.53 in chips) 
+Seat 5: !EXXERRZIST! ($8.72 in chips) 
+Seat 6: Gute CZ ($15.37 in chips) 
+JoKoMaSi: posts small blind $0.02
+TULYA 15: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [7h 2c]
+SantiagoWeight: folds 
+!EXXERRZIST!: folds 
+Gute CZ: folds 
+aka_d_trick: folds 
+JoKoMaSi: raises $0.10 to $0.15
+TULYA 15: folds 
+Uncalled bet ($0.10) returned to JoKoMaSi
+JoKoMaSi collected $0.10 from pot
+JoKoMaSi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: aka_d_trick (button) folded before Flop (didn't bet)
+Seat 2: JoKoMaSi (small blind) collected ($0.10)
+Seat 3: TULYA 15 (big blind) folded before Flop
+Seat 4: SantiagoWeight folded before Flop (didn't bet)
+Seat 5: !EXXERRZIST! folded before Flop (didn't bet)
+Seat 6: Gute CZ folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041382441:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:49:07 UTC [2018/12/29 11:49:07 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Deox666 ($6.72 in chips) 
+Seat 2: dontdonkbet ($5.23 in chips) 
+Seat 3: SantiagoWeight ($5.53 in chips) 
+Seat 4: snapper1987 ($2.69 in chips) 
+Seat 5: ojciecmichal ($11.77 in chips) 
+Seat 6: Yura85kg ($2.33 in chips) 
+dontdonkbet: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Kc Qs]
+snapper1987: folds 
+ojciecmichal: folds 
+Yura85kg: folds 
+Deox666: folds 
+dontdonkbet: folds 
+Uncalled bet ($0.03) returned to SantiagoWeight
+SantiagoWeight collected $0.04 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Deox666 (button) folded before Flop (didn't bet)
+Seat 2: dontdonkbet (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) collected ($0.04)
+Seat 4: snapper1987 folded before Flop (didn't bet)
+Seat 5: ojciecmichal folded before Flop (didn't bet)
+Seat 6: Yura85kg folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041370871:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:48:50 UTC [2018/12/29 11:48:50 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: KungfuMelon ($6.74 in chips) 
+Seat 2: anngule ($7.63 in chips) 
+Seat 3: jasonkidd91 ($6.33 in chips) 
+Seat 4: Golodayushii ($5.27 in chips) 
+Seat 5: SantiagoWeight ($5.53 in chips) 
+Seat 6: axilleas33 ($5.26 in chips) 
+anngule: posts small blind $0.02
+jasonkidd91: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [5c Ks]
+Golodayushii has timed out
+Golodayushii: folds 
+SantiagoWeight: folds 
+axilleas33: folds 
+KungfuMelon: folds 
+anngule: raises $0.10 to $0.15
+jasonkidd91: folds 
+Uncalled bet ($0.10) returned to anngule
+anngule collected $0.10 from pot
+anngule: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: KungfuMelon (button) folded before Flop (didn't bet)
+Seat 2: anngule (small blind) collected ($0.10)
+Seat 3: jasonkidd91 (big blind) folded before Flop
+Seat 4: Golodayushii folded before Flop (didn't bet)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: axilleas33 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041389207:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:49:17 UTC [2018/12/29 11:49:17 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: joespar ($9.61 in chips) 
+Seat 2: SantiagoWeight ($5.55 in chips) 
+Seat 3: ZooYork1984 ($23.57 in chips) 
+Seat 4: headileet ($5.58 in chips) 
+Seat 5: kocum90997 ($1.53 in chips) 
+Seat 6: 44LLM ($4.34 in chips) 
+SantiagoWeight: posts small blind $0.02
+ZooYork1984: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [4c 9h]
+headileet: folds 
+kocum90997: folds 
+44LLM: folds 
+joespar: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.03) returned to ZooYork1984
+ZooYork1984 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: joespar (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: ZooYork1984 (big blind) collected ($0.04)
+Seat 4: headileet folded before Flop (didn't bet)
+Seat 5: kocum90997 folded before Flop (didn't bet)
+Seat 6: 44LLM folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041397426:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:49:29 UTC [2018/12/29 11:49:29 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($5.53 in chips) 
+Seat 2: !EXXERRZIST! ($5 in chips) 
+Seat 3: ProoShift ($5.92 in chips) 
+Seat 4: glennsterr ($4.46 in chips) 
+Seat 5: nedjati0099 ($4.93 in chips) 
+Seat 6: PartiSAN_1941 ($5.02 in chips) 
+!EXXERRZIST!: posts small blind $0.02
+ProoShift: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [3s 8c]
+glennsterr: folds 
+nedjati0099: folds 
+PartiSAN_1941: raises $0.10 to $0.15
+SantiagoWeight: folds 
+!EXXERRZIST!: folds 
+ProoShift: folds 
+Uncalled bet ($0.10) returned to PartiSAN_1941
+PartiSAN_1941 collected $0.12 from pot
+PartiSAN_1941: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: SantiagoWeight (button) folded before Flop (didn't bet)
+Seat 2: !EXXERRZIST! (small blind) folded before Flop
+Seat 3: ProoShift (big blind) folded before Flop
+Seat 4: glennsterr folded before Flop (didn't bet)
+Seat 5: nedjati0099 folded before Flop (didn't bet)
+Seat 6: PartiSAN_1941 collected ($0.12)
+
+
+
+PokerStars Zoom Hand #195041377676:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:49:00 UTC [2018/12/29 11:49:00 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: jase28 ($5 in chips) 
+Seat 2: PartiSAN_1941 ($6.36 in chips) 
+Seat 3: venÕm ($10.09 in chips) 
+Seat 4: SantiagoWeight ($5.53 in chips) 
+Seat 5: BorisRoyaL ($5 in chips) 
+Seat 6: Piotr2244668 ($7.41 in chips) 
+PartiSAN_1941: posts small blind $0.02
+venÕm: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qs 6c]
+SantiagoWeight: folds 
+BorisRoyaL: folds 
+Piotr2244668: folds 
+jase28: folds 
+PartiSAN_1941: raises $0.10 to $0.15
+venÕm: calls $0.10
+*** FLOP *** [7h Ah 2d]
+PartiSAN_1941: checks 
+venÕm: checks 
+*** TURN *** [7h Ah 2d] [Kh]
+PartiSAN_1941: checks 
+venÕm: bets $0.22
+PartiSAN_1941: folds 
+Uncalled bet ($0.22) returned to venÕm
+venÕm collected $0.29 from pot
+venÕm: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [7h Ah 2d Kh]
+Seat 1: jase28 (button) folded before Flop (didn't bet)
+Seat 2: PartiSAN_1941 (small blind) folded on the Turn
+Seat 3: venÕm (big blind) collected ($0.29)
+Seat 4: SantiagoWeight folded before Flop (didn't bet)
+Seat 5: BorisRoyaL folded before Flop (didn't bet)
+Seat 6: Piotr2244668 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041400846:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:49:34 UTC [2018/12/29 11:49:34 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: szgzs ($9.10 in chips) 
+Seat 2: dinckkkk ($13.29 in chips) 
+Seat 3: amnezja420 ($5.44 in chips) 
+Seat 4: taras34315 ($10.57 in chips) 
+Seat 5: sko16 ($2.74 in chips) 
+Seat 6: SantiagoWeight ($5.53 in chips) 
+dinckkkk: posts small blind $0.02
+amnezja420: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [8d Kd]
+taras34315: folds 
+sko16: folds 
+SantiagoWeight: raises $0.06 to $0.11
+szgzs: folds 
+dinckkkk: folds 
+amnezja420: calls $0.06
+*** FLOP *** [Td Js 2h]
+amnezja420: checks 
+SantiagoWeight: bets $0.15
+amnezja420: calls $0.15
+*** TURN *** [Td Js 2h] [5d]
+amnezja420: checks 
+SantiagoWeight: bets $0.38
+amnezja420: calls $0.38
+*** RIVER *** [Td Js 2h 5d] [Ac]
+amnezja420: checks 
+SantiagoWeight: bets $1.25
+amnezja420: calls $1.25
+*** SHOW DOWN ***
+SantiagoWeight: shows [8d Kd] (high card Ace)
+amnezja420: shows [8c Jd] (a pair of Jacks)
+amnezja420 collected $3.64 from pot
+*** SUMMARY ***
+Total pot $3.80 | Rake $0.16 
+Board [Td Js 2h 5d Ac]
+Seat 1: szgzs (button) folded before Flop (didn't bet)
+Seat 2: dinckkkk (small blind) folded before Flop
+Seat 3: amnezja420 (big blind) showed [8c Jd] and won ($3.64) with a pair of Jacks
+Seat 4: taras34315 folded before Flop (didn't bet)
+Seat 5: sko16 folded before Flop (didn't bet)
+Seat 6: SantiagoWeight showed [8d Kd] and lost with high card Ace
+
+
+
+PokerStars Zoom Hand #195041458262:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:50:58 UTC [2018/12/29 11:50:58 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: TaymyrGER ($6.46 in chips) 
+Seat 2: wardy407 ($1.81 in chips) 
+Seat 3: AAdryanofs ($5 in chips) 
+Seat 4: PokerIdol16 ($24.57 in chips) 
+Seat 5: afristich ($3.41 in chips) 
+Seat 6: SantiagoWeight ($5 in chips) 
+wardy407: posts small blind $0.02
+AAdryanofs: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qd Js]
+PokerIdol16: folds 
+afristich: folds 
+SantiagoWeight: raises $0.06 to $0.11
+TaymyrGER: folds 
+wardy407: calls $0.09
+AAdryanofs: folds 
+*** FLOP *** [2h Ks Kd]
+wardy407: checks 
+SantiagoWeight: bets $0.07
+wardy407: calls $0.07
+*** TURN *** [2h Ks Kd] [8s]
+wardy407: checks 
+SantiagoWeight: bets $0.39
+wardy407: folds 
+Uncalled bet ($0.39) returned to SantiagoWeight
+SantiagoWeight collected $0.39 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.02 
+Board [2h Ks Kd 8s]
+Seat 1: TaymyrGER (button) folded before Flop (didn't bet)
+Seat 2: wardy407 (small blind) folded on the Turn
+Seat 3: AAdryanofs (big blind) folded before Flop
+Seat 4: PokerIdol16 folded before Flop (didn't bet)
+Seat 5: afristich folded before Flop (didn't bet)
+Seat 6: SantiagoWeight collected ($0.39)
+
+
+
+PokerStars Zoom Hand #195041500934:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:52:00 UTC [2018/12/29 11:52:00 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: TarDinaCash ($16.61 in chips) 
+Seat 2: racsou2012 ($16.88 in chips) 
+Seat 3: Andr1972 ($5.98 in chips) 
+Seat 4: KK_lex_KK ($5.93 in chips) 
+Seat 5: SantiagoWeight ($5.19 in chips) 
+Seat 6: Damir921 ($4.83 in chips) 
+racsou2012: posts small blind $0.02
+Andr1972: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [6h 6d]
+KK_lex_KK: folds 
+SantiagoWeight: raises $0.07 to $0.12
+Damir921: folds 
+TarDinaCash: folds 
+racsou2012: folds 
+Andr1972: folds 
+Uncalled bet ($0.07) returned to SantiagoWeight
+SantiagoWeight collected $0.12 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: TarDinaCash (button) folded before Flop (didn't bet)
+Seat 2: racsou2012 (small blind) folded before Flop
+Seat 3: Andr1972 (big blind) folded before Flop
+Seat 4: KK_lex_KK folded before Flop (didn't bet)
+Seat 5: SantiagoWeight collected ($0.12)
+Seat 6: Damir921 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041495423:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:51:52 UTC [2018/12/29 11:51:52 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: angrey867 ($16.59 in chips) 
+Seat 2: SantiagoWeight ($5.21 in chips) 
+Seat 3: szgzs ($6.23 in chips) 
+Seat 4: snapper1987 ($1.51 in chips) 
+Seat 5: SullyFtw ($12.74 in chips) 
+Seat 6: Timotixx ($5.46 in chips) 
+SantiagoWeight: posts small blind $0.02
+szgzs: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Kh 4d]
+snapper1987: folds 
+SullyFtw: calls $0.05
+Timotixx: folds 
+angrey867: folds 
+SantiagoWeight: folds 
+szgzs: checks 
+*** FLOP *** [Th Qs Qd]
+szgzs: checks 
+SullyFtw: checks 
+*** TURN *** [Th Qs Qd] [5s]
+szgzs: checks 
+SullyFtw: checks 
+*** RIVER *** [Th Qs Qd 5s] [6s]
+szgzs: checks 
+SullyFtw: bets $0.05
+szgzs: folds 
+Uncalled bet ($0.05) returned to SullyFtw
+SullyFtw collected $0.12 from pot
+SullyFtw: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Th Qs Qd 5s 6s]
+Seat 1: angrey867 (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: szgzs (big blind) folded on the River
+Seat 4: snapper1987 folded before Flop (didn't bet)
+Seat 5: SullyFtw collected ($0.12)
+Seat 6: Timotixx folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041513370:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:52:18 UTC [2018/12/29 11:52:18 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: anta60 ($6.38 in chips) 
+Seat 2: GameOverDude44 ($5 in chips) 
+Seat 3: SantiagoWeight ($5.26 in chips) 
+Seat 4: mtstsns ($4.06 in chips) 
+Seat 5: JoKoMaSi ($8 in chips) 
+Seat 6: wess_gsp ($2 in chips) 
+GameOverDude44: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [5d Qs]
+mtstsns: folds 
+JoKoMaSi: folds 
+wess_gsp: folds 
+anta60: folds 
+GameOverDude44: folds 
+Uncalled bet ($0.03) returned to SantiagoWeight
+SantiagoWeight collected $0.04 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: anta60 (button) folded before Flop (didn't bet)
+Seat 2: GameOverDude44 (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) collected ($0.04)
+Seat 4: mtstsns folded before Flop (didn't bet)
+Seat 5: JoKoMaSi folded before Flop (didn't bet)
+Seat 6: wess_gsp folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041518828:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:52:26 UTC [2018/12/29 11:52:26 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($5.28 in chips) 
+Seat 2: Andr1972 ($5.42 in chips) 
+Seat 3: mple arkoudi ($5.30 in chips) 
+Seat 4: AllenChang1996 ($4.53 in chips) 
+Seat 5: APBray ($9.08 in chips) 
+Seat 6: GameOverDude44 ($5.45 in chips) 
+Andr1972: posts small blind $0.02
+mple arkoudi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [5d Qh]
+AllenChang1996: folds 
+APBray: folds 
+GameOverDude44: raises $0.07 to $0.12
+SantiagoWeight: folds 
+Andr1972: raises $0.29 to $0.41
+mple arkoudi: folds 
+GameOverDude44: folds 
+Uncalled bet ($0.29) returned to Andr1972
+Andr1972 collected $0.29 from pot
+Andr1972: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0 
+Seat 1: SantiagoWeight (button) folded before Flop (didn't bet)
+Seat 2: Andr1972 (small blind) collected ($0.29)
+Seat 3: mple arkoudi (big blind) folded before Flop
+Seat 4: AllenChang1996 folded before Flop (didn't bet)
+Seat 5: APBray folded before Flop (didn't bet)
+Seat 6: GameOverDude44 folded before Flop
+
+
+
+PokerStars Zoom Hand #195041529125:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:52:41 UTC [2018/12/29 11:52:41 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: QQTob ($5 in chips) 
+Seat 2: SantiagoWeight ($5.28 in chips) 
+Seat 3: racsou2012 ($14.89 in chips) 
+Seat 4: kalle14o21 ($9.50 in chips) 
+Seat 5: mister34187 ($3.47 in chips) 
+Seat 6: stinksamaki6 ($6.33 in chips) 
+SantiagoWeight: posts small blind $0.02
+racsou2012: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2s Qd]
+kalle14o21: calls $0.05
+mister34187: calls $0.05
+stinksamaki6: folds 
+QQTob: folds 
+SantiagoWeight: folds 
+racsou2012: checks 
+*** FLOP *** [7d Qc 9d]
+racsou2012: checks 
+kalle14o21: bets $0.10
+mister34187: calls $0.10
+racsou2012: folds 
+*** TURN *** [7d Qc 9d] [Ac]
+kalle14o21: bets $0.10
+mister34187: raises $0.30 to $0.40
+kalle14o21: folds 
+Uncalled bet ($0.30) returned to mister34187
+mister34187 collected $0.55 from pot
+mister34187: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [7d Qc 9d Ac]
+Seat 1: QQTob (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: racsou2012 (big blind) folded on the Flop
+Seat 4: kalle14o21 folded on the Turn
+Seat 5: mister34187 collected ($0.55)
+Seat 6: stinksamaki6 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041538033:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:52:54 UTC [2018/12/29 11:52:54 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Nomoney099 ($17.52 in chips) 
+Seat 2: missedthatone ($5 in chips) 
+Seat 3: benchstyle ($24.33 in chips) 
+Seat 4: XXschmidtX ($5.07 in chips) 
+Seat 5: SantiagoWeight ($5.26 in chips) 
+Seat 6: nutella0123 ($8.09 in chips) 
+missedthatone: posts small blind $0.02
+benchstyle: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Ad 4h]
+XXschmidtX: folds 
+SantiagoWeight: folds 
+nutella0123: calls $0.05
+Nomoney099: raises $0.15 to $0.20
+missedthatone: folds 
+benchstyle: calls $0.15
+nutella0123: folds 
+*** FLOP *** [3h 9s Qs]
+benchstyle: checks 
+Nomoney099: checks 
+*** TURN *** [3h 9s Qs] [6c]
+benchstyle: checks 
+Nomoney099: bets $0.27
+benchstyle: folds 
+Uncalled bet ($0.27) returned to Nomoney099
+Nomoney099 collected $0.45 from pot
+Nomoney099: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [3h 9s Qs 6c]
+Seat 1: Nomoney099 (button) collected ($0.45)
+Seat 2: missedthatone (small blind) folded before Flop
+Seat 3: benchstyle (big blind) folded on the Turn
+Seat 4: XXschmidtX folded before Flop (didn't bet)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: nutella0123 folded before Flop
+
+
+
+PokerStars Zoom Hand #195041544924:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:53:04 UTC [2018/12/29 11:53:04 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: FAMMA_okk ($5.24 in chips) 
+Seat 2: UltimateHer0 ($5.87 in chips) 
+Seat 3: pokerboi2018 ($4.05 in chips) 
+Seat 4: SantiagoWeight ($5.26 in chips) 
+Seat 5: aka_d_trick ($8.77 in chips) 
+Seat 6: benchstyle ($5 in chips) 
+UltimateHer0: posts small blind $0.02
+pokerboi2018: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [As Js]
+SantiagoWeight: raises $0.08 to $0.13
+aka_d_trick: folds 
+benchstyle: folds 
+FAMMA_okk: calls $0.13
+UltimateHer0: folds 
+pokerboi2018: calls $0.08
+*** FLOP *** [3d 7c 5c]
+pokerboi2018: checks 
+SantiagoWeight: checks 
+FAMMA_okk: checks 
+*** TURN *** [3d 7c 5c] [3s]
+pokerboi2018: bets $0.20
+SantiagoWeight: folds 
+FAMMA_okk: folds 
+Uncalled bet ($0.20) returned to pokerboi2018
+pokerboi2018 collected $0.39 from pot
+pokerboi2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.02 
+Board [3d 7c 5c 3s]
+Seat 1: FAMMA_okk (button) folded on the Turn
+Seat 2: UltimateHer0 (small blind) folded before Flop
+Seat 3: pokerboi2018 (big blind) collected ($0.39)
+Seat 4: SantiagoWeight folded on the Turn
+Seat 5: aka_d_trick folded before Flop (didn't bet)
+Seat 6: benchstyle folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041578585:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:53:53 UTC [2018/12/29 11:53:53 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: zergmiky ($8.38 in chips) 
+Seat 2: Ad4sko ($5.85 in chips) 
+Seat 3: SantiagoWeight ($5.13 in chips) 
+Seat 4: Shamiela ($6.83 in chips) 
+Seat 5: kseni4ka17 ($2.43 in chips) 
+Seat 6: mustdie2die ($18.19 in chips) 
+Ad4sko: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [6s 9d]
+Shamiela: folds 
+kseni4ka17: folds 
+mustdie2die: folds 
+zergmiky: folds 
+Ad4sko: folds 
+Uncalled bet ($0.03) returned to SantiagoWeight
+SantiagoWeight collected $0.04 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: zergmiky (button) folded before Flop (didn't bet)
+Seat 2: Ad4sko (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) collected ($0.04)
+Seat 4: Shamiela folded before Flop (didn't bet)
+Seat 5: kseni4ka17 folded before Flop (didn't bet)
+Seat 6: mustdie2die folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041585412:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:54:03 UTC [2018/12/29 11:54:03 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: ramonmbr267 ($5.23 in chips) 
+Seat 2: Timotixx ($6.35 in chips) 
+Seat 3: rocky0076 ($3.02 in chips) 
+Seat 4: Pabllo1988 ($2.72 in chips) 
+Seat 5: BorisRoyaL ($5 in chips) 
+Seat 6: SantiagoWeight ($5.15 in chips) 
+Timotixx: posts small blind $0.02
+rocky0076: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Kd Ac]
+Pabllo1988: raises $0.05 to $0.10
+BorisRoyaL: folds 
+SantiagoWeight: raises $0.26 to $0.36
+ramonmbr267 has timed out
+ramonmbr267: folds 
+Timotixx: folds 
+rocky0076: folds 
+Pabllo1988: calls $0.26
+*** FLOP *** [8c 3d 9c]
+Pabllo1988: bets $0.05
+SantiagoWeight: raises $0.57 to $0.62
+Pabllo1988: calls $0.57
+*** TURN *** [8c 3d 9c] [8h]
+Pabllo1988: checks 
+SantiagoWeight: checks 
+*** RIVER *** [8c 3d 9c 8h] [2h]
+Pabllo1988: bets $0.05
+SantiagoWeight: calls $0.05
+*** SHOW DOWN ***
+Pabllo1988: shows [7s Ts] (a pair of Eights)
+SantiagoWeight: shows [Kd Ac] (a pair of Eights - Ace kicker)
+SantiagoWeight collected $2.04 from pot
+*** SUMMARY ***
+Total pot $2.13 | Rake $0.09 
+Board [8c 3d 9c 8h 2h]
+Seat 1: ramonmbr267 (button) folded before Flop (didn't bet)
+Seat 2: Timotixx (small blind) folded before Flop
+Seat 3: rocky0076 (big blind) folded before Flop
+Seat 4: Pabllo1988 showed [7s Ts] and lost with a pair of Eights
+Seat 5: BorisRoyaL folded before Flop (didn't bet)
+Seat 6: SantiagoWeight showed [Kd Ac] and won ($2.04) with a pair of Eights
+
+
+
+PokerStars Zoom Hand #195041638489:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:55:23 UTC [2018/12/29 11:55:23 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($6.16 in chips) 
+Seat 2: Pabllo1988 ($1.69 in chips) 
+Seat 3: Mariooooo37 ($5.09 in chips) 
+Seat 4: PAUSOF ($9.08 in chips) 
+Seat 5: pokerboi2018 ($5 in chips) 
+Seat 6: German41832 ($7.67 in chips) 
+Pabllo1988: posts small blind $0.02
+Mariooooo37: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [9s 9c]
+PAUSOF: folds 
+pokerboi2018: folds 
+German41832: folds 
+SantiagoWeight: raises $0.06 to $0.11
+Pabllo1988: folds 
+Mariooooo37: folds 
+Uncalled bet ($0.06) returned to SantiagoWeight
+SantiagoWeight collected $0.12 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: SantiagoWeight (button) collected ($0.12)
+Seat 2: Pabllo1988 (small blind) folded before Flop
+Seat 3: Mariooooo37 (big blind) folded before Flop
+Seat 4: PAUSOF folded before Flop (didn't bet)
+Seat 5: pokerboi2018 folded before Flop (didn't bet)
+Seat 6: German41832 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041647131:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:55:39 UTC [2018/12/29 11:55:39 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Nomoney099 ($5 in chips) 
+Seat 2: benchstyle ($24.13 in chips) 
+Seat 3: AAdryanofs ($5.88 in chips) 
+Seat 4: serathic ($13.86 in chips) 
+Seat 5: Summ3rBaby ($5.28 in chips) 
+Seat 6: SantiagoWeight ($6.23 in chips) 
+benchstyle: posts small blind $0.02
+AAdryanofs: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [9h Ac]
+serathic: folds 
+Summ3rBaby: raises $0.10 to $0.15
+SantiagoWeight: folds 
+Nomoney099: folds 
+benchstyle: folds 
+AAdryanofs: folds 
+Uncalled bet ($0.10) returned to Summ3rBaby
+Summ3rBaby collected $0.12 from pot
+Summ3rBaby: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Nomoney099 (button) folded before Flop (didn't bet)
+Seat 2: benchstyle (small blind) folded before Flop
+Seat 3: AAdryanofs (big blind) folded before Flop
+Seat 4: serathic folded before Flop (didn't bet)
+Seat 5: Summ3rBaby collected ($0.12)
+Seat 6: SantiagoWeight folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041655193:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:55:54 UTC [2018/12/29 11:55:54 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: barbos2009 ($9.46 in chips) 
+Seat 2: Kunha241286 ($7.96 in chips) 
+Seat 3: wobmmm ($7.53 in chips) 
+Seat 4: AAdryanofs ($7.10 in chips) 
+Seat 5: SantiagoWeight ($6.23 in chips) 
+Seat 6: PutYourHeart ($5 in chips) 
+Kunha241286: posts small blind $0.02
+wobmmm: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Kd Ac]
+AAdryanofs: raises $0.10 to $0.15
+SantiagoWeight: raises $0.29 to $0.44
+PutYourHeart: folds 
+barbos2009: calls $0.44
+Kunha241286: folds 
+wobmmm: folds 
+AAdryanofs: raises $0.84 to $1.28
+SantiagoWeight: raises $4.82 to $6.10
+barbos2009: folds 
+AAdryanofs: raises $1 to $7.10 and is all-in
+SantiagoWeight: calls $0.13 and is all-in
+Uncalled bet ($0.87) returned to AAdryanofs
+*** FLOP *** [8s Js 2h]
+*** TURN *** [8s Js 2h] [Qh]
+*** RIVER *** [8s Js 2h Qh] [Jh]
+*** SHOW DOWN ***
+AAdryanofs: shows [Ah As] (two pair, Aces and Jacks)
+SantiagoWeight: shows [Kd Ac] (a pair of Jacks)
+AAdryanofs collected $12.43 from pot
+*** SUMMARY ***
+Total pot $12.97 | Rake $0.54 
+Board [8s Js 2h Qh Jh]
+Seat 1: barbos2009 (button) folded before Flop
+Seat 2: Kunha241286 (small blind) folded before Flop
+Seat 3: wobmmm (big blind) folded before Flop
+Seat 4: AAdryanofs showed [Ah As] and won ($12.43) with two pair, Aces and Jacks
+Seat 5: SantiagoWeight showed [Kd Ac] and lost with a pair of Jacks
+Seat 6: PutYourHeart folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041686095:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:56:52 UTC [2018/12/29 11:56:52 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: makxg ($1.87 in chips) 
+Seat 2: Tihan111 ($7.21 in chips) 
+Seat 3: domiraf ($9.02 in chips) 
+Seat 4: SantiagoWeight ($5 in chips) 
+Seat 5: AAdryanofs ($13.30 in chips) 
+Seat 6: awruk666 ($12.17 in chips) 
+Tihan111: posts small blind $0.02
+domiraf: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qs 9c]
+SantiagoWeight: folds 
+AAdryanofs: folds 
+awruk666: raises $0.10 to $0.15
+makxg: calls $0.15
+Tihan111: calls $0.13
+domiraf: folds 
+*** FLOP *** [6s 7s Js]
+Tihan111: checks 
+awruk666: bets $0.24
+makxg: calls $0.24
+Tihan111: calls $0.24
+*** TURN *** [6s 7s Js] [9d]
+Tihan111: checks 
+awruk666: checks 
+makxg: checks 
+*** RIVER *** [6s 7s Js 9d] [8h]
+Tihan111: bets $0.47
+awruk666: calls $0.47
+makxg: folds 
+*** SHOW DOWN ***
+Tihan111: shows [As 5s] (a flush, Ace high)
+awruk666: mucks hand 
+Tihan111 collected $2.07 from pot
+*** SUMMARY ***
+Total pot $2.16 | Rake $0.09 
+Board [6s 7s Js 9d 8h]
+Seat 1: makxg (button) folded on the River
+Seat 2: Tihan111 (small blind) showed [As 5s] and won ($2.07) with a flush, Ace high
+Seat 3: domiraf (big blind) folded before Flop
+Seat 4: SantiagoWeight folded before Flop (didn't bet)
+Seat 5: AAdryanofs folded before Flop (didn't bet)
+Seat 6: awruk666 mucked [Jd Ts]
+
+
+
+PokerStars Zoom Hand #195041694697:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:57:08 UTC [2018/12/29 11:57:08 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Piotr2244668 ($5.81 in chips) 
+Seat 2: jaqbuho ($5 in chips) 
+Seat 3: SantiagoWeight ($5 in chips) 
+Seat 4: Chinaski50 ($7.39 in chips) 
+Seat 5: lagunacar ($5.36 in chips) 
+Seat 6: naftina ($6.73 in chips) 
+jaqbuho: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Ts 5s]
+Chinaski50: folds 
+lagunacar: folds 
+naftina: raises $0.10 to $0.15
+Piotr2244668: folds 
+jaqbuho: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.10) returned to naftina
+naftina collected $0.12 from pot
+naftina: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Piotr2244668 (button) folded before Flop (didn't bet)
+Seat 2: jaqbuho (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) folded before Flop
+Seat 4: Chinaski50 folded before Flop (didn't bet)
+Seat 5: lagunacar folded before Flop (didn't bet)
+Seat 6: naftina collected ($0.12)
+
+
+
+PokerStars Zoom Hand #195041688241:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:56:56 UTC [2018/12/29 11:56:56 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: LeeGehr ($13.15 in chips) 
+Seat 2: SantiagoWeight ($5 in chips) 
+Seat 3: jkrstar ($5 in chips) 
+Seat 4: joespar ($6.41 in chips) 
+Seat 5: afca66 ($4.90 in chips) 
+Seat 6: asteins ($5 in chips) 
+SantiagoWeight: posts small blind $0.02
+jkrstar: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2s Kd]
+joespar: folds 
+afca66: folds 
+asteins: folds 
+LeeGehr: raises $0.10 to $0.15
+SantiagoWeight: folds 
+jkrstar: calls $0.10
+*** FLOP *** [3h Th Qd]
+jkrstar: checks 
+LeeGehr: bets $0.20
+jkrstar: calls $0.20
+*** TURN *** [3h Th Qd] [7c]
+jkrstar: checks 
+LeeGehr: bets $0.48
+jkrstar: folds 
+Uncalled bet ($0.48) returned to LeeGehr
+LeeGehr collected $0.69 from pot
+LeeGehr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [3h Th Qd 7c]
+Seat 1: LeeGehr (button) collected ($0.69)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: jkrstar (big blind) folded on the Turn
+Seat 4: joespar folded before Flop (didn't bet)
+Seat 5: afca66 folded before Flop (didn't bet)
+Seat 6: asteins folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041705396:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:57:28 UTC [2018/12/29 11:57:28 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($5 in chips) 
+Seat 2: leglessdog ($5.86 in chips) 
+Seat 3: buteluci ($5 in chips) 
+Seat 4: glennsterr ($4.72 in chips) 
+Seat 5: mustdie2die ($8.43 in chips) 
+Seat 6: Haschanascha ($5.07 in chips) 
+leglessdog: posts small blind $0.02
+buteluci: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qd Ks]
+glennsterr: raises $0.10 to $0.15
+mustdie2die: folds 
+Haschanascha: folds 
+SantiagoWeight: calls $0.15
+leglessdog: folds 
+buteluci: folds 
+*** FLOP *** [8c Jd Ah]
+glennsterr: bets $0.20
+SantiagoWeight: calls $0.20
+*** TURN *** [8c Jd Ah] [Jc]
+glennsterr: bets $0.30
+SantiagoWeight: raises $0.89 to $1.19
+glennsterr: calls $0.89
+*** RIVER *** [8c Jd Ah Jc] [Ad]
+glennsterr: bets $1.20
+SantiagoWeight: folds 
+Uncalled bet ($1.20) returned to glennsterr
+glennsterr collected $3.02 from pot
+*** SUMMARY ***
+Total pot $3.15 | Rake $0.13 
+Board [8c Jd Ah Jc Ad]
+Seat 1: SantiagoWeight (button) folded on the River
+Seat 2: leglessdog (small blind) folded before Flop
+Seat 3: buteluci (big blind) folded before Flop
+Seat 4: glennsterr collected ($3.02)
+Seat 5: mustdie2die folded before Flop (didn't bet)
+Seat 6: Haschanascha folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041745559:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:58:42 UTC [2018/12/29 11:58:42 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Golodayushii ($4.91 in chips) 
+Seat 2: STAIRUS1989 ($13.26 in chips) 
+Seat 3: brumie59 ($1.90 in chips) 
+Seat 4: Baldur_s666 ($10.18 in chips) 
+Seat 5: SantiagoWeight ($5 in chips) 
+Seat 6: jase28 ($9.84 in chips) 
+STAIRUS1989: posts small blind $0.02
+brumie59: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [3c 7d]
+Baldur_s666: folds 
+SantiagoWeight: folds 
+jase28: folds 
+Golodayushii: folds 
+STAIRUS1989: raises $0.07 to $0.12
+brumie59: folds 
+Uncalled bet ($0.07) returned to STAIRUS1989
+STAIRUS1989 collected $0.10 from pot
+STAIRUS1989: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Golodayushii (button) folded before Flop (didn't bet)
+Seat 2: STAIRUS1989 (small blind) collected ($0.10)
+Seat 3: brumie59 (big blind) folded before Flop
+Seat 4: Baldur_s666 folded before Flop (didn't bet)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: jase28 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041741133:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:58:34 UTC [2018/12/29 11:58:34 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Airat737 ($2.58 in chips) 
+Seat 2: afca66 ($4.73 in chips) 
+Seat 3: PokerIdol16 ($25.56 in chips) 
+Seat 4: SantiagoWeight ($5 in chips) 
+Seat 5: asteins ($5 in chips) 
+Seat 6: redbkey ($2.48 in chips) 
+afca66: posts small blind $0.02
+PokerIdol16: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [5h 8s]
+SantiagoWeight: folds 
+asteins: folds 
+redbkey: raises $0.10 to $0.15
+Airat737: calls $0.15
+afca66: folds 
+PokerIdol16: folds 
+*** FLOP *** [3s 9h 8h]
+redbkey: checks 
+Airat737: checks 
+*** TURN *** [3s 9h 8h] [7c]
+redbkey: bets $0.18
+Airat737: calls $0.18
+*** RIVER *** [3s 9h 8h 7c] [9d]
+redbkey: checks 
+Airat737: bets $0.05
+redbkey: calls $0.05
+*** SHOW DOWN ***
+Airat737: shows [Qs 9s] (three of a kind, Nines)
+redbkey: mucks hand 
+Airat737 collected $0.80 from pot
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [3s 9h 8h 7c 9d]
+Seat 1: Airat737 (button) showed [Qs 9s] and won ($0.80) with three of a kind, Nines
+Seat 2: afca66 (small blind) folded before Flop
+Seat 3: PokerIdol16 (big blind) folded before Flop
+Seat 4: SantiagoWeight folded before Flop (didn't bet)
+Seat 5: asteins folded before Flop (didn't bet)
+Seat 6: redbkey mucked [3d 4d]
+
+
+
+PokerStars Zoom Hand #195041751063:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:58:52 UTC [2018/12/29 11:58:52 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: FAMMA_okk ($9.85 in chips) 
+Seat 2: proxt17 ($5.09 in chips) 
+Seat 3: kbt30 ($4.88 in chips) 
+Seat 4: r4ndomtime ($5.66 in chips) 
+Seat 5: Chinaski50 ($7.27 in chips) 
+Seat 6: SantiagoWeight ($5 in chips) 
+proxt17: posts small blind $0.02
+kbt30: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Jc 8c]
+r4ndomtime: folds 
+Chinaski50: folds 
+SantiagoWeight: raises $0.06 to $0.11
+FAMMA_okk: folds 
+proxt17: calls $0.09
+kbt30: raises $0.33 to $0.44
+SantiagoWeight: folds 
+proxt17: folds 
+Uncalled bet ($0.33) returned to kbt30
+kbt30 collected $0.33 from pot
+kbt30: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0 
+Seat 1: FAMMA_okk (button) folded before Flop (didn't bet)
+Seat 2: proxt17 (small blind) folded before Flop
+Seat 3: kbt30 (big blind) collected ($0.33)
+Seat 4: r4ndomtime folded before Flop (didn't bet)
+Seat 5: Chinaski50 folded before Flop (didn't bet)
+Seat 6: SantiagoWeight folded before Flop
+
+
+
+PokerStars Zoom Hand #195041770496:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:59:28 UTC [2018/12/29 11:59:28 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Piotr2244668 ($11.08 in chips) 
+Seat 2: FieraDeidad ($6.41 in chips) 
+Seat 3: SantiagoWeight ($5 in chips) 
+Seat 4: PokerIdol16 ($8.21 in chips) 
+Seat 5: begze ($3.98 in chips) 
+Seat 6: mple arkoudi ($4.08 in chips) 
+FieraDeidad: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [3c 2c]
+PokerIdol16: folds 
+begze: folds 
+mple arkoudi: folds 
+Piotr2244668: folds 
+FieraDeidad: folds 
+Uncalled bet ($0.03) returned to SantiagoWeight
+SantiagoWeight collected $0.04 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Piotr2244668 (button) folded before Flop (didn't bet)
+Seat 2: FieraDeidad (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) collected ($0.04)
+Seat 4: PokerIdol16 folded before Flop (didn't bet)
+Seat 5: begze folded before Flop (didn't bet)
+Seat 6: mple arkoudi folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041779196:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:59:44 UTC [2018/12/29 11:59:44 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: E1sbrecher ($2.21 in chips) 
+Seat 2: SantiagoWeight ($5.02 in chips) 
+Seat 3: jasonkidd91 ($8.54 in chips) 
+Seat 4: Nomoney099 ($11.70 in chips) 
+Seat 5: Absinthic ($3.83 in chips) 
+Seat 6: awruk666 ($11.12 in chips) 
+SantiagoWeight: posts small blind $0.02
+jasonkidd91: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [8s 5d]
+Nomoney099: folds 
+Absinthic: folds 
+awruk666: folds 
+E1sbrecher: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.03) returned to jasonkidd91
+jasonkidd91 collected $0.04 from pot
+jasonkidd91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: E1sbrecher (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: jasonkidd91 (big blind) collected ($0.04)
+Seat 4: Nomoney099 folded before Flop (didn't bet)
+Seat 5: Absinthic folded before Flop (didn't bet)
+Seat 6: awruk666 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041785152:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:59:55 UTC [2018/12/29 11:59:55 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: yellow140 ($4.20 in chips) 
+Seat 2: jasonkidd91 ($8.56 in chips) 
+Seat 3: SantiagoWeight ($5 in chips) 
+Seat 4: lagunacar ($5.18 in chips) 
+Seat 5: UltimateHer0 ($7.60 in chips) 
+Seat 6: KK_lex_KK ($9.20 in chips) 
+jasonkidd91: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [7h Jc]
+lagunacar: folds 
+UltimateHer0: folds 
+KK_lex_KK: raises $0.12 to $0.17
+yellow140: folds 
+jasonkidd91: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.12) returned to KK_lex_KK
+KK_lex_KK collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: yellow140 (button) folded before Flop (didn't bet)
+Seat 2: jasonkidd91 (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) folded before Flop
+Seat 4: lagunacar folded before Flop (didn't bet)
+Seat 5: UltimateHer0 folded before Flop (didn't bet)
+Seat 6: KK_lex_KK collected ($0.12)
+
+
+
+PokerStars Zoom Hand #195041777016:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:59:40 UTC [2018/12/29 11:59:40 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: viajero1970 ($4.36 in chips) 
+Seat 2: SinterPriel ($4.61 in chips) 
+Seat 3: pankratt ($5.46 in chips) 
+Seat 4: szgzs ($5.94 in chips) 
+Seat 5: SantiagoWeight ($5.02 in chips) 
+Seat 6: zergmiky ($9.21 in chips) 
+SinterPriel: posts small blind $0.02
+pankratt: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2d 5s]
+szgzs: folds 
+SantiagoWeight: folds 
+zergmiky: folds 
+viajero1970: raises $0.20 to $0.25
+SinterPriel: calls $0.23
+pankratt: folds 
+*** FLOP *** [2s 9c 3d]
+SinterPriel: checks 
+viajero1970: bets $0.27
+SinterPriel: folds 
+Uncalled bet ($0.27) returned to viajero1970
+viajero1970 collected $0.53 from pot
+viajero1970: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [2s 9c 3d]
+Seat 1: viajero1970 (button) collected ($0.53)
+Seat 2: SinterPriel (small blind) folded on the Flop
+Seat 3: pankratt (big blind) folded before Flop
+Seat 4: szgzs folded before Flop (didn't bet)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: zergmiky folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041791875:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:00:07 UTC [2018/12/29 12:00:07 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: ProoShift ($7.64 in chips) 
+Seat 2: SantiagoWeight ($5 in chips) 
+Seat 3: ZeiZei22 ($9.04 in chips) 
+Seat 4: luzbelit026 ($5.42 in chips) 
+Seat 5: iralaitalica ($3.09 in chips) 
+Seat 6: Haschanascha ($5.29 in chips) 
+SantiagoWeight: posts small blind $0.02
+ZeiZei22: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [3s 9c]
+luzbelit026: folds 
+iralaitalica: folds 
+Haschanascha: folds 
+ProoShift: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.03) returned to ZeiZei22
+ZeiZei22 collected $0.04 from pot
+ZeiZei22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ProoShift (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: ZeiZei22 (big blind) collected ($0.04)
+Seat 4: luzbelit026 folded before Flop (didn't bet)
+Seat 5: iralaitalica folded before Flop (didn't bet)
+Seat 6: Haschanascha folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041794639:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:00:13 UTC [2018/12/29 12:00:13 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: LaughingMenX ($6.01 in chips) 
+Seat 2: Mss_cAshra ($9.89 in chips) 
+Seat 3: XXschmidtX ($6.22 in chips) 
+Seat 4: eyedonttilt ($2.78 in chips) 
+Seat 5: benchstyle ($5.08 in chips) 
+Seat 6: SantiagoWeight ($5 in chips) 
+Mss_cAshra: posts small blind $0.02
+XXschmidtX: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Js 7d]
+eyedonttilt: folds 
+benchstyle: folds 
+SantiagoWeight: folds 
+LaughingMenX: folds 
+Mss_cAshra: folds 
+Uncalled bet ($0.03) returned to XXschmidtX
+XXschmidtX collected $0.04 from pot
+XXschmidtX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: LaughingMenX (button) folded before Flop (didn't bet)
+Seat 2: Mss_cAshra (small blind) folded before Flop
+Seat 3: XXschmidtX (big blind) collected ($0.04)
+Seat 4: eyedonttilt folded before Flop (didn't bet)
+Seat 5: benchstyle folded before Flop (didn't bet)
+Seat 6: SantiagoWeight folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041781902:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 16:59:49 UTC [2018/12/29 11:59:49 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($5 in chips) 
+Seat 2: Tihan111 ($14.03 in chips) 
+Seat 3: Chirkann ($5.34 in chips) 
+Seat 4: psychowallst ($6.90 in chips) 
+Seat 5: benchstyle ($23.78 in chips) 
+Seat 6: WildZara ($7.36 in chips) 
+Tihan111: posts small blind $0.02
+Chirkann: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [9s 2s]
+psychowallst: raises $0.10 to $0.15
+benchstyle: folds 
+WildZara: calls $0.15
+SantiagoWeight: folds 
+Tihan111: folds 
+Chirkann: calls $0.10
+*** FLOP *** [5h 8d Kc]
+Chirkann: checks 
+psychowallst has timed out
+psychowallst: checks 
+WildZara: checks 
+*** TURN *** [5h 8d Kc] [Kh]
+Chirkann: checks 
+psychowallst: checks 
+WildZara: checks 
+*** RIVER *** [5h 8d Kc Kh] [As]
+Chirkann: bets $0.10
+psychowallst: calls $0.10
+WildZara: calls $0.10
+*** SHOW DOWN ***
+Chirkann: shows [5d Ad] (two pair, Aces and Kings)
+psychowallst: mucks hand 
+WildZara: mucks hand 
+Chirkann collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [5h 8d Kc Kh As]
+Seat 1: SantiagoWeight (button) folded before Flop (didn't bet)
+Seat 2: Tihan111 (small blind) folded before Flop
+Seat 3: Chirkann (big blind) showed [5d Ad] and won ($0.74) with two pair, Aces and Kings
+Seat 4: psychowallst mucked [Td Tc]
+Seat 5: benchstyle folded before Flop (didn't bet)
+Seat 6: WildZara mucked [6d 6h]
+
+
+
+PokerStars Zoom Hand #195041807546:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:00:35 UTC [2018/12/29 12:00:35 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Mariooooo37 ($5.14 in chips) 
+Seat 2: Fl1pster ($5 in chips) 
+Seat 3: vlam13 ($6.04 in chips) 
+Seat 4: lornico ($4.43 in chips) 
+Seat 5: SantiagoWeight ($5 in chips) 
+Seat 6: rocky0076 ($1.52 in chips) 
+Fl1pster: posts small blind $0.02
+vlam13: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2h 6s]
+lornico: folds 
+SantiagoWeight: folds 
+rocky0076: folds 
+Mariooooo37: folds 
+Fl1pster: raises $0.10 to $0.15
+vlam13: folds 
+Uncalled bet ($0.10) returned to Fl1pster
+Fl1pster collected $0.10 from pot
+Fl1pster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Mariooooo37 (button) folded before Flop (didn't bet)
+Seat 2: Fl1pster (small blind) collected ($0.10)
+Seat 3: vlam13 (big blind) folded before Flop
+Seat 4: lornico folded before Flop (didn't bet)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: rocky0076 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041800786:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:00:23 UTC [2018/12/29 12:00:23 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Yura85kg ($8.81 in chips) 
+Seat 2: asteins ($5.04 in chips) 
+Seat 3: Panametrics5 ($5 in chips) 
+Seat 4: SantiagoWeight ($5 in chips) 
+Seat 5: Mr.Yrai ($4.78 in chips) 
+Seat 6: wardy407 ($2.92 in chips) 
+asteins: posts small blind $0.02
+Panametrics5: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2c 2h]
+SantiagoWeight: folds 
+Mr.Yrai: folds 
+wardy407: raises $0.05 to $0.10
+Yura85kg: folds 
+asteins: folds 
+Panametrics5: calls $0.05
+*** FLOP *** [Ah Jh Th]
+Panametrics5: bets $0.05
+wardy407: calls $0.05
+*** TURN *** [Ah Jh Th] [Ks]
+Panametrics5: bets $0.10
+wardy407: calls $0.10
+*** RIVER *** [Ah Jh Th Ks] [7h]
+Panametrics5: bets $0.20
+wardy407: calls $0.20
+*** SHOW DOWN ***
+Panametrics5: shows [6c Qd] (a straight, Ten to Ace)
+wardy407: shows [3d 4h] (a flush, Ace high)
+wardy407 collected $0.88 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.04 
+Board [Ah Jh Th Ks 7h]
+Seat 1: Yura85kg (button) folded before Flop (didn't bet)
+Seat 2: asteins (small blind) folded before Flop
+Seat 3: Panametrics5 (big blind) showed [6c Qd] and lost with a straight, Ten to Ace
+Seat 4: SantiagoWeight folded before Flop (didn't bet)
+Seat 5: Mr.Yrai folded before Flop (didn't bet)
+Seat 6: wardy407 showed [3d 4h] and won ($0.88) with a flush, Ace high
+
+
+
+PokerStars Zoom Hand #195041810458:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:00:40 UTC [2018/12/29 12:00:40 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($5 in chips) 
+Seat 2: begze ($4.63 in chips) 
+Seat 3: LWD19990723 ($5.24 in chips) 
+Seat 4: anngule ($7.48 in chips) 
+Seat 5: TheRealZzoop ($9.05 in chips) 
+Seat 6: racsou2012 ($13.22 in chips) 
+begze: posts small blind $0.02
+LWD19990723: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [8s 8c]
+anngule: folds 
+TheRealZzoop: raises $0.10 to $0.15
+racsou2012: folds 
+SantiagoWeight: calls $0.15
+begze: folds 
+LWD19990723: calls $0.10
+*** FLOP *** [3c Qh Td]
+LWD19990723: bets $0.25
+TheRealZzoop: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.25) returned to LWD19990723
+LWD19990723 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [3c Qh Td]
+Seat 1: SantiagoWeight (button) folded on the Flop
+Seat 2: begze (small blind) folded before Flop
+Seat 3: LWD19990723 (big blind) collected ($0.45)
+Seat 4: anngule folded before Flop (didn't bet)
+Seat 5: TheRealZzoop folded on the Flop
+Seat 6: racsou2012 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041838683:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:01:26 UTC [2018/12/29 12:01:26 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: GameOverDude44 ($5.38 in chips) 
+Seat 2: barbos2009 ($5.74 in chips) 
+Seat 3: SantiagoWeight ($5 in chips) 
+Seat 4: XXschmidtX ($30.90 in chips) 
+Seat 5: luzbelit026 ($4.51 in chips) 
+Seat 6: redbkey ($2.21 in chips) 
+barbos2009: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [5c Kc]
+XXschmidtX: folds 
+luzbelit026: folds 
+redbkey: folds 
+GameOverDude44: raises $0.07 to $0.12
+barbos2009: folds 
+SantiagoWeight: calls $0.07
+*** FLOP *** [Td Kh 7c]
+SantiagoWeight: checks 
+GameOverDude44: bets $0.12
+SantiagoWeight: calls $0.12
+*** TURN *** [Td Kh 7c] [Ac]
+SantiagoWeight: checks 
+GameOverDude44: bets $0.26
+SantiagoWeight: calls $0.26
+*** RIVER *** [Td Kh 7c Ac] [Qc]
+SantiagoWeight: checks 
+GameOverDude44: checks 
+*** SHOW DOWN ***
+SantiagoWeight: shows [5c Kc] (a flush, Ace high)
+GameOverDude44: mucks hand 
+SantiagoWeight collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [Td Kh 7c Ac Qc]
+Seat 1: GameOverDude44 (button) mucked [6s 6h]
+Seat 2: barbos2009 (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) showed [5c Kc] and won ($0.98) with a flush, Ace high
+Seat 4: XXschmidtX folded before Flop (didn't bet)
+Seat 5: luzbelit026 folded before Flop (didn't bet)
+Seat 6: redbkey folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041883240:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:02:34 UTC [2018/12/29 12:02:34 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Loose89allin ($5.02 in chips) 
+Seat 2: MuUkR ($7.52 in chips) 
+Seat 3: Dispetcher99 ($5.39 in chips) 
+Seat 4: juanramirez668 ($4.97 in chips) 
+Seat 5: SantiagoWeight ($5.48 in chips) 
+Seat 6: TheRealZzoop ($8.88 in chips) 
+MuUkR: posts small blind $0.02
+Dispetcher99: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Ks As]
+juanramirez668: folds 
+SantiagoWeight: raises $0.07 to $0.12
+TheRealZzoop: folds 
+Loose89allin: folds 
+MuUkR: folds 
+Dispetcher99: folds 
+Uncalled bet ($0.07) returned to SantiagoWeight
+SantiagoWeight collected $0.12 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Loose89allin (button) folded before Flop (didn't bet)
+Seat 2: MuUkR (small blind) folded before Flop
+Seat 3: Dispetcher99 (big blind) folded before Flop
+Seat 4: juanramirez668 folded before Flop (didn't bet)
+Seat 5: SantiagoWeight collected ($0.12)
+Seat 6: TheRealZzoop folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041895525:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:02:51 UTC [2018/12/29 12:02:51 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: nuts1got ($10.59 in chips) 
+Seat 2: SantiagoWeight ($5.55 in chips) 
+Seat 3: AlexGus101 ($5.11 in chips) 
+Seat 4: zzpotter ($5.37 in chips) 
+Seat 5: !EXXERRZIST! ($5.06 in chips) 
+Seat 6: brumie59 ($1.48 in chips) 
+SantiagoWeight: posts small blind $0.02
+AlexGus101: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Ks Ad]
+zzpotter: folds 
+!EXXERRZIST!: folds 
+brumie59: folds 
+nuts1got: folds 
+SantiagoWeight: raises $0.08 to $0.13
+AlexGus101: folds 
+Uncalled bet ($0.08) returned to SantiagoWeight
+SantiagoWeight collected $0.10 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: nuts1got (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) collected ($0.10)
+Seat 3: AlexGus101 (big blind) folded before Flop
+Seat 4: zzpotter folded before Flop (didn't bet)
+Seat 5: !EXXERRZIST! folded before Flop (didn't bet)
+Seat 6: brumie59 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041908051:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:03:10 UTC [2018/12/29 12:03:10 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: serathic ($17.15 in chips) 
+Seat 2: szücsferi ($5.22 in chips) 
+Seat 3: FAMMA_okk ($8.21 in chips) 
+Seat 4: zzpotter ($5.39 in chips) 
+Seat 5: lunkjis ($5.55 in chips) 
+Seat 6: SantiagoWeight ($5.60 in chips) 
+szücsferi: posts small blind $0.02
+FAMMA_okk: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Ac 9d]
+zzpotter: folds 
+lunkjis: folds 
+SantiagoWeight: raises $0.06 to $0.11
+serathic: folds 
+szücsferi: folds 
+FAMMA_okk: folds 
+Uncalled bet ($0.06) returned to SantiagoWeight
+SantiagoWeight collected $0.12 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: serathic (button) folded before Flop (didn't bet)
+Seat 2: szücsferi (small blind) folded before Flop
+Seat 3: FAMMA_okk (big blind) folded before Flop
+Seat 4: zzpotter folded before Flop (didn't bet)
+Seat 5: lunkjis folded before Flop (didn't bet)
+Seat 6: SantiagoWeight collected ($0.12)
+
+
+
+PokerStars Zoom Hand #195041919801:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:03:26 UTC [2018/12/29 12:03:26 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: boristhebyrd ($5.06 in chips) 
+Seat 2: ramonmbr267 ($7.42 in chips) 
+Seat 3: Panametrics5 ($4.07 in chips) 
+Seat 4: SantiagoWeight ($5.67 in chips) 
+Seat 5: errwin157 ($5.14 in chips) 
+Seat 6: yellow140 ($4.58 in chips) 
+ramonmbr267: posts small blind $0.02
+Panametrics5: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qc 6c]
+SantiagoWeight: folds 
+errwin157: folds 
+yellow140: folds 
+boristhebyrd: folds 
+ramonmbr267: folds 
+Uncalled bet ($0.03) returned to Panametrics5
+Panametrics5 collected $0.04 from pot
+Panametrics5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: boristhebyrd (button) folded before Flop (didn't bet)
+Seat 2: ramonmbr267 (small blind) folded before Flop
+Seat 3: Panametrics5 (big blind) collected ($0.04)
+Seat 4: SantiagoWeight folded before Flop (didn't bet)
+Seat 5: errwin157 folded before Flop (didn't bet)
+Seat 6: yellow140 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041929311:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:03:40 UTC [2018/12/29 12:03:40 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($5.67 in chips) 
+Seat 2: MiniMakin ($5 in chips) 
+Seat 3: Faramir70 ($4.75 in chips) 
+Seat 4: juanramirez668 ($4.81 in chips) 
+Seat 5: racsou2012 ($12.74 in chips) 
+Seat 6: benchstyle ($5.21 in chips) 
+MiniMakin: posts small blind $0.02
+Faramir70: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [9h Jd]
+juanramirez668: folds 
+racsou2012: folds 
+benchstyle: raises $0.10 to $0.15
+SantiagoWeight: folds 
+MiniMakin: folds 
+Faramir70: calls $0.10
+*** FLOP *** [4d 8h 8s]
+Faramir70: checks 
+benchstyle: bets $0.17
+Faramir70: folds 
+Uncalled bet ($0.17) returned to benchstyle
+benchstyle collected $0.31 from pot
+benchstyle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [4d 8h 8s]
+Seat 1: SantiagoWeight (button) folded before Flop (didn't bet)
+Seat 2: MiniMakin (small blind) folded before Flop
+Seat 3: Faramir70 (big blind) folded on the Flop
+Seat 4: juanramirez668 folded before Flop (didn't bet)
+Seat 5: racsou2012 folded before Flop (didn't bet)
+Seat 6: benchstyle collected ($0.31)
+
+
+
+PokerStars Zoom Hand #195041939711:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:03:55 UTC [2018/12/29 12:03:55 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: elvis_genius ($15.31 in chips) 
+Seat 2: asteins ($5.07 in chips) 
+Seat 3: SantiagoWeight ($5.67 in chips) 
+Seat 4: barbos2009 ($12.32 in chips) 
+Seat 5: Borsalinoo ($4.36 in chips) 
+Seat 6: luzbelit026 ($4.66 in chips) 
+asteins: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [5s 5c]
+barbos2009: folds 
+Borsalinoo: folds 
+luzbelit026: folds 
+elvis_genius: raises $0.10 to $0.15
+asteins: folds 
+SantiagoWeight: calls $0.10
+*** FLOP *** [Jd 7s 2d]
+SantiagoWeight: checks 
+elvis_genius: checks 
+*** TURN *** [Jd 7s 2d] [6s]
+SantiagoWeight: checks 
+elvis_genius: checks 
+*** RIVER *** [Jd 7s 2d 6s] [Ad]
+SantiagoWeight: checks 
+elvis_genius: bets $0.16
+SantiagoWeight: folds 
+Uncalled bet ($0.16) returned to elvis_genius
+elvis_genius collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Jd 7s 2d 6s Ad]
+Seat 1: elvis_genius (button) collected ($0.31)
+Seat 2: asteins (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) folded on the River
+Seat 4: barbos2009 folded before Flop (didn't bet)
+Seat 5: Borsalinoo folded before Flop (didn't bet)
+Seat 6: luzbelit026 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041985878:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:05:01 UTC [2018/12/29 12:05:01 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: !EXXERRZIST! ($7.98 in chips) 
+Seat 2: SantiagoWeight ($5.52 in chips) 
+Seat 3: PatricCJ ($6.77 in chips) 
+Seat 4: ProoShift ($8.43 in chips) 
+Seat 5: A.Sobinin ($6.90 in chips) 
+Seat 6: Vorontsov28 ($5 in chips) 
+SantiagoWeight: posts small blind $0.02
+PatricCJ: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [7c 4c]
+ProoShift: folds 
+A.Sobinin: folds 
+Vorontsov28: folds 
+!EXXERRZIST!: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.03) returned to PatricCJ
+PatricCJ collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: !EXXERRZIST! (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: PatricCJ (big blind) collected ($0.04)
+Seat 4: ProoShift folded before Flop (didn't bet)
+Seat 5: A.Sobinin folded before Flop (didn't bet)
+Seat 6: Vorontsov28 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195041997749:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:05:18 UTC [2018/12/29 12:05:18 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Blac Wi ($2.60 in chips) 
+Seat 2: LWD19990723 ($5.83 in chips) 
+Seat 3: LeeGehr ($7.94 in chips) 
+Seat 4: Baldur_s666 ($6.25 in chips) 
+Seat 5: SantiagoWeight ($5.50 in chips) 
+Seat 6: gregzila ($4.93 in chips) 
+LWD19990723: posts small blind $0.02
+LeeGehr: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [9s 2d]
+Baldur_s666: folds 
+SantiagoWeight: folds 
+gregzila: folds 
+Blac Wi: folds 
+LWD19990723: folds 
+Uncalled bet ($0.03) returned to LeeGehr
+LeeGehr collected $0.04 from pot
+LeeGehr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Blac Wi (button) folded before Flop (didn't bet)
+Seat 2: LWD19990723 (small blind) folded before Flop
+Seat 3: LeeGehr (big blind) collected ($0.04)
+Seat 4: Baldur_s666 folded before Flop (didn't bet)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: gregzila folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042001253:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:05:23 UTC [2018/12/29 12:05:23 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Timotixx ($5.19 in chips) 
+Seat 2: budzyakua ($2.73 in chips) 
+Seat 3: Yura85kg ($7.76 in chips) 
+Seat 4: AlexW2805 ($12.99 in chips) 
+Seat 5: bomtempo90 ($5.22 in chips) 
+Seat 6: SantiagoWeight ($5.50 in chips) 
+budzyakua: posts small blind $0.02
+Yura85kg: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Ac Qh]
+AlexW2805: folds 
+bomtempo90: folds 
+SantiagoWeight: raises $0.06 to $0.11
+Timotixx: raises $0.24 to $0.35
+budzyakua: folds 
+Yura85kg: folds 
+SantiagoWeight: calls $0.24
+*** FLOP *** [Jd 2s Ts]
+SantiagoWeight: checks 
+Timotixx: checks 
+*** TURN *** [Jd 2s Ts] [3s]
+SantiagoWeight: bets $0.49
+Timotixx: folds 
+Uncalled bet ($0.49) returned to SantiagoWeight
+SantiagoWeight collected $0.74 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Jd 2s Ts 3s]
+Seat 1: Timotixx (button) folded on the Turn
+Seat 2: budzyakua (small blind) folded before Flop
+Seat 3: Yura85kg (big blind) folded before Flop
+Seat 4: AlexW2805 folded before Flop (didn't bet)
+Seat 5: bomtempo90 folded before Flop (didn't bet)
+Seat 6: SantiagoWeight collected ($0.74)
+
+
+
+PokerStars Zoom Hand #195042033091:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:06:08 UTC [2018/12/29 12:06:08 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: muck234 ($4.67 in chips) 
+Seat 2: proxt17 ($4.19 in chips) 
+Seat 3: gregzila ($4.78 in chips) 
+Seat 4: SantiagoWeight ($5.89 in chips) 
+Seat 5: TaymyrGER ($5.79 in chips) 
+Seat 6: mine4sure ($7.75 in chips) 
+proxt17: posts small blind $0.02
+gregzila: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [7c 4h]
+SantiagoWeight: folds 
+TaymyrGER: folds 
+mine4sure: raises $0.05 to $0.10
+muck234: folds 
+proxt17: folds 
+gregzila: calls $0.05
+*** FLOP *** [Ah 8c Js]
+gregzila: bets $0.21
+mine4sure: folds 
+Uncalled bet ($0.21) returned to gregzila
+gregzila collected $0.21 from pot
+gregzila: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Ah 8c Js]
+Seat 1: muck234 (button) folded before Flop (didn't bet)
+Seat 2: proxt17 (small blind) folded before Flop
+Seat 3: gregzila (big blind) collected ($0.21)
+Seat 4: SantiagoWeight folded before Flop (didn't bet)
+Seat 5: TaymyrGER folded before Flop (didn't bet)
+Seat 6: mine4sure folded on the Flop
+
+
+
+PokerStars Zoom Hand #195042028818:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:06:02 UTC [2018/12/29 12:06:02 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: chenechka ($4.37 in chips) 
+Seat 2: chumly88 ($9.02 in chips) 
+Seat 3: nikkfurie019 ($6.52 in chips) 
+Seat 4: SantiagoWeight ($5.89 in chips) 
+Seat 5: Vovik936 ($3.90 in chips) 
+Seat 6: Rynemon ($5.19 in chips) 
+chumly88: posts small blind $0.02
+nikkfurie019: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [7c 9h]
+SantiagoWeight: folds 
+Vovik936: calls $0.05
+Rynemon: raises $0.17 to $0.22
+chenechka: calls $0.22
+chumly88: folds 
+nikkfurie019: folds 
+Vovik936: calls $0.17
+*** FLOP *** [Qc Ah 9c]
+Vovik936: checks 
+Rynemon: bets $0.97
+chenechka: folds 
+Vovik936: calls $0.97
+*** TURN *** [Qc Ah 9c] [7d]
+Vovik936: checks 
+Rynemon: bets $4 and is all-in
+Vovik936: folds 
+Uncalled bet ($4) returned to Rynemon
+Rynemon collected $2.56 from pot
+Rynemon: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.67 | Rake $0.11 
+Board [Qc Ah 9c 7d]
+Seat 1: chenechka (button) folded on the Flop
+Seat 2: chumly88 (small blind) folded before Flop
+Seat 3: nikkfurie019 (big blind) folded before Flop
+Seat 4: SantiagoWeight folded before Flop (didn't bet)
+Seat 5: Vovik936 folded on the Turn
+Seat 6: Rynemon collected ($2.56)
+
+
+
+PokerStars Zoom Hand #195042046505:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:06:27 UTC [2018/12/29 12:06:27 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Sergei271085 ($5.12 in chips) 
+Seat 2: SantiagoWeight ($5.89 in chips) 
+Seat 3: kundiablo808 ($6.02 in chips) 
+Seat 4: VreditelL ($3.68 in chips) 
+Seat 5: ogiline ($5.93 in chips) 
+Seat 6: Mista Live ($5 in chips) 
+SantiagoWeight: posts small blind $0.02
+kundiablo808: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [7h Ks]
+VreditelL: raises $0.10 to $0.15
+ogiline: raises $0.37 to $0.52
+Mista Live: folds 
+Sergei271085: folds 
+SantiagoWeight: folds 
+kundiablo808: folds 
+VreditelL: calls $0.37
+*** FLOP *** [5s 9c 4d]
+VreditelL: checks 
+ogiline: bets $0.80
+VreditelL: folds 
+Uncalled bet ($0.80) returned to ogiline
+ogiline collected $1.06 from pot
+ogiline: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.05 
+Board [5s 9c 4d]
+Seat 1: Sergei271085 (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: kundiablo808 (big blind) folded before Flop
+Seat 4: VreditelL folded on the Flop
+Seat 5: ogiline collected ($1.06)
+Seat 6: Mista Live folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042035856:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:06:12 UTC [2018/12/29 12:06:12 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($5.89 in chips) 
+Seat 2: Der.More ($6.33 in chips) 
+Seat 3: kostariki ($4.82 in chips) 
+Seat 4: Haschanascha ($5.02 in chips) 
+Seat 5: tuta25558 ($5.16 in chips) 
+Seat 6: TheRealZzoop ($5 in chips) 
+Der.More: posts small blind $0.02
+kostariki: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [5d 4s]
+Haschanascha: raises $0.07 to $0.12
+tuta25558: calls $0.12
+TheRealZzoop: calls $0.12
+SantiagoWeight: folds 
+Der.More: folds 
+kostariki: calls $0.07
+*** FLOP *** [3h Qh Js]
+kostariki: checks 
+Haschanascha: checks 
+tuta25558: checks 
+TheRealZzoop: checks 
+*** TURN *** [3h Qh Js] [5h]
+kostariki: checks 
+Haschanascha: checks 
+tuta25558: bets $0.20
+TheRealZzoop: folds 
+kostariki: folds 
+Haschanascha: folds 
+Uncalled bet ($0.20) returned to tuta25558
+tuta25558 collected $0.48 from pot
+tuta25558: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [3h Qh Js 5h]
+Seat 1: SantiagoWeight (button) folded before Flop (didn't bet)
+Seat 2: Der.More (small blind) folded before Flop
+Seat 3: kostariki (big blind) folded on the Turn
+Seat 4: Haschanascha folded on the Turn
+Seat 5: tuta25558 collected ($0.48)
+Seat 6: TheRealZzoop folded on the Turn
+
+
+
+PokerStars Zoom Hand #195042060448:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:06:47 UTC [2018/12/29 12:06:47 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: HarryGamer12 ($2.90 in chips) 
+Seat 2: ghjrehjh277 ($5.01 in chips) 
+Seat 3: SantiagoWeight ($5.87 in chips) 
+Seat 4: Pabllo1988 ($4.89 in chips) 
+Seat 5: KA1ZER9511 ($2.54 in chips) 
+Seat 6: Damir921 ($2.99 in chips) 
+ghjrehjh277: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [5d 6h]
+Pabllo1988: raises $0.05 to $0.10
+KA1ZER9511: folds 
+Damir921: folds 
+HarryGamer12: folds 
+ghjrehjh277: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.05) returned to Pabllo1988
+Pabllo1988 collected $0.12 from pot
+Pabllo1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: HarryGamer12 (button) folded before Flop (didn't bet)
+Seat 2: ghjrehjh277 (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) folded before Flop
+Seat 4: Pabllo1988 collected ($0.12)
+Seat 5: KA1ZER9511 folded before Flop (didn't bet)
+Seat 6: Damir921 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042075905:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:07:09 UTC [2018/12/29 12:07:09 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: pokerhorror ($14.08 in chips) 
+Seat 2: Psihopat50 ($12.10 in chips) 
+Seat 3: namandrew ($2.73 in chips) 
+Seat 4: boywondert36 ($9.24 in chips) 
+Seat 5: TheN@kedGun ($5.70 in chips) 
+Seat 6: SantiagoWeight ($5.82 in chips) 
+Psihopat50: posts small blind $0.02
+namandrew: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Kh 9c]
+boywondert36: calls $0.05
+TheN@kedGun: folds 
+SantiagoWeight: raises $0.06 to $0.11
+pokerhorror: folds 
+Psihopat50: folds 
+namandrew: raises $0.29 to $0.40
+boywondert36: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.29) returned to namandrew
+namandrew collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0 
+Seat 1: pokerhorror (button) folded before Flop (didn't bet)
+Seat 2: Psihopat50 (small blind) folded before Flop
+Seat 3: namandrew (big blind) collected ($0.29)
+Seat 4: boywondert36 folded before Flop
+Seat 5: TheN@kedGun folded before Flop (didn't bet)
+Seat 6: SantiagoWeight folded before Flop
+
+
+
+PokerStars Zoom Hand #195042092212:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:07:32 UTC [2018/12/29 12:07:32 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($5.71 in chips) 
+Seat 2: szgzs ($7.18 in chips) 
+Seat 3: lagunacar ($7.79 in chips) 
+Seat 4: anngule ($8.42 in chips) 
+Seat 5: Tihan111 ($16.07 in chips) 
+Seat 6: LaughingMenX ($5 in chips) 
+szgzs: posts small blind $0.02
+lagunacar: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [7h Jd]
+anngule: folds 
+Tihan111: raises $0.10 to $0.15
+LaughingMenX: folds 
+SantiagoWeight: folds 
+szgzs: folds 
+lagunacar: folds 
+Uncalled bet ($0.10) returned to Tihan111
+Tihan111 collected $0.12 from pot
+Tihan111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: SantiagoWeight (button) folded before Flop (didn't bet)
+Seat 2: szgzs (small blind) folded before Flop
+Seat 3: lagunacar (big blind) folded before Flop
+Seat 4: anngule folded before Flop (didn't bet)
+Seat 5: Tihan111 collected ($0.12)
+Seat 6: LaughingMenX folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042099185:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:07:42 UTC [2018/12/29 12:07:42 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: MastiffSmilla ($4.76 in chips) 
+Seat 2: SantiagoWeight ($5.71 in chips) 
+Seat 3: DieMoeller ($4.82 in chips) 
+Seat 4: errwin157 ($9.79 in chips) 
+Seat 5: Kingroel ($5.49 in chips) 
+Seat 6: Borsalinoo ($5.16 in chips) 
+SantiagoWeight: posts small blind $0.02
+DieMoeller: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [5s 4s]
+errwin157: folds 
+Kingroel: folds 
+Borsalinoo: raises $0.10 to $0.15
+MastiffSmilla: folds 
+SantiagoWeight: folds 
+DieMoeller: folds 
+Uncalled bet ($0.10) returned to Borsalinoo
+Borsalinoo collected $0.12 from pot
+Borsalinoo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: MastiffSmilla (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: DieMoeller (big blind) folded before Flop
+Seat 4: errwin157 folded before Flop (didn't bet)
+Seat 5: Kingroel folded before Flop (didn't bet)
+Seat 6: Borsalinoo collected ($0.12)
+
+
+
+PokerStars Zoom Hand #195042113409:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:08:02 UTC [2018/12/29 12:08:02 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: szgzs ($5 in chips) 
+Seat 2: mcqueen3370 ($6.66 in chips) 
+Seat 3: aka_d_trick ($10.16 in chips) 
+Seat 4: szücsferi ($5.70 in chips) 
+Seat 5: MiniMakin ($5.44 in chips) 
+Seat 6: SantiagoWeight ($5.69 in chips) 
+mcqueen3370: posts small blind $0.02
+aka_d_trick: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2s Ks]
+szücsferi: folds 
+MiniMakin: folds 
+SantiagoWeight: raises $0.06 to $0.11
+szgzs: folds 
+mcqueen3370: folds 
+aka_d_trick: calls $0.06
+*** FLOP *** [6d Jh Jc]
+aka_d_trick: checks 
+SantiagoWeight: bets $0.06
+aka_d_trick: calls $0.06
+*** TURN *** [6d Jh Jc] [Td]
+aka_d_trick: checks 
+SantiagoWeight: checks 
+*** RIVER *** [6d Jh Jc Td] [4s]
+aka_d_trick: checks 
+SantiagoWeight: checks 
+*** SHOW DOWN ***
+aka_d_trick: shows [6s As] (two pair, Jacks and Sixes)
+SantiagoWeight: mucks hand 
+aka_d_trick collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [6d Jh Jc Td 4s]
+Seat 1: szgzs (button) folded before Flop (didn't bet)
+Seat 2: mcqueen3370 (small blind) folded before Flop
+Seat 3: aka_d_trick (big blind) showed [6s As] and won ($0.35) with two pair, Jacks and Sixes
+Seat 4: szücsferi folded before Flop (didn't bet)
+Seat 5: MiniMakin folded before Flop (didn't bet)
+Seat 6: SantiagoWeight mucked [2s Ks]
+
+
+
+PokerStars Zoom Hand #195042158986:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:09:07 UTC [2018/12/29 12:09:07 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: vanDEmaaan ($6.46 in chips) 
+Seat 2: muchahos ($5.85 in chips) 
+Seat 3: nikkfurie019 ($6.37 in chips) 
+Seat 4: SantiagoWeight ($5.52 in chips) 
+Seat 5: inth5643 ($4.69 in chips) 
+Seat 6: joespar ($9.40 in chips) 
+muchahos: posts small blind $0.02
+nikkfurie019: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [8h Qh]
+SantiagoWeight: folds 
+inth5643: folds 
+joespar: folds 
+vanDEmaaan: folds 
+muchahos: folds 
+Uncalled bet ($0.03) returned to nikkfurie019
+nikkfurie019 collected $0.04 from pot
+nikkfurie019: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: vanDEmaaan (button) folded before Flop (didn't bet)
+Seat 2: muchahos (small blind) folded before Flop
+Seat 3: nikkfurie019 (big blind) collected ($0.04)
+Seat 4: SantiagoWeight folded before Flop (didn't bet)
+Seat 5: inth5643 folded before Flop (didn't bet)
+Seat 6: joespar folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042163199:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:09:13 UTC [2018/12/29 12:09:13 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: PolishxJoker ($6.50 in chips) 
+Seat 2: ogiline ($6.03 in chips) 
+Seat 3: PatricCJ ($5.45 in chips) 
+Seat 4: GameOverDude44 ($5.02 in chips) 
+Seat 5: SantiagoWeight ($5.52 in chips) 
+Seat 6: pirkios1994 ($12.12 in chips) 
+ogiline: posts small blind $0.02
+PatricCJ: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [3c 3s]
+GameOverDude44: folds 
+SantiagoWeight: raises $0.07 to $0.12
+pirkios1994: folds 
+PolishxJoker: folds 
+ogiline: folds 
+PatricCJ: folds 
+Uncalled bet ($0.07) returned to SantiagoWeight
+SantiagoWeight collected $0.12 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: PolishxJoker (button) folded before Flop (didn't bet)
+Seat 2: ogiline (small blind) folded before Flop
+Seat 3: PatricCJ (big blind) folded before Flop
+Seat 4: GameOverDude44 folded before Flop (didn't bet)
+Seat 5: SantiagoWeight collected ($0.12)
+Seat 6: pirkios1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042178118:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:09:34 UTC [2018/12/29 12:09:34 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: kleinfee.1st ($6.63 in chips) 
+Seat 2: boywondert36 ($9.57 in chips) 
+Seat 3: SantiagoWeight ($5.59 in chips) 
+Seat 4: JB027 ($4.04 in chips) 
+Seat 5: AlexGus101 ($7.09 in chips) 
+Seat 6: SinterPriel ($4.56 in chips) 
+boywondert36: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [3c 3h]
+JB027: folds 
+AlexGus101: raises $0.10 to $0.15
+SinterPriel: calls $0.15
+kleinfee.1st: folds 
+boywondert36: calls $0.13
+SantiagoWeight: calls $0.10
+*** FLOP *** [7c Ah 9c]
+boywondert36: checks 
+SantiagoWeight: checks 
+AlexGus101: checks 
+SinterPriel: checks 
+*** TURN *** [7c Ah 9c] [Ad]
+boywondert36: bets $0.29
+SantiagoWeight: folds 
+AlexGus101: folds 
+SinterPriel: folds 
+Uncalled bet ($0.29) returned to boywondert36
+boywondert36 collected $0.58 from pot
+boywondert36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [7c Ah 9c Ad]
+Seat 1: kleinfee.1st (button) folded before Flop (didn't bet)
+Seat 2: boywondert36 (small blind) collected ($0.58)
+Seat 3: SantiagoWeight (big blind) folded on the Turn
+Seat 4: JB027 folded before Flop (didn't bet)
+Seat 5: AlexGus101 folded on the Turn
+Seat 6: SinterPriel folded on the Turn
+
+
+
+PokerStars Zoom Hand #195042211162:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:10:21 UTC [2018/12/29 12:10:21 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: TNJEIM ($5 in chips) 
+Seat 2: Timotixx ($8.02 in chips) 
+Seat 3: naftina ($5.91 in chips) 
+Seat 4: pankratt ($19.50 in chips) 
+Seat 5: SantiagoWeight ($5.44 in chips) 
+Seat 6: mcqueen3370 ($6.41 in chips) 
+Timotixx: posts small blind $0.02
+naftina: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Jh Qs]
+pankratt: folds 
+SantiagoWeight: raises $0.07 to $0.12
+mcqueen3370: folds 
+TNJEIM: folds 
+Timotixx: folds 
+naftina: folds 
+Uncalled bet ($0.07) returned to SantiagoWeight
+SantiagoWeight collected $0.12 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: TNJEIM (button) folded before Flop (didn't bet)
+Seat 2: Timotixx (small blind) folded before Flop
+Seat 3: naftina (big blind) folded before Flop
+Seat 4: pankratt folded before Flop (didn't bet)
+Seat 5: SantiagoWeight collected ($0.12)
+Seat 6: mcqueen3370 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042218858:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:10:32 UTC [2018/12/29 12:10:32 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Tonajs ($5.09 in chips) 
+Seat 2: TULYA 15 ($4.86 in chips) 
+Seat 3: MastiffSmilla ($4.37 in chips) 
+Seat 4: SantiagoWeight ($5.51 in chips) 
+Seat 5: nutella0123 ($7.98 in chips) 
+Seat 6: Raubtier92 ($5.07 in chips) 
+TULYA 15: posts small blind $0.02
+MastiffSmilla: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Ac Qh]
+SantiagoWeight: raises $0.08 to $0.13
+nutella0123: folds 
+Raubtier92: folds 
+Tonajs: calls $0.13
+TULYA 15: folds 
+MastiffSmilla: folds 
+*** FLOP *** [Td Kh Jh]
+SantiagoWeight: bets $0.21
+Tonajs: calls $0.21
+*** TURN *** [Td Kh Jh] [8d]
+SantiagoWeight: bets $0.66
+Tonajs: calls $0.66
+*** RIVER *** [Td Kh Jh 8d] [4h]
+SantiagoWeight: bets $0.72
+Tonajs: calls $0.72
+*** SHOW DOWN ***
+SantiagoWeight: shows [Ac Qh] (a straight, Ten to Ace)
+Tonajs: mucks hand 
+SantiagoWeight collected $3.36 from pot
+*** SUMMARY ***
+Total pot $3.51 | Rake $0.15 
+Board [Td Kh Jh 8d 4h]
+Seat 1: Tonajs (button) mucked [Kc Ah]
+Seat 2: TULYA 15 (small blind) folded before Flop
+Seat 3: MastiffSmilla (big blind) folded before Flop
+Seat 4: SantiagoWeight showed [Ac Qh] and won ($3.36) with a straight, Ten to Ace
+Seat 5: nutella0123 folded before Flop (didn't bet)
+Seat 6: Raubtier92 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042270245:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:11:45 UTC [2018/12/29 12:11:45 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($7.15 in chips) 
+Seat 2: Nomoney099 ($7.26 in chips) 
+Seat 3: stinksamaki6 ($2.87 in chips) 
+Seat 4: !EXXERRZIST! ($7.36 in chips) 
+Seat 5: despot17 ($4.90 in chips) 
+Seat 6: Gogy201 ($4.73 in chips) 
+Nomoney099: posts small blind $0.02
+stinksamaki6: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [6d Jh]
+!EXXERRZIST!: folds 
+despot17: folds 
+Gogy201: folds 
+SantiagoWeight: folds 
+Nomoney099: folds 
+Uncalled bet ($0.03) returned to stinksamaki6
+stinksamaki6 collected $0.04 from pot
+stinksamaki6: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: SantiagoWeight (button) folded before Flop (didn't bet)
+Seat 2: Nomoney099 (small blind) folded before Flop
+Seat 3: stinksamaki6 (big blind) collected ($0.04)
+Seat 4: !EXXERRZIST! folded before Flop (didn't bet)
+Seat 5: despot17 folded before Flop (didn't bet)
+Seat 6: Gogy201 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042277367:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:11:55 UTC [2018/12/29 12:11:55 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: errwin157 ($5 in chips) 
+Seat 2: Semik1969 ($3.08 in chips) 
+Seat 3: putya-putya ($5 in chips) 
+Seat 4: fcsb75 ($2.16 in chips) 
+Seat 5: SantiagoWeight ($7.15 in chips) 
+Seat 6: Psihopat50 ($16.15 in chips) 
+Semik1969: posts small blind $0.02
+putya-putya: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Jd 8d]
+fcsb75: folds 
+SantiagoWeight: folds 
+Psihopat50: folds 
+errwin157: folds 
+Semik1969: raises $0.10 to $0.15
+putya-putya: folds 
+Uncalled bet ($0.10) returned to Semik1969
+Semik1969 collected $0.10 from pot
+Semik1969: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: errwin157 (button) folded before Flop (didn't bet)
+Seat 2: Semik1969 (small blind) collected ($0.10)
+Seat 3: putya-putya (big blind) folded before Flop
+Seat 4: fcsb75 folded before Flop (didn't bet)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: Psihopat50 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042285803:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:12:07 UTC [2018/12/29 12:12:07 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Piotr2244668 ($13.29 in chips) 
+Seat 2: Loose89allin ($5.29 in chips) 
+Seat 3: paulinhoo988 ($5.16 in chips) 
+Seat 4: SantiagoWeight ($7.15 in chips) 
+Seat 5: MrWh1te001 ($11.79 in chips) 
+Seat 6: PAF_SL ($4.86 in chips) 
+Loose89allin: posts small blind $0.02
+paulinhoo988: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [3c 5h]
+SantiagoWeight: folds 
+MrWh1te001: folds 
+PAF_SL: folds 
+Piotr2244668: folds 
+Loose89allin: folds 
+Uncalled bet ($0.03) returned to paulinhoo988
+paulinhoo988 collected $0.04 from pot
+paulinhoo988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Piotr2244668 (button) folded before Flop (didn't bet)
+Seat 2: Loose89allin (small blind) folded before Flop
+Seat 3: paulinhoo988 (big blind) collected ($0.04)
+Seat 4: SantiagoWeight folded before Flop (didn't bet)
+Seat 5: MrWh1te001 folded before Flop (didn't bet)
+Seat 6: PAF_SL folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042295733:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:12:21 UTC [2018/12/29 12:12:21 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: begze ($8.06 in chips) 
+Seat 2: hiyahiyaho1 ($3.48 in chips) 
+Seat 3: SantiagoWeight ($7.15 in chips) 
+Seat 4: chumly88 ($5 in chips) 
+Seat 5: Juonez ($5.24 in chips) 
+Seat 6: luzbelit026 ($4.44 in chips) 
+hiyahiyaho1: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Ts 6d]
+chumly88: folds 
+Juonez: folds 
+luzbelit026: folds 
+begze: folds 
+hiyahiyaho1: raises $0.05 to $0.10
+SantiagoWeight: calls $0.05
+*** FLOP *** [9h Qd 4d]
+hiyahiyaho1: bets $0.10
+SantiagoWeight: folds 
+Uncalled bet ($0.10) returned to hiyahiyaho1
+hiyahiyaho1 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9h Qd 4d]
+Seat 1: begze (button) folded before Flop (didn't bet)
+Seat 2: hiyahiyaho1 (small blind) collected ($0.19)
+Seat 3: SantiagoWeight (big blind) folded on the Flop
+Seat 4: chumly88 folded before Flop (didn't bet)
+Seat 5: Juonez folded before Flop (didn't bet)
+Seat 6: luzbelit026 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042315487:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:12:49 UTC [2018/12/29 12:12:49 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($7.03 in chips) 
+Seat 2: Raubtier92 ($5.02 in chips) 
+Seat 3: Webac ($6.37 in chips) 
+Seat 4: kundiablo808 ($5.34 in chips) 
+Seat 5: tuta25558 ($1.45 in chips) 
+Seat 6: kellprice ($10.28 in chips) 
+Raubtier92: posts small blind $0.02
+Webac: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Kd 5s]
+kundiablo808: folds 
+tuta25558: folds 
+kellprice: folds 
+SantiagoWeight: raises $0.06 to $0.11
+Raubtier92: folds 
+Webac: folds 
+Uncalled bet ($0.06) returned to SantiagoWeight
+SantiagoWeight collected $0.12 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: SantiagoWeight (button) collected ($0.12)
+Seat 2: Raubtier92 (small blind) folded before Flop
+Seat 3: Webac (big blind) folded before Flop
+Seat 4: kundiablo808 folded before Flop (didn't bet)
+Seat 5: tuta25558 folded before Flop (didn't bet)
+Seat 6: kellprice folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042309848:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:12:41 UTC [2018/12/29 12:12:41 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: S.K.V. Gold ($2.50 in chips) 
+Seat 2: SantiagoWeight ($7.05 in chips) 
+Seat 3: Faramir70 ($7.35 in chips) 
+Seat 4: zergmiky ($11.34 in chips) 
+Seat 5: Csabi4 ($5.16 in chips) 
+Seat 6: bucika 888 ($1.81 in chips) 
+SantiagoWeight: posts small blind $0.02
+Faramir70: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Jc 3d]
+zergmiky: folds 
+Csabi4: calls $0.05
+bucika 888: folds 
+S.K.V. Gold: folds 
+SantiagoWeight: folds 
+Faramir70: checks 
+*** FLOP *** [Kh 4c 9s]
+Faramir70: checks 
+Csabi4: checks 
+*** TURN *** [Kh 4c 9s] [Ac]
+Faramir70: checks 
+Csabi4: checks 
+*** RIVER *** [Kh 4c 9s Ac] [Ts]
+Faramir70: checks 
+Csabi4: checks 
+*** SHOW DOWN ***
+Faramir70: shows [4s 3s] (a pair of Fours)
+Csabi4: shows [Tc 7c] (a pair of Tens)
+Csabi4 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Kh 4c 9s Ac Ts]
+Seat 1: S.K.V. Gold (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: Faramir70 (big blind) showed [4s 3s] and lost with a pair of Fours
+Seat 4: zergmiky folded before Flop (didn't bet)
+Seat 5: Csabi4 showed [Tc 7c] and won ($0.12) with a pair of Tens
+Seat 6: bucika 888 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042330260:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:13:10 UTC [2018/12/29 12:13:10 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Gompertzzz ($28.41 in chips) 
+Seat 2: x-sl-x86 ($7.16 in chips) 
+Seat 3: Mss_cAshra ($11.51 in chips) 
+Seat 4: DeusRichie ($11.85 in chips) 
+Seat 5: SantiagoWeight ($7.10 in chips) 
+Seat 6: paulinhoo988 ($6.54 in chips) 
+x-sl-x86: posts small blind $0.02
+Mss_cAshra: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [9s Ts]
+DeusRichie: folds 
+SantiagoWeight: raises $0.07 to $0.12
+paulinhoo988: folds 
+Gompertzzz: folds 
+x-sl-x86: folds 
+Mss_cAshra: calls $0.07
+*** FLOP *** [4c 8h As]
+Mss_cAshra: checks 
+SantiagoWeight: bets $0.06
+Mss_cAshra: folds 
+Uncalled bet ($0.06) returned to SantiagoWeight
+SantiagoWeight collected $0.25 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [4c 8h As]
+Seat 1: Gompertzzz (button) folded before Flop (didn't bet)
+Seat 2: x-sl-x86 (small blind) folded before Flop
+Seat 3: Mss_cAshra (big blind) folded on the Flop
+Seat 4: DeusRichie folded before Flop (didn't bet)
+Seat 5: SantiagoWeight collected ($0.25)
+Seat 6: paulinhoo988 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042327353:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:13:06 UTC [2018/12/29 12:13:06 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Kingroel ($7.50 in chips) 
+Seat 2: XXschmidtX ($5.56 in chips) 
+Seat 3: PatricCJ ($5.13 in chips) 
+Seat 4: Baldur_s666 ($5.06 in chips) 
+Seat 5: lagunacar ($17.60 in chips) 
+Seat 6: SantiagoWeight ($7.10 in chips) 
+XXschmidtX: posts small blind $0.02
+PatricCJ: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [8h 7c]
+Baldur_s666: raises $0.09 to $0.14
+lagunacar: calls $0.14
+SantiagoWeight: folds 
+Kingroel: folds 
+XXschmidtX: folds 
+PatricCJ: folds 
+*** FLOP *** [7h 4s Kh]
+Baldur_s666: bets $0.24
+lagunacar: raises $0.24 to $0.48
+Baldur_s666: calls $0.24
+*** TURN *** [7h 4s Kh] [Td]
+Baldur_s666: checks 
+lagunacar: bets $0.65
+Baldur_s666: calls $0.65
+*** RIVER *** [7h 4s Kh Td] [Jc]
+Baldur_s666: checks 
+lagunacar: checks 
+*** SHOW DOWN ***
+Baldur_s666: shows [7d 7s] (three of a kind, Sevens)
+lagunacar: mucks hand 
+Baldur_s666 collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.61 | Rake $0.11 
+Board [7h 4s Kh Td Jc]
+Seat 1: Kingroel (button) folded before Flop (didn't bet)
+Seat 2: XXschmidtX (small blind) folded before Flop
+Seat 3: PatricCJ (big blind) folded before Flop
+Seat 4: Baldur_s666 showed [7d 7s] and won ($2.50) with three of a kind, Sevens
+Seat 5: lagunacar mucked [Jh Qs]
+Seat 6: SantiagoWeight folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042350472:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:13:39 UTC [2018/12/29 12:13:39 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: PartiSAN_1941 ($11.02 in chips) 
+Seat 2: SantiagoWeight ($7.23 in chips) 
+Seat 3: arlek1n22 ($4.75 in chips) 
+Seat 4: MrWh1te001 ($10.63 in chips) 
+Seat 5: Mrideal777 ($4.21 in chips) 
+Seat 6: ojciecmichal ($12.20 in chips) 
+SantiagoWeight: posts small blind $0.02
+arlek1n22: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Tc Qs]
+MrWh1te001: folds 
+Mrideal777: folds 
+ojciecmichal: folds 
+PartiSAN_1941: raises $0.07 to $0.12
+SantiagoWeight: raises $0.36 to $0.48
+arlek1n22: folds 
+PartiSAN_1941: folds 
+Uncalled bet ($0.36) returned to SantiagoWeight
+SantiagoWeight collected $0.29 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0 
+Seat 1: PartiSAN_1941 (button) folded before Flop
+Seat 2: SantiagoWeight (small blind) collected ($0.29)
+Seat 3: arlek1n22 (big blind) folded before Flop
+Seat 4: MrWh1te001 folded before Flop (didn't bet)
+Seat 5: Mrideal777 folded before Flop (didn't bet)
+Seat 6: ojciecmichal folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042373640:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:14:12 UTC [2018/12/29 12:14:12 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: pirkios1994 ($13.05 in chips) 
+Seat 2: MiniMakin ($7.93 in chips) 
+Seat 3: SantiagoWeight ($7.40 in chips) 
+Seat 4: BaluCokker ($5.26 in chips) 
+Seat 5: Shamiela ($10.29 in chips) 
+Seat 6: Mirekepe ($3.46 in chips) 
+MiniMakin: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qs 8c]
+BaluCokker: raises $0.10 to $0.15
+Shamiela: folds 
+Mirekepe: folds 
+pirkios1994: folds 
+MiniMakin: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.10) returned to BaluCokker
+BaluCokker collected $0.12 from pot
+BaluCokker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: pirkios1994 (button) folded before Flop (didn't bet)
+Seat 2: MiniMakin (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) folded before Flop
+Seat 4: BaluCokker collected ($0.12)
+Seat 5: Shamiela folded before Flop (didn't bet)
+Seat 6: Mirekepe folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042380027:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:14:21 UTC [2018/12/29 12:14:21 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: wobmmm ($4.65 in chips) 
+Seat 2: river3623 ($1.45 in chips) 
+Seat 3: blackpörl ($6.04 in chips) 
+Seat 4: TNJEIM ($5.65 in chips) 
+Seat 5: Tayandme ($5.20 in chips) 
+Seat 6: SantiagoWeight ($7.35 in chips) 
+river3623: posts small blind $0.02
+blackpörl: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [3s 2s]
+TNJEIM: folds 
+Tayandme: raises $0.10 to $0.15
+SantiagoWeight: folds 
+wobmmm: folds 
+river3623: folds 
+blackpörl: folds 
+Uncalled bet ($0.10) returned to Tayandme
+Tayandme collected $0.12 from pot
+Tayandme: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: wobmmm (button) folded before Flop (didn't bet)
+Seat 2: river3623 (small blind) folded before Flop
+Seat 3: blackpörl (big blind) folded before Flop
+Seat 4: TNJEIM folded before Flop (didn't bet)
+Seat 5: Tayandme collected ($0.12)
+Seat 6: SantiagoWeight folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042393525:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:14:40 UTC [2018/12/29 12:14:40 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($7.35 in chips) 
+Seat 2: Borsalinoo ($6.43 in chips) 
+Seat 3: reyesreyes16 ($6.27 in chips) 
+Seat 4: rappo6134 ($5 in chips) 
+Seat 5: JB027 ($2.32 in chips) 
+Seat 6: Golodayushii ($2.93 in chips) 
+Borsalinoo: posts small blind $0.02
+reyesreyes16: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2h 4h]
+rappo6134: folds 
+JB027: raises $0.05 to $0.10
+Golodayushii: raises $0.25 to $0.35
+SantiagoWeight: folds 
+Borsalinoo: folds 
+reyesreyes16: folds 
+JB027: folds 
+Uncalled bet ($0.25) returned to Golodayushii
+Golodayushii collected $0.27 from pot
+Golodayushii: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0 
+Seat 1: SantiagoWeight (button) folded before Flop (didn't bet)
+Seat 2: Borsalinoo (small blind) folded before Flop
+Seat 3: reyesreyes16 (big blind) folded before Flop
+Seat 4: rappo6134 folded before Flop (didn't bet)
+Seat 5: JB027 folded before Flop
+Seat 6: Golodayushii collected ($0.27)
+
+
+
+PokerStars Zoom Hand #195042410359:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:15:04 UTC [2018/12/29 12:15:04 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: ViboMiVida90 ($5.21 in chips) 
+Seat 2: elvis_genius ($6.47 in chips) 
+Seat 3: pnuska ($8.16 in chips) 
+Seat 4: spIeeNy ($6.22 in chips) 
+Seat 5: lyldaman ($5.97 in chips) 
+Seat 6: SantiagoWeight ($7.35 in chips) 
+elvis_genius: posts small blind $0.02
+pnuska: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Tc 7c]
+spIeeNy: folds 
+lyldaman: folds 
+SantiagoWeight: raises $0.06 to $0.11
+ViboMiVida90: folds 
+elvis_genius: folds 
+pnuska: folds 
+Uncalled bet ($0.06) returned to SantiagoWeight
+SantiagoWeight collected $0.12 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ViboMiVida90 (button) folded before Flop (didn't bet)
+Seat 2: elvis_genius (small blind) folded before Flop
+Seat 3: pnuska (big blind) folded before Flop
+Seat 4: spIeeNy folded before Flop (didn't bet)
+Seat 5: lyldaman folded before Flop (didn't bet)
+Seat 6: SantiagoWeight collected ($0.12)
+
+
+
+PokerStars Zoom Hand #195042405409:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:14:57 UTC [2018/12/29 12:14:57 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Putalin ($5.95 in chips) 
+Seat 2: 5to19 ($4.62 in chips) 
+Seat 3: Borsalinoo ($6.41 in chips) 
+Seat 4: SantiagoWeight ($7.35 in chips) 
+Seat 5: Klon660 ($0.81 in chips) 
+Seat 6: szücsferi ($4.63 in chips) 
+5to19: posts small blind $0.02
+Borsalinoo: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [4d Qh]
+SantiagoWeight: folds 
+Klon660: raises $0.76 to $0.81 and is all-in
+szücsferi: folds 
+Putalin: folds 
+5to19: calls $0.79
+Borsalinoo: folds 
+*** FLOP *** [6c Qd 8c]
+*** TURN *** [6c Qd 8c] [2h]
+*** RIVER *** [6c Qd 8c 2h] [Ah]
+*** SHOW DOWN ***
+5to19: shows [7s 7d] (a pair of Sevens)
+Klon660: shows [Td Jh] (high card Ace)
+5to19 collected $1.60 from pot
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.07 
+Board [6c Qd 8c 2h Ah]
+Seat 1: Putalin (button) folded before Flop (didn't bet)
+Seat 2: 5to19 (small blind) showed [7s 7d] and won ($1.60) with a pair of Sevens
+Seat 3: Borsalinoo (big blind) folded before Flop
+Seat 4: SantiagoWeight folded before Flop (didn't bet)
+Seat 5: Klon660 showed [Td Jh] and lost with high card Ace
+Seat 6: szücsferi folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042443897:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:15:45 UTC [2018/12/29 12:15:45 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Csabi4 ($5.26 in chips) 
+Seat 2: Darhan0024 ($8.20 in chips) 
+Seat 3: SantiagoWeight ($7.40 in chips) 
+Seat 4: Kunha241286 ($19.11 in chips) 
+Seat 5: A.Sobinin ($5.05 in chips) 
+Seat 6: errwin157 ($5 in chips) 
+Darhan0024: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qh 6d]
+Kunha241286: folds 
+A.Sobinin: folds 
+errwin157: folds 
+Csabi4: folds 
+Darhan0024: folds 
+Uncalled bet ($0.03) returned to SantiagoWeight
+SantiagoWeight collected $0.04 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Csabi4 (button) folded before Flop (didn't bet)
+Seat 2: Darhan0024 (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) collected ($0.04)
+Seat 4: Kunha241286 folded before Flop (didn't bet)
+Seat 5: A.Sobinin folded before Flop (didn't bet)
+Seat 6: errwin157 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042423319:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:15:16 UTC [2018/12/29 12:15:16 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: dcis23 ($6.85 in chips) 
+Seat 2: SantiagoWeight ($7.42 in chips) 
+Seat 3: Nomoney099 ($33.49 in chips) 
+Seat 4: pnuska ($8.11 in chips) 
+Seat 5: DeusRichie ($11.33 in chips) 
+Seat 6: Groundminer ($5 in chips) 
+SantiagoWeight: posts small blind $0.02
+Nomoney099: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [9d Kh]
+pnuska: folds 
+DeusRichie: folds 
+Groundminer: folds 
+dcis23: raises $0.10 to $0.15
+SantiagoWeight: folds 
+Nomoney099: calls $0.10
+*** FLOP *** [6d 2s 5c]
+Nomoney099: checks 
+dcis23: bets $0.15
+Nomoney099: folds 
+Uncalled bet ($0.15) returned to dcis23
+dcis23 collected $0.31 from pot
+dcis23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [6d 2s 5c]
+Seat 1: dcis23 (button) collected ($0.31)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: Nomoney099 (big blind) folded on the Flop
+Seat 4: pnuska folded before Flop (didn't bet)
+Seat 5: DeusRichie folded before Flop (didn't bet)
+Seat 6: Groundminer folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042450926:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:15:55 UTC [2018/12/29 12:15:55 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: luzbelit026 ($4.74 in chips) 
+Seat 2: vananej ($13.66 in chips) 
+Seat 3: Piotr2244668 ($6.96 in chips) 
+Seat 4: PolishxJoker ($7.18 in chips) 
+Seat 5: SantiagoWeight ($7.42 in chips) 
+Seat 6: koenie-046 ($5.69 in chips) 
+vananej: posts small blind $0.02
+Piotr2244668: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qs 4c]
+PolishxJoker: folds 
+SantiagoWeight: folds 
+koenie-046: folds 
+luzbelit026: folds 
+vananej: folds 
+Uncalled bet ($0.03) returned to Piotr2244668
+Piotr2244668 collected $0.04 from pot
+Piotr2244668: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: luzbelit026 (button) folded before Flop (didn't bet)
+Seat 2: vananej (small blind) folded before Flop
+Seat 3: Piotr2244668 (big blind) collected ($0.04)
+Seat 4: PolishxJoker folded before Flop (didn't bet)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: koenie-046 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042455878:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:16:02 UTC [2018/12/29 12:16:02 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($7.42 in chips) 
+Seat 2: Nomoney099 ($21.76 in chips) 
+Seat 3: dcis23 ($7.01 in chips) 
+Seat 4: Summ3rBaby ($2.50 in chips) 
+Seat 5: shark 75757 ($7.21 in chips) 
+Seat 6: angrey867 ($22.53 in chips) 
+Nomoney099: posts small blind $0.02
+dcis23: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Tc Kh]
+Summ3rBaby: folds 
+shark 75757: raises $0.05 to $0.10
+angrey867: folds 
+SantiagoWeight: folds 
+Nomoney099: folds 
+dcis23: folds 
+Uncalled bet ($0.05) returned to shark 75757
+shark 75757 collected $0.12 from pot
+shark 75757: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: SantiagoWeight (button) folded before Flop (didn't bet)
+Seat 2: Nomoney099 (small blind) folded before Flop
+Seat 3: dcis23 (big blind) folded before Flop
+Seat 4: Summ3rBaby folded before Flop (didn't bet)
+Seat 5: shark 75757 collected ($0.12)
+Seat 6: angrey867 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042471261:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:16:24 UTC [2018/12/29 12:16:24 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: nasyryanovak ($5.01 in chips) 
+Seat 2: spIeeNy ($5.59 in chips) 
+Seat 3: TNJEIM ($5.99 in chips) 
+Seat 4: zergmiky ($11.37 in chips) 
+Seat 5: SantiagoWeight ($7.42 in chips) 
+Seat 6: Haschanascha ($5.17 in chips) 
+spIeeNy: posts small blind $0.02
+TNJEIM: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [6s 7d]
+zergmiky: folds 
+SantiagoWeight: folds 
+Haschanascha: folds 
+nasyryanovak: raises $0.10 to $0.15
+spIeeNy: folds 
+TNJEIM: folds 
+Uncalled bet ($0.10) returned to nasyryanovak
+nasyryanovak collected $0.12 from pot
+nasyryanovak: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: nasyryanovak (button) collected ($0.12)
+Seat 2: spIeeNy (small blind) folded before Flop
+Seat 3: TNJEIM (big blind) folded before Flop
+Seat 4: zergmiky folded before Flop (didn't bet)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: Haschanascha folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042478294:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:16:34 UTC [2018/12/29 12:16:34 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: ojciecmichal ($11.94 in chips) 
+Seat 2: ramonmbr267 ($7.41 in chips) 
+Seat 3: whiplash541 ($6.96 in chips) 
+Seat 4: blacksnabel ($11.58 in chips) 
+Seat 5: spIeeNy ($5.57 in chips) 
+Seat 6: SantiagoWeight ($7.42 in chips) 
+ramonmbr267: posts small blind $0.02
+whiplash541: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qh 6d]
+blacksnabel: calls $0.05
+spIeeNy: folds 
+SantiagoWeight: folds 
+ojciecmichal: folds 
+ramonmbr267: folds 
+whiplash541: checks 
+*** FLOP *** [8d 9s Ah]
+whiplash541: checks 
+blacksnabel: bets $0.12
+whiplash541: folds 
+Uncalled bet ($0.12) returned to blacksnabel
+blacksnabel collected $0.12 from pot
+blacksnabel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8d 9s Ah]
+Seat 1: ojciecmichal (button) folded before Flop (didn't bet)
+Seat 2: ramonmbr267 (small blind) folded before Flop
+Seat 3: whiplash541 (big blind) folded on the Flop
+Seat 4: blacksnabel collected ($0.12)
+Seat 5: spIeeNy folded before Flop (didn't bet)
+Seat 6: SantiagoWeight folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042492307:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:16:54 UTC [2018/12/29 12:16:54 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Bobinn17 ($10.05 in chips) 
+Seat 2: SantiagoWeight ($7.42 in chips) 
+Seat 3: pirakula ($2.19 in chips) 
+Seat 4: Raubtier92 ($5.42 in chips) 
+Seat 5: kadafka ($3.64 in chips) 
+Seat 6: fcsb75 ($1.85 in chips) 
+SantiagoWeight: posts small blind $0.02
+pirakula: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [6h Qh]
+Raubtier92: folds 
+kadafka: raises $0.05 to $0.10
+fcsb75: folds 
+Bobinn17: raises $0.25 to $0.35
+SantiagoWeight: folds 
+pirakula: folds 
+kadafka: calls $0.25
+*** FLOP *** [3d 8s Qs]
+kadafka: checks 
+Bobinn17: bets $0.30
+kadafka: folds 
+Uncalled bet ($0.30) returned to Bobinn17
+Bobinn17 collected $0.74 from pot
+Bobinn17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [3d 8s Qs]
+Seat 1: Bobinn17 (button) collected ($0.74)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: pirakula (big blind) folded before Flop
+Seat 4: Raubtier92 folded before Flop (didn't bet)
+Seat 5: kadafka folded on the Flop
+Seat 6: fcsb75 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042510106:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:17:19 UTC [2018/12/29 12:17:19 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Renner32 ($4.71 in chips) 
+Seat 2: chenechka ($3.25 in chips) 
+Seat 3: SantiagoWeight ($7.40 in chips) 
+Seat 4: PatricCJ ($5 in chips) 
+Seat 5: PagiOne420 ($2.24 in chips) 
+Seat 6: kundiablo808 ($5.17 in chips) 
+chenechka: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [8s Kd]
+PatricCJ: folds 
+PagiOne420: folds 
+kundiablo808: folds 
+Renner32: folds 
+chenechka: raises $0.10 to $0.15
+SantiagoWeight: calls $0.10
+*** FLOP *** [Ac 6d 9d]
+chenechka: checks 
+SantiagoWeight: bets $0.14
+chenechka: calls $0.14
+*** TURN *** [Ac 6d 9d] [Th]
+chenechka: checks 
+SantiagoWeight: checks 
+*** RIVER *** [Ac 6d 9d Th] [7h]
+chenechka: checks 
+SantiagoWeight: bets $0.37
+chenechka: calls $0.37
+*** SHOW DOWN ***
+SantiagoWeight: shows [8s Kd] (a straight, Six to Ten)
+chenechka: mucks hand 
+SantiagoWeight collected $1.27 from pot
+*** SUMMARY ***
+Total pot $1.32 | Rake $0.05 
+Board [Ac 6d 9d Th 7h]
+Seat 1: Renner32 (button) folded before Flop (didn't bet)
+Seat 2: chenechka (small blind) mucked [Kh Jd]
+Seat 3: SantiagoWeight (big blind) showed [8s Kd] and won ($1.27) with a straight, Six to Ten
+Seat 4: PatricCJ folded before Flop (didn't bet)
+Seat 5: PagiOne420 folded before Flop (didn't bet)
+Seat 6: kundiablo808 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042553979:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:18:21 UTC [2018/12/29 12:18:21 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($8.01 in chips) 
+Seat 2: Loô1 ($4.88 in chips) 
+Seat 3: tuta25558 ($9.31 in chips) 
+Seat 4: Gutshotrot2 ($4.01 in chips) 
+Seat 5: vanDEmaaan ($6.64 in chips) 
+Seat 6: Keltu :D ($4.36 in chips) 
+Loô1: posts small blind $0.02
+tuta25558: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Ad 5c]
+Gutshotrot2: folds 
+vanDEmaaan: folds 
+Keltu :D: folds 
+SantiagoWeight: raises $0.06 to $0.11
+Loô1: folds 
+tuta25558: folds 
+Uncalled bet ($0.06) returned to SantiagoWeight
+SantiagoWeight collected $0.12 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: SantiagoWeight (button) collected ($0.12)
+Seat 2: Loô1 (small blind) folded before Flop
+Seat 3: tuta25558 (big blind) folded before Flop
+Seat 4: Gutshotrot2 folded before Flop (didn't bet)
+Seat 5: vanDEmaaan folded before Flop (didn't bet)
+Seat 6: Keltu :D folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042570045:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:18:44 UTC [2018/12/29 12:18:44 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: zergmiky ($7.54 in chips) 
+Seat 2: Troshin9 ($3.83 in chips) 
+Seat 3: spIeeNy ($5 in chips) 
+Seat 4: SantiagoWeight ($8.08 in chips) 
+Seat 5: Gute CZ ($17.29 in chips) 
+Seat 6: KungfuMelon ($5.85 in chips) 
+Troshin9: posts small blind $0.02
+spIeeNy: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [3h Ts]
+SantiagoWeight: folds 
+Gute CZ: folds 
+KungfuMelon: folds 
+zergmiky: folds 
+Troshin9: folds 
+Uncalled bet ($0.03) returned to spIeeNy
+spIeeNy collected $0.04 from pot
+spIeeNy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: zergmiky (button) folded before Flop (didn't bet)
+Seat 2: Troshin9 (small blind) folded before Flop
+Seat 3: spIeeNy (big blind) collected ($0.04)
+Seat 4: SantiagoWeight folded before Flop (didn't bet)
+Seat 5: Gute CZ folded before Flop (didn't bet)
+Seat 6: KungfuMelon folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042572844:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:18:48 UTC [2018/12/29 12:18:48 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: voshod561 ($5 in chips) 
+Seat 2: _ZE_575 ($2.28 in chips) 
+Seat 3: Iragood ($6.67 in chips) 
+Seat 4: SantiagoWeight ($8.08 in chips) 
+Seat 5: VreditelL ($9.65 in chips) 
+Seat 6: vlad.dan84 ($7.51 in chips) 
+_ZE_575: posts small blind $0.02
+Iragood: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [8c Ac]
+SantiagoWeight: raises $0.08 to $0.13
+VreditelL: folds 
+vlad.dan84: folds 
+voshod561: folds 
+_ZE_575: folds 
+Iragood: folds 
+Uncalled bet ($0.08) returned to SantiagoWeight
+SantiagoWeight collected $0.12 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: voshod561 (button) folded before Flop (didn't bet)
+Seat 2: _ZE_575 (small blind) folded before Flop
+Seat 3: Iragood (big blind) folded before Flop
+Seat 4: SantiagoWeight collected ($0.12)
+Seat 5: VreditelL folded before Flop (didn't bet)
+Seat 6: vlad.dan84 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042586825:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:19:08 UTC [2018/12/29 12:19:08 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: fcsb75 ($2.33 in chips) 
+Seat 2: zergmiky ($6.50 in chips) 
+Seat 3: SantiagoWeight ($8.15 in chips) 
+Seat 4: Myriel_CZE ($5 in chips) 
+Seat 5: KungfuMelon ($5.80 in chips) 
+Seat 6: FieraDeidad ($6.36 in chips) 
+zergmiky: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [9h 8d]
+Myriel_CZE: folds 
+KungfuMelon: folds 
+FieraDeidad: raises $0.10 to $0.15
+fcsb75: folds 
+zergmiky: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.10) returned to FieraDeidad
+FieraDeidad collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: fcsb75 (button) folded before Flop (didn't bet)
+Seat 2: zergmiky (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) folded before Flop
+Seat 4: Myriel_CZE folded before Flop (didn't bet)
+Seat 5: KungfuMelon folded before Flop (didn't bet)
+Seat 6: FieraDeidad collected ($0.12)
+
+
+
+PokerStars Zoom Hand #195042600232:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:19:27 UTC [2018/12/29 12:19:27 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: -=danil323=- ($4.49 in chips) 
+Seat 2: SantiagoWeight ($8.10 in chips) 
+Seat 3: boywondert36 ($10.76 in chips) 
+Seat 4: Mrideal777 ($5.70 in chips) 
+Seat 5: Kunha241286 ($20.25 in chips) 
+Seat 6: kardan00 ($4.63 in chips) 
+SantiagoWeight: posts small blind $0.02
+boywondert36: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2s 6c]
+Mrideal777: folds 
+Kunha241286: folds 
+kardan00: raises $0.07 to $0.12
+-=danil323=-: folds 
+SantiagoWeight: folds 
+boywondert36: calls $0.07
+*** FLOP *** [3h Js 6d]
+boywondert36: checks 
+kardan00: bets $0.17
+boywondert36: calls $0.17
+*** TURN *** [3h Js 6d] [Qc]
+boywondert36: checks 
+kardan00: checks 
+*** RIVER *** [3h Js 6d Qc] [9s]
+boywondert36: bets $0.29
+kardan00: folds 
+Uncalled bet ($0.29) returned to boywondert36
+boywondert36 collected $0.58 from pot
+boywondert36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [3h Js 6d Qc 9s]
+Seat 1: -=danil323=- (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: boywondert36 (big blind) collected ($0.58)
+Seat 4: Mrideal777 folded before Flop (didn't bet)
+Seat 5: Kunha241286 folded before Flop (didn't bet)
+Seat 6: kardan00 folded on the River
+
+
+
+PokerStars Zoom Hand #195042606504:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:19:36 UTC [2018/12/29 12:19:36 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Faramir70 ($3.92 in chips) 
+Seat 2: dgkyoro ($6.28 in chips) 
+Seat 3: hiyahiyaho1 ($3.80 in chips) 
+Seat 4: kataklism ($5.01 in chips) 
+Seat 5: SantiagoWeight ($8.08 in chips) 
+Seat 6: alebomos ($5 in chips) 
+dgkyoro: posts small blind $0.02
+hiyahiyaho1: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [8s Kh]
+kataklism: folds 
+SantiagoWeight: folds 
+alebomos: folds 
+Faramir70: folds 
+dgkyoro: calls $0.03
+hiyahiyaho1: checks 
+*** FLOP *** [6c Ac 8h]
+dgkyoro: checks 
+hiyahiyaho1: checks 
+*** TURN *** [6c Ac 8h] [2h]
+dgkyoro: bets $0.10
+hiyahiyaho1: calls $0.10
+*** RIVER *** [6c Ac 8h 2h] [Jc]
+dgkyoro: bets $0.10
+hiyahiyaho1: folds 
+Uncalled bet ($0.10) returned to dgkyoro
+dgkyoro collected $0.29 from pot
+dgkyoro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6c Ac 8h 2h Jc]
+Seat 1: Faramir70 (button) folded before Flop (didn't bet)
+Seat 2: dgkyoro (small blind) collected ($0.29)
+Seat 3: hiyahiyaho1 (big blind) folded on the River
+Seat 4: kataklism folded before Flop (didn't bet)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: alebomos folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042610747:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:19:42 UTC [2018/12/29 12:19:42 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: DieMoeller ($2.60 in chips) 
+Seat 2: anngule ($7.68 in chips) 
+Seat 3: DBKB2K16 ($14.76 in chips) 
+Seat 4: parasionak87 ($3.28 in chips) 
+Seat 5: chefash91 ($4.37 in chips) 
+Seat 6: SantiagoWeight ($8.08 in chips) 
+anngule: posts small blind $0.02
+DBKB2K16: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [8d As]
+parasionak87: folds 
+chefash91: folds 
+SantiagoWeight: raises $0.06 to $0.11
+DieMoeller: calls $0.11
+anngule: calls $0.09
+DBKB2K16: calls $0.06
+*** FLOP *** [6h 5c 7s]
+anngule: checks 
+DBKB2K16: checks 
+SantiagoWeight: bets $0.42
+DieMoeller: calls $0.42
+anngule: folds 
+DBKB2K16: folds 
+*** TURN *** [6h 5c 7s] [4s]
+SantiagoWeight: bets $1.23
+DieMoeller: calls $1.23
+*** RIVER *** [6h 5c 7s 4s] [5d]
+SantiagoWeight: bets $3.58
+DieMoeller: folds 
+Uncalled bet ($3.58) returned to SantiagoWeight
+SantiagoWeight collected $3.58 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.74 | Rake $0.16 
+Board [6h 5c 7s 4s 5d]
+Seat 1: DieMoeller (button) folded on the River
+Seat 2: anngule (small blind) folded on the Flop
+Seat 3: DBKB2K16 (big blind) folded on the Flop
+Seat 4: parasionak87 folded before Flop (didn't bet)
+Seat 5: chefash91 folded before Flop (didn't bet)
+Seat 6: SantiagoWeight collected ($3.58)
+
+
+
+PokerStars Zoom Hand #195042663916:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:20:58 UTC [2018/12/29 12:20:58 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: AAdryanofs ($7.12 in chips) 
+Seat 2: muchahos ($5 in chips) 
+Seat 3: pirakula ($2.76 in chips) 
+Seat 4: SantiagoWeight ($9.90 in chips) 
+Seat 5: Gute CZ ($16.21 in chips) 
+Seat 6: N1ghtyPanda ($5.48 in chips) 
+muchahos: posts small blind $0.02
+pirakula: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [3c 3s]
+SantiagoWeight: raises $0.08 to $0.13
+Gute CZ: folds 
+N1ghtyPanda: folds 
+AAdryanofs: folds 
+muchahos: folds 
+pirakula: calls $0.08
+*** FLOP *** [Ks 6c 6s]
+pirakula: checks 
+SantiagoWeight: bets $0.07
+pirakula: calls $0.07
+*** TURN *** [Ks 6c 6s] [3h]
+pirakula: checks 
+SantiagoWeight: bets $0.27
+pirakula: calls $0.27
+*** RIVER *** [Ks 6c 6s 3h] [6d]
+pirakula: checks 
+SantiagoWeight: checks 
+*** SHOW DOWN ***
+pirakula: shows [4s Ts] (three of a kind, Sixes)
+SantiagoWeight: shows [3c 3s] (a full house, Sixes full of Threes)
+SantiagoWeight collected $0.92 from pot
+*** SUMMARY ***
+Total pot $0.96 | Rake $0.04 
+Board [Ks 6c 6s 3h 6d]
+Seat 1: AAdryanofs (button) folded before Flop (didn't bet)
+Seat 2: muchahos (small blind) folded before Flop
+Seat 3: pirakula (big blind) showed [4s Ts] and lost with three of a kind, Sixes
+Seat 4: SantiagoWeight showed [3c 3s] and won ($0.92) with a full house, Sixes full of Threes
+Seat 5: Gute CZ folded before Flop (didn't bet)
+Seat 6: N1ghtyPanda folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042699847:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:21:49 UTC [2018/12/29 12:21:49 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($10.35 in chips) 
+Seat 2: lyldaman ($6.19 in chips) 
+Seat 3: icemman3600 ($3.57 in chips) 
+Seat 4: Manji_BTI ($5.04 in chips) 
+Seat 5: begze ($5.06 in chips) 
+Seat 6: kellprice ($4.81 in chips) 
+lyldaman: posts small blind $0.02
+icemman3600: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [6d 9d]
+Manji_BTI: folds 
+begze: calls $0.05
+kellprice: folds 
+SantiagoWeight: folds 
+lyldaman: folds 
+icemman3600: checks 
+*** FLOP *** [9h 4d 5d]
+icemman3600: checks 
+begze: checks 
+*** TURN *** [9h 4d 5d] [Qd]
+icemman3600: checks 
+begze: checks 
+*** RIVER *** [9h 4d 5d Qd] [4c]
+icemman3600: checks 
+begze: checks 
+*** SHOW DOWN ***
+icemman3600: shows [8c Js] (a pair of Fours)
+begze: shows [Kd Jh] (a pair of Fours - King kicker)
+begze collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9h 4d 5d Qd 4c]
+Seat 1: SantiagoWeight (button) folded before Flop (didn't bet)
+Seat 2: lyldaman (small blind) folded before Flop
+Seat 3: icemman3600 (big blind) showed [8c Js] and lost with a pair of Fours
+Seat 4: Manji_BTI folded before Flop (didn't bet)
+Seat 5: begze showed [Kd Jh] and won ($0.12) with a pair of Fours
+Seat 6: kellprice folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042707843:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:22:00 UTC [2018/12/29 12:22:00 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Valterzjr ($2.70 in chips) 
+Seat 2: PatricCJ ($8.58 in chips) 
+Seat 3: Scratch_wzp ($10.08 in chips) 
+Seat 4: Loô1 ($5.44 in chips) 
+Seat 5: ramonmbr267 ($8.80 in chips) 
+Seat 6: SantiagoWeight ($10.35 in chips) 
+PatricCJ: posts small blind $0.02
+Scratch_wzp: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [3h 8d]
+Loô1: folds 
+ramonmbr267: folds 
+SantiagoWeight has timed out
+SantiagoWeight: folds 
+Valterzjr: folds 
+PatricCJ: folds 
+Uncalled bet ($0.03) returned to Scratch_wzp
+Scratch_wzp collected $0.04 from pot
+Scratch_wzp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Valterzjr (button) folded before Flop (didn't bet)
+Seat 2: PatricCJ (small blind) folded before Flop
+Seat 3: Scratch_wzp (big blind) collected ($0.04)
+Seat 4: Loô1 folded before Flop (didn't bet)
+Seat 5: ramonmbr267 folded before Flop (didn't bet)
+Seat 6: SantiagoWeight folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042727525:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:22:28 UTC [2018/12/29 12:22:28 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Putalin ($5 in chips) 
+Seat 2: Mrideal777 ($3.95 in chips) 
+Seat 3: Loose89allin ($8.99 in chips) 
+Seat 4: Namlessss ($4.56 in chips) 
+Seat 5: SantiagoWeight ($10.35 in chips) 
+Seat 6: FAMMA_okk ($9.81 in chips) 
+Mrideal777: posts small blind $0.02
+Loose89allin: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qh 5s]
+Namlessss: raises $0.10 to $0.15
+SantiagoWeight: folds 
+FAMMA_okk: folds 
+Putalin: folds 
+Mrideal777: folds 
+Loose89allin: folds 
+Uncalled bet ($0.10) returned to Namlessss
+Namlessss collected $0.12 from pot
+Namlessss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Putalin (button) folded before Flop (didn't bet)
+Seat 2: Mrideal777 (small blind) folded before Flop
+Seat 3: Loose89allin (big blind) folded before Flop
+Seat 4: Namlessss collected ($0.12)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: FAMMA_okk folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042736504:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:22:41 UTC [2018/12/29 12:22:41 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Rewky ($5 in chips) 
+Seat 2: SantiagoWeight ($10.35 in chips) 
+Seat 3: Webac ($5.18 in chips) 
+Seat 4: Tégéé ($10.75 in chips) 
+Seat 5: yalin26 ($6.24 in chips) 
+Seat 6: rewazik ($5.11 in chips) 
+SantiagoWeight: posts small blind $0.02
+Webac: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [6d 4h]
+Tégéé: folds 
+yalin26: folds 
+rewazik: raises $0.05 to $0.10
+Rewky: folds 
+SantiagoWeight: folds 
+Webac: folds 
+Uncalled bet ($0.05) returned to rewazik
+rewazik collected $0.12 from pot
+rewazik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Rewky (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: Webac (big blind) folded before Flop
+Seat 4: Tégéé folded before Flop (didn't bet)
+Seat 5: yalin26 folded before Flop (didn't bet)
+Seat 6: rewazik collected ($0.12)
+
+
+
+PokerStars Zoom Hand #195042752086:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:23:03 UTC [2018/12/29 12:23:03 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Alex7966 ($4.98 in chips) 
+Seat 2: Kunha241286 ($20.31 in chips) 
+Seat 3: SantiagoWeight ($10.33 in chips) 
+Seat 4: spIeeNy ($5.02 in chips) 
+Seat 5: Rewky ($5 in chips) 
+Seat 6: Pityu9966 ($6.54 in chips) 
+Kunha241286: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2h 5h]
+spIeeNy: folds 
+Rewky: folds 
+Pityu9966: folds 
+Alex7966: folds 
+Kunha241286: folds 
+Uncalled bet ($0.03) returned to SantiagoWeight
+SantiagoWeight collected $0.04 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Alex7966 (button) folded before Flop (didn't bet)
+Seat 2: Kunha241286 (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) collected ($0.04)
+Seat 4: spIeeNy folded before Flop (didn't bet)
+Seat 5: Rewky folded before Flop (didn't bet)
+Seat 6: Pityu9966 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042745664:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:22:54 UTC [2018/12/29 12:22:54 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($10.33 in chips) 
+Seat 2: KungfuMelon ($3.75 in chips) 
+Seat 3: N0$tradamu$ ($4.98 in chips) 
+Seat 4: GrindDonkey ($7.45 in chips) 
+Seat 5: Gustlyk88 ($2.16 in chips) 
+Seat 6: JB027 ($3.84 in chips) 
+KungfuMelon: posts small blind $0.02
+N0$tradamu$: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2c 3s]
+GrindDonkey: folds 
+Gustlyk88: folds 
+JB027: raises $0.10 to $0.15
+SantiagoWeight: folds 
+KungfuMelon: folds 
+N0$tradamu$: folds 
+Uncalled bet ($0.10) returned to JB027
+JB027 collected $0.12 from pot
+JB027: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: SantiagoWeight (button) folded before Flop (didn't bet)
+Seat 2: KungfuMelon (small blind) folded before Flop
+Seat 3: N0$tradamu$ (big blind) folded before Flop
+Seat 4: GrindDonkey folded before Flop (didn't bet)
+Seat 5: Gustlyk88 folded before Flop (didn't bet)
+Seat 6: JB027 collected ($0.12)
+
+
+
+PokerStars Zoom Hand #195042762685:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:23:18 UTC [2018/12/29 12:23:18 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: reno484 ($6.28 in chips) 
+Seat 2: voshod561 ($5.37 in chips) 
+Seat 3: Bobilon73 ($5.92 in chips) 
+Seat 4: SantiagoWeight ($10.35 in chips) 
+Seat 5: Turc0s ($5.70 in chips) 
+Seat 6: costellino78 ($2.14 in chips) 
+voshod561: posts small blind $0.02
+Bobilon73: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Kc Qh]
+SantiagoWeight: raises $0.08 to $0.13
+Turc0s: folds 
+costellino78: folds 
+reno484: folds 
+voshod561: folds 
+Bobilon73: folds 
+Uncalled bet ($0.08) returned to SantiagoWeight
+SantiagoWeight collected $0.12 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: reno484 (button) folded before Flop (didn't bet)
+Seat 2: voshod561 (small blind) folded before Flop
+Seat 3: Bobilon73 (big blind) folded before Flop
+Seat 4: SantiagoWeight collected ($0.12)
+Seat 5: Turc0s folded before Flop (didn't bet)
+Seat 6: costellino78 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042758405:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:23:12 UTC [2018/12/29 12:23:12 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: pokerhorror ($15.33 in chips) 
+Seat 2: Mediazzz ($4.37 in chips) 
+Seat 3: atilla-anita038 ($4.59 in chips) 
+Seat 4: PolishxJoker ($5.09 in chips) 
+Seat 5: SantiagoWeight ($10.35 in chips) 
+Seat 6: begze ($11.10 in chips) 
+Mediazzz: posts small blind $0.02
+atilla-anita038: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [3c Ah]
+PolishxJoker: folds 
+SantiagoWeight: folds 
+begze: calls $0.05
+pokerhorror: folds 
+Mediazzz: folds 
+atilla-anita038: raises $0.05 to $0.10
+begze: calls $0.05
+*** FLOP *** [Tc 9s Kc]
+atilla-anita038: bets $0.05
+begze: calls $0.05
+*** TURN *** [Tc 9s Kc] [Ks]
+atilla-anita038: bets $0.05
+begze: calls $0.05
+*** RIVER *** [Tc 9s Kc Ks] [9c]
+atilla-anita038: bets $0.05
+begze: calls $0.05
+*** SHOW DOWN ***
+atilla-anita038: shows [Ts Ac] (two pair, Kings and Tens)
+begze: mucks hand 
+atilla-anita038 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Tc 9s Kc Ks 9c]
+Seat 1: pokerhorror (button) folded before Flop (didn't bet)
+Seat 2: Mediazzz (small blind) folded before Flop
+Seat 3: atilla-anita038 (big blind) showed [Ts Ac] and won ($0.50) with two pair, Kings and Tens
+Seat 4: PolishxJoker folded before Flop (didn't bet)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: begze mucked [7s 7c]
+
+
+
+PokerStars Zoom Hand #195042772636:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:23:32 UTC [2018/12/29 12:23:32 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: demure2607 ($9.10 in chips) 
+Seat 2: SantiagoWeight ($10.42 in chips) 
+Seat 3: river3623 ($0.68 in chips) 
+Seat 4: -=l Grek l=- ($6.77 in chips) 
+Seat 5: DontbetheFat ($5.41 in chips) 
+Seat 6: Kingroel ($7.02 in chips) 
+SantiagoWeight: posts small blind $0.02
+river3623: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2c 6d]
+-=l Grek l=-: folds 
+DontbetheFat: folds 
+Kingroel: raises $0.10 to $0.15
+demure2607: folds 
+SantiagoWeight: folds 
+river3623: folds 
+Uncalled bet ($0.10) returned to Kingroel
+Kingroel collected $0.12 from pot
+Kingroel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: demure2607 (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: river3623 (big blind) folded before Flop
+Seat 4: -=l Grek l=- folded before Flop (didn't bet)
+Seat 5: DontbetheFat folded before Flop (didn't bet)
+Seat 6: Kingroel collected ($0.12)
+
+
+
+PokerStars Zoom Hand #195042775491:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:23:36 UTC [2018/12/29 12:23:36 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: kostariki ($4.79 in chips) 
+Seat 2: VanVicta ($5.86 in chips) 
+Seat 3: SantiagoWeight ($10.40 in chips) 
+Seat 4: naftina ($6.30 in chips) 
+Seat 5: V5A4LERI ($8.06 in chips) 
+Seat 6: Vladovina ($6.91 in chips) 
+VanVicta: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [7c Tc]
+naftina: raises $0.10 to $0.15
+V5A4LERI: calls $0.15
+Vladovina: raises $0.59 to $0.74
+kostariki: folds 
+VanVicta: folds 
+SantiagoWeight: folds 
+naftina: calls $0.59
+V5A4LERI: folds 
+*** FLOP *** [9h 8h Td]
+naftina: checks 
+Vladovina: bets $1.35
+naftina: folds 
+Uncalled bet ($1.35) returned to Vladovina
+Vladovina collected $1.63 from pot
+Vladovina: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.07 
+Board [9h 8h Td]
+Seat 1: kostariki (button) folded before Flop (didn't bet)
+Seat 2: VanVicta (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) folded before Flop
+Seat 4: naftina folded on the Flop
+Seat 5: V5A4LERI folded before Flop
+Seat 6: Vladovina collected ($1.63)
+
+
+
+PokerStars Zoom Hand #195042785333:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:23:50 UTC [2018/12/29 12:23:50 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: ChipVakume ($5.13 in chips) 
+Seat 2: costellino78 ($2.28 in chips) 
+Seat 3: bobbel777 ($5 in chips) 
+Seat 4: Baldur_s666 ($5.24 in chips) 
+Seat 5: muck234 ($8.34 in chips) 
+Seat 6: SantiagoWeight ($10.35 in chips) 
+costellino78: posts small blind $0.02
+bobbel777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Jc Tc]
+Baldur_s666: folds 
+muck234: folds 
+SantiagoWeight: raises $0.06 to $0.11
+ChipVakume: calls $0.11
+costellino78: calls $0.09
+bobbel777: calls $0.06
+*** FLOP *** [2c Th Kd]
+costellino78: checks 
+bobbel777: checks 
+SantiagoWeight: checks 
+ChipVakume: bets $0.25
+costellino78: folds 
+bobbel777: calls $0.25
+SantiagoWeight: calls $0.25
+*** TURN *** [2c Th Kd] [7d]
+bobbel777: checks 
+SantiagoWeight: checks 
+ChipVakume: checks 
+*** RIVER *** [2c Th Kd 7d] [Kh]
+bobbel777: checks 
+SantiagoWeight: bets $0.29
+ChipVakume: calls $0.29
+bobbel777: calls $0.29
+*** SHOW DOWN ***
+SantiagoWeight: shows [Jc Tc] (two pair, Kings and Tens)
+ChipVakume: shows [9h Td] (two pair, Kings and Tens - lower kicker)
+bobbel777: shows [Kc 3c] (three of a kind, Kings)
+bobbel777 collected $1.97 from pot
+*** SUMMARY ***
+Total pot $2.06 | Rake $0.09 
+Board [2c Th Kd 7d Kh]
+Seat 1: ChipVakume (button) showed [9h Td] and lost with two pair, Kings and Tens
+Seat 2: costellino78 (small blind) folded on the Flop
+Seat 3: bobbel777 (big blind) showed [Kc 3c] and won ($1.97) with three of a kind, Kings
+Seat 4: Baldur_s666 folded before Flop (didn't bet)
+Seat 5: muck234 folded before Flop (didn't bet)
+Seat 6: SantiagoWeight showed [Jc Tc] and lost with two pair, Kings and Tens
+
+
+
+PokerStars Zoom Hand #195042866580:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:25:44 UTC [2018/12/29 12:25:44 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($9.70 in chips) 
+Seat 2: BarnabyKnox ($6.83 in chips) 
+Seat 3: ZeiZei22 ($7.15 in chips) 
+Seat 4: bucika 888 ($2.62 in chips) 
+Seat 5: vlad.dan84 ($6.52 in chips) 
+Seat 6: BaluCokker ($5 in chips) 
+BarnabyKnox: posts small blind $0.02
+ZeiZei22: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qs 7c]
+bucika 888: folds 
+vlad.dan84: folds 
+BaluCokker: folds 
+SantiagoWeight: folds 
+BarnabyKnox: folds 
+Uncalled bet ($0.03) returned to ZeiZei22
+ZeiZei22 collected $0.04 from pot
+ZeiZei22: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: SantiagoWeight (button) folded before Flop (didn't bet)
+Seat 2: BarnabyKnox (small blind) folded before Flop
+Seat 3: ZeiZei22 (big blind) collected ($0.04)
+Seat 4: bucika 888 folded before Flop (didn't bet)
+Seat 5: vlad.dan84 folded before Flop (didn't bet)
+Seat 6: BaluCokker folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042877263:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:25:59 UTC [2018/12/29 12:25:59 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: reyesreyes16 ($12.44 in chips) 
+Seat 2: XXschmidtX ($31.18 in chips) 
+Seat 3: Baldur_s666 ($12.12 in chips) 
+Seat 4: Deox666 ($5.39 in chips) 
+Seat 5: SantiagoWeight ($9.70 in chips) 
+Seat 6: Memusik ($4.92 in chips) 
+XXschmidtX: posts small blind $0.02
+Baldur_s666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [5d Ts]
+Deox666: folds 
+SantiagoWeight: folds 
+Memusik: folds 
+reyesreyes16: folds 
+XXschmidtX: folds 
+Uncalled bet ($0.03) returned to Baldur_s666
+Baldur_s666 collected $0.04 from pot
+Baldur_s666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: reyesreyes16 (button) folded before Flop (didn't bet)
+Seat 2: XXschmidtX (small blind) folded before Flop
+Seat 3: Baldur_s666 (big blind) collected ($0.04)
+Seat 4: Deox666 folded before Flop (didn't bet)
+Seat 5: SantiagoWeight folded before Flop (didn't bet)
+Seat 6: Memusik folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042880886:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:26:04 UTC [2018/12/29 12:26:04 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: E.Henry.98 ($3.02 in chips) 
+Seat 2: Fightforbeer ($3.43 in chips) 
+Seat 3: orshan19 ($5 in chips) 
+Seat 4: SantiagoWeight ($9.70 in chips) 
+Seat 5: -=l Grek l=- ($6.37 in chips) 
+Seat 6: Memusik ($4.97 in chips) 
+Fightforbeer: posts small blind $0.02
+orshan19: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [4d 4s]
+SantiagoWeight: raises $0.08 to $0.13
+-=l Grek l=-: folds 
+Memusik: folds 
+E.Henry.98: calls $0.13
+Fightforbeer: folds 
+orshan19: folds 
+*** FLOP *** [Kd 8s 2s]
+SantiagoWeight: bets $0.08
+E.Henry.98: calls $0.08
+*** TURN *** [Kd 8s 2s] [9c]
+SantiagoWeight: checks 
+E.Henry.98: bets $0.15
+SantiagoWeight: folds 
+Uncalled bet ($0.15) returned to E.Henry.98
+E.Henry.98 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Kd 8s 2s 9c]
+Seat 1: E.Henry.98 (button) collected ($0.47)
+Seat 2: Fightforbeer (small blind) folded before Flop
+Seat 3: orshan19 (big blind) folded before Flop
+Seat 4: SantiagoWeight folded on the Turn
+Seat 5: -=l Grek l=- folded before Flop (didn't bet)
+Seat 6: Memusik folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042909573:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:26:44 UTC [2018/12/29 12:26:44 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: CHIVUTARU ($5.67 in chips) 
+Seat 2: SantiagoWeight ($9.49 in chips) 
+Seat 3: chumly88 ($10.86 in chips) 
+Seat 4: kredo4 ($8.31 in chips) 
+Seat 5: sztuciec ($5 in chips) 
+Seat 6: kundiablo808 ($5.26 in chips) 
+SantiagoWeight: posts small blind $0.02
+chumly88: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Js 9c]
+kredo4: raises $0.12 to $0.17
+sztuciec: folds 
+kundiablo808: folds 
+CHIVUTARU: folds 
+SantiagoWeight: folds 
+chumly88: folds 
+Uncalled bet ($0.12) returned to kredo4
+kredo4 collected $0.12 from pot
+kredo4: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: CHIVUTARU (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: chumly88 (big blind) folded before Flop
+Seat 4: kredo4 collected ($0.12)
+Seat 5: sztuciec folded before Flop (didn't bet)
+Seat 6: kundiablo808 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042917438:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:26:55 UTC [2018/12/29 12:26:55 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Dyadchenko1 ($5.14 in chips) 
+Seat 2: witcher99 ($5 in chips) 
+Seat 3: SantiagoWeight ($9.47 in chips) 
+Seat 4: CHIVUTARU ($7.03 in chips) 
+Seat 5: barbos2009 ($5.08 in chips) 
+Seat 6: V5A4LERI ($7.82 in chips) 
+witcher99: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Tc 3h]
+CHIVUTARU: raises $0.10 to $0.15
+barbos2009: folds 
+V5A4LERI: folds 
+Dyadchenko1: folds 
+witcher99: folds 
+SantiagoWeight: folds 
+Uncalled bet ($0.10) returned to CHIVUTARU
+CHIVUTARU collected $0.12 from pot
+CHIVUTARU: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dyadchenko1 (button) folded before Flop (didn't bet)
+Seat 2: witcher99 (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) folded before Flop
+Seat 4: CHIVUTARU collected ($0.12)
+Seat 5: barbos2009 folded before Flop (didn't bet)
+Seat 6: V5A4LERI folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042925382:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:27:06 UTC [2018/12/29 12:27:06 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: Tosha550 ($5.15 in chips) 
+Seat 2: shark 75757 ($7.92 in chips) 
+Seat 3: Loô1 ($4.68 in chips) 
+Seat 4: jasonkidd91 ($21.04 in chips) 
+Seat 5: JFJB3 ($3.24 in chips) 
+Seat 6: SantiagoWeight ($9.42 in chips) 
+shark 75757: posts small blind $0.02
+Loô1: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [6s 4h]
+jasonkidd91: raises $0.07 to $0.12
+JFJB3: folds 
+SantiagoWeight: folds 
+Tosha550: folds 
+shark 75757: folds 
+Loô1: folds 
+Uncalled bet ($0.07) returned to jasonkidd91
+jasonkidd91 collected $0.12 from pot
+jasonkidd91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Tosha550 (button) folded before Flop (didn't bet)
+Seat 2: shark 75757 (small blind) folded before Flop
+Seat 3: Loô1 (big blind) folded before Flop
+Seat 4: jasonkidd91 collected ($0.12)
+Seat 5: JFJB3 folded before Flop (didn't bet)
+Seat 6: SantiagoWeight folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042928304:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:27:10 UTC [2018/12/29 12:27:10 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: SantiagoWeight ($9.42 in chips) 
+Seat 2: Valterzjr ($6.20 in chips) 
+Seat 3: JoKoMaSi ($5.25 in chips) 
+Seat 4: VreditelL ($8.68 in chips) 
+Seat 5: Fl1pster ($16.97 in chips) 
+Seat 6: paulinhoo988 ($5 in chips) 
+Valterzjr: posts small blind $0.02
+JoKoMaSi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [2h Ah]
+VreditelL: folds 
+Fl1pster: folds 
+paulinhoo988: raises $0.10 to $0.15
+SantiagoWeight: raises $0.27 to $0.42
+Valterzjr: folds 
+JoKoMaSi: folds 
+paulinhoo988: folds 
+Uncalled bet ($0.27) returned to SantiagoWeight
+SantiagoWeight collected $0.37 from pot
+SantiagoWeight: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0 
+Seat 1: SantiagoWeight (button) collected ($0.37)
+Seat 2: Valterzjr (small blind) folded before Flop
+Seat 3: JoKoMaSi (big blind) folded before Flop
+Seat 4: VreditelL folded before Flop (didn't bet)
+Seat 5: Fl1pster folded before Flop (didn't bet)
+Seat 6: paulinhoo988 folded before Flop
+
+
+
+PokerStars Zoom Hand #195042958745:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:27:52 UTC [2018/12/29 12:27:52 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: stiffbg1 ($5 in chips) 
+Seat 2: SantiagoWeight ($9.64 in chips) 
+Seat 3: auraph333 ($1.89 in chips) 
+Seat 4: anngule ($5.25 in chips) 
+Seat 5: pat0680 ($6.71 in chips) 
+Seat 6: AAdryanofs ($13.51 in chips) 
+SantiagoWeight: posts small blind $0.02
+auraph333: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Qc Ts]
+anngule: folds 
+pat0680: calls $0.05
+AAdryanofs: folds 
+stiffbg1: folds 
+SantiagoWeight: folds 
+auraph333: checks 
+*** FLOP *** [9s Tc Td]
+auraph333: checks 
+pat0680: checks 
+*** TURN *** [9s Tc Td] [3h]
+auraph333: checks 
+pat0680: checks 
+*** RIVER *** [9s Tc Td 3h] [Jh]
+auraph333: checks 
+pat0680: checks 
+*** SHOW DOWN ***
+auraph333: shows [7c As] (a pair of Tens)
+pat0680: mucks hand 
+auraph333 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9s Tc Td 3h Jh]
+Seat 1: stiffbg1 (button) folded before Flop (didn't bet)
+Seat 2: SantiagoWeight (small blind) folded before Flop
+Seat 3: auraph333 (big blind) showed [7c As] and won ($0.12) with a pair of Tens
+Seat 4: anngule folded before Flop (didn't bet)
+Seat 5: pat0680 mucked [Ks 5d]
+Seat 6: AAdryanofs folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #195042976782:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:28:17 UTC [2018/12/29 12:28:17 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: begze ($6.05 in chips) 
+Seat 2: ramonmbr267 ($6.42 in chips) 
+Seat 3: eddy788 ($6.09 in chips) 
+Seat 4: boywondert36 ($11.61 in chips) 
+Seat 5: Psihopat50 ($5.85 in chips) 
+Seat 6: SantiagoWeight ($9.62 in chips) 
+ramonmbr267: posts small blind $0.02
+eddy788: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [6c 6h]
+boywondert36: folds 
+Psihopat50: folds 
+SantiagoWeight: raises $0.06 to $0.11
+begze: folds 
+ramonmbr267: folds 
+eddy788: calls $0.06
+*** FLOP *** [Jd Ts 2h]
+eddy788: checks 
+SantiagoWeight: checks 
+*** TURN *** [Jd Ts 2h] [Ks]
+eddy788: checks 
+SantiagoWeight: checks 
+*** RIVER *** [Jd Ts 2h Ks] [Jh]
+eddy788: checks 
+SantiagoWeight: checks 
+*** SHOW DOWN ***
+eddy788: shows [Qh 4c] (a pair of Jacks)
+SantiagoWeight: shows [6c 6h] (two pair, Jacks and Sixes)
+SantiagoWeight collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Jd Ts 2h Ks Jh]
+Seat 1: begze (button) folded before Flop (didn't bet)
+Seat 2: ramonmbr267 (small blind) folded before Flop
+Seat 3: eddy788 (big blind) showed [Qh 4c] and lost with a pair of Jacks
+Seat 4: boywondert36 folded before Flop (didn't bet)
+Seat 5: Psihopat50 folded before Flop (didn't bet)
+Seat 6: SantiagoWeight showed [6c 6h] and won ($0.23) with two pair, Jacks and Sixes
+
+
+
+PokerStars Zoom Hand #195043016984:  Hold'em No Limit ($0.02/$0.05) - 2018/12/29 17:29:13 UTC [2018/12/29 12:29:13 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: l1t31tu9 ($8.36 in chips) 
+Seat 2: LeeGehr ($15.03 in chips) 
+Seat 3: SantiagoWeight ($9.74 in chips) 
+Seat 4: Rewky ($5.85 in chips) 
+Seat 5: feniks1805 ($6.53 in chips) 
+Seat 6: Vorontsov28 ($7.37 in chips) 
+LeeGehr: posts small blind $0.02
+SantiagoWeight: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to SantiagoWeight [Ac Td]
+Rewky: folds 
+feniks1805: folds 
+Vorontsov28: raises $0.10 to $0.15
+l1t31tu9: folds 
+LeeGehr: folds 
+SantiagoWeight: calls $0.10
+*** FLOP *** [5d 3s 4s]
+SantiagoWeight: checks 
+Vorontsov28: bets $0.25
+SantiagoWeight: calls $0.25
+*** TURN *** [5d 3s 4s] [9d]
+SantiagoWeight: checks 
+Vorontsov28: checks 
+*** RIVER *** [5d 3s 4s 9d] [2h]
+SantiagoWeight: bets $0.95
+Vorontsov28: calls $0.95
+*** SHOW DOWN ***
+SantiagoWeight: shows [Ac Td] (a straight, Ace to Five)
+Vorontsov28: shows [Ad Jc] (a straight, Ace to Five)
+SantiagoWeight collected $1.31 from pot
+Vorontsov28 collected $1.30 from pot
+*** SUMMARY ***
+Total pot $2.72 | Rake $0.11 
+Board [5d 3s 4s 9d 2h]
+Seat 1: l1t31tu9 (button) folded before Flop (didn't bet)
+Seat 2: LeeGehr (small blind) folded before Flop
+Seat 3: SantiagoWeight (big blind) showed [Ac Td] and won ($1.31) with a straight, Ace to Five
+Seat 4: Rewky folded before Flop (didn't bet)
+Seat 5: feniks1805 folded before Flop (didn't bet)
+Seat 6: Vorontsov28 showed [Ad Jc] and won ($1.30) with a straight, Ace to Five
+
+
+

@@ -1,0 +1,323 @@
+﻿PokerStars Hand #228687001977:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:33:31 ET
+Table 'Klonios III' 9-max Seat #7 is the button
+Seat 1: MA9717 ($59.01 in chips) 
+Seat 2: AndyLu)|(ynski ($20.50 in chips) 
+Seat 3: akbloger ($50 in chips) 
+Seat 4: lonely fire ($50 in chips) 
+Seat 5: PleBeY95 ($50 in chips) 
+Seat 6: holdemamn ($50 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: v.sting ($51.50 in chips) 
+Seat 9: MarsMiland ($50 in chips) 
+v.sting: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+*** HOLE CARDS ***
+MA9717: calls $0.50
+AndyLu)|(ynski: folds 
+akbloger: folds 
+lonely fire: folds 
+PleBeY95: raises $1.50 to $2
+holdemamn: folds 
+zverev_77: folds 
+v.sting: folds 
+MarsMiland: folds 
+MA9717: calls $1.50
+*** FLOP *** [7h Kd Jc]
+MA9717: checks 
+PleBeY95: bets $3
+MA9717: calls $3
+*** TURN *** [7h Kd Jc] [6s]
+MA9717: checks 
+PleBeY95: checks 
+*** RIVER *** [7h Kd Jc 6s] [5s]
+MA9717: bets $5.10
+PleBeY95: folds 
+Uncalled bet ($5.10) returned to MA9717
+MA9717 collected $10.21 from pot
+MA9717: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.75 | Rake $0.54 
+Board [7h Kd Jc 6s 5s]
+Seat 1: MA9717 collected ($10.21)
+Seat 2: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 3: akbloger folded before Flop (didn't bet)
+Seat 4: lonely fire folded before Flop (didn't bet)
+Seat 5: PleBeY95 folded on the River
+Seat 6: holdemamn folded before Flop (didn't bet)
+Seat 7: zverev_77 (button) folded before Flop (didn't bet)
+Seat 8: v.sting (small blind) folded before Flop
+Seat 9: MarsMiland (big blind) folded before Flop
+
+
+
+PokerStars Hand #228687032979:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:34:38 ET
+Table 'Klonios III' 9-max Seat #8 is the button
+Seat 1: MA9717 ($64.22 in chips) 
+Seat 2: AndyLu)|(ynski ($20.50 in chips) 
+Seat 3: akbloger ($50 in chips) 
+Seat 4: lonely fire ($50 in chips) 
+Seat 5: PleBeY95 ($50 in chips) 
+Seat 6: holdemamn ($50 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: v.sting ($51.25 in chips) 
+Seat 9: MarsMiland ($50 in chips) 
+MarsMiland: posts small blind $0.25
+MA9717: posts big blind $0.50
+*** HOLE CARDS ***
+AndyLu)|(ynski: folds 
+akbloger: folds 
+lonely fire: folds 
+PleBeY95: raises $1 to $1.50
+holdemamn: folds 
+zverev_77: folds 
+v.sting: folds 
+MarsMiland: folds 
+MA9717: calls $1
+*** FLOP *** [Jh Ad Ts]
+MA9717: checks 
+PleBeY95: bets $2.32
+MA9717: calls $2.32
+*** TURN *** [Jh Ad Ts] [5s]
+MA9717: bets $0.50
+PleBeY95: raises $6 to $6.50
+MA9717: folds 
+Uncalled bet ($6) returned to PleBeY95
+PleBeY95 collected $8.45 from pot
+*** SUMMARY ***
+Total pot $8.89 | Rake $0.44 
+Board [Jh Ad Ts 5s]
+Seat 1: MA9717 (big blind) folded on the Turn
+Seat 2: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 3: akbloger folded before Flop (didn't bet)
+Seat 4: lonely fire folded before Flop (didn't bet)
+Seat 5: PleBeY95 collected ($8.45)
+Seat 6: holdemamn folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: v.sting (button) folded before Flop (didn't bet)
+Seat 9: MarsMiland (small blind) folded before Flop
+
+
+
+PokerStars Hand #228687071976:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:36:01 ET
+Table 'Klonios III' 9-max Seat #9 is the button
+Seat 1: MA9717 ($59.90 in chips) 
+Seat 2: AndyLu)|(ynski ($20.50 in chips) 
+Seat 3: akbloger ($50 in chips) 
+Seat 4: lonely fire ($50 in chips) 
+Seat 5: PleBeY95 ($54.13 in chips) 
+Seat 6: holdemamn ($50 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: v.sting ($51.25 in chips) 
+Seat 9: MarsMiland ($50 in chips) 
+MA9717: posts small blind $0.25
+AndyLu)|(ynski: posts big blind $0.50
+*** HOLE CARDS ***
+akbloger: folds 
+lonely fire: raises $1 to $1.50
+PleBeY95: folds 
+holdemamn: raises $3 to $4.50
+zverev_77: folds 
+v.sting: folds 
+MarsMiland: folds 
+MA9717: folds 
+AndyLu)|(ynski: folds 
+lonely fire: calls $3
+*** FLOP *** [9c 6h 6d]
+lonely fire: checks 
+holdemamn: bets $3.09
+lonely fire: calls $3.09
+*** TURN *** [9c 6h 6d] [6s]
+lonely fire: checks 
+holdemamn: bets $11.35
+lonely fire: folds 
+Uncalled bet ($11.35) returned to holdemamn
+holdemamn collected $15.13 from pot
+holdemamn: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.93 | Rake $0.80 
+Board [9c 6h 6d 6s]
+Seat 1: MA9717 (small blind) folded before Flop
+Seat 2: AndyLu)|(ynski (big blind) folded before Flop
+Seat 3: akbloger folded before Flop (didn't bet)
+Seat 4: lonely fire folded on the Turn
+Seat 5: PleBeY95 folded before Flop (didn't bet)
+Seat 6: holdemamn collected ($15.13)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: v.sting folded before Flop (didn't bet)
+Seat 9: MarsMiland (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687093260:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:36:47 ET
+Table 'Klonios III' 9-max Seat #1 is the button
+Seat 1: MA9717 ($59.65 in chips) 
+Seat 2: AndyLu)|(ynski ($20.50 in chips) 
+Seat 3: akbloger ($50 in chips) 
+Seat 4: lonely fire ($50 in chips) 
+Seat 5: PleBeY95 ($54.13 in chips) 
+Seat 6: holdemamn ($57.54 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: v.sting ($51.25 in chips) 
+Seat 9: MarsMiland ($50 in chips) 
+AndyLu)|(ynski: posts small blind $0.25
+akbloger: posts big blind $0.50
+*** HOLE CARDS ***
+lonely fire: folds 
+PleBeY95: folds 
+holdemamn: folds 
+zverev_77: folds 
+v.sting: folds 
+MarsMiland: folds 
+MA9717: calls $0.50
+AndyLu)|(ynski: raises $2.50 to $3
+akbloger: folds 
+MA9717: folds 
+Uncalled bet ($2.50) returned to AndyLu)|(ynski
+AndyLu)|(ynski collected $1.50 from pot
+AndyLu)|(ynski: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: MA9717 (button) folded before Flop
+Seat 2: AndyLu)|(ynski (small blind) collected ($1.50)
+Seat 3: akbloger (big blind) folded before Flop
+Seat 4: lonely fire folded before Flop (didn't bet)
+Seat 5: PleBeY95 folded before Flop (didn't bet)
+Seat 6: holdemamn folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: v.sting folded before Flop (didn't bet)
+Seat 9: MarsMiland folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687106912:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:37:16 ET
+Table 'Klonios III' 9-max Seat #2 is the button
+Seat 1: MA9717 ($59.15 in chips) 
+Seat 2: AndyLu)|(ynski ($21.50 in chips) 
+Seat 3: akbloger ($50 in chips) 
+Seat 4: lonely fire ($50 in chips) 
+Seat 5: PleBeY95 ($54.13 in chips) 
+Seat 6: holdemamn ($57.54 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: v.sting ($51.25 in chips) 
+Seat 9: MarsMiland ($50 in chips) 
+akbloger: posts small blind $0.25
+lonely fire: posts big blind $0.50
+*** HOLE CARDS ***
+PleBeY95: raises $1 to $1.50
+holdemamn: folds 
+zverev_77: folds 
+v.sting: folds 
+MarsMiland: raises $3.25 to $4.75
+MA9717: calls $4.75
+AndyLu)|(ynski: folds 
+akbloger: folds 
+lonely fire: folds 
+PleBeY95: folds 
+*** FLOP *** [2s Kh 4d]
+MarsMiland: bets $4.75
+MA9717: calls $4.75
+*** TURN *** [2s Kh 4d] [3d]
+MarsMiland: checks 
+MA9717: bets $49.65 and is all-in
+MarsMiland: folds 
+Uncalled bet ($49.65) returned to MA9717
+MA9717 collected $20.19 from pot
+MA9717: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.25 | Rake $1.06 
+Board [2s Kh 4d 3d]
+Seat 1: MA9717 collected ($20.19)
+Seat 2: AndyLu)|(ynski (button) folded before Flop (didn't bet)
+Seat 3: akbloger (small blind) folded before Flop
+Seat 4: lonely fire (big blind) folded before Flop
+Seat 5: PleBeY95 folded before Flop
+Seat 6: holdemamn folded before Flop (didn't bet)
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: v.sting folded before Flop (didn't bet)
+Seat 9: MarsMiland folded on the Turn
+
+
+
+PokerStars Hand #228687132164:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:38:11 ET
+Table 'Klonios III' 9-max Seat #3 is the button
+Seat 1: MA9717 ($69.84 in chips) 
+Seat 2: AndyLu)|(ynski ($21.50 in chips) 
+Seat 3: akbloger ($50 in chips) 
+Seat 4: lonely fire ($50 in chips) 
+Seat 5: PleBeY95 ($52.63 in chips) 
+Seat 6: holdemamn ($57.54 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: v.sting ($51.25 in chips) 
+Seat 9: MarsMiland ($50 in chips) 
+lonely fire: posts small blind $0.25
+PleBeY95: posts big blind $0.50
+*** HOLE CARDS ***
+holdemamn: raises $1 to $1.50
+zverev_77: raises $3 to $4.50
+v.sting: raises $7.50 to $12
+MarsMiland: folds 
+MA9717: folds 
+AndyLu)|(ynski: folds 
+akbloger: folds 
+lonely fire: folds 
+PleBeY95: folds 
+holdemamn: folds 
+zverev_77: folds 
+Uncalled bet ($7.50) returned to v.sting
+v.sting collected $11.25 from pot
+v.sting: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.25 | Rake $0 
+Seat 1: MA9717 folded before Flop (didn't bet)
+Seat 2: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 3: akbloger (button) folded before Flop (didn't bet)
+Seat 4: lonely fire (small blind) folded before Flop
+Seat 5: PleBeY95 (big blind) folded before Flop
+Seat 6: holdemamn folded before Flop
+Seat 7: zverev_77 folded before Flop
+Seat 8: v.sting collected ($11.25)
+Seat 9: MarsMiland folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228687146989:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 15:38:42 ET
+Table 'Klonios III' 9-max Seat #4 is the button
+Seat 1: MA9717 ($69.84 in chips) 
+Seat 2: AndyLu)|(ynski ($21.50 in chips) 
+Seat 3: akbloger ($50 in chips) 
+Seat 4: lonely fire ($50 in chips) 
+Seat 5: PleBeY95 ($52.13 in chips) 
+Seat 6: holdemamn ($56.04 in chips) 
+Seat 7: zverev_77 ($50 in chips) 
+Seat 8: v.sting ($58 in chips) 
+Seat 9: MarsMiland ($50 in chips) 
+PleBeY95: posts small blind $0.25
+holdemamn: posts big blind $0.50
+*** HOLE CARDS ***
+zverev_77: folds 
+v.sting: folds 
+MarsMiland: folds 
+zverev_77 leaves the table
+MA9717: raises $0.50 to $1
+AndyLu)|(ynski: folds 
+akbloger: folds 
+lonely fire: folds 
+PleBeY95: folds 
+holdemamn: folds 
+Uncalled bet ($0.50) returned to MA9717
+MA9717 collected $1.25 from pot
+MA9717: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: MA9717 collected ($1.25)
+Seat 2: AndyLu)|(ynski folded before Flop (didn't bet)
+Seat 3: akbloger folded before Flop (didn't bet)
+Seat 4: lonely fire (button) folded before Flop (didn't bet)
+Seat 5: PleBeY95 (small blind) folded before Flop
+Seat 6: holdemamn (big blind) folded before Flop
+Seat 7: zverev_77 folded before Flop (didn't bet)
+Seat 8: v.sting folded before Flop (didn't bet)
+Seat 9: MarsMiland folded before Flop (didn't bet)
+
+
+

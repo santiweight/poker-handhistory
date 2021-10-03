@@ -29,11 +29,10 @@ source-repository head
 
 library
   exposed-modules:
-      Poker.History.Parse.Base
-      Poker.History.Parse.Bovada
-      Poker.History.Model
-      Poker.History.Types
-      Test.Poker.History.Bovada.Hands
+      Poker.History.Bovada.Parser
+      Poker.History.Bovada.Model
+      Poker.History.PokerStars.Model
+      Poker.History.PokerStars.Parser
   other-modules:
       Paths_history_bovada
   hs-source-dirs:
@@ -43,9 +42,9 @@ library
       base >=4.7 && <5
     , containers
     , directory
-    , extra
     , filepath
     , megaparsec
+    , mtl
     , poker
     , safe-money
     , text
@@ -57,7 +56,9 @@ test-suite all-tests
   type: exitcode-stdio-1.0
   main-is: Driver.hs
   other-modules:
-      Test.Poker.History.Parse
+      Test.Poker.History.Bovada.Parser
+      Test.Poker.History.Bovada.Hands
+      Test.Poker.History.PokerStars.Parser
       Paths_history_bovada
   hs-source-dirs:
       test
@@ -65,6 +66,7 @@ test-suite all-tests
   ghc-options: -threaded -rtsopts -with-rtsopts=-N -Wall -Wno-unticked-promoted-constructors
   build-depends:
       base >=4.7 && <5
+    , bytestring
     , containers
     , directory
     , extra
@@ -73,8 +75,11 @@ test-suite all-tests
     , megaparsec
     , poker
     , history-bovada
+    , tasty-discover
     , regex-base
     , regex-posix
+    , regex-tdfa
+    , safe-money
     , tasty
     , tasty-hspec
     , tasty-hunit

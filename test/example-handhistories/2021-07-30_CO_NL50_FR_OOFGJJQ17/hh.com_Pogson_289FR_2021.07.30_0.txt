@@ -1,0 +1,101 @@
+﻿PokerStars Hand #228684757041:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 14:08:39 ET
+Table 'Pogson II' 9-max Seat #3 is the button
+Seat 2: v.sting ($50 in chips) 
+Seat 3: lonely fire ($50.75 in chips) 
+Seat 9: samourai222 ($32.08 in chips) 
+samourai222: posts small blind $0.25
+Parabelum911: is sitting out 
+v.sting: posts big blind $0.50
+*** HOLE CARDS ***
+lonely fire: raises $0.75 to $1.25
+samourai222: raises $30.83 to $32.08 and is all-in
+v.sting: folds 
+lonely fire: folds 
+Uncalled bet ($30.83) returned to samourai222
+samourai222 collected $3 from pot
+samourai222: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 2: v.sting (big blind) folded before Flop
+Seat 3: lonely fire (button) folded before Flop
+Seat 9: samourai222 (small blind) collected ($3)
+
+
+
+PokerStars Hand #228684760758:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 14:08:48 ET
+Table 'Pogson II' 9-max Seat #9 is the button
+Seat 2: v.sting ($50 in chips) 
+Seat 3: lonely fire ($50 in chips) 
+Seat 9: samourai222 ($33.83 in chips) 
+v.sting: posts small blind $0.25
+lonely fire: posts big blind $0.50
+MarsMiland: sits out 
+PleBeY95: sits out 
+RikaSunPay: sits out 
+*** HOLE CARDS ***
+samourai222: folds 
+v.sting: folds 
+Uncalled bet ($0.25) returned to lonely fire
+samourai222 leaves the table
+lonely fire collected $0.50 from pot
+lonely fire: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: v.sting (small blind) folded before Flop
+Seat 3: lonely fire (big blind) collected ($0.50)
+Seat 9: samourai222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228684764595:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 14:08:57 ET
+Table 'Pogson II' 9-max Seat #2 is the button
+Seat 2: v.sting ($50 in chips) 
+Seat 3: lonely fire ($50.25 in chips) 
+Seat 4: MarsMiland ($50 in chips) 
+lonely fire: posts small blind $0.25
+MarsMiland: posts big blind $0.50
+PleBeY95: sits out 
+RikaSunPay: sits out 
+*** HOLE CARDS ***
+v.sting: raises $0.60 to $1.10
+lonely fire: folds 
+MarsMiland: calls $0.60
+*** FLOP *** [2s As Kh]
+MarsMiland: checks 
+PleBeY95 leaves the table
+v.sting: checks 
+*** TURN *** [2s As Kh] [5d]
+MarsMiland: bets $0.77
+v.sting: folds 
+Uncalled bet ($0.77) returned to MarsMiland
+MarsMiland collected $2.33 from pot
+MarsMiland: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.12 
+Board [2s As Kh 5d]
+Seat 2: v.sting (button) folded on the Turn
+Seat 3: lonely fire (small blind) folded before Flop
+Seat 4: MarsMiland (big blind) collected ($2.33)
+
+
+
+PokerStars Hand #228684787641:  Hold'em No Limit ($0.25/$0.50 USD) - 2021/07/30 14:09:42 ET
+Table 'Pogson II' 9-max Seat #4 is the button
+Seat 3: lonely fire ($50 in chips) 
+Seat 4: MarsMiland ($51.23 in chips) 
+MarsMiland: posts small blind $0.25
+v.sting: is sitting out 
+lonely fire: posts big blind $0.50
+*** HOLE CARDS ***
+MarsMiland: folds 
+Uncalled bet ($0.25) returned to lonely fire
+lonely fire collected $0.50 from pot
+lonely fire: doesn't show hand 
+v.sting leaves the table
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 3: lonely fire (big blind) collected ($0.50)
+Seat 4: MarsMiland (button) (small blind) folded before Flop
+
+
+

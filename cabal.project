@@ -3,7 +3,6 @@ packages:
  ../base
 
 index-state: 2021-08-08T02:21:16Z
-with-compiler: ghc-8.10.4
 
 source-repository-package
   type: git

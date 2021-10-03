@@ -2,11 +2,10 @@ module Test.Poker.History.Bovada.Hands where
 
 import           Data.Functor
 import           Money
-import           Paths_history_bovada
 import           Poker
 import           Poker.History.Bovada.Parser     ( pHands )
 import           Poker.History.Bovada.Model
-import           System.Directory               ( listDirectory )
+import           System.Directory               ( listDirectory, getCurrentDirectory )
 import           System.FilePath
 import           Text.Megaparsec
 import qualified Data.Text.IO as T
@@ -15,7 +14,7 @@ import Poker.History.Types
 
 historyFilePathsIO :: IO [FilePath]
 historyFilePathsIO = do
-  testDir <- getDataDir <&> (</> "Bovada")
+  testDir <- getCurrentDirectory <&> (</> "test/example-handhistories/Bovada")
   listDirectory testDir <&> fmap (testDir </>)
 
 allHands :: IO [History (Amount "USD")]

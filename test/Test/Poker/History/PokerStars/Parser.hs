@@ -5,54 +5,33 @@
 
 module Test.Poker.History.PokerStars.Parser where
 
-import           Control.Exception              ( SomeException(SomeException)
-                                                , catch
-                                                , try
-                                                )
 import           Control.Monad                  ( forM_
-                                                , void, (<=<)
+
                                                 )
-import           Data.ByteString                ( ByteString )
 import qualified Data.ByteString               as BS
-import           Data.Either                    ( fromRight )
-import           Data.Either.Extra              ( eitherToMaybe )
 import           Data.Functor                   ( (<&>) )
-import           Data.IORef.Extra               ( modifyIORef
-                                                , newIORef
-                                                , readIORef
+import           Data.IORef.Extra               ( newIORef
+                                                , readIORef, IORef
                                                 )
-import           Data.Maybe                     ( fromJust )
 import           Data.Text                      ( Text )
-import qualified Data.Text                     as T
-import qualified Data.Text.Encoding            as BS
 import qualified Data.Text.Encoding            as T
-import           Data.Text.Encoding.Error       ( UnicodeException )
 import qualified Data.Text.Encoding.Error      as T
 import qualified Data.Text.IO                  as T
 import           Data.Void                      ( Void )
-import           GHC.IO                         ( catchException )
-import           GHC.IO.Encoding                ( getLocaleEncoding )
 import           Poker.History.PokerStars.Parser
 import           Poker.History.PokerStars.Model            ( History
                                                 , Network(PokerStars)
-                                                , SomeBetSize
                                                 )
 import           System.Directory               ( getCurrentDirectory
                                                 , listDirectory
                                                 )
 import           System.FilePath                ( (</>) )
-import           System.IO.Extra
 import           Test.Hspec
-import           Test.Tasty.HUnit
-import           Text.Megaparsec                ( (<|>)
-                                                , ParseErrorBundle
+import           Text.Megaparsec                ( ParseErrorBundle
                                                 , errorBundlePretty
                                                 , parse
                                                 )
-import           Text.Regex.TDFA                ( Regex
-                                                , RegexLike(matchAllText)
-                                                , RegexMaker(makeRegex)
-                                                )
+import Poker.History.Types
 
 testHandsPaths :: IO [FilePath]
 testHandsPaths = do
@@ -85,15 +64,16 @@ parseString = parse pHands []
 
 -- unit_allHands = mapM_ testParseHands =<< testHandsPaths
 
+runWithHands :: (Num a1, Show a1) => (IORef a1 -> IO a2) -> IO ()
 runWithHands withHands = do
     totalHands <- newIORef 0
-    withHands totalHands
+    _ <- withHands totalHands
     print =<< readIORef totalHands
 
-data NonEq a = NonEq { unNonEq :: a}
+newtype NonEq a = NonEq { unNonEq :: a}
 
 instance Eq (NonEq a) where
-  ne == ne' = False
+  _ == _ = False
 
 spec_allHands :: SpecWith ()
 spec_allHands =   do
@@ -125,6 +105,7 @@ spec_allHands =   do
     --   it (show p) $ testParseHands p `shouldReturn` ()
 
 
+dropBOM :: BS.ByteString -> BS.ByteString
 dropBOM bs | BS.take 3 bs == BS.pack [0xEF, 0xBB, 0xBF] = BS.drop 3 bs
            | otherwise = bs
 

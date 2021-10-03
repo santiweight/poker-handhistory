@@ -5,7 +5,6 @@ import           Poker
 import GHC.Generics
 import Data.Time
 import Data.Map.Strict (Map)
-import GHC.TypeLits (Symbol)
 
 data PlayerAction t = PlayerAction
   { position :: !Position
@@ -97,21 +96,3 @@ data History b = History
   }
   deriving (Show, Eq, Ord, Generic, Functor)
 
-data Curr (c :: Symbol) where
-  USD ::Curr "USD"
-  EUR ::Curr "EUR"
-  GBP ::Curr "GBP"
-
-data SomeHistory where
-  SomeHistory ::Curr c -> History (Amount c) -> SomeHistory
-deriving instance Show (Curr c)
-
-data SomeCurr where
-  SomeCurr ::{unSomeCurr :: Curr c} -> SomeCurr
-
-data SomeBetSize where
-  SomeBetSize ::Curr c -> Rational -> SomeBetSize
-
-data BetSize c = BetSize !(Curr c) Rational
-
-deriving instance Show SomeBetSize

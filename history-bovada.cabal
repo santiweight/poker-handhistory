@@ -29,6 +29,8 @@ source-repository head
 
 library
   exposed-modules:
+      Poker.History.Base
+      Poker.History.Types
       Poker.History.Bovada.Parser
       Poker.History.Bovada.Model
       Poker.History.PokerStars.Model

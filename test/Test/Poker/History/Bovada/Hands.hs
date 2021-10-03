@@ -11,6 +11,7 @@ import           System.FilePath
 import           Text.Megaparsec
 import qualified Data.Text.IO as T
 import Control.Monad (forM)
+import Poker.History.Types
 
 historyFilePathsIO :: IO [FilePath]
 historyFilePathsIO = do

@@ -6,8 +6,6 @@ import           Poker
 import GHC.Generics
 import Data.Time
 import Data.Map.Strict (Map)
-import GHC.TypeLits (Symbol, KnownSymbol, sameSymbol)
-import Data.Proxy
 
 data PlayerAction t = PlayerAction
   -- { position :: !Position
@@ -17,17 +15,17 @@ data PlayerAction t = PlayerAction
 
 -- data TableAction t
   -- = TableAction Position (TableActionValue t)
-  -- | UnknownAction
+  --  | UnknownAction
   -- deriving (Read, Show, Eq, Ord, Functor)
 
 data TableActionValue t
   = PlayerSaid Text
   | Post !t
-  -- | PostDead !t
+  --  | PostDead !t
   | Leave
   | Join !Seat
-  -- | Deposit !t
-  -- | Enter
+  --  | Deposit !t
+  --  | Enter
   | SitOut
   | SittingOut
   | TimeOut
@@ -37,12 +35,12 @@ data TableActionValue t
   -- TODO remove, probably subsumed by another action
   | AllowedToPlayerAfterButton
   | FailToPost
-  -- | SitDown
-  -- | Showdown ![Card] !Text
-  -- | Muck ![Card] !Text
-  -- | Rejoin
-  -- | Return !t
-  -- | Result !t
+  --  | SitDown
+  --  | Showdown ![Card] !Text
+  --  | Muck ![Card] !Text
+  --  | Rejoin
+  --  | Return !t
+  --  | Result !t
   deriving (Read, Show, Ord, Eq, Functor)
 
 -- TODO Fix the below to become the above
@@ -77,17 +75,8 @@ data Player t = Player
 data Network = Bovada | PokerStars | Unknown
   deriving (Read, Show, Enum, Eq, Ord, Generic)
 
-data SNetwork net where
-  SBovada ::SNetwork Bovada
-  SPokerStars ::SNetwork PokerStars
-
-deriving instance Show (SNetwork net)
-deriving instance Eq (SNetwork net)
-deriving instance Ord (SNetwork net)
-
 data Header net = Header
-  { sNetwork :: !(SNetwork net)
-  , gameId   :: !Int
+  { gameId   :: !Int
   , gameTy   :: !GameType
   , time     :: !LocalTime
   }
@@ -104,29 +93,3 @@ data History net b = History
   }
   deriving (Show, Eq, Ord, Generic, Functor)
 
-data Curr (c :: Symbol) where
-  USD ::Curr "USD"
-  EUR ::Curr "EUR"
-  GBP ::Curr "GBP"
-
-deriving instance Eq (Curr c)
-
-data SomeHistory where
-  SomeHistory ::KnownSymbol c => Curr c -> History Bovada (Amount c) -> SomeHistory
-deriving instance Show (Curr c)
-
-data SomeCurr where
-  SomeCurr ::KnownSymbol c => {unSomeCurr :: Curr c} -> SomeCurr
-
-data SomeBetSize where
-  SomeBetSize ::KnownSymbol c => Curr c -> Rational -> SomeBetSize
-
-data BetSize c = BetSize !(Curr c) Rational
-
-deriving instance Show SomeBetSize
-
-instance Eq SomeBetSize where
-  (SomeBetSize (cu :: Curr c1) b1) == (SomeBetSize (cu' :: Curr c2) b2) =
-    case sameSymbol (Proxy @c1) (Proxy @c2) of
-      Nothing -> False
-      Just _  -> b1 == b2

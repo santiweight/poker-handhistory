@@ -1,134 +1,57 @@
+{-# LANGUAGE FlexibleInstances #-}
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE UndecidableInstances #-}
 {-# LANGUAGE ViewPatterns #-}
 {-# OPTIONS_GHC -Wno-unticked-promoted-constructors #-}
-{-# LANGUAGE FlexibleInstances #-}
-{-# LANGUAGE UndecidableInstances #-}
 
 module Poker.History.PokerStars.Parser
-  ( pHands
-  ) where
-
-import           Control.Applicative            ( liftA2 )
-import           Control.Monad
-import           Control.Monad.State.Strict     ( MonadState(get)
-                                                , evalStateT
-                                                , gets
-                                                )
-import           Data.Function
-import           Data.Functor
-import           Data.Map                       ( Map )
-import qualified Data.Map                      as M
-import qualified Data.Map.Strict               as Map
-import           Data.Maybe                     ( fromJust
-                                                , fromMaybe
-                                                , listToMaybe
-                                                , mapMaybe
-                                                )
-import qualified Data.Set                      as Set
-import           Data.Text                      ( Text )
-import qualified Data.Text                     as T
-import qualified Data.Text.Lazy                as TL
-import           Data.Time.Calendar             ( fromGregorian )
-import           Data.Time.LocalTime            ( LocalTime(..)
-                                                , TimeOfDay(..)
-                                                )
-import           Data.Tuple                     ( swap )
-import           Data.Void                      ( Void )
-import           Poker
-import           Poker.History.PokerStars.Model
-import           Prelude                 hiding ( id )
-import           Text.Megaparsec
-import           Text.Megaparsec.Char
-import           Text.Megaparsec.Char.Lexer     ( decimal )
-import           Text.Printf
-import qualified Text.Megaparsec.Char.Lexer as L
-import Control.Monad.Identity
--- | Parsing Monad
--- TODO change the error component
-type Parser a = ParsecT Void Text Identity a
-
--- default space consumer
-sc :: MonadParsec Void Text m => m ()
-sc = L.space space1 empty empty
-
--- default space consuming lexeme
-lexeme :: MonadParsec Void Text m => m a -> m a
-lexeme = L.lexeme sc
-
-lexeme_ :: MonadParsec Void Text m => m a -> m ()
-lexeme_ = void . lexeme
-
-string_ :: MonadParsec Void Text m => Text -> m ()
-string_ = void . string
-
--- integer matcher
-integer :: MonadParsec Void Text m => m Int
-integer = lexeme L.decimal <?> "integer"
-
--- rational matcher
-rational :: MonadParsec Void Text m => m Rational
-rational = toRational <$> L.scientific <?> "rational"
-
-try_ :: MonadParsec Void Text m => m a -> m ()
-try_ = void . try
-
-optional_ :: MonadParsec Void Text m => m a -> m ()
-optional_ = void . optional
-
-symbol :: MonadParsec Void Text m => Text -> m Text
-symbol = L.symbol sc
-
-symbol_ :: MonadParsec Void Text m => Text -> m ()
-symbol_ = void . symbol
-
-parens, braces, angles, brackets, singleQuotes
-  :: MonadParsec Void Text m => m a -> m a
-parens = between (symbol "(") (symbol ")")
-braces = between (symbol "{") (symbol "}")
-angles = between (symbol "<") (symbol ">")
-brackets = between (symbol "[") (symbol "]")
-singleQuotes = between (symbol "'") (symbol "'")
-
-semicolon, comma, colon, dot, fwdSlash :: MonadParsec Void Text m => m Text
-semicolon = symbol ";"
-comma = symbol ","
-colon = symbol ":"
-dot = symbol "."
-fwdSlash = symbol "/"
-
-pCurrency :: MonadParsec Void Text m => m SomeCurr
-pCurrency = anySingle >>= \case
-  '$' -> pure $ SomeCurr USD
-  '€' -> pure $ SomeCurr EUR
-  '£' -> pure $ SomeCurr GBP
-  _   -> empty <?> "currency"
-
-pCard :: MonadParsec Void Text m => m Card
-pCard = parsePrettyP
-
--- TODO change this to pCurrencyAmount
--- TODO parse pCurrency type
-pAmount :: MonadParsec Void Text m => m SomeBetSize
-pAmount = lexeme
-  (pCurrency >>= \case
-    SomeCurr curr -> SomeBetSize curr <$> rational
+  ( pHands,
   )
+where
 
-eol_ :: MonadParsec e Text m => m ()
-eol_ = void eol
+import Control.Applicative (liftA2)
+import Control.Monad
+import Control.Monad.State.Strict
+  ( MonadState (get),
+    evalStateT,
+    gets,
+  )
+import Data.Function
+import Data.Functor
+import Data.Map (Map)
+import qualified Data.Map as M
+import qualified Data.Map.Strict as Map
+import Data.Maybe
+  ( fromJust,
+    fromMaybe,
+    listToMaybe,
+    mapMaybe,
+  )
+import qualified Data.Set as Set
+import Data.String (IsString)
+import Data.Text (Text)
+import qualified Data.Text as T
+import qualified Data.Text.Lazy as TL
+import Data.Time.Calendar (fromGregorian)
+import Data.Time.LocalTime
+  ( LocalTime (..),
+    TimeOfDay (..),
+  )
+import Data.Tuple (swap)
+import Data.Void (Void)
+import Poker
+import Poker.History.Base
+import Poker.History.Types
+import Poker.History.PokerStars.Model
+import Text.Megaparsec
+import Text.Megaparsec.Char
+import Text.Megaparsec.Char.Lexer (decimal)
+import Prelude hiding (id)
 
 type PosParser m = (MonadParsec Void Text m, MonadState (Map Text Position) m)
 
 pManyCards :: MonadParsec Void Text m => m () -> m [Card]
 pManyCards pBetween = try pCard `sepEndBy` pBetween <?> "Multiple Cards"
-
--- | Match a specified number of cards
-countCard :: MonadParsec Void Text m => Int -> m () -> m [Card]
-countCard num pBetween = do
-  cards <- try pCard `sepEndBy` pBetween <?> "Multiple Cards"
-  if length cards /= num
-    then empty <?> printf "Expected %d cards, but found %d" num (length cards)
-    else pure cards
 
 -- TODO make this return a more complex datatype HandHeader
 -- TODO accept multiple hand header types
@@ -136,19 +59,21 @@ countCard num pBetween = do
 -- TODO find out if it's yyyy/mm/dd or yyyy/dd/mm
 -- TODO figure out time format
 -- TODO match different game types eg PLO
-handHeaderP
-  :: forall m . MonadParsec Void Text m => m (Header PokerStars, Seat)
+handHeaderP ::
+  forall m. MonadParsec Void Text m => m (Header PokerStars, Seat)
 handHeaderP = do
   sc
   _handNetwork <- PokerStars <$ string "PokerStars "
-  zoneMay      <- optional $ Zoom <$ string "Zoom "
+  zoneMay <- optional $ Zoom <$ string "Zoom "
   string_ "Hand #"
   handId <- integer <?> "Hand Number"
-  _      <- string ":  Hold'em No Limit "
-    *> parens (pAmount *> fwdSlash *> pAmount >> optional (string "USD"))
+  _ <-
+    string ":  Hold'em No Limit "
+      *> parens (pAmount *> fwdSlash *> pAmount >> optional (string "USD"))
   _ <- symbol "-"
-  let pDate = lexeme
-        $ liftM3 (,,) (integer <* char '/') (integer <* char '/') integer
+  let pDate =
+        lexeme $
+          liftM3 (,,) (integer <* char '/') (integer <* char '/') integer
   let pTime =
         lexeme $ liftM3 (,,) (integer <* colon) (integer <* colon) integer
   let pDateAndTime =
@@ -156,24 +81,24 @@ handHeaderP = do
   (year_, month_, day_) <- pDate
   (hour_, minute_, second_) <- pTime
   _ <- (string "UTC" <|> string "ET") *> sc *> optional (brackets pDateAndTime)
-  let day       = fromGregorian (fromIntegral year_) month_ day_
+  let day = fromGregorian (fromIntegral year_) month_ day_
   let timeOfDay = TimeOfDay hour_ minute_ (fromIntegral second_)
   let localTime = LocalTime day timeOfDay
   buttonSeatNum <-
     string "Table "
-    *> singleQuotes (many (satisfy (/= '\'')))
-    *> decimal @_ @_ @_ @Int
-    *> string "-max Seat #"
-    *> decimal @_ @_ @_ @Int
-    <* string " is the button"
-    <* eol
+      *> singleQuotes (many (satisfy (/= '\'')))
+      *> decimal @_ @_ @_ @Int
+      *> string "-max Seat #"
+      *> decimal @_ @_ @_ @Int
+      <* string " is the button"
+      <* eol
   pure
-    ( Header { gameId   = handId
-             , gameTy   = fromMaybe Cash zoneMay
-             , sNetwork = SPokerStars
-             , time     = localTime
-             }
-    , Seat buttonSeatNum
+    ( Header
+        { gameId = handId,
+          gameTy = fromMaybe Cash zoneMay,
+          time = localTime
+        },
+      Seat buttonSeatNum
     )
 
 pActionValue :: MonadParsec Void Text m => m (BetAction SomeBetSize)
@@ -181,37 +106,36 @@ pActionValue =
   choice
     . fmap try
     $ [pFold, pCheck, pBetsAllIn, pAllInRaise, pAllIn, pRaise, pCall, pBet]
- where
-  -- TODO if someone folds faceup we get more info!
-  pFold =
-    Fold
-      <$ (  string "folds"
-         >> optional (try $ space *> brackets (pManyCards space))
-         )
-  pCheck     = Check <$ string "checks"
-  pCall      = Call <$> (string "calls " *> pAmount)
-  pRaise     = uncurry Raise <$> (string "raises " >> pAmountToAmount)
-  pBet       = Bet <$> (string "bets " *> pAmount)
-  pBetsAllIn = AllIn <$> (string "bets " *> pAmount <* string "and is all-in")
-  pAllInRaise =
-    uncurry AllInRaise
-      <$> (string "raises " >> pAmountToAmount <* string "and is all-in")
-  pAllIn = AllIn <$> (string "calls " *> pAmount <* string "and is all-in")
-  pAmountToAmount = liftM2 (,) pAmount (string "to " *> pAmount)
+  where
+    -- TODO if someone folds faceup we get more info!
+    pFold =
+      Fold
+        <$ ( string "folds"
+               >> optional (try $ space *> brackets (pManyCards space))
+           )
+    pCheck = Check <$ string "checks"
+    pCall = Call <$> (string "calls " *> pAmount)
+    pRaise = uncurry Raise <$> (string "raises " >> pAmountToAmount)
+    pBet = Bet <$> (string "bets " *> pAmount)
+    pBetsAllIn = AllIn <$> (string "bets " *> pAmount <* string "and is all-in")
+    pAllInRaise =
+      uncurry AllInRaise
+        <$> (string "raises " >> pAmountToAmount <* string "and is all-in")
+    pAllIn = AllIn <$> (string "calls " *> pAmount <* string "and is all-in")
+    pAmountToAmount = liftM2 (,) pAmount (string "to " *> pAmount)
 
 data BlindPost t = PostSB t | PostBB t | PostSBAndBB t
-  deriving Show
+  deriving (Show)
 
 pPostBlind :: PosParser m => m (Position, BlindPost SomeBetSize)
 pPostBlind = label "Small blind post" . try $ do
-  pos  <- pPosition <* colon
+  pos <- pPosition <* colon
   post <-
     choice
-        [ PostBB <$ string "posts big blind "
-        , PostSB <$ string "posts small blind "
-        , PostSBAndBB <$ string "posts small & big blinds "
-        ]
-
+      [ PostBB <$ string "posts big blind ",
+        PostSB <$ string "posts small blind ",
+        PostSBAndBB <$ string "posts small & big blinds "
+      ]
       <*> pAmount
 
   pure (pos, post)
@@ -221,7 +145,7 @@ pFlop = do
   string_ "*** FLOP *** "
   brackets (countCard 3 sc) <&> \case
     [c1, c2, c3] -> MkDealerAction $ FlopDeal c1 c2 c3
-    _            -> error "WTF! I said 3 cards..."
+    _ -> error "WTF! I said 3 cards..."
 
 turnStreetP :: MonadParsec Void Text m => m (Action t)
 turnStreetP = do
@@ -240,14 +164,16 @@ pHoldingsMap = label "Card deal" $ do
   line_ $ string "*** HOLE CARDS ***"
   holdingMap <- M.fromList <$> many (try pDeal)
   pure (PlayerDeal, holdingMap)
- where
-  pDeal = liftM2 (,)
-                 (string "Dealt to " *> pPosition)
-                 (brackets $ liftM2 unsafeMkHand (pCard <* space) pCard)
+  where
+    pDeal =
+      liftM2
+        (,)
+        (string "Dealt to " *> pPosition)
+        (brackets $ liftM2 unsafeMkHand (pCard <* space) pCard)
 
 pStack :: MonadParsec Void Text m => m (Int, String, SomeBetSize)
 pStack = try $ do
-  seat     <- string "Seat " *> decimal <* colon
+  seat <- string "Seat " *> decimal <* colon
   userName <- T.unpack . T.strip . T.pack <$> many (notFollowedBy (string "($") *> anySingle)
   stack <- parens (pAmount <* string "in chips")
   pure (seat, userName, stack)
@@ -258,151 +184,163 @@ pSummary = line_ $ string "*** SUMMARY ***"
 -- pBoard takes the input 'Board [Cards]' and gives the contained cards
 pBoard :: MonadParsec Void Text m => m [Card]
 pBoard =
-  optional (string "FIRST " <|> string "SECOND ") >> string "Board " >> brackets
-    (pManyCards sc)
+  optional (string "FIRST " <|> string "SECOND ") >> string "Board "
+    >> brackets
+      (pManyCards sc)
 
 pSaid :: PosParser m => m (Action t)
 pSaid = do
-  (pos, T.pack -> saidTxt) <- (,) <$> (pPosition <* string "said, ") <*> many
-    (anySingleBut '\n')
+  (pos, T.pack -> saidTxt) <-
+    (,) <$> (pPosition <* string "said, ")
+      <*> many
+        (anySingleBut '\n')
   guard
-      (T.length saidTxt >= 2 && T.head saidTxt == '"' && T.last saidTxt == '"')
+    (T.length saidTxt >= 2 && T.head saidTxt == '"' && T.last saidTxt == '"')
     <?> "quote delimited text"
   pure
     . MkTableAction
     . KnownPlayer pos
     . PlayerSaid
     $ T.drop 1
-    . T.dropEnd 1
-    $ saidTxt
-
-lineEndedBy :: (MonadParsec e Text m) => Text -> m Text
-lineEndedBy suffix = do
-  (T.pack -> lineTxt) <- many (notFollowedBy eol *> anySingle)
-  guard $ suffix `T.isSuffixOf` lineTxt
-  eol_
-  pure lineTxt
+      . T.dropEnd 1
+      $ saidTxt
 
 pLeave :: MonadParsec e Text m => m (Action t)
 pLeave =
   (MkTableAction (UnknownPlayer Leave) <$)
-    .  try
-    $  many (notFollowedBy (eol <|> string "leaves the table") *> anySingle)
-    >> string "leaves the table"
+    . try
+    $ many (notFollowedBy (eol <|> string "leaves the table") *> anySingle)
+      >> string "leaves the table"
 
 pJoins :: MonadParsec Void Text m => m (Action t)
 pJoins = do
   seatNum <-
-    try
-    $  many (notFollowedBy (eol <|> string "joins the table") *> anySingle)
-    >> string "joins the table at seat #"
-    *> integer
+    try $
+      many (notFollowedBy (eol <|> string "joins the table") *> anySingle)
+        >> string "joins the table at seat #"
+        *> integer
   pure $ MkTableAction (UnknownPlayer (Join (Seat seatNum)))
 
 -- pAction parses a simple player action
 pAction :: PosParser m => m (Action SomeBetSize)
 pAction =
-  lexeme
-    $   try pSaid
-    <|> MkTableAction
-    <$> pFailToPost
-    <|> pLeave
-    <|> pJoins
-    <|> try (liftA2 MkBetAction (pPosition <* colon) pActionValue)
-    <|> try (MkTableAction <$> pTableAction)
- where
+  lexeme $
+    try pSaid
+      <|> MkTableAction
+      <$> pFailToPost
+      <|> pLeave
+      <|> pJoins
+      <|> try (liftA2 MkBetAction (pPosition <* colon) pActionValue)
+      <|> try (MkTableAction <$> pTableAction)
+
 pFailToPost :: MonadParsec e Text m => m (TableAction t)
 pFailToPost =
-  label "Failed to post" $ (UnknownPlayer FailToPost <$) . try $ lineEndedBy
-    "was removed from the table for failing to post"
+  label "Failed to post" $
+    (UnknownPlayer FailToPost <$) . try $
+      lineEndedBy
+        "was removed from the table for failing to post"
 
 pStacks :: MonadParsec Void Text m => m [(Int, String, SomeBetSize)]
 pStacks = some pStack
 
-getPlayers
-  :: Map Seat Position
-  -> Map Seat t
-  -> Map Text Position
-  -> Map Seat (Position, Player t)
+getPlayers ::
+  Map Seat Position ->
+  Map Seat t ->
+  Map Text Position ->
+  Map Seat (Position, Player t)
 getPlayers seatMap stackMap nameMap =
   let players = M.fromList $ do
         (seat_, _) <- Map.toList seatMap
         let pos = fromJust $ Map.lookup seat_ seatMap
-        pure $ (,)
-          seat_
-          ( pos
-          , Player
-            { _name  = fromJust $ Map.lookup
-                         pos
-                         (Map.fromList . fmap swap . Map.toList $ nameMap)
-            , _stack = fromJust $ Map.lookup seat_ stackMap
-            }
-          )
-  in  players
+        pure $
+          (,)
+            seat_
+            ( pos,
+              Player
+                { _name =
+                    fromJust $
+                      Map.lookup
+                        pos
+                        (Map.fromList . fmap swap . Map.toList $ nameMap),
+                  _stack = fromJust $ Map.lookup seat_ stackMap
+                }
+            )
+   in players
 
 street :: PosParser m => m (Action SomeBetSize) -> m [Action SomeBetSize]
 street streetHeader = lexeme $ liftM2 (:) streetHeader (many $ try pAction)
 
 streets :: PosParser m => m [Action SomeBetSize]
 streets = do
-  preflopAs  <- some pAction <?> "Preflop"
+  preflopAs <- some pAction <?> "Preflop"
   postFlopAs <- option [] $ do
-    flopAs         <- street pFlop <?> "Flop"
+    flopAs <- street pFlop <?> "Flop"
     turnAndRiverAs <- option [] $ do
-      turnAs  <- street turnStreetP <?> "Turn"
+      turnAs <- street turnStreetP <?> "Turn"
       riverAs <- option [] (street riverStreetP <?> "River")
       pure $ turnAs <> riverAs
     pure $ flopAs <> turnAndRiverAs
   pure $ preflopAs <> postFlopAs
 
+pStreetHeader ::
+  ( MonadParsec e s m,
+    Semigroup (Tokens s),
+    IsString (Tokens s)
+  ) =>
+  Tokens s ->
+  m (Tokens s)
 pStreetHeader streetName = string $ "*** " <> streetName <> " ***"
 
 -- TODO this is inefficient - consume the line once only
-pTableAction
-  :: forall e t m
-   . (MonadState (Map Text Position) m, MonadParsec e Text m)
-  => m (TableAction t)
+pTableAction ::
+  forall e t m.
+  (MonadState (Map Text Position) m, MonadParsec e Text m) =>
+  m (TableAction t)
 pTableAction = do
   (lineTxt, res) <- lineThat tryMatchSuffix
-  validUsers     <- Map.assocs <$> get
-  case
-      listToMaybe $ mapMaybe
-        (\(playerName, pos) -> pos <$ T.stripPrefix playerName lineTxt)
-        validUsers
-    of
-      Nothing  -> pure $ UnknownPlayer res
-      Just pos -> pure $ KnownPlayer pos res
- where
-  lineThat :: (MonadParsec e Text m) => (Text -> Maybe a) -> m (Text, a)
-  lineThat f = do
-    (T.pack -> lineTxt) <- many (notFollowedBy eol *> anySingle)
-    case f lineTxt of
-      Nothing -> empty
-      Just a  -> (lineTxt, a) <$ eol_
-  tryMatchSuffix lineTxt = ignorableActs & listToMaybe . mapMaybe
-    (\(act, matcher) ->
-      if matcher `T.isSuffixOf` lineTxt then Just act else Nothing
-    )
-  ignorableActs =
-    [ (SittingOut                , "is sitting out ")
-    , (SittingOut                , "is sitting out")
-    , (AllowedToPlayerAfterButton, "will be allowed to play after the button")
-    , (TimeOut                   , "has timed out")
-    , (TimeOutWhileDisconnected  , "has timed out while disconnected")
-    , (TimeOutWhileDisconnected  , "has timed out while being disconnected")
-    , (TimeOut                   , "has timed out")
-    , (IsDisconnected            , "is disconnected")
-    , (IsDisconnected            , "is disconnected ")
-    , (IsConnected               , "is connected")
-    , (IsConnected               , "is connected ")
-    , (Leave                     , "leaves the table")
-    , (SitOut                    , "sits out")
-    , (SitOut                    , "sits out ")
-    ]
+  validUsers <- Map.assocs <$> get
+  case listToMaybe $
+    mapMaybe
+      (\(playerName, pos) -> pos <$ T.stripPrefix playerName lineTxt)
+      validUsers of
+    Nothing -> pure $ UnknownPlayer res
+    Just pos -> pure $ KnownPlayer pos res
+  where
+    lineThat :: (MonadParsec e Text m) => (Text -> Maybe a) -> m (Text, a)
+    lineThat f = do
+      (T.pack -> lineTxt) <- many (notFollowedBy eol *> anySingle)
+      case f lineTxt of
+        Nothing -> empty
+        Just a -> (lineTxt, a) <$ eol_
+    tryMatchSuffix lineTxt =
+      ignorableActs
+        & listToMaybe
+          . mapMaybe
+            ( \(act, matcher) ->
+                if matcher `T.isSuffixOf` lineTxt then Just act else Nothing
+            )
+    ignorableActs =
+      [ (SittingOut, "is sitting out "),
+        (SittingOut, "is sitting out"),
+        (AllowedToPlayerAfterButton, "will be allowed to play after the button"),
+        (TimeOut, "has timed out"),
+        (TimeOutWhileDisconnected, "has timed out while disconnected"),
+        (TimeOutWhileDisconnected, "has timed out while being disconnected"),
+        (TimeOut, "has timed out"),
+        (IsDisconnected, "is disconnected"),
+        (IsDisconnected, "is disconnected "),
+        (IsConnected, "is connected"),
+        (IsConnected, "is connected "),
+        (Leave, "leaves the table"),
+        (SitOut, "sits out"),
+        (SitOut, "sits out ")
+      ]
 
 pShows :: MonadParsec Void Text m => m String
-pShows = string "shows " >> brackets (pManyCards sc) >> parens
-  (many $ satisfy (`notElem` ("\n)" :: String)))
+pShows =
+  string "shows " >> brackets (pManyCards sc)
+    >> parens
+      (many $ satisfy (`notElem` ("\n)" :: String)))
 
 -- handP is the primary hand parser that matches a hand
 pHand :: Parser (History PokerStars SomeBetSize) -- Hand
@@ -415,30 +353,35 @@ pHand = do
         pure (Seat seat, stack)
   let nameToSeat =
         Map.fromList $ stacks <&> (\(seat, name, _) -> (T.pack name, Seat seat))
-  let seatToPos :: Map Seat Position = Map.fromList $ zip
-        (Set.toList $ Map.keysSet seatToStack)
-        (dropWhile (/= BU) $ cycle allPositions)
-  let nameMap :: Map Text Position = nameToSeat & Map.mapWithKey
-        (\k name ->
-          fromMaybe
-              ( error
-              $ TL.unpack
-              . TL.intercalate "\n"
-              $ TL.pack <$> [show lineNum, show nameToSeat, show seatToPos]
-              )
-            . flip Map.lookup seatToPos
-            $ name
-        )
+  let seatToPos :: Map Seat Position =
+        Map.fromList $
+          zip
+            (Set.toList $ Map.keysSet seatToStack)
+            (dropWhile (/= BU) $ cycle allPositions)
+  let nameMap :: Map Text Position =
+        nameToSeat
+          & Map.mapWithKey
+            ( \_ name ->
+                fromMaybe
+                  ( error $
+                      TL.unpack
+                        . TL.intercalate "\n"
+                        $ TL.pack <$> [show lineNum, show nameToSeat, show seatToPos]
+                  )
+                  . flip Map.lookup seatToPos
+                  $ name
+            )
   flip evalStateT nameMap $ do
-    postAs <- many
-      $ try (many (try_ pTableAction <|> void pAction) *> pPostBlind)
-    let bbPostAsMay = postAs <&> \(_, bp) -> case bp of
-          (PostBB bb) -> Just bb
-          _           -> Nothing
-    let
-      bbs =
-        fromMaybe (error $ "Someone needs to post a big blind " <> show lineNum)
-          $ choice bbPostAsMay
+    postAs <-
+      many $
+        try (many (try_ pTableAction <|> void pAction) *> pPostBlind)
+    let bbPostAsMay =
+          postAs <&> \(_, bp) -> case bp of
+            (PostBB bb) -> Just bb
+            _ -> Nothing
+    let bbs =
+          fromMaybe (error $ "Someone needs to post a big blind " <> show lineNum) $
+            choice bbPostAsMay
     -- TODO careful not to dismiss valid acts
     _ <- many $ try pAction
     -- TODO keep antes
@@ -446,12 +389,12 @@ pHand = do
       many . try $ pPosition *> colon *> string "posts the ante " *> pAmount
     _ <-
       many
-      . choice
-      . fmap try
-      $ [lineEndedBy "sits out ", lineEndedBy "sits out"]
+        . choice
+        . fmap try
+        $ [lineEndedBy "sits out ", lineEndedBy "sits out"]
     (preFlopDeal, _) <- pHoldingsMap
-    postFlopAs              <- streets
-    _                       <- many (try pWinnerResult <* many (try pAction))
+    postFlopAs <- streets
+    _ <- many (try pWinnerResult <* many (try pAction))
     optional_ (pFlop >> optional (turnStreetP >> optional riverStreetP))
     optional_ (turnStreetP >> optional riverStreetP)
     optional_ riverStreetP
@@ -462,31 +405,31 @@ pHand = do
     optional_ . line_ $ pStreetHeader "SECOND FLOP" *> many (anySingleBut '\n')
     optional_ . line_ $ pStreetHeader "SECOND TURN" *> many (anySingleBut '\n')
     optional_ . line_ $ pStreetHeader "SECOND RIVER" *> many (anySingleBut '\n')
-    let
-      pShowDown num = optional $ do
-        line_ $ string ("*** " <> num <> "SHOW DOWN ***")
-        let pMucks = symbol "mucks hand"
-        _ <- many . label "Showdown act" $ do
-          choice
-            . fmap try
-            $ [ pPosition >> colon >> (void pShows <|> void pMucks)
-              , void pFailToPost
-              , void $ lexeme pLeave
-              , void
-              $  pPosition
-              >> string "collected "
-              >> pAmount
-              >> symbol "from "
-              >> choice
-                   ( try (string "side pot-" <* integer)
-                   : (symbol <$> ["main pot", "side pot", "pot"])
-                   )
-              , void pTableAction
-              , void pJoins
-              ]
-        many . label "Cash out" $ do
-          pPosition >> string "cashed out the hand for " >> pAmount >> optional
-            (string "| Cash Out Fee " >> pAmount)
+    let pShowDown num = optional $ do
+          line_ $ string ("*** " <> num <> "SHOW DOWN ***")
+          let pMucks = symbol "mucks hand"
+          _ <- many . label "Showdown act" $ do
+            choice
+              . fmap try
+              $ [ pPosition >> colon >> (void pShows <|> void pMucks),
+                  void pFailToPost,
+                  void $ lexeme pLeave,
+                  void $
+                    pPosition
+                      >> string "collected "
+                      >> pAmount
+                      >> symbol "from "
+                      >> choice
+                        ( try (string "side pot-" <* integer) :
+                          (symbol <$> ["main pot", "side pot", "pot"])
+                        ),
+                  void pTableAction,
+                  void pJoins
+                ]
+          many . label "Cash out" $ do
+            pPosition >> string "cashed out the hand for " >> pAmount
+              >> optional
+                (string "| Cash Out Fee " >> pAmount)
     optional_ (pShowDown "")
     optional_
       (try $ pShowDown "FIRST " >> many (try pAction) >> pShowDown "SECOND ")
@@ -498,84 +441,92 @@ pHand = do
     -- -- TODO parse summary
     -- _ <- many (try $ notFollowedBy (lookAhead (eol >> eol)) >> anySingle)
     let getPostSize :: BlindPost SomeBetSize -> SomeBetSize
-        getPostSize (PostSB      sbs) = sbs
-        getPostSize (PostBB      sbs) = sbs
+        getPostSize (PostSB sbs) = sbs
+        getPostSize (PostBB sbs) = sbs
         getPostSize (PostSBAndBB sbs) = sbs
     -- TODO some of these posts are dead, not real posts??
-    let
-      allAs = concat
-        [ (\(po, bp) -> MkTableAction (KnownPlayer po . Post $ getPostSize bp))
-          <$> postAs
-        , [MkDealerAction preFlopDeal]
-        , postFlopAs
-        ]
+    let allAs =
+          concat
+            [ (\(po, bp) -> MkTableAction (KnownPlayer po . Post $ getPostSize bp))
+                <$> postAs,
+              [MkDealerAction preFlopDeal],
+              postFlopAs
+            ]
     let players = getPlayers seatToPos seatToStack nameMap
-    pure $! History { header         = header'
-                    , _handStakes    = Stake bbs
-                    , _handActions   = allAs
-                    , _handPlayerMap = players <&> snd
-                    , _handSeatMap   = seatToPos
-                    , _handText      = ""
-                    }
+    pure
+      $! History
+        { header = header',
+          _handStakes = Stake bbs,
+          _handActions = allAs,
+          _handPlayerMap = players <&> snd,
+          _handSeatMap = seatToPos,
+          _handText = ""
+        }
 
-line_ :: MonadParsec Void Text m => m a -> m ()
-line_ = (>> eol_)
-
-line :: MonadParsec Void Text m => m a -> m a
-line = (<* eol_)
-
-pPosition
-  :: (MonadState (Map Text Position) m, MonadParsec Void Text m) => m Position
+pPosition ::
+  (MonadState (Map Text Position) m, MonadParsec Void Text m) => m Position
 pPosition = getPos =<< choice . fmap symbol . Map.keys =<< get
-  where getPos = gets . fmap fromJust . Map.lookup . T.stripEnd
-
+  where
+    getPos = gets . fmap fromJust . Map.lookup . T.stripEnd
 
 pPlayerResult :: PosParser m => m ()
-pPlayerResult = choice
-  [ void
-  $  string "Seat "
-  >> decimal @_ @_ @_ @Int
-  >> colon
-  >> pPosition
-  >> many
-       (try $ parens
-         (choice . fmap string $ ["button", "small blind", "big blind"])
-       )
-  >> pPlayerAct
-  , void pFailToPost
-  , void $ lexeme pLeave
-  ]
- where
-  pStreetWord = choice . fmap symbol $ ["Flop", "Turn", "River"]
-  pPlayerAct  = choice
-    [ void $ string "folded before " >> pStreetWord >> optional
-      (try $ parens (string "didn't bet"))
-    , void $ string "showed " >> brackets (pManyCards sc) >> choice
-      [ line_ $ string "and won " >> parens pAmount >> string "with " >> many
-        (anySingleBut '\n')
-      , line_ $ string "and lost with " >> many (anySingleBut '\n')
-      ]
-    , void $ string "folded on the " >> pStreetWord >> optional
-      (parens $ string "didn't bet")
-    , void $ string "collected " >> parens pAmount
-    , void $ string "mucked " >> brackets (pManyCards . void $ char ' ')
-    , void $ symbol "mucked"
+pPlayerResult =
+  choice
+    [ void $
+        string "Seat "
+          >> decimal @_ @_ @_ @Int
+          >> colon
+          >> pPosition
+          >> many
+            ( try $
+                parens
+                  (choice . fmap string $ ["button", "small blind", "big blind"])
+            )
+          >> pPlayerAct,
+      void pFailToPost,
+      void $ lexeme pLeave
     ]
+  where
+    pStreetWord = choice . fmap symbol $ ["Flop", "Turn", "River"]
+    pPlayerAct =
+      choice
+        [ void $
+            string "folded before " >> pStreetWord
+              >> optional
+                (try $ parens (string "didn't bet")),
+          void $
+            string "showed " >> brackets (pManyCards sc)
+              >> choice
+                [ line_ $
+                    string "and won " >> parens pAmount >> string "with "
+                      >> many
+                        (anySingleBut '\n'),
+                  line_ $ string "and lost with " >> many (anySingleBut '\n')
+                ],
+          void $
+            string "folded on the " >> pStreetWord
+              >> optional
+                (parens $ string "didn't bet"),
+          void $ string "collected " >> parens pAmount,
+          void $ string "mucked " >> brackets (pManyCards . void $ char ' '),
+          void $ symbol "mucked"
+        ]
 
 pPotResult :: MonadParsec Void Text m => m ()
 pPotResult =
-  void
-    $  string "Total pot "
-    >> pAmount
-    >> optional
-         (string "Main pot " >> pAmount >> symbol "." >> many
-           (  (try (string "Side pot-" <* integer) <|> string "Side pot ")
-           >> pAmount
-           >> symbol "."
-           )
-         )
-    >> string "| Rake "
-    >> pAmount
+  void $
+    string "Total pot "
+      >> pAmount
+      >> optional
+        ( string "Main pot " >> pAmount >> symbol "."
+            >> many
+              ( (try (string "Side pot-" <* integer) <|> string "Side pot ")
+                  >> pAmount
+                  >> symbol "."
+              )
+        )
+      >> string "| Rake "
+      >> pAmount
 
 -- TODO might not need choice, the following actions appear to be ordered
 pWinnerResult :: PosParser m => m ()
@@ -583,34 +534,33 @@ pWinnerResult =
   void
     . choice
     . fmap try
-    $ [ void
-      $  string "Uncalled bet "
-      >> parens pAmount
-      >> string "returned to "
-      >> pPosition
-    -- NOT GOOD FUCK YOU POKERSTARS - PUT YOUR USENAMES IN QUOTES!
-      , void pFailToPost
-      , lexeme $ void pLeave
-      , line_
-      $  lexeme pPosition
-      >> string "collected "
-      >> pAmount
-      >> (string "from pot" <|> try (string "from side pot-" <* integer))
-      , void $ pPosition *> colon *> pShows
-      , line_
-      $  pPosition
-      >> colon
-      >> (string "doesn't show hand " <|> string "doesn't show hand")
-      , line_ pSaid
-      , line_ $ pPosition >> string "is disconnected "
-      , pPosition >> string ":  " >> eol_
-      , pPosition >> string ":" >> eol_
+    $ [ void $
+          string "Uncalled bet "
+            >> parens pAmount
+            >> string "returned to "
+            >> pPosition,
+        -- NOT GOOD FUCK YOU POKERSTARS - PUT YOUR USENAMES IN QUOTES!
+        void pFailToPost,
+        lexeme $ void pLeave,
+        line_ $
+          lexeme pPosition
+            >> string "collected "
+            >> pAmount
+            >> (string "from pot" <|> try (string "from side pot-" <* integer)),
+        void $ pPosition *> colon *> pShows,
+        line_ $
+          pPosition
+            >> colon
+            >> (string "doesn't show hand " <|> string "doesn't show hand"),
+        line_ pSaid,
+        line_ $ pPosition >> string "is disconnected ",
+        pPosition >> string ":  " >> eol_,
+        pPosition >> string ":" >> eol_
       ]
 
 -- handsP is the the highest level parser
 pHands :: Parser [History PokerStars SomeBetSize]
 pHands = between sc eof $ do
   res <- many (lexeme pHand)
-  _   <- many eol
+  _ <- many eol
   pure res
-

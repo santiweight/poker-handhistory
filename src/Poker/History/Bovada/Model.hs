@@ -29,7 +29,6 @@ data TableActionValue t
   | Result !t
   deriving (Read, Show, Ord, Eq, Functor)
 
--- TODO Fix the below to become the above
 data DealerAction =
   PlayerDeal
   | FlopDeal !Card !Card !Card

@@ -1,0 +1,90 @@
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.33.0.
+--
+-- see: https://github.com/sol/hpack
+--
+-- hash: b8d708712749cc6d448c99a3b9c08eb45f35ee39d26478ce1491436479daef0f
+
+name:           history-bovada
+version:        0.1.0.0
+description:    Please see the README on GitHub at <https://github.com/githubuser/poker-handhistory#readme>
+category:       Poker
+homepage:       https://github.com/githubuser/poker-handhistory#readme
+bug-reports:    https://github.com/githubuser/poker-handhistory/issues
+author:         Author name here
+maintainer:     example@example.com
+copyright:      2021 Author name here
+license:        BSD3
+license-file:   LICENSE
+build-type:     Simple
+data-dir:       example-handhistories
+extra-source-files:
+    README.md
+    ChangeLog.md
+
+source-repository head
+  type: git
+  location: https://github.com/githubuser/poker-handhistory
+
+library
+  exposed-modules:
+      Poker.History.Base
+      Poker.History.Types
+      Poker.History.Bovada.Parser
+      Poker.History.Bovada.Model
+      Poker.History.PokerStars.Model
+      Poker.History.PokerStars.Parser
+  other-modules:
+      Paths_history_bovada
+  hs-source-dirs:
+      src
+  default-extensions: ConstraintKinds DataKinds DeriveDataTypeable DeriveFunctor DeriveGeneric DeriveTraversable EmptyCase FlexibleContexts GADTs LambdaCase LiberalTypeSynonyms PartialTypeSignatures PatternSynonyms PackageImports PolyKinds RankNTypes ScopedTypeVariables StandaloneDeriving TypeApplications TypeOperators TypeFamilies UnicodeSyntax ViewPatterns TemplateHaskell
+  build-depends:
+      base >=4.7 && <5
+    , containers
+    , directory
+    , filepath
+    , megaparsec
+    , mtl
+    , poker
+    , safe-money
+    , text
+    , time
+  default-language: Haskell2010
+  ghc-options: -Wall -Wno-unticked-promoted-constructors
+
+test-suite all-tests
+  type: exitcode-stdio-1.0
+  main-is: Driver.hs
+  other-modules:
+      Test.Poker.History.Bovada.Parser
+      Test.Poker.History.Bovada.Hands
+      Test.Poker.History.PokerStars.Parser
+      Paths_history_bovada
+  hs-source-dirs:
+      test
+  default-extensions: ConstraintKinds DataKinds DeriveDataTypeable DeriveFunctor DeriveGeneric DeriveTraversable EmptyCase FlexibleContexts GADTs LambdaCase LiberalTypeSynonyms PartialTypeSignatures PatternSynonyms PackageImports PolyKinds RankNTypes ScopedTypeVariables StandaloneDeriving TypeApplications TypeOperators TypeFamilies UnicodeSyntax ViewPatterns TemplateHaskell
+  ghc-options: -threaded -rtsopts -with-rtsopts=-N -Wall -Wno-unticked-promoted-constructors
+  build-depends:
+      base >=4.7 && <5
+    , bytestring
+    , containers
+    , directory
+    , extra
+    , filepath
+    , hspec
+    , megaparsec
+    , poker
+    , history-bovada
+    , tasty-discover
+    , regex-base
+    , regex-posix
+    , regex-tdfa
+    , safe-money
+    , tasty
+    , tasty-hspec
+    , tasty-hunit
+    , text
+    , time
+  default-language: Haskell2010

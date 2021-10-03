@@ -1,6 +1,3 @@
 [submodule "test/histories/example-handhistories"]
 	path = test/histories/example-handhistories
 	url = https://github.com/santiweight/example-handhistories.git
-[submodule "test/example-handhistories"]
-	path = example-handhistories
-	url = https://github.com/santiweight/example-handhistories.git

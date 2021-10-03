@@ -12,36 +12,18 @@ data PlayerAction t = PlayerAction
   }
   deriving (Read, Show, Eq, Ord, Functor)
 
--- data TableAction t
-  -- = TableAction Position (TableActionValue t)
-  -- UnknownAction
-  -- deriving (Read, Show, Eq, Ord, Functor)
-
 data TableActionValue t
   = Post !t
-  -- | PlayerSaid Text
   | PostDead !t
   | Leave
-  -- | Join !Seat
   | Deposit !t
   | SeatStand
   | Enter
   | SitOut
-  -- | SittingOut
-  -- | TimeOut
-  -- | IsDisconnected
-  -- | IsConnected
-  -- | TimeOutWhileDisconnected
-  -- TODO remove, probably subsumed by another action
-  -- | AllowedToPlayerAfterButton
-  -- | FailToPost
   | SitDown
-  -- TODO extract showdown contents (not sure if they exist)
   | UnknownShowdown
-  -- TODO parse full information
   | SeatSummary
   | Showdown ![Card] !Text
-  -- | Muck ![Card] !Text
   | Rejoin
   | Return !t
   | Result !t
@@ -71,7 +53,7 @@ data GameType = Zone | Cash
 
 data Player t = Player
   { _playerHolding :: !(Maybe Hand)
-  , _stack         :: !t -- TODO use newtype
+  , _stack         :: !t -- TODO use Stack
   }
   deriving (Show, Eq, Ord, Generic, Functor)
 
@@ -89,7 +71,6 @@ data History b = History
   { header         :: !Header
   , _handStakes    :: !(Stake b)
   , _handPlayerMap :: !(Map Seat (Player b))
-  -- , _handPositionMap :: !(Map Position (Player b))
   , _handSeatMap   :: !(Map Position Seat)
   , _handActions   :: ![Action b]
   , _handText      :: !Text

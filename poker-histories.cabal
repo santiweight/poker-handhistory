@@ -6,7 +6,7 @@ cabal-version: 1.12
 --
 -- hash: b8d708712749cc6d448c99a3b9c08eb45f35ee39d26478ce1491436479daef0f
 
-name:           history-bovada
+name:           poker-histories
 version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/poker-handhistory#readme>
 category:       Poker
@@ -35,8 +35,6 @@ library
       Poker.History.Bovada.Model
       Poker.History.PokerStars.Model
       Poker.History.PokerStars.Parser
-  other-modules:
-      Paths_history_bovada
   hs-source-dirs:
       src
   default-extensions: ConstraintKinds DataKinds DeriveDataTypeable DeriveFunctor DeriveGeneric DeriveTraversable EmptyCase FlexibleContexts GADTs LambdaCase LiberalTypeSynonyms PartialTypeSignatures PatternSynonyms PackageImports PolyKinds RankNTypes ScopedTypeVariables StandaloneDeriving TypeApplications TypeOperators TypeFamilies UnicodeSyntax ViewPatterns TemplateHaskell
@@ -61,7 +59,6 @@ test-suite all-tests
       Test.Poker.History.Bovada.Parser
       Test.Poker.History.Bovada.Hands
       Test.Poker.History.PokerStars.Parser
-      Paths_history_bovada
   hs-source-dirs:
       test
   default-extensions: ConstraintKinds DataKinds DeriveDataTypeable DeriveFunctor DeriveGeneric DeriveTraversable EmptyCase FlexibleContexts GADTs LambdaCase LiberalTypeSynonyms PartialTypeSignatures PatternSynonyms PackageImports PolyKinds RankNTypes ScopedTypeVariables StandaloneDeriving TypeApplications TypeOperators TypeFamilies UnicodeSyntax ViewPatterns TemplateHaskell
@@ -76,7 +73,7 @@ test-suite all-tests
     , hspec
     , megaparsec
     , poker
-    , history-bovada
+    , poker-histories
     , tasty-discover
     , regex-base
     , regex-posix

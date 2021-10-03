@@ -1,7 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# OPTIONS_GHC -Wno-unticked-promoted-constructors #-}
 
-module Poker.History.Bovada.Parser where
+module Poker.History.Bovada.Parser (pHands) where
 
 import Control.Monad
 import Data.Foldable (Foldable (toList))
@@ -10,8 +10,7 @@ import Data.Map (Map)
 import qualified Data.Map as M
 import qualified Data.Map.Strict as Map
 import Data.Maybe
-  ( fromJust,
-    fromMaybe,
+  ( fromMaybe,
   )
 import Data.Time.Calendar (fromGregorian)
 import Data.Time.LocalTime
@@ -162,12 +161,6 @@ pHoldingsMap = label "Card deal" $ do
       h <- brackets $ liftM2 unsafeMkHand (lexeme pCard) pCard
       pure (p, h)
 
-pHolding :: Parser (Position, Hand, IsHero)
-pHolding = lexeme $ do
-  (pos, hero) <- pPosition <* colon <* string_ "Card dealt to a spot "
-  [c1, c2] <- brackets $ countCard 2 sc
-  pure (pos, fromJust $ mkHand c1 c2, hero)
-
 pStack :: Parser (Int, Position, SomeBetSize, IsHero)
 pStack = do
   seat <- string "Seat " *> decimal <* colon
@@ -177,19 +170,6 @@ pStack = do
 
 pSummary :: Parser ()
 pSummary = string_ "*** SUMMARY ***"
-
-potP :: Parser SomeBetSize
-potP = string "Total Pot" *> parens pAmount
-
--- pSeatSumm takes
-pSeatSumm :: Parser (TableActionValue t) -- TableAction
-pSeatSumm = do
-  string "Seat+" >> integer >> string_ ": "
-  pPosition >> many printChar $> SeatSummary
-
--- pBoard takes the input 'Board [Cards]' and gives the contained cards
-pBoard :: Parser [Card]
-pBoard = string "Board " >> brackets (manyCardsP sc)
 
 -- TODO many calls to UnknownPlayer are incorrect here. We may be able to get more position information
 pTableAction :: Parser (TableAction SomeBetSize) -- TableAction
@@ -386,7 +366,8 @@ pHand = do
         _handText = ""
       }
 
--- handsP is the the highest level parser
+-- | Parser that can extract 'History's from a 'Text'. Can parse 0 'History's if the
+-- 'Text' contents are empty.
 pHands :: Parser [History SomeBetSize]
 pHands = between sc eof $ do
   res <- many (lexeme pHand)

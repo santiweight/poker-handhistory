@@ -7,25 +7,11 @@ import GHC.Generics
 import Data.Time
 import Data.Map.Strict (Map)
 
-data PlayerAction t = PlayerAction
-  -- { position :: !Position
-  -- , action   :: !(BetAction t)
-  -- }
-  deriving (Read, Show, Eq, Ord, Functor)
-
--- data TableAction t
-  -- = TableAction Position (TableActionValue t)
-  --  | UnknownAction
-  -- deriving (Read, Show, Eq, Ord, Functor)
-
 data TableActionValue t
   = PlayerSaid Text
   | Post !t
-  --  | PostDead !t
   | Leave
   | Join !Seat
-  --  | Deposit !t
-  --  | Enter
   | SitOut
   | SittingOut
   | TimeOut
@@ -35,15 +21,8 @@ data TableActionValue t
   -- TODO remove, probably subsumed by another action
   | AllowedToPlayerAfterButton
   | FailToPost
-  --  | SitDown
-  --  | Showdown ![Card] !Text
-  --  | Muck ![Card] !Text
-  --  | Rejoin
-  --  | Return !t
-  --  | Result !t
   deriving (Read, Show, Ord, Eq, Functor)
 
--- TODO Fix the below to become the above
 data DealerAction =
   PlayerDeal
   | FlopDeal !Card !Card !Card
@@ -68,7 +47,7 @@ data GameType = Zoom | Cash
 
 data Player t = Player
   { _name  :: Text
-  , _stack :: !t -- TODO use newtype
+  , _stack :: !t -- TODO use Stack
   }
   deriving (Show, Eq, Ord, Generic, Functor)
 
@@ -86,7 +65,6 @@ data History net b = History
   { header         :: Header net
   , _handStakes    :: !(Stake b)
   , _handPlayerMap :: !(Map Seat (Player b))
-  -- , _handPositionMap :: !(Map Position (Player b))
   , _handSeatMap   :: !(Map Seat Position)
   , _handActions   :: ![Action b]
   , _handText      :: !Text

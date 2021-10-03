@@ -24,7 +24,7 @@ data BetSize c = BetSize !(Curr c) Rational
 deriving instance Show SomeBetSize
 
 instance Eq SomeBetSize where
-  (SomeBetSize (cu :: Curr c1) b1) == (SomeBetSize (cu' :: Curr c2) b2) =
+  (SomeBetSize (_ :: Curr c1) b1) == (SomeBetSize (_ :: Curr c2) b2) =
     case sameSymbol (Proxy @c1) (Proxy @c2) of
       Nothing -> False
       Just _  -> b1 == b2

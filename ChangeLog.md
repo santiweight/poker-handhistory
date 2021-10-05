@@ -1,3 +1,3 @@
-# Changelog for history-bovada
+# Changelog for poker-histories
 
 ## Unreleased changes

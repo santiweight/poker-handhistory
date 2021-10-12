@@ -45,12 +45,12 @@ library
     , filepath
     , megaparsec
     , mtl
-    , poker
+    , poker-base
     , safe-money
     , text
     , time
   default-language: Haskell2010
-  ghc-options: -Wall -Wno-unticked-promoted-constructors
+  ghc-options: -j8 +RTS -A128m -n2m -RTS -Wall -Wno-unticked-promoted-constructors
 
 test-suite all-tests
   type: exitcode-stdio-1.0
@@ -72,7 +72,7 @@ test-suite all-tests
     , filepath
     , hspec
     , megaparsec
-    , poker
+    , poker-base
     , poker-histories
     , tasty-discover
     , regex-base

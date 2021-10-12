@@ -2,6 +2,8 @@ module Poker.History.Types where
 
 import GHC.TypeLits (Symbol, KnownSymbol, sameSymbol)
 import Data.Proxy
+import Poker
+import Money
 
 
 data Curr (c :: Symbol) where
@@ -19,7 +21,10 @@ deriving instance Show (Curr c)
 data SomeBetSize where
   SomeBetSize ::KnownSymbol c => Curr c -> Rational -> SomeBetSize
 
-data BetSize c = BetSize !(Curr c) Rational
+unsafeToUsdHand :: SomeBetSize -> Amount "USD"
+unsafeToUsdHand (SomeBetSize USD ra) =
+  unsafeMkAmount . fst . discreteFromDense Floor $ dense' ra
+unsafeToUsdHand _ = error "Unexpected non-USD hand"
 
 deriving instance Show SomeBetSize
 

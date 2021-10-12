@@ -242,7 +242,7 @@ pPost = do
   tableActVal <-
     choice
       [ PostDead <$> (string "Posts dead chip " >> pAmount),
-        Post <$> ((string "Posts chip " <|> string "Posts ") *> pAmount)
+        PostDead <$> ((string "Posts chip " <|> string "Posts ") *> pAmount)
       ]
   pure $ KnownPlayer p tableActVal
 

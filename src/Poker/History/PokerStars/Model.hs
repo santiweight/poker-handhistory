@@ -10,6 +10,9 @@ import Data.Map.Strict (Map)
 data TableActionValue t
   = PlayerSaid Text
   | Post !t
+  | PostDead !t
+  | PostSuperDead !t
+  | Ante !t
   | Leave
   | Join !Seat
   | SitOut
@@ -51,18 +54,15 @@ data Player t = Player
   }
   deriving (Show, Eq, Ord, Generic, Functor)
 
-data Network = Bovada | PokerStars | Unknown
-  deriving (Read, Show, Enum, Eq, Ord, Generic)
-
-data Header net = Header
+data Header = Header
   { gameId   :: !Int
   , gameTy   :: !GameType
   , time     :: !LocalTime
   }
   deriving (Show, Eq, Ord, Generic)
 
-data History net b = History
-  { header         :: Header net
+data History b = History
+  { header         :: !Header
   , _handStakes    :: !(Stake b)
   , _handPlayerMap :: !(Map Seat (Player b))
   , _handSeatMap   :: !(Map Seat Position)

@@ -60,10 +60,10 @@ pManyCards pBetween = try pCard `sepEndBy` pBetween <?> "Multiple Cards"
 -- TODO figure out time format
 -- TODO match different game types eg PLO
 handHeaderP ::
-  forall m. MonadParsec Void Text m => m (Header PokerStars, Seat)
+  forall m. MonadParsec Void Text m => m (Header, Seat)
 handHeaderP = do
   sc
-  _handNetwork <- PokerStars <$ string "PokerStars "
+  _handNetwork <- string "PokerStars "
   zoneMay <- optional $ Zoom <$ string "Zoom "
   string_ "Hand #"
   handId <- integer <?> "Hand Number"
@@ -124,17 +124,21 @@ pActionValue =
     pAllIn = AllIn <$> (string "calls " *> pAmount <* string "and is all-in")
     pAmountToAmount = liftM2 (,) pAmount (string "to " *> pAmount)
 
-data BlindPost t = PostSB t | PostBB t | PostSBAndBB t
+data BlindPost t = PostSB t | PostBB t | PostDeadBlind t | PostSuperDeadBlind t
   deriving (Show)
 
 pPostBlind :: PosParser m => m (Position, BlindPost SomeBetSize)
-pPostBlind = label "Small blind post" . try $ do
+pPostBlind = label "Post Blind" . try $ do
   pos <- pPosition <* colon
+  smallBlindPoster' <- smallBlindPoster
   post <-
     choice
-      [ PostBB <$ string "posts big blind ",
-        PostSB <$ string "posts small blind ",
-        PostSBAndBB <$ string "posts small & big blinds "
+      -- TODO whether or not these actions are dead posts is context
+      -- sensitive (depending on which position posted :( )
+      -- Maybe it's right now? Maybe it's not...
+      [ (if pos == BB then PostBB else PostDeadBlind) <$ string "posts big blind ",
+        (if pos == smallBlindPoster' then PostSB else PostSuperDeadBlind) <$ string "posts small blind ",
+        PostDeadBlind <$ string "posts small & big blinds "
       ]
       <*> pAmount
 
@@ -343,21 +347,22 @@ pShows =
       (many $ satisfy (`notElem` ("\n)" :: String)))
 
 -- handP is the primary hand parser that matches a hand
-pHand :: Parser (History PokerStars SomeBetSize) -- Hand
+pHand :: Parser (History SomeBetSize) -- Hand
 pHand = do
   lineNum <- getParserState <&> sourceLine . pstateSourcePos . statePosState
-  (header', _) <- handHeaderP
+  (header', btnSeatNum) <- handHeaderP
   stacks <- pStacks
   let seatToStack = Map.fromList $ do
         (seat, _, stack) <- stacks
         pure (Seat seat, stack)
   let nameToSeat =
         Map.fromList $ stacks <&> (\(seat, name, _) -> (T.pack name, Seat seat))
+  let allSeats = Set.toAscList $ Map.keysSet seatToStack
   let seatToPos :: Map Seat Position =
         Map.fromList $
           zip
-            (Set.toList $ Map.keysSet seatToStack)
-            (dropWhile (/= BU) $ cycle allPositions)
+            (take (length allSeats) . dropWhile (/= btnSeatNum) $ cycle allSeats)
+            (dropWhile (/= BU) $ cycle (if length allSeats == 2 then [BU, BB] else allPositions))
   let nameMap :: Map Text Position =
         nameToSeat
           & Map.mapWithKey
@@ -385,8 +390,8 @@ pHand = do
     -- TODO careful not to dismiss valid acts
     _ <- many $ try pAction
     -- TODO keep antes
-    _ <- do
-      many . try $ pPosition *> colon *> string "posts the ante " *> pAmount
+    antes <- do
+      many . try $ liftA2 (\pos -> KnownPlayer pos . Ante) (pPosition <* colon) (string "posts the ante " *> pAmount)
     _ <-
       many
         . choice
@@ -440,15 +445,17 @@ pHand = do
     _ <- many pPlayerResult
     -- -- TODO parse summary
     -- _ <- many (try $ notFollowedBy (lookAhead (eol >> eol)) >> anySingle)
-    let getPostSize :: BlindPost SomeBetSize -> SomeBetSize
-        getPostSize (PostSB sbs) = sbs
-        getPostSize (PostBB sbs) = sbs
-        getPostSize (PostSBAndBB sbs) = sbs
+    let getPostSize :: BlindPost SomeBetSize -> TableActionValue SomeBetSize
+        getPostSize (PostSB sbs) = Post sbs
+        getPostSize (PostBB sbs) = Post sbs
+        getPostSize (PostDeadBlind sbs) = PostDead sbs
+        getPostSize (PostSuperDeadBlind sbs) = PostSuperDead sbs
     -- TODO some of these posts are dead, not real posts??
     let allAs =
           concat
-            [ (\(po, bp) -> MkTableAction (KnownPlayer po . Post $ getPostSize bp))
+            [ (\(po, bp) -> MkTableAction (KnownPlayer po $ getPostSize bp))
                 <$> postAs,
+              MkTableAction <$> antes,
               [MkDealerAction preFlopDeal],
               postFlopAs
             ]
@@ -468,6 +475,12 @@ pPosition ::
 pPosition = getPos =<< choice . fmap symbol . Map.keys =<< get
   where
     getPos = gets . fmap fromJust . Map.lookup . T.stripEnd
+
+smallBlindPoster ::
+  (MonadState (Map Text Position) m, MonadParsec Void Text m) => m Position
+smallBlindPoster = Map.size <$> get <&> \case
+                          2 -> BU
+                          _ -> SB
 
 pPlayerResult :: PosParser m => m ()
 pPlayerResult =
@@ -559,7 +572,7 @@ pWinnerResult =
       ]
 
 -- handsP is the the highest level parser
-pHands :: Parser [History PokerStars SomeBetSize]
+pHands :: Parser [History SomeBetSize]
 pHands = between sc eof $ do
   res <- many (lexeme pHand)
   _ <- many eol

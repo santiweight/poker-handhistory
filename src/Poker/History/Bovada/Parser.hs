@@ -1,7 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# OPTIONS_GHC -Wno-unticked-promoted-constructors #-}
 
-module Poker.History.Bovada.Parser (pHands) where
+module Poker.History.Bovada.Parser (pHand, pHands) where
 
 import Control.Monad
 import Data.Foldable (Foldable (toList))

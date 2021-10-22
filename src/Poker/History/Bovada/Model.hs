@@ -1,10 +1,11 @@
 module Poker.History.Bovada.Model where
 
 import           Data.Text                      ( Text )
-import           Poker
+import           Poker hiding (Position)
 import GHC.Generics
 import Data.Time
 import Data.Map.Strict (Map)
+import Poker.History.Base (Position)
 
 data PlayerAction t = PlayerAction
   { position :: !Position
@@ -51,7 +52,7 @@ data GameType = Zone | Cash
   deriving (Show, Eq, Ord, Read, Enum, Generic)
 
 data Player t = Player
-  { _playerHolding :: !(Maybe Hand)
+  { _playerHolding :: !(Maybe Hole)
   , _stack         :: !t -- TODO use Stack
   }
   deriving (Show, Eq, Ord, Generic, Functor)
@@ -75,4 +76,3 @@ data History b = History
   , _handText      :: !Text
   }
   deriving (Show, Eq, Ord, Generic, Functor)
-

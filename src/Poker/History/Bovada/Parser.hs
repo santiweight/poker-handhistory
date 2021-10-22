@@ -17,7 +17,7 @@ import Data.Time.LocalTime
   ( LocalTime (..),
     TimeOfDay (..),
   )
-import Poker
+import Poker hiding (Position)
 import Poker.History.Base
 import Poker.History.Bovada.Model
 import Poker.History.Types
@@ -149,7 +149,7 @@ riverStreetP = do
   void $ brackets (countCard 4 sc)
   MkDealerAction . RiverDeal <$> brackets pCard
 
-pHoldingsMap :: Parser (DealerAction, Map Position Hand)
+pHoldingsMap :: Parser (DealerAction, Map Position Hole)
 pHoldingsMap = label "Card deal" $ do
   symbol_ "*** HOLE CARDS ***"
   holdingMap <- M.fromList <$> many (try pDeal)
@@ -158,7 +158,7 @@ pHoldingsMap = label "Card deal" $ do
     pDeal = do
       (p, _) <- pPosition
       string_ ": Card dealt to a spot "
-      h <- brackets $ liftM2 unsafeMkHand (lexeme pCard) pCard
+      h <- brackets $ liftM2 unsafeHole (lexeme pCard) pCard
       pure (p, h)
 
 pStack :: Parser (Int, Position, SomeBetSize, IsHero)
@@ -264,7 +264,7 @@ pStacks = some pStack
 
 getPlayers ::
   [(Int, Position, t, d)] ->
-  Map Position Hand ->
+  Map Position Hole ->
   Map Seat (Seat, Position, Player t)
 getPlayers stacks holdings =
   let players = M.fromList $ do

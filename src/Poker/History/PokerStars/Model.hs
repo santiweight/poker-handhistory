@@ -2,10 +2,11 @@
 module Poker.History.PokerStars.Model where
 
 import           Data.Text                      ( Text )
-import           Poker
+import           Poker hiding (Position)
 import GHC.Generics
 import Data.Time
 import Data.Map.Strict (Map)
+import Poker.History.Base (Position)
 
 data TableActionValue t
   = PlayerSaid Text
@@ -64,10 +65,8 @@ data Header = Header
 data History b = History
   { header         :: !Header
   , _handStakes    :: !(Stake b)
-  , _handPlayerMap :: !(Map Seat (Player b))
-  , _handSeatMap   :: !(Map Seat Position)
+  , _handPlayerMap :: !(Map Seat (Player b)) , _handSeatMap   :: !(Map Seat Position)
   , _handActions   :: ![Action b]
   , _handText      :: !Text
   }
   deriving (Show, Eq, Ord, Generic, Functor)
-

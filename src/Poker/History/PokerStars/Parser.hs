@@ -39,7 +39,7 @@ import Data.Time.LocalTime
   )
 import Data.Tuple (swap)
 import Data.Void (Void)
-import Poker
+import Poker hiding (Position, allPositions)
 import Poker.History.Base
 import Poker.History.Types
 import Poker.History.PokerStars.Model
@@ -163,7 +163,7 @@ riverStreetP = do
   void $ brackets (countCard 4 sc)
   MkDealerAction . RiverDeal <$> brackets pCard
 
-pHoldingsMap :: PosParser m => m (DealerAction, Map Position Hand)
+pHoldingsMap :: PosParser m => m (DealerAction, Map Position Hole)
 pHoldingsMap = label "Card deal" $ do
   line_ $ string "*** HOLE CARDS ***"
   holdingMap <- M.fromList <$> many (try pDeal)
@@ -173,7 +173,7 @@ pHoldingsMap = label "Card deal" $ do
       liftM2
         (,)
         (string "Dealt to " *> pPosition)
-        (brackets $ liftM2 unsafeMkHand (pCard <* space) pCard)
+        (brackets $ liftM2 unsafeHole (pCard <* space) pCard)
 
 pStack :: MonadParsec Void Text m => m (Int, String, SomeBetSize)
 pStack = try $ do

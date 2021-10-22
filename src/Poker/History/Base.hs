@@ -6,12 +6,13 @@ import Control.Monad.Identity
 import Data.Text (Text)
 import qualified Data.Text as T
 import Data.Void
-import Poker
+import Poker hiding (Position)
 import Poker.History.Types
 import Text.Megaparsec
 import Text.Megaparsec.Char
 import qualified Text.Megaparsec.Char.Lexer as L
 import Text.Printf (printf)
+import GHC.Generics
 
 type Parser a = ParsecT Void Text Identity a
 
@@ -75,7 +76,7 @@ pCurrency =
     _ -> empty <?> "currency"
 
 pCard :: MonadParsec Void Text m => m Card
-pCard = parsePrettyP
+pCard = maybe empty pure . cardFromShortTxt =<< takeP (Just "Card Token") 2
 
 eol_ :: MonadParsec e Text m => m ()
 eol_ = void eol
@@ -111,3 +112,9 @@ lineEndedBy suffix = do
   guard $ suffix `T.isSuffixOf` lineTxt
   eol_
   pure lineTxt
+
+data Position = UTG | UTG1 | UTG2 | UTG3 | UTG4 | UTG5 | BU | SB | BB
+  deriving (Show, Eq, Ord, Generic, Read, Bounded, Enum)
+
+allPositions :: [Position]
+allPositions = [minBound..maxBound]

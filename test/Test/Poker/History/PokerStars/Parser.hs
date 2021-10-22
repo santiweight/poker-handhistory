@@ -18,7 +18,6 @@ import Data.IORef.Extra
 import Data.Text (Text)
 import qualified Data.Text.Encoding as T
 import qualified Data.Text.Encoding.Error as T
-import qualified Data.Text.IO as T
 import Data.Void (Void)
 import Poker.History.PokerStars.Model
   ( History,

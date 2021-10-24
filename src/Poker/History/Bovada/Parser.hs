@@ -1,4 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE DuplicateRecordFields #-}
+
 {-# OPTIONS_GHC -Wno-unticked-promoted-constructors #-}
 
 module Poker.History.Bovada.Parser (pHands) where
@@ -277,7 +279,7 @@ getPlayers stacks holdings =
               Player -- _name           = Just "test"
               -- , _playerPosition = Just pos_
                 { _playerHolding = M.lookup pos_ holdings,
-                  _stack = stack_
+                  _playerStack = stack_
                 }
                 -- , _seat           = MkSeat seat_
             )

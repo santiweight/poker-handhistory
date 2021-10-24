@@ -2,11 +2,10 @@
 module Poker.History.PokerStars.Model where
 
 import           Data.Text                      ( Text )
-import           Poker hiding (Position)
+import           Poker
 import GHC.Generics
 import Data.Time
 import Data.Map.Strict (Map)
-import Poker.History.Base (Position)
 
 data TableActionValue t
   = PlayerSaid Text

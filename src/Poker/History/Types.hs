@@ -23,7 +23,7 @@ data SomeBetSize where
 
 unsafeToUsdHand :: SomeBetSize -> Amount "USD"
 unsafeToUsdHand (SomeBetSize USD ra) =
-  unsafeMkAmount . fst . discreteFromDense Floor $ dense' ra
+  unsafeAmount . fst . discreteFromDense Floor $ dense' ra
 unsafeToUsdHand _ = error "Unexpected non-USD hand"
 
 deriving instance Show SomeBetSize

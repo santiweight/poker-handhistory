@@ -53,7 +53,7 @@ data GameType = Zone | Cash
 
 data Player t = Player
   { _playerHolding :: !(Maybe Hole)
-  , _stack         :: !t -- TODO use Stack
+  , _playerStack         :: !t -- TODO use Stack
   }
   deriving (Show, Eq, Ord, Generic, Functor)
 

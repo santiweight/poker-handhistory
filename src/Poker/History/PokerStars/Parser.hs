@@ -1,3 +1,4 @@
+{-# LANGUAGE DuplicateRecordFields #-}
 {-# LANGUAGE FlexibleInstances #-}
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE UndecidableInstances #-}
@@ -39,14 +40,16 @@ import Data.Time.LocalTime
   )
 import Data.Tuple (swap)
 import Data.Void (Void)
-import Poker hiding (Position, allPositions)
-import Poker.History.Base
-import Poker.History.Types
+import Poker
+import Poker.History.Base hiding (Position, allPositions)
 import Poker.History.PokerStars.Model
+import Poker.History.Types
 import Text.Megaparsec
 import Text.Megaparsec.Char
 import Text.Megaparsec.Char.Lexer (decimal)
 import Prelude hiding (id)
+import Poker.Game (smallBlindPosition)
+import Debug.Trace
 
 type PosParser m = (MonadParsec Void Text m, MonadState (Map Text Position) m)
 
@@ -127,16 +130,25 @@ pActionValue =
 data BlindPost t = PostSB t | PostBB t | PostDeadBlind t | PostSuperDeadBlind t
   deriving (Show)
 
+pBbPos :: PosParser m => m Position
+pBbPos = bigBlindPosition <$> pNumPlayers
+
+pNumPlayers :: PosParser m => m NumPlayers
+pNumPlayers = (\m -> fromMaybe (error $ show m) . mkNumPlayers . Map.size $ m) <$> get
+
 pPostBlind :: PosParser m => m (Position, BlindPost SomeBetSize)
 pPostBlind = label "Post Blind" . try $ do
   pos <- pPosition <* colon
-  smallBlindPoster' <- smallBlindPoster
+  numPlayers <- pNumPlayers
+  smallBlindPoster' <- pSmallBlindPoster
+  bbPos <- pBbPos
+  -- traceShowM (pos, smallBlindPoster', bbPos, numPlayers)
   post <-
     choice
       -- TODO whether or not these actions are dead posts is context
       -- sensitive (depending on which position posted :( )
       -- Maybe it's right now? Maybe it's not...
-      [ (if pos == BB then PostBB else PostDeadBlind) <$ string "posts big blind ",
+      [ (if pos == bbPos then PostBB else PostDeadBlind) <$ string "posts big blind ",
         (if pos == smallBlindPoster' then PostSB else PostSuperDeadBlind) <$ string "posts small blind ",
         PostDeadBlind <$ string "posts small & big blinds "
       ]
@@ -358,21 +370,20 @@ pHand = do
   let nameToSeat =
         Map.fromList $ stacks <&> (\(seat, name, _) -> (T.pack name, Seat seat))
   let allSeats = Set.toAscList $ Map.keysSet seatToStack
+  let numPlayers = fromJust $ mkNumPlayers $ length allSeats
+  let bbPos = bigBlindPosition numPlayers
+  let buPos = buttonPosition numPlayers
   let seatToPos :: Map Seat Position =
         Map.fromList $
           zip
             (take (length allSeats) . dropWhile (/= btnSeatNum) $ cycle allSeats)
-            (dropWhile (/= BU) $ cycle (if length allSeats == 2 then [BU, BB] else allPositions))
+            (dropWhile (/= buPos) $ cycle (allPositions numPlayers))
   let nameMap :: Map Text Position =
         nameToSeat
           & Map.mapWithKey
             ( \_ name ->
                 fromMaybe
-                  ( error $
-                      TL.unpack
-                        . TL.intercalate "\n"
-                        $ TL.pack <$> [show lineNum, show nameToSeat, show seatToPos]
-                  )
+                  (error "wtf")
                   . flip Map.lookup seatToPos
                   $ name
             )
@@ -385,7 +396,7 @@ pHand = do
             (PostBB bb) -> Just bb
             _ -> Nothing
     let bbs =
-          fromMaybe (error $ "Someone needs to post a big blind " <> show lineNum) $
+          fromMaybe (error $ "Someone needs to post a big blind " <> show (lineNum, postAs, bbPos, numPlayers)) $
             choice bbPostAsMay
     -- TODO careful not to dismiss valid acts
     _ <- many $ try pAction
@@ -476,11 +487,9 @@ pPosition = getPos =<< choice . fmap symbol . Map.keys =<< get
   where
     getPos = gets . fmap fromJust . Map.lookup . T.stripEnd
 
-smallBlindPoster ::
+pSmallBlindPoster ::
   (MonadState (Map Text Position) m, MonadParsec Void Text m) => m Position
-smallBlindPoster = Map.size <$> get <&> \case
-                          2 -> BU
-                          _ -> SB
+pSmallBlindPoster = smallBlindPosition <$> pNumPlayers
 
 pPlayerResult :: PosParser m => m ()
 pPlayerResult =

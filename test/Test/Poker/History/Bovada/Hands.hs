@@ -27,5 +27,5 @@ allHands = do
       Right hiss -> pure . fmap (fmap toUsd) $ hiss
 
 toUsd :: SomeBetSize -> Amount "USD"
-toUsd (SomeBetSize USD ra) = unsafeMkAmount . fst . discreteFromDense Floor $ dense' ra
+toUsd (SomeBetSize USD ra) = unsafeAmount . fst . discreteFromDense Floor $ dense' ra
 toUsd _ = error "Unexpected non-USD hand"

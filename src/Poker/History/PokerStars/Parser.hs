@@ -67,7 +67,7 @@ handHeaderP = do
   _handNetwork <- string "PokerStars "
   zoneMay <- optional $ Zoom <$ string "Zoom "
   string_ "Hand #"
-  handId <- integer <?> "Hand Number"
+  handId <- lexeme integer <?> "Hand Number"
   _ <-
     string ":  Hold'em No Limit "
       *> parens (pAmount *> fwdSlash *> pAmount >> optional (string "USD"))
@@ -223,7 +223,7 @@ pJoins = do
     try $
       many (notFollowedBy (eol <|> string "joins the table") *> anySingle)
         >> string "joins the table at seat #"
-        *> integer
+        *> lexeme integer
   pure $ MkTableAction (UnknownPlayer (Join (Seat seatNum)))
 
 -- pAction parses a simple player action
@@ -426,7 +426,7 @@ pHand = do
                       >> pAmount
                       >> symbol "from "
                       >> choice
-                        ( try (string "side pot-" <* integer) :
+                        ( try (string "side pot-" <* lexeme integer) :
                           (symbol <$> ["main pot", "side pot", "pot"])
                         ),
                   void pTableAction,
@@ -534,7 +534,7 @@ pPotResult =
       >> optional
         ( string "Main pot " >> pAmount >> symbol "."
             >> many
-              ( (try (string "Side pot-" <* integer) <|> string "Side pot ")
+              ( (try (string "Side pot-" <* lexeme integer) <|> string "Side pot ")
                   >> pAmount
                   >> symbol "."
               )
@@ -560,7 +560,7 @@ pWinnerResult =
           lexeme pPosition
             >> string "collected "
             >> pAmount
-            >> (string "from pot" <|> try (string "from side pot-" <* integer)),
+            >> (string "from pot" <|> try (string "from side pot-" <* lexeme integer)),
         void $ pPosition *> colon *> pShows,
         line_ $
           pPosition

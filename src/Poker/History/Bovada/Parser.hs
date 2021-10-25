@@ -215,8 +215,8 @@ pTableAction =
     pMuck = do
       showdownStr <-
         choice ["Mucks ", "Does not show ", "Showdown "]
-      cards <- lexeme (brackets (manyCardsP sc))
-      (sc <* (lexeme . parens . many) (lexeme letterChar))
+      cards <- brackets (manyCardsP sc)
+      (sc <* (parens . many) (lexeme letterChar))
         <|> void (many printChar)
       pure $ Showdown cards showdownStr
     pLeave =

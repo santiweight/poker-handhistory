@@ -17,8 +17,7 @@ import           Text.Regex.Posix
 spec_allHands :: SpecWith ()
 spec_allHands = do
   importedHandsPaths <- runIO historyFilePathsIO
-  sequence_ $ importedHandsPaths <&> \p -> do
-    it (show p) $ testParseHands p `shouldReturn` ()
+  sequence_ $ importedHandsPaths <&> \p -> do it (show p) $ testParseHands p `shouldReturn` ()
 
 testParseHands :: FilePath -> IO ()
 testParseHands fp = do

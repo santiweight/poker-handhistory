@@ -1,8 +1,9 @@
+{-# LANGUAGE DuplicateRecordFields #-}
 {-# LANGUAGE OverloadedStrings #-}
-{-# OPTIONS_GHC -Wno-unticked-promoted-constructors #-}
 
 module Poker.History.Bovada.Parser (pHand, pHands) where
 
+import Control.Applicative (Applicative (liftA2))
 import Control.Monad
 import Data.Foldable (Foldable (toList))
 import Data.Functor
@@ -26,27 +27,32 @@ import Text.Megaparsec.Char
 import Text.Megaparsec.Char.Lexer (decimal)
 import Prelude hiding (id)
 
-manyCardsP :: Parser () -> Parser [Card]
+-- | Primitive Combinators
+
+-- Parse some 'Card's separated by a separator-consuming parser
+manyCardsP ::
+  -- | Parse that consumes between 'Card's
+  Parser () ->
+  Parser [Card]
 manyCardsP pBetween =
-  (try . lexeme) (try pCard `sepEndBy` pBetween) <?> "Multiple Cards"
+  try (try pCard `sepEndBy` try pBetween) <?> "Multiple Cards"
 
 -- parses a Position type
 pPosition :: Parser (Position, IsHero)
-pPosition = do
-  p <- positionString
-  hero <- option Villain $ symbol "[ME]" $> Hero
-  pure (p, hero)
+pPosition = liftA2 (,) pPos pHero
   where
-    positionString =
-      (lexeme . choice)
-        [ SB <$ string "Small Blind",
-          BB <$ string "Big Blind",
-          UTG1 <$ string "UTG+1",
-          UTG2 <$ string "UTG+2",
-          UTG <$ string "UTG",
-          BU <$ string "Dealer"
-        ]
-        <?> "expected Position"
+    pHero = option Villain $ Hero <$ try (sc *> "[ME] ")
+    pPos = pPosString <* spaceChar
+    pPosString =
+      label "Position" $
+        choice
+          [ SB <$ "Small Blind",
+            BB <$ "Big Blind",
+            UTG1 <$ "UTG+1",
+            UTG2 <$ "UTG+2",
+            UTG <$ "UTG",
+            BU <$ "Dealer"
+          ]
 
 -- TODO make this return a more complex datatype HandHeader
 -- TODO accept multiple hand header types
@@ -56,27 +62,20 @@ pPosition = do
 -- TODO match different game types eg PLO
 handHeaderP :: Parser Header
 handHeaderP = do
-  _handNetwork <-
-    choice [Bovada <$ string "Bovada ", PokerStars <$ string "PokerStars "]
-      <?> "Network"
-  symbol_ "Hand #"
-  handID_ <- integer <?> "Hand Number"
-  zoneMay <- optional $ Zone <$ symbol "Zone Poker"
-  _ <- optional $ symbol "ID#" *> integer
-  _ <- optional $ symbol "TBL#" *> integer
-  string "HOLDEM" >> optional (string "ZonePoker") >> string_ " No Limit - "
-  (year_, month_, day_) <-
-    lexeme $
-      liftM3 (,,) (integer <* char '-') (integer <* char '-') integer
-  (hour_, minute_, second_) <-
-    lexeme $
-      liftM3 (,,) (integer <* colon) (integer <* colon) integer
-  let day = fromGregorian (fromIntegral year_) month_ day_
-  let timeOfDay = TimeOfDay hour_ minute_ (fromIntegral second_)
-  let localTime = LocalTime day timeOfDay
+  handId <- "Bovada Hand #" *> integer <* " " <?> "Hand ID"
+  zoneMay <- optional $ Zone <$ " Zone Poker "
+  optional_ $ "ID#" *> integer <* " "
+  optional_ $ "TBL#" *> integer <* " "
+  "HOLDEM" >> optional "ZonePoker" >> " No Limit - "
+  let tuple3Sep pBetween p = liftM3 (,,) (p <* pBetween) (p <* pBetween) p
+  (year, month, day) <- tuple3Sep "-" integer <* " "
+  (hour, minute, second) <- tuple3Sep ":" integer <* eol
+  let date = fromGregorian (fromIntegral year) month day
+  let timeOfDay = TimeOfDay hour minute (fromIntegral second)
+  let localTime = LocalTime date timeOfDay
   pure
     Header
-      { gameId = handID_,
+      { gameId = handId,
         gameTy = fromMaybe Cash zoneMay,
         time = localTime
       }
@@ -91,41 +90,40 @@ pActionValue =
       ((Fold <$) . choice . fmap (string . ("Folds" <>)))
         [" (timeout)", " (disconnect)", " (auth)", ""]
     pComplexFold =
-      Fold <$ choice [string "Folds & shows " >> brackets (manyCardsP sc)]
+      Fold <$ choice ["Folds & shows " >> brackets (manyCardsP sc)]
     pCheck :: Parser (BetAction SomeBetSize)
     pCheck =
       Check
         <$ (choice . fmap (string . ("Checks" <>)))
           [" (timeout)", " (disconnect)", ""]
-    pCall = Call <$> (string "Calls " *> pAmount)
-    pRaise = uncurry Raise <$> (string "Raises " >> pAmountFromTo)
-    pBet = Bet <$> (string "Bets " *> pAmount)
+    pCall = Call <$> ("Calls " *> pAmount)
+    pRaise = uncurry Raise <$> ("Raises " >> pAmountFromTo)
+    pBet = Bet <$> ("Bets " *> pAmount)
     pAllInRaise =
-      uncurry AllInRaise <$> (string "All-in(raise) " >> pAmountFromTo)
-    pAllIn = AllIn <$> (string "All-in " *> pAmount)
-    pAmountFromTo = liftM2 (,) pAmount (string "to " *> pAmount)
+      uncurry AllInRaise <$> ("All-in(raise) " >> pAmountFromTo)
+    pAllIn = AllIn <$> ("All-in " *> pAmount)
+    pAmountFromTo = liftM2 (,) pAmount ("to " *> pAmount)
 
 -- pDealer matches dealer announcements and exhibits how awful Bovada's format is
 pDealer :: Parser ()
-pDealer = try pSetDealerPosition <|> symbol_ "Set dealer"
+pDealer = try pSetDealerPosition <|> "Set dealer" *> eol_
   where
     pSetDealerPosition = do
-      string "Dealer " >> optional_ (string " [ME] ")
+      "Dealer " >> optional_ " [ME] "
       void $ pSetDealerTxt *> brackets integer
-    pSetDealerTxt = string ": Set dealer " <|> string ": Set deale  r "
+    pSetDealerTxt = ": Set dealer " <|> ": Set deale  r "
 
 pSmallBlind :: Parser (Maybe (TableAction SomeBetSize))
 pSmallBlind = label "Small blind post" . optional $ do
-  p <- pSmallBlindPosition <* optional_ (string "[ME] ")
-  string ": Small Blind " >> mkPost p <$> pAmount
+  p <- pSmallBlindPosition <* optional_ "[ME] "
+  ": Small Blind " >> mkPost p <$> pAmount
   where
     pSmallBlindPosition = SB <$ symbol "Small Blind" <|> BU <$ symbol "Dealer"
     mkPost p = KnownPlayer p . Post
 
 pBigBlind :: Parser (TableAction SomeBetSize, SomeBetSize)
 pBigBlind = label "Big blind post" $ do
-  string "Big Blind " >> optional_ (string " [ME] ")
-  string_ ": Big blind "
+  "Big Blind " >> optional_ " [ME] " >> ": Big blind "
   bb <- pAmount
   pure (mkBBPost bb, bb)
   where
@@ -133,19 +131,19 @@ pBigBlind = label "Big blind post" $ do
 
 pFlop :: Parser (Action t)
 pFlop = do
-  string_ "*** FLOP *** "
+  "*** FLOP *** "
   [c1, c2, c3] <- brackets (countCard 3 sc)
   pure . MkDealerAction $ FlopDeal c1 c2 c3
 
 turnStreetP :: Parser (Action t)
 turnStreetP = do
-  string_ "*** TURN *** "
+  "*** TURN *** "
   void $ brackets (countCard 3 sc)
   MkDealerAction . TurnDeal <$> brackets pCard
 
 riverStreetP :: Parser (Action t)
 riverStreetP = do
-  string_ "*** RIVER *** "
+  "*** RIVER *** "
   void $ brackets (countCard 4 sc)
   MkDealerAction . RiverDeal <$> brackets pCard
 
@@ -157,19 +155,19 @@ pHoldingsMap = label "Card deal" $ do
   where
     pDeal = do
       (p, _) <- pPosition
-      string_ ": Card dealt to a spot "
+      ": Card dealt to a spot "
       h <- brackets $ liftM2 unsafeHole (lexeme pCard) pCard
       pure (p, h)
 
 pStack :: Parser (Int, Position, SomeBetSize, IsHero)
 pStack = do
-  seat <- string "Seat " *> decimal <* colon
+  seat <- "Seat " *> decimal <* colon
   (pos, hero) <- pPosition
-  stack <- lexeme $ parens (pAmount <* string "in chips")
+  stack <- lexeme $ parens (pAmount <* "in chips")
   pure (seat, pos, stack, hero)
 
 pSummary :: Parser ()
-pSummary = string_ "*** SUMMARY ***"
+pSummary = void "*** SUMMARY ***"
 
 -- TODO many calls to UnknownPlayer are incorrect here. We may be able to get more position information
 pTableAction :: Parser (TableAction SomeBetSize) -- TableAction
@@ -200,35 +198,35 @@ pTableAction =
             ]
       pure $ KnownPlayer pos tableActionVal
     pShowdown =
-      UnknownShowdown <$ maybePositioned_ (string "Showdown(High Card)")
-    pSeatStand = SeatStand <$ maybePositioned_ (string "Seat stand")
+      UnknownShowdown <$ maybePositioned_ "Showdown(High Card)"
+    pSeatStand = SeatStand <$ maybePositioned_ "Seat stand"
     pSimpleUnknown =
       try pTableLeaveOrEnter <|> try pSeatUpdate
         <|> choice
-          [Enter <$ string "Enter(Auto)", Leave <$ "Leave(Auto)"]
+          [Enter <$ "Enter(Auto)", Leave <$ "Leave(Auto)"]
 
     pReturnUncalled =
-      Return <$> (string "Return uncalled portion of bet " >> pAmount)
+      Return <$> ("Return uncalled portion of bet " >> pAmount)
     pResult =
       Result
-        <$> ( choice [string "Hand result-Side pot ", string "Hand result "]
+        <$> ( choice ["Hand result-Side pot ", "Hand result "]
                 *> pAmount
             )
     pMuck = do
       showdownStr <-
-        choice . fmap string $ ["Mucks ", "Does not show ", "Showdown "]
+        choice ["Mucks ", "Does not show ", "Showdown "]
       cards <- lexeme (brackets (manyCardsP sc))
       (sc <* (lexeme . parens . many) (lexeme letterChar))
         <|> void (many printChar)
       pure $ Showdown cards showdownStr
     pLeave =
-      (Leave <$) . choice . fmap string $ ["Leave(Auto)", "Table leave user"]
+      Leave <$ choice ["Leave(Auto)", "Table leave user"]
     pEnter =
-      (Enter <$) . choice . fmap string $ ["Enter(Auto)", "Table enter user"]
-    pRejoin = Rejoin <$ string "Seat re-join"
-    pDeposit = Deposit <$> (string "Table deposit " *> pAmount)
-    pSitDown = SitDown <$ string "Seat sit down"
-    pSitOut = SitOut <$ string "Seat sit out"
+      Enter <$ choice ["Enter(Auto)", "Table enter user"]
+    pRejoin = Rejoin <$ "Seat re-join"
+    pDeposit = Deposit <$> ("Table deposit " *> pAmount)
+    pSitDown = SitDown <$ "Seat sit down"
+    pSitOut = SitOut <$ "Seat sit out"
 
 pTableLeaveOrEnter :: Parser (TableActionValue t)
 pTableLeaveOrEnter =
@@ -241,8 +239,8 @@ pPost = do
   (p, _) <- pPosition <* colon
   tableActVal <-
     choice
-      [ PostDead <$> (string "Posts dead chip " >> pAmount),
-        PostDead <$> ((string "Posts chip " <|> string "Posts ") *> pAmount)
+      [ PostDead <$> ("Posts dead chip " >> pAmount),
+        PostDead <$> (("Posts chip " <|> "Posts ") *> pAmount)
       ]
   pure $ KnownPlayer p tableActVal
 
@@ -274,17 +272,15 @@ getPlayers stacks holdings =
             (Seat seat_)
             ( Seat seat_,
               pos_,
-              Player -- _name           = Just "test"
-              -- , _playerPosition = Just pos_
-                { _playerHolding = M.lookup pos_ holdings,
-                  _playerStack = stack_
+              Player
+                { _holding = M.lookup pos_ holdings,
+                  _stack = Stack stack_
                 }
-                -- , _seat           = MkSeat seat_
             )
    in players
 
 street :: Parser (Action SomeBetSize) -> Parser [Action SomeBetSize]
-street streetHeader = lexeme $ liftM2 (:) streetHeader (many $ try pAction)
+street streetHeader = liftM2 (:) streetHeader (many $ try pAction)
 
 getSeatMap :: Map Seat (Seat, Maybe Position, Player t) -> Map Position Seat
 getSeatMap players =
@@ -315,7 +311,7 @@ pSeatUpdate =
     ]
 
 pTableDeposit :: Parser (TableActionValue SomeBetSize)
-pTableDeposit = Deposit <$> (string "Table deposit " >> pAmount)
+pTableDeposit = Deposit <$> ("Table deposit " >> pAmount)
 
 pTableOrSeatLines :: Parser ()
 pTableOrSeatLines =

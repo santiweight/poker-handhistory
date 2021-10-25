@@ -7,8 +7,8 @@ import Data.Time
 import Data.Map.Strict (Map)
 
 data PlayerAction t = PlayerAction
-  { position :: !Position
-  , action   :: !(BetAction t)
+  { _position :: !Position
+  , _action   :: !(BetAction t)
   }
   deriving (Read, Show, Eq, Ord, Functor)
 
@@ -51,8 +51,8 @@ data GameType = Zone | Cash
   deriving (Show, Eq, Ord, Read, Enum, Generic)
 
 data Player t = Player
-  { _playerHolding :: !(Maybe Hole)
-  , _playerStack         :: !t -- TODO use Stack
+  { _holding :: !(Maybe Hole)
+  , _stack         :: !(Stack t) -- TODO use Stack
   }
   deriving (Show, Eq, Ord, Generic, Functor)
 

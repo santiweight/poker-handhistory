@@ -30,7 +30,7 @@ string_ :: MonadParsec Void Text m => Text -> m ()
 string_ = void . string
 
 integer :: MonadParsec Void Text m => m Int
-integer = lexeme L.decimal <?> "integer"
+integer = L.decimal <?> "integer"
 
 rational :: MonadParsec Void Text m => m Rational
 rational = toRational <$> L.scientific <?> "rational"
@@ -59,12 +59,13 @@ angles = between (symbol "<") (symbol ">")
 brackets = between (symbol "[") (symbol "]")
 singleQuotes = between (symbol "'") (symbol "'")
 
-semicolon, comma, colon, dot, fwdSlash :: MonadParsec Void Text m => m Text
+semicolon, comma, colon, dot, fwdSlash, dash :: MonadParsec Void Text m => m Text
 semicolon = symbol ";"
 comma = symbol ","
 colon = symbol ":"
 dot = symbol "."
 fwdSlash = symbol "/"
+dash = string "-"
 
 pCurrency :: MonadParsec Void Text m => m SomeCurr
 pCurrency =

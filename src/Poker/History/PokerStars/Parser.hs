@@ -1,6 +1,7 @@
 {-# LANGUAGE FlexibleInstances #-}
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE UndecidableInstances #-}
+{-# LANGUAGE DuplicateRecordFields #-}
 {-# LANGUAGE ViewPatterns #-}
 {-# OPTIONS_GHC -Wno-unticked-promoted-constructors #-}
 
@@ -266,7 +267,7 @@ getPlayers seatMap stackMap nameMap =
                       Map.lookup
                         pos
                         (Map.fromList . fmap swap . Map.toList $ nameMap),
-                  _playerStack = fromJust $ Map.lookup seat_ stackMap
+                  _stack = fromJust $ Map.lookup seat_ stackMap
                 }
             )
    in players

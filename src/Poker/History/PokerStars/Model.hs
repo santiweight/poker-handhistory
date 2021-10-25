@@ -50,7 +50,7 @@ data GameType = Zoom | Cash
 
 data Player t = Player
   { _name  :: Text
-  , _playerStack :: !t -- TODO use Stack
+  , _stack :: !t -- TODO use Stack
   }
   deriving (Show, Eq, Ord, Generic, Functor)
 

@@ -68,8 +68,8 @@ handHeaderP = do
   optional_ $ "TBL#" *> integer <* " "
   "HOLDEM" >> optional "ZonePoker" >> " No Limit - "
   let tuple3Sep pBetween p = liftM3 (,,) (p <* pBetween) (p <* pBetween) p
-  (year, month, day) <- tuple3Sep "-" integer <* " "
-  (hour, minute, second) <- tuple3Sep ":" integer <* eol
+  (year, month, day) <- tuple3Sep dash integer <* " "
+  (hour, minute, second) <- tuple3Sep colon integer <* eol
   let date = fromGregorian (fromIntegral year) month day
   let timeOfDay = TimeOfDay hour minute (fromIntegral second)
   let localTime = LocalTime date timeOfDay
@@ -156,14 +156,14 @@ pHoldingsMap = label "Card deal" $ do
     pDeal = do
       (p, _) <- pPosition
       ": Card dealt to a spot "
-      h <- brackets $ liftM2 unsafeHole (lexeme pCard) pCard
+      h <- brackets $ liftM2 unsafeHole (pCard <* spaceChar) pCard
       pure (p, h)
 
 pStack :: Parser (Int, Position, SomeBetSize, IsHero)
 pStack = do
   seat <- "Seat " *> decimal <* colon
   (pos, hero) <- pPosition
-  stack <- lexeme $ parens (pAmount <* "in chips")
+  stack <- parens (pAmount <* "in chips")
   pure (seat, pos, stack, hero)
 
 pSummary :: Parser ()

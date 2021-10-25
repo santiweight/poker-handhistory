@@ -51,8 +51,8 @@ data GameType = Zone | Cash
   deriving (Show, Eq, Ord, Read, Enum, Generic)
 
 data Player t = Player
-  { _playerHolding :: !(Maybe Hand)
-  , _stack         :: !t -- TODO use Stack
+  { _playerHolding :: !(Maybe Hole)
+  , _playerStack         :: !t -- TODO use Stack
   }
   deriving (Show, Eq, Ord, Generic, Functor)
 

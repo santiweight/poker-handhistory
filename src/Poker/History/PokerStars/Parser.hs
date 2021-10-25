@@ -163,7 +163,7 @@ riverStreetP = do
   void $ brackets (countCard 4 sc)
   MkDealerAction . RiverDeal <$> brackets pCard
 
-pHoldingsMap :: PosParser m => m (DealerAction, Map Position Hand)
+pHoldingsMap :: PosParser m => m (DealerAction, Map Position Hole)
 pHoldingsMap = label "Card deal" $ do
   line_ $ string "*** HOLE CARDS ***"
   holdingMap <- M.fromList <$> many (try pDeal)
@@ -173,7 +173,7 @@ pHoldingsMap = label "Card deal" $ do
       liftM2
         (,)
         (string "Dealt to " *> pPosition)
-        (brackets $ liftM2 unsafeMkHand (pCard <* space) pCard)
+        (brackets $ liftM2 unsafeHole (pCard <* space) pCard)
 
 pStack :: MonadParsec Void Text m => m (Int, String, SomeBetSize)
 pStack = try $ do
@@ -266,7 +266,7 @@ getPlayers seatMap stackMap nameMap =
                       Map.lookup
                         pos
                         (Map.fromList . fmap swap . Map.toList $ nameMap),
-                  _stack = fromJust $ Map.lookup seat_ stackMap
+                  _playerStack = fromJust $ Map.lookup seat_ stackMap
                 }
             )
    in players
@@ -362,7 +362,7 @@ pHand = do
         Map.fromList $
           zip
             (take (length allSeats) . dropWhile (/= btnSeatNum) $ cycle allSeats)
-            (dropWhile (/= BU) $ cycle (if length allSeats == 2 then [BU, BB] else allPositions))
+            (dropWhile (/= BU) $ cycle (if length allSeats == 2 then [BU, BB] else allPossiblePositions))
   let nameMap :: Map Text Position =
         nameToSeat
           & Map.mapWithKey

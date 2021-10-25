@@ -75,7 +75,7 @@ pCurrency =
     _ -> empty <?> "currency"
 
 pCard :: MonadParsec Void Text m => m Card
-pCard = parsePrettyP
+pCard = maybe empty pure . cardFromShortTxt =<< takeP (Just "Card Token") 2
 
 eol_ :: MonadParsec e Text m => m ()
 eol_ = void eol
